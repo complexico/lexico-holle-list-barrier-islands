@@ -1,0 +1,3 @@
+# Notes on processing
+
+- Check in the SFM file if the form includes note tag (<...>)
