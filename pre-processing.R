@@ -4,6 +4,7 @@ library(readxl)
 # list the file
 files <- dir(pattern = ".+\\.txt|xlsx", recursive = TRUE)
 files
+write_lines(files, "files_list.txt")
 
 # Nias 1905 ====
 nias1905note <- files |> 
@@ -424,6 +425,9 @@ salangsigule_main <- salangsigule_a_tb |>
 
 
 # Mentawai =====
+mentawaifiles_all <- files |> 
+  str_subset("Mentawai")
+
 mentawaifiles <- files |> 
   str_subset("Mentawai_Pagai") |> 
   str_subset("\\.txt$")
@@ -432,6 +436,25 @@ mentawai_xlsx <- files |>
   str_subset("Mentawai_Pagai") |> 
   str_subset("\\.xlsx$")
 
+## Handling the .xlsx submission =====
+mentawai_b_xlsx <- read_xlsx(mentawai_xlsx) |> 
+  mutate(ID = str_replace_all(ID, "\\.[0]+$", "")) |> 
+  rename(lx = WORD,
+         de = ENGLISH,
+         dv = INDONESIA,
+         ps = PART_OF_SPEECH,
+         nt = NOTE_ID) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(nt = as.character(nt),
+         nt = replace_na(nt, ""),
+         ID = str_replace_all(ID, "\\s(?=\\-)", ""),
+         ID = str_replace_all(ID, "(?<=\\-)\\s", "")) |> 
+  mutate(lx = str_replace(lx, "' wo '", "'wo'")) |> 
+  mutate(ps = str_to_sentence(ps)) |> 
+  select(ID, lx, nt, ps, de, dv)
+
+## Handling the .txt submission =====
+
 mentawai <- map(mentawaifiles, read_lines) |> 
   unlist()
 
@@ -439,7 +462,39 @@ mentawai_notes <- files |>
   str_subset("Mentawai\\-notes\\-and\\-additional") |> 
   read_xlsx() |> 
   rename(nt = NOTE_ID) |> 
-  mutate(nt = as.character(nt))
+  mutate(nt = as.character(nt)) |> 
+  mutate(nt_cats = "nt",
+         nt_cats = if_else(`WORD/EXPRESSION` %in% c("lakopa", "njoang lêleu", "njoang", "terengangang"),
+                           "additional_data",
+                           nt_cats))
+mentawai_additional_data <- mentawai_notes |> 
+  filter(nt_cats == "additional_data") |> 
+  select(-nt_cats) |> 
+  rename(lx = `WORD/EXPRESSION`,
+         de = ENGLISH,
+         dv = INDONESIAN,
+         ps = PART_OF_SPEECH) |> 
+  mutate(dv = if_else(de == "manggis",
+                      de,
+                      dv),
+         dv = if_else(de == "scorpion",
+                      "kalajengking",
+                      dv),
+         dv = if_else(de == "asthma",
+                      "asma",
+                      dv),
+         dv = if_else(de == "cricket",
+                      "jangkrik",
+                      dv),
+         de = if_else(de == "manggis",
+                      "mangosteen",
+                      de)) |> 
+  mutate(ps = "Noun",
+         ID = str_c("add_", nt, sep = "")) |> 
+  select(-nt)
+mentawai_notes <- mentawai_notes |> 
+  filter(nt_cats == "nt") |> 
+  select(-nt_cats)
 
 mentawai_notes <- mentawai_notes |> 
   mutate(across(where(is.logical), ~as.character(.))) |> 
@@ -496,3 +551,74 @@ mentawai_a_tb |> select(where(~any(grepl("^lx", x = .))))
 # mc1
 mentawai_a_tb <- mentawai_a_tb |> 
   mutate(lx = if_else(str_detect(mc1, "^lx"), mc1, NA))
+
+### in which column "note" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^nt", x = .))))
+# A tibble: 512 × 2
+# mc2       mc3    
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(nt = if_else(str_detect(mc2, "^nt"), mc2, NA),
+         nt = if_else(str_detect(mc3, "^nt") & is.na(nt), mc3, nt))
+
+### in which column "ps" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^ps", x = .))))
+# A tibble: 512 × 3
+# mc2       mc3     mc4 
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(ps = if_else(str_detect(mc2, "^ps"), mc2, NA),
+         ps = if_else(str_detect(mc3, "^ps") & is.na(ps), mc3, ps),
+         ps = if_else(str_detect(mc4, "\\\\ps") & is.na(ps), str_extract(mc4, "(?<=\\\\)ps[^*]+?(?=[*]{3}\\\\de)"), ps))
+
+### in which column "de" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^de", x = .))))
+# # A tibble: 512 × 3
+# mc3     mc4                  mc5   
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(de = if_else(str_detect(mc3, "^de"), mc3, NA),
+         de = if_else(str_detect(mc4, "^de") & is.na(de), mc4, de),
+         de = if_else(str_detect(mc5, "^de") & is.na(de), mc5, de))
+
+### in which column "dv" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^dv", x = .))))
+# A tibble: 512 × 3
+# mc4                    mc5              mc6      
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(dv = if_else(str_detect(mc4, "^dv"), mc4, NA),
+         dv = if_else(str_detect(mc5, "^dv") & is.na(dv), mc5, dv),
+         dv = if_else(str_detect(mc6, "^dv") & is.na(dv), mc6, dv))
+
+### in which column "dt" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^dt", x = .))))
+# A tibble: 512 × 5
+# mc1     mc5                mc6            mc7  
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(dt = if_else(str_detect(mc1, "^dt"), mc1, NA),
+         # dt = if_else(str_detect(mc3, "^dt") & is.na(dt), mc3, dt),
+         dt = if_else(str_detect(mc5, "^dt") & is.na(dt), mc5, dt),
+         dt = if_else(str_detect(mc6, "^dt") & is.na(dt), mc6, dt),
+         dt = if_else(str_detect(mc7, "^dt") & is.na(dt), mc7, dt))
+
+### in which column "hm" appear? =====
+mentawai_a_tb |> select(where(~any(grepl("^hm", x = .))))
+# A tibble: 512 × 5
+# mc2 
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(hm = if_else(str_detect(mc2, "^hm"), mc2, NA))
+
+#### cleaning up =====
+mentawai_a_tb <- mentawai_a_tb |> 
+  select(!matches("^mc")) |> 
+  mutate(across(where(is.character), ~str_replace_all(., "^[^ ]+?\\s", ""))) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  ### remove the <...> in note ID
+  mutate(nt = str_replace_all(nt, "(\\<|\\>)", ""))
+
+##### join the .sfm data and the .xlsx data, and the Additional data =====
+mentawai_a_tb <- mentawai_a_tb |> 
+  bind_rows(mentawai_b_xlsx) |> 
+  bind_rows(mentawai_additional_data) |> 
+  mutate(across(where(is.character), ~replace_na(., "")))
+
+##### add note types/categories ====
+mentawai_a_tb <- mentawai_a_tb |> 
+  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 235", "the Mentawai (Sipora & Pagai) list"))
