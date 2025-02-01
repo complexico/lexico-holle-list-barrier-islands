@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Group Work in the Lexicography class for the Holle List of
+  the Barrier Islands Languages of Indonesia
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: >-
+  https://github.com/complexico/lexico-holle-list-barrier-islands
+abstract: >-
+  The repository contains the output of a student-group
+  project in the Lexicology and Lexicography class (taught
+  by Gede Primahadi W. Rajeg) concerning the creation of the
+  Holle List of the Barrier Islands Languages to continue
+  work (and to be integrated) in the main repository
+  (https://github.com/complexico/holle-list-barrier-islands).
+  The repository also tracks codes used to pre-process these
+  group-project outputs.
+keywords:
+  - Holle List
+  - Barrier Islands Languages
+  - Legacy Materials
+  - Lexicography
+  - Word List
+  - Digital Humanities
+  - Indonesian Languages
+  - Language Documentation
+license: CC-BY-NC-SA-4.0
+date-released: '2025-02-02'
