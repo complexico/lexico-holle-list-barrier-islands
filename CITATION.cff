@@ -14,12 +14,16 @@ authors:
     family-names: Rajeg
     affiliation: Udayana University
     orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: I Wayan
+    family-names: Arka
+    affiliation: Australian National University & Udayana University
+    orcid: 'https://orcid.org/0000-0002-2819-6186'
 repository-code: >-
   https://github.com/complexico/lexico-holle-list-barrier-islands
 abstract: >-
   The repository contains the output of a student-group
   project in the Lexicology and Lexicography class (taught
-  by Gede Primahadi W. Rajeg) concerning the creation of the
+  by Gede Primahadi W. Rajeg & I Wayan Arka) concerning the creation of the
   Holle List of the Barrier Islands Languages to continue
   work (and to be integrated) in the main repository
   (https://github.com/complexico/holle-list-barrier-islands).
