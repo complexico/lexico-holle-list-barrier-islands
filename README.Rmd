@@ -1,0 +1,25 @@
+---
+output: github_document
+title: "Group Work in the Lexicography Class for the Holle List of the Barrier Islands Languages of Indonesia"
+author: "Gede Primahadi W. Rajeg & I Wayan Arka"
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+## How to cite
+
+*forthcoming*
+
+## Overview
+
+*forthcoming*
