@@ -1,0 +1,128 @@
+WORD/EXPRESSION	NOTE_ID	ENGLISH	TAPAH	LÊKON	SIMALUR	INDONESIAN
+djambé	1	whiskers				
+oepih	2	female				
+	3	called by the proper name				
+matoe-a goe abeleû	4	father-in-law				
+matoe-a goe alélé	4	mother-in-law				
+êkoe	5	father				
+indeu	5	mother				
+"toemoedò, Eu-ah, kakah, adiq"	6					
+gêsing	7	child				
+"inalan, siata-a"	8	dried fish				
+	9	to grind between stones				
+boelêm aiteu	10	dark grey				
+boelêm afoe-i	10	white				
+	11	a black kind of monkey				
+teuniné	12	sandfly				
+lanai	13	lobster				
+	14	same as the names of the Muhammedan months				
+géló-ah	15	(large)				
+liang	15	(small)				
+andeufa	16			depah		
+angêló	16		angoeroeng			
+satampòh	16		satampoh			
+ambala-i	16	the length of one foot				
+a danga	16	1 finger-width				
+sa-sioe : ai-oe	16	distance from the tip of the largest finger to the elbow				
+4 ai-oe is acheuteu	16					
+12 cheuteu is sakajoe	16					
+alè is the bamboo	17	for foodstuffs				
+1 bêlah is _ êkan	17					
+4 bêlan is 16 alè	17					
+anali is 16 alè	17					
+10 nali are achoena	17					
+10 hoena is called foeloe hoena	17					
+biloe	18	large ones				
+nofoe	18	small ones				
+	19	(more accurately : until)				
+mé-a	20	people				
+ala	20	animals				
+amba	20	objects				
+daloea	21	people				
+doea	21	animals				
+doemba	21	objects				
+dateuloe	22	people				
+teuloe	22	animals				
+teungafa	22	objects				
+da eufa	23	people				
+eufa nga écha	23	animals				
+eufamba	23	objects				
+dalima	24	people				
+lima nga echa	24	animals				
+limamba	24	objects				
+da euneu (êneu)	25	people				
+òneu nga echa	25	animals				
+euneu ngafa	25	objects				
+dafitoe	26	people				
+fitoe nga echa	26	animals				
+fitoe ngafa	26	objects				
+da òloe	27	people				
+òloe nga écha	27	animals				
+òloe ngafa	27	objects				
+da siwa	28	people				
+sioe-wa nga eche	28	animals				
+siwamba ngafa	28	objects				
+da foeloe	29	people				
+hoeloe nga écha	29	animals				
+foeloe ngafa	29	objects				
+félé(fèlè)ala	30	people				
+fèlè ala nga écha	30	animals				
+félé ala	30	objects				
+félé doea	31	people				
+ félé doea nga écha	31	animals				
+félé ala	31	objects				
+félé deuloe	32	people				
+félé deuloe nga écha	32	animals				
+félé deulo	32	objects				
+félé òloe	33	people				
+félé òloe nga écha	33	animals				
+félé oloe	33	objects				
+félé siwa	34	people				
+félé siwa nga écha	34	animals				
+félé siwa	34	objects				
+dòfoeloe	35	people				
+dofoeloe nga écha	35	animals				
+dòfoeloe	35	objects				
+teuloe nga foeloe	36	people				
+têloe nga foeloe	36	animals				
+teuloe nga foeloe	36	objects				
+eufa foeloe	37	people				
+eufa foeloe	37	animals				
+eufa foeloe	37	objects				
+lima foeloe	38	people				
+lima foeloe	38	animals				
+lima foeloe	38	objects				
+euneu nga foeloe	39	people				
+euneu nga foeloe	39	animals				
+euneu nga foeloe	39	objects				
+oetoe	40	people				
+oetoe nga echa	40	animals				
+oetoe	40	objects				
+lífoe	41	people				
+lífoe	41	animals				
+lífoe	41	objects				
+salaksò	42	people				
+salaksò	42	animals				
+salaksò	42	objects				
+e.g. nòhígoe	43					
+"sênajan, sêlassa, raboeh, hami/chamè, dima-at, saptoe, ahad"	44					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
