@@ -291,7 +291,9 @@ salangsigule_notes <- files |>
   mutate(nt = as.character(nt))
 salangsigule_notes <- salangsigule_notes |> 
   mutate(across(where(is.logical), ~as.character(.))) |> 
-  mutate(across(where(is.character), ~replace_na(., "")))
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(INDONESIAN = replace(INDONESIAN, nt == "16" & `WORD/EXPRESSION` == "andeufa", "1 depah"),
+         LÊKON = replace(LÊKON, nt == "16" & `WORD/EXPRESSION` == "andeufa", ""))
 
 ### check the marker present ====
 salangsigule |> 
@@ -408,7 +410,9 @@ salangsigule_a_tb <- salangsigule_a_tb |>
   mutate(across(where(is.character), ~str_replace_all(., "^[^ ]+?\\s", ""))) |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
   ### remove the <...> in note ID
-  mutate(nt = str_replace_all(nt, "(\\<|\\>)", ""))
+  mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) |> 
+  ### remove 122/123 as it does not exist in the original list
+  filter(ID != "122/123")
 
 ##### add note types/categories ====
 salangsigule_a_tb <- salangsigule_a_tb |> 
@@ -622,3 +626,91 @@ mentawai_a_tb <- mentawai_a_tb |>
 ##### add note types/categories ====
 mentawai_a_tb <- mentawai_a_tb |> 
   mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 235", "the Mentawai (Sipora & Pagai) list"))
+
+### COMBINE main table with the notes =====
+mentawai_main <- mentawai_a_tb |> 
+  left_join(mentawai_notes) |> # the warning of many-to-many relationship is OK
+  mutate(across(where(is.character), ~replace_na(., "")))
+
+
+
+
+
+
+# Seumalur =====
+semalurfiles_all <- files |> 
+  str_subset("SEUMALUR")
+
+semalurfiles <- files |> 
+  str_subset("SEUMALUR") |> 
+  str_subset("\\.txt$")
+
+semalur_xlsx <- files |> 
+  str_subset("SEUMALUR") |> 
+  str_subset("Seumalur\\.xlsx$")
+
+semalur_notes_file <- files |> 
+  str_subset("SEUMALUR") |> 
+  str_subset("SEUMALUR-notes.*\\.xlsx$")
+
+## Handling the .xlsx submission =====
+semalur_b_xlsx <- semalur_xlsx |> 
+  map(read_xlsx) |> 
+  map(select, 1:6) |> 
+  list_rbind() |> 
+  mutate(ID = str_replace_all(ID, "\\.[0]+$", "")) |>
+  rename(lx = WORD,
+         de = ENGLISH,
+         dv = INDONESIA,
+         ps = PART_OF_SPEECH,
+         nt = NOTE_ID) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(nt = as.character(nt),
+         nt = replace_na(nt, "")
+         ) |> 
+  # mutate(lx = str_replace(lx, "' wo '", "'wo'")) |> 
+  mutate(ps = str_to_sentence(ps)) |> 
+  select(ID, lx, nt, ps, de, dv)
+
+## Handling the .txt submission =====
+
+semalur <- map(semalurfiles, read_lines) |> 
+  unlist()
+
+semalur_additional_data <- semalur_notes_file |> 
+  read_xlsx(sheet = "ADDITIONAL DATA") |> 
+  rename(lx = WORD,
+         de = ENGLISH,
+         dv = INDONESIAN,
+         ps = `PART OF SPEECH`,
+         nt = NOTE_ID)
+
+semalur_notes <- semalur_notes_file |> 
+  read_xlsx(sheet = "NOTES") |> 
+  rename(nt = NOTE_ID) |> 
+  mutate(nt = as.character(nt))
+
+semalur_notes <- semalur_notes |> 
+  mutate(across(where(is.logical), ~as.character(.))) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(REMARKS = replace(REMARKS, ENGLISH == "L language", "L"),
+         ENGLISH = replace(ENGLISH, ENGLISH == "L language", "language"),
+         REMARKS = if_else(str_detect(ENGLISH, "^[A-Z]{1,2}\\s(?=to\\s)"),
+                           str_replace(ENGLISH, "\\sto .*", ""),
+                           REMARKS),
+         ENGLISH = if_else(str_detect(ENGLISH, "^[A-Z]{1,2}\\s(?=to\\s)"),
+                           str_replace(ENGLISH, "^(OS|L)\\s", ""),
+                           ENGLISH),
+         REMARKS = if_else(str_detect(ENGLISH, "\\b(L|OS)\\b"),
+                           ENGLISH,
+                           REMARKS),
+         ENGLISH = if_else(str_detect(ENGLISH, "\\b(L|OS)\\b"),
+                           "",
+                           ENGLISH),
+         REMARKS = if_else(str_detect(REMARKS, "\\b(L)\\b"),
+                           str_replace(REMARKS, "\\b(L)\\b", "\\1akun (L)"),
+                           REMARKS),
+         REMARKS = if_else(str_detect(REMARKS, "\\b(OS)\\b"),
+                           str_replace(REMARKS, "\\b(OS)\\b", "East <?> Seumalur (OS)"),
+                           REMARKS)
+         )

@@ -35,4 +35,6 @@ D-grp-03-HolleList-01_28390_assignsubmission_file/D3_Batak Mandailing/Batak Mand
 D-grp-03-HolleList-01_28390_assignsubmission_file/D3_Batak Mandailing/Batak Mandailling_2101541106_Kadek Icha Sesilia/Batak Mandailing 1-400-sfm.txt
 D-grp-03-HolleList-01_28390_assignsubmission_file/D3_Batak Mandailing/Batak Mandailling_2101651118_Ni Kadek Dian Ayu Purnami/Batak Mandailing 801-1200-sfm.txt
 D-grp-03-HolleList-01_28390_assignsubmission_file/D3_Batak Mandailing/Batak-mandailing Notes.xlsx
+files_list.txt
+LICENSE.txt
 notes.txt
