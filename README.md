@@ -25,5 +25,8 @@ Gede Primahadi W. Rajeg & I Wayan Arka
 | Dewani, Ade Galuh Cahya | Nias 1911 | List Number 1-514; Notes Number 1-38 |  |
 | Dabukke, Mary Deliana Esther | Nias 1911 | List Number 515-1021; Notes Number 39-71 |  |
 | Ellena, Natasya R. | Nias 1911 | List Number 1022-1546; Notes Number 72-121 |  |
+| Ramawan, Kadek Gilang | Salang & Sigulè | List Number 1-420; Notes Number 1-35; shared equally for List Number 1304-1486 |  |
+| Mahasari, I Gusti Ayu Mirah | Salang & Sigulè | List Number 421-878; Notes Number 36-70; shared equally for List Number 1304-1486 |  |
+| Nismara, I Pande Putu Kenzie Arvan | Salang & Sigulè | List Number 881-1303; Notes Number 71-107; shared equally for List Number 1304-1486 |  |
 
 … more to come
