@@ -1,6 +1,11 @@
 library(tidyverse)
 library(readxl)
 
+# read the holle list database =====
+holle_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/data/digitised-holle-list-in-stokhof-1980.tsv")
+holle_1904_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/refs/heads/main/data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv")
+holle_1931_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/refs/heads/main/data/digitised-holle-list-in-stokhof-1980-add-1931.tsv")
+
 # list the file
 files <- dir(pattern = ".+\\.txt|xlsx", recursive = TRUE)
 files
@@ -119,7 +124,8 @@ nias1905a_tb <- nias1905a_tb |>
 nias1905a_tb <- nias1905a_tb |> 
   select(!matches("^mc")) |> 
   mutate(across(where(is.character), ~str_replace_all(., "^[^ ]+?\\s", ""))) |> 
-  mutate(across(where(is.character), ~replace_na(., "")))
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(ID = str_replace_all(ID, "\\s\\-\\s", "-"))
 ##### removing note in lx to nt ====
 nias1905a_tb <- nias1905a_tb |> 
   mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"), str_extract(lx, "\\<[0-9]+\\>"), nt),
@@ -137,7 +143,8 @@ nias1905a_tb <- nias1905a_tb |>
 ##### edit punctuation that is originally "-" but turned into "/" =====
 nias1905a_tb <- nias1905a_tb |> 
   mutate(ID = replace(ID, ID == "281/286", "281-286"),
-         ID = replace(ID, ID == "291/294", "291-294"))
+         ID = replace(ID, ID == "291/294", "291-294"),
+         ID = replace(ID, ID == "1236-1237", "1236/1237"))
 
 ###### check the missing note =====
 setdiff(unique(nias1905note_tb$nt), unique(nias1905a_tb$nt[nias1905a_tb$nt != ""]))
@@ -163,7 +170,8 @@ setdiff(unique(nias1905note_tb$nt), unique(nias1905a_tb$nt[nias1905a_tb$nt != ""
 ### COMBINE main table with the notes =====
 nias1905main <- nias1905a_tb |> 
   left_join(nias1905note_tb) |> # the warning of many-to-many relationship is OK
-  mutate(across(where(is.character), ~replace_na(., "")))
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  filter(ID != "")
 # Warning message:
 #   In left_join(nias1905a_tb, nias1905note_tb) :
 #   Detected an unexpected many-to-many relationship between `x` and `y`.
@@ -173,6 +181,8 @@ nias1905main <- nias1905a_tb |>
 # this warning.
 ## The warning above IS EXPECTED!
 
+### CHECK ID in the list with the main holle list =====
+setdiff(nias1905main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
 
 
@@ -306,6 +316,16 @@ setdiff(unique(nias1911_notes$nt), unique(nias1911a_tb$nt[nias1911a_tb$nt != ""]
 nias1911main <- nias1911a_tb |> 
   left_join(nias1911_notes) |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
+
+### CHECK ID in the list with the main holle list =====
+setdiff(nias1911main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# [1] ""          "1080/1081" "1924" 
+## fix the error
+nias1911main <- nias1911main |> 
+  filter(ID != "") |> 
+  mutate(ID = replace(ID, ID == "1924", "1294"),
+         ID = replace(ID, ID == "1080/1081", "1080-1081"))
+setdiff(nias1911main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
 
 
@@ -449,16 +469,52 @@ salangsigule_a_tb <- salangsigule_a_tb |>
   ### remove the <...> in note ID
   mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) |> 
   ### remove 122/123 as it does not exist in the original list
-  filter(ID != "122/123")
-
+  filter(ID != "122/123") |> 
+  ### transferring note ID that appears in "lx" into "nt"
+  mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"),
+                      str_extract(lx, "(?<=\\<)[0-9]+(?=\\>)"),
+                      nt)) |>
+  mutate(lx = if_else(str_detect(lx, "\\<[0-9]+\\>"),
+                      str_replace_all(lx, "\\s\\<[0-9]+\\>", ""),
+                      lx))
+  
 ##### add note types/categories ====
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 249", "the Salang-Sigule list"))
+
+###### check the missing note =====
+setdiff(unique(salangsigule_notes$nt), unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]))
+# [1]       "8"  "9"  "10" "11" "12" 
+#  word ID   541  555  824  854  877
+
+setdiff(unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]), unique(salangsigule_notes$nt))
+# [1] "45" <- this is a mistake; needs to be removed
+
+# add the missing notes
+salangsigule_a_tb <- salangsigule_a_tb |> 
+  mutate(nt = replace(nt, ID == "541", "8"),
+         nt = replace(nt, ID == "555", "9"),
+         nt = replace(nt, ID == "824", "10"),
+         nt = replace(nt, ID == "854", "11"),
+         nt = replace(nt, ID == "877", "12")) |> 
+  filter(nt != "45")
 
 ### COMBINE main table with the notes =====
 salangsigule_main <- salangsigule_a_tb |> 
   left_join(salangsigule_notes) |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
+
+### CHECK ID in the list with the main holle list =====
+setdiff(salangsigule_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# [1] "1072/1074" "1026-2028" ""          "1080/1081" "1104/1104"
+## fix the error
+salangsigule_main <- salangsigule_main |> 
+  filter(ID != "") |> 
+  mutate(ID = replace(ID, ID == "1072/1074", "1072-1074"),
+         ID = replace(ID, ID == "1026-2028", "1026-1028"),
+         ID = replace(ID, ID == "1080/1081", "1080-1081"),
+         ID = replace(ID, ID == "1104/1104", "1104/1105"))
+setdiff(salangsigule_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
 
 
@@ -678,8 +734,27 @@ mentawai_a_tb <- mentawai_a_tb |>
 
 ### COMBINE main table with the notes =====
 mentawai_main <- mentawai_a_tb |> 
-  left_join(mentawai_notes) |> # the warning of many-to-many relationship is OK
+  left_join(mentawai_notes, relationship = "many-to-many") |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
+
+### CHECK ID in the list with the main holle list =====
+setdiff(mentawai_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# [1] ""           "294/296"    "1041 /1042" "1080/1081"  "1106/1007"  "add_1"      "add_2"      "add_3"      "add_4" 
+# the `add_...` is additional data not having ID like the main HL
+# fix the error
+mentawai_main <- mentawai_main |> 
+  mutate(ID = replace(ID, ps == "Noun" & ID == "" & de == "cotton" & dv == "kapas",
+                      "705")) |> 
+  filter(ID != "") |> 
+  mutate(ID = replace(ID, ID == "294/296", "291-294/296"),
+         # comment: 294/296 in the main Holle List is listed as 291-294/296, 
+         # but in the Mentawai list, it is only 294-296, 
+         # so this is not a mistake 
+         # but still being fixed to adjust to match the original main Holle List
+         ID = replace(ID, ID == "1041 /1042", "1041/1042"), 
+         ID = replace(ID, ID == "1080/1081", "1080-1081"),
+         ID = replace(ID, ID == "1106/1007", "1106/1107"))
+setdiff(mentawai_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
 
 
@@ -892,3 +967,15 @@ setdiff(unique(semalur_a_tb$nt[semalur_a_tb$nt != ""]), unique(semalur_notes$nt)
 semalur_a_tb <- semalur_a_tb |> 
   ## add the missing notes into the main table
   mutate(nt = replace(nt, ID == "351", "30"))
+
+### COMBINE main table with the notes =====
+semalur_main <- semalur_a_tb |> 
+  left_join(semalur_notes, relationship = "many-to-many") |> # the warning of many-to-many relationship is OK
+  mutate(across(where(is.character), ~replace_na(., "")))
+
+### CHECK ID in the list with the main holle list =====
+setdiff(semalur_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# many of the differred ID are additional data, which is ignored
+# fix error
+semalur_main <- semalur_main |> 
+  mutate(ID = replace(ID, ID == "1080/1081", "1080-1081"))
