@@ -83,11 +83,11 @@
 \dv tujuh
 \dt 13/Mar/2024
 
-\ID_en 1292
+\ID_en 1202
 \nt <77>
 \ps Verb
-\de to take revenge
-\dv membalas dendam
+\de to speak
+\dv berbicara
 \dt 14/Mar/2024
 
 \lx_skh (m)ataha

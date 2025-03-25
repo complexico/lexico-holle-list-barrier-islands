@@ -51,6 +51,18 @@ nias1905a <- if_else(str_detect(nias1905a, "\\\\sn\\s[1-9]"),
 nias1905a <- if_else(str_detect(nias1905a, "\\\\sn\\s[1-9]"),
         str_replace_all(nias1905a, "__(\\\\sn [2-9])", "; \\1"),
         nias1905a)
+## handle anomaly in this data as the first six IDs are duplicated across the three students
+### they could be remnant of one student's work provide example mode for the other twos who then forgot to delete these models
+nias1905a |> length()
+nias1905a |> unique() |> length()
+nias1905a <- unique(nias1905a)
+### yet still duplicated IDs
+nias1905_still_duplicated_id <- nias1905a |> 
+  str_extract("ID_en \\d+_") |> 
+  table() |> 
+  sort() |> 
+  rev() |> 
+  (\(x) x[x>1])()
 nias1905a_tb <- tibble(mc = nias1905a) |> 
   separate_wider_delim(mc, delim = "__", names_sep = "", too_few = "debug") |> 
   select(-mcmc) |> 
@@ -139,7 +151,7 @@ nias1905a_tb <- nias1905a_tb |>
 
 ##### add note types/categories ====
 nias1905a_tb <- nias1905a_tb |> 
-  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 102", "the Nias list"))
+  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 102", "the Nias 1905 list"))
 ##### split the comma (of multiple items in a cell) into separate rows ====
 nias1905a_tb <- nias1905a_tb |> 
   separate_longer_delim(cols = lx, delim = ", ")
@@ -162,11 +174,13 @@ setdiff(unique(nias1905a_tb$nt[nias1905a_tb$nt != ""]), unique(nias1905note_tb$n
 ##### add missing rows ====
 ## these are rows missed out by the student detected due to the missing note ID checked above
 nias1905a_tb <- nias1905a_tb |> 
-  add_row(tibble_row(ID = "1026-1028", nt = "66", cats = "the Nias list")) |> 
-  add_row(tibble_row(ID = "310/314", nt = "18", cats = "the Nias list")) |> 
-  add_row(tibble_row(ID = "1025", nt = "65", cats = "the Nias list")) |> 
-  add_row(tibble_row(ID = "828", nt = "50", cats = "the Nias list")) |> 
-  add_row(tibble_row(ID = "893", lx = "hambaé, kalimango", nt = "58", ps = "Noun", de = "crab", dv = "kepiting", cats = "the Nias list"))
+  add_row(tibble_row(ID = "1026-1028", nt = "66", cats = "the Nias 1905 list")) |> 
+  add_row(tibble_row(ID = "310/314", nt = "18", cats = "the Nias 1905 list")) |> 
+  add_row(tibble_row(ID = "1025", nt = "65", cats = "the Nias 1905 list")) |> 
+  add_row(tibble_row(ID = "828", nt = "50", cats = "the Nias 1905 list")) |> 
+  add_row(tibble_row(ID = "893", lx = "hambaé, kalimango", nt = "58",
+                     ps = "Noun", de = "crab", dv = "kepiting", 
+                     cats = "the Nias 1905  list"))
 
 setdiff(unique(nias1905note_tb$nt), unique(nias1905a_tb$nt[nias1905a_tb$nt != ""]))
 # note ID 31, 41, and 54 are not in the word list but appear in the NOTES!
@@ -192,7 +206,16 @@ setdiff(nias1905main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$In
 nias1905main <- nias1905main |> 
   left_join(holle_index, by = join_by(ID)) |> 
   arrange(ORDERS) |> 
-  select(-ORDERS)
+  select(-ORDERS) |> 
+  rename(nt_form = `WORD/EXPRESSION`,
+         nt_eng = ENGLISH,
+         nt_idn = INDONESIAN,
+         nt_comment = NOTES,
+         nt_pos = PART_OF_SPEECH,
+         nt_pc = IMAGE)
+
+
+
 
 
 
@@ -229,6 +252,19 @@ nias1911a <- if_else(str_detect(nias1911a, "\\\\sn\\s[1-9]"),
 nias1911a <- if_else(str_detect(nias1911a, "\\\\sn\\s[1-9]"),
                      str_replace_all(nias1911a, "__(\\\\sn [2-9])", "; \\1"),
                      nias1911a)
+## handle anomaly in this data as the first six IDs are duplicated across the three students
+### they could be remnant of one student's work provide example mode for the other twos who then forgot to delete these models
+nias1911a |> length()
+nias1911a |> unique() |> length()
+nias1911a <- unique(nias1911a)
+### yet still duplicated IDs
+nias1911_still_duplicated_id <- nias1911a |> 
+  str_extract("ID_en \\d+_") |> 
+  table() |> 
+  sort() |> 
+  rev() |> 
+  (\(x) x[x>1])()
+
 nias1911a_tb <- tibble(mc = nias1911a) |> 
   separate_wider_delim(mc, delim = "__", names_sep = "", too_few = "debug") |> 
   select(-mcmc) |> 
@@ -306,7 +342,7 @@ nias1911a_tb <- nias1911a_tb |>
 
 ##### add note types/categories ====
 nias1911a_tb <- nias1911a_tb |> 
-  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 249", "the Nias list"))
+  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 249", "the Nias 1911 list"))
 
 ###### check the missing note =====
 setdiff(unique(nias1911_notes$nt), unique(nias1911a_tb$nt[nias1911a_tb$nt != ""]))
@@ -338,7 +374,12 @@ setdiff(nias1911main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$In
 nias1911main <- nias1911main |> 
   left_join(holle_index, by = join_by(ID)) |> 
   arrange(ORDERS) |> 
-  select(-ORDERS)
+  select(-ORDERS) |> 
+  rename(nt_form = `WORD/EXPRESSION`,
+         nt_eng = `ENGLISH`,
+         nt_pc = PICTURE)
+
+
 
 
 
@@ -405,14 +446,14 @@ salangsigule_a_tb <- tibble(mc = salangsigule_a) |>
 ## check the distribution of column pieces
 salangsigule_a_tb |> 
   count(mcmcpieces)
-# A tibble: 5 × 2
+# # A tibble: 5 × 2
 # mcmcpieces     n
 # <int> <int>
 #   1          1     1
 # 2          3     1
-# 3          5    13
-# 4          6   805
-# 5          7     7
+# 3          5    12
+# 4          6   795
+# 5          7     8
 
 ### in which column "ID" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^ID", x = .))))
@@ -506,7 +547,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ###### check the missing note =====
 setdiff(unique(salangsigule_notes$nt), unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]))
-# [1]       "8"  "9"  "10" "11" "12" 
+# [1]       "8"  "9"  "10" "11" "12"   "19" "21" "22" "23" "25" "26" "27" "28" "29" "30"
 #  word ID   541  555  824  854  877
 
 setdiff(unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]), unique(salangsigule_notes$nt))
@@ -552,7 +593,13 @@ setdiff(salangsigule_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_
 salangsigule_main <- salangsigule_main |> 
   left_join(holle_index, by = join_by(ID)) |> 
   arrange(ORDERS) |> 
-  select(-ORDERS)
+  select(-ORDERS) |> 
+  rename(nt_form = `WORD/EXPRESSION`,
+         nt_eng = ENGLISH,
+         nt_idn = INDONESIAN,
+         nt_tapah = TAPAH,
+         nt_lekon = LÊKON,
+         nt_simalur = SIMALUR)
 
 
 
@@ -658,6 +705,23 @@ mentawai_a <- if_else(str_detect(mentawai_a, "\\\\sn\\s[1-9]"),
 mentawai_a <- if_else(str_detect(mentawai_a, "\\\\sn\\s[1-9]"),
                           str_replace_all(mentawai_a, "__(\\\\sn [2-9])", "; \\1"),
                           mentawai_a)
+## handle anomaly in this data as the first six IDs are duplicated across the three students
+### they could be remnant of one student's work provide example mode for the other twos who then forgot to delete these models
+mentawai_a |> length()
+mentawai_a |> unique() |> length()
+mentawai_a <- unique(mentawai_a)
+### yet still duplicated IDs
+mentawai_still_duplicated_id <- mentawai_a |> 
+  str_extract("ID_en \\d+_") |> 
+  table() |> 
+  sort() |> 
+  rev() |> 
+  (\(x) x[x>1])() 
+# ID_en 377_  <- this is OK as in the original; two occurrences of 377
+# 2 
+# RUN THE CODE BELOW TO CHECK!:
+# mentawai_a |> str_subset("ID_en 377_")
+
 mentawai_a_tb <- tibble(mc = mentawai_a) |> 
   separate_wider_delim(mc, delim = "__", names_sep = "", too_few = "debug") |> 
   select(-mcmc) |> 
@@ -795,6 +859,16 @@ mentawai_main <- mentawai_main |>
          ID = replace(ID, ID == "1106/1007", "1106/1107"))
 setdiff(mentawai_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
+### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
+mentawai_main <- mentawai_main |> 
+  left_join(holle_index, by = join_by(ID)) |> 
+  arrange(ORDERS) |> 
+  select(-ORDERS) |> 
+  rename(nt_form = `WORD/EXPRESSION`,
+         nt_eng = ENGLISH,
+         nt_idn = INDONESIAN,
+         nt_pos = PART_OF_SPEECH)
+
 
 
 
@@ -904,6 +978,27 @@ semalur_a <- if_else(str_detect(semalur_a, "\\\\sn\\s[1-9]"),
 semalur_a <- if_else(str_detect(semalur_a, "\\\\sn\\s[1-9]"),
                           str_replace_all(semalur_a, "__(\\\\sn [2-9])", "; \\1"),
                           semalur_a)
+## handle anomaly in this data as the first six IDs are duplicated across the three students
+### they could be remnant of one student's work provide example mode for the other twos who then forgot to delete these models
+semalur_a |> length()
+semalur_a |> unique() |> length()
+semalur_a <- unique(semalur_a)
+### yet still duplicated IDs
+semalur_still_duplicated_id <- semalur_a |> 
+  str_extract("ID_en \\d+_") |> 
+  table() |> 
+  sort() |> 
+  rev() |> 
+  (\(x) x[x>1])() 
+# ID_en 1292_  <- This error has been edited in the original sfm file and tracked with Git
+# 2 
+# > semalur_a |> str_subset("ID_en 1292_")
+# [1] "\\ID_en 1292__\\nt <77>__\\ps Verb__\\de to take revenge__\\dv membalas dendam__\\dt 14/Mar/2024"      
+# [2] "\\lx_skh oevalè__\\ID_en 1292__\\ps Verb__\\de to take revenge__\\dv membalas dendam__\\dt 13/Mar/2024"
+## The first output above is potentially typo in original because
+## the note <77> (about language) does not suit the gloss for 1292 (revenge)
+## potential correct ID is 1202
+
 semalur_a_tb <- tibble(mc = semalur_a) |> 
   separate_wider_delim(mc, delim = "__", names_sep = "", too_few = "debug") |> 
   select(-mcmc) |> 
@@ -1014,7 +1109,21 @@ semalur_main <- semalur_a_tb |>
 
 ### CHECK ID in the list with the main holle list =====
 setdiff(semalur_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
-# many of the differred ID are additional data, which is ignored
+# many of the differrent ID are additional data, which is ignored
 # fix error
 semalur_main <- semalur_main |> 
   mutate(ID = replace(ID, ID == "1080/1081", "1080-1081"))
+
+### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
+semalur_main <- semalur_main |> 
+  left_join(holle_index, by = join_by(ID)) |> 
+  arrange(ORDERS) |> 
+  select(-ORDERS) |> 
+  rename(nt_form = `WORD/EXPRESSION`,
+         nt_eng = ENGLISH,
+         nt_idn = INDONESIAN,
+         nt_pc = IMAGE,
+         nt_comment = REMARKS) |> 
+  mutate(cats = "the Seumalur 1912 list")
+
+
