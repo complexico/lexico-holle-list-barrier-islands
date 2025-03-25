@@ -1,0 +1,1820 @@
+
+\lx_mwv tirit oinan
+\ID_en 967
+\ps Noun
+\de spring, source
+\dv mata air, sumber air
+\dt 13/Mar/2024
+
+\lx_mwv manoea
+\ID_en 903
+\ps Noun
+\de universe
+\dv alam semesta
+\dt 13/Mar/2024
+
+\lx_mwv oema
+\ID_en 844
+\nt <33>
+\ps Noun
+\de bird
+\dv burung
+\dt 13/Mar/2024
+
+\lx_mwv tarimese
+\ID_en 774
+\ps Noun
+\de animal, beast
+\dv binatang
+\dt 12/Mar/2024
+
+\lx_mwv masipeˈaka
+\ID_en 478
+\ps Verb
+\de to extinguish (with water)
+\dv memadamkan api (dengan air)
+\dt 12/Mar/2024
+
+\lx_mwv Taˈanai djambatan, kipa koepetalipo bat oinan neˈneˈ?
+\ID_en 1532
+\de there is no bridge; how can I cross the river?
+\dv tidak ada jembatan; bagaimana saya dapat menyebrangi sungai?
+\dt 17/Mar/2024
+
+\lx_mwv ambangan
+\ID_en 708
+\ps Noun
+\de mango
+\dv mangga
+\dt 12/Mar/2024
+
+\lx_mwv song
+\ID_en 962
+\ps Noun
+\de border, boundary
+\dv batas
+\dt 13/Mar/2024
+
+\lx_mwv boege
+\ID_en 938
+\ps Noun
+\de beach
+\dv pantai
+\dt 13/Mar/2024
+
+\lx_mwv kêkere
+\ID_en 458/459
+\ps Noun
+\de wall (plank wall)
+\dv dinding (papan)
+\dt 12/Mar/2024
+
+\lx_mwv bate
+\ID_en 899
+\ps Noun
+\de iguana
+\dv biawak
+\dt 13/Mar/2024
+
+\lx_mwv toitet
+\ID_en 691-693
+\ps Noun
+\de coconut (tree)
+\dv kelapa (pohon)
+\dt 12/Mar/2024
+
+\lx_mwv agau
+\ID_en 893
+\ps Noun
+\de crab
+\dv kepiting
+\dt 13/Mar/2024
+
+\lx_mwv tanai roesa
+\ID_en 921
+\ps Noun
+\de cloud
+\dv awan
+\dt 13/Mar/2024
+
+\lx_mwv goegoeng
+\ID_en 937
+\ps Noun
+\de bay
+\dv teluk
+\dt 13/Mar/2024
+
+\lx_mwv loina sigoiso
+\ID_en 957
+\nt <43>
+\ps Noun
+\de bush
+\dv belukar
+\dt 13/Mar/2024
+
+\lx_mwv siloegoeˈ
+\ID_en 608
+\ps Noun
+\de sabre
+\dv parang, kelewang
+\dt 12/Mar/2024
+
+\lx_mwv poeroe soeat
+\ID_en 474
+\ps Noun
+\de hearth, fireplace
+\dv dapur, tungku
+\dt 12/Mar/2024
+
+\lx_mwv kole
+\ID_en 682
+\ps Noun
+\de sugarcane
+\dv tebu
+\dt 12/Mar/2024
+
+\lx_mwv loina
+\ID_en 484
+\ps Noun
+\de fire wood
+\dv kayu api
+\dt 12/Mar/2024
+
+\lx_mwv toereoeroe
+\ID_en 966
+\ps Verb
+\de to go downstream
+\dv berlayar ke hilir
+\dt 13/Mar/2024
+
+\lx_mwv sikoinan
+\ID_en 900
+\ps Noun
+\de crocodile
+\dv buaya
+\dt 13/Mar/2024
+
+\lx_mwv koali
+\ID_en 493
+\nt <16>
+\ps Noun
+\de pot (iron)
+\dv kuali (besi), panci (besi)
+\dt 12/Mar/2024
+
+\lx_mwv babaîdjoe
+\ID_en 624
+\ps Noun
+\de sling
+\dv ali-ali
+\dt 12/Mar/2024
+
+\lx_mwv loteˈ
+\ID_en 960
+\ps Noun
+\de mud
+\dv lumpur
+\dt 13/Mar/2024
+
+\lx_mwv poelokat
+\ID_en 499
+\ps Noun
+\de drinking bowl
+\dv tempat minum
+\dt 12/Mar/2024
+
+\lx_mwv paˈabat/paˈaban
+\ID_en 630
+\ps Noun
+\de peace
+\dv damai
+\dt 12/Mar/2024
+
+\ID_en 514
+\nt <17>
+\ps Noun
+\de basket (all sorts of)
+\dv keranjang (bermacam-macam)
+\dt 12/Mar/2024
+
+\lx_mwv soeloe
+\ID_en 906
+\ps Noun
+\de sun
+\dv matahari
+\dt 13/Mar/2024
+
+\lx_mwv soepsoep/tjetjak
+\ID_en 898
+\ps Noun
+\de lizard
+\dv kadal
+\dt 13/Mar/2024
+
+\lx_mwv gobi, laikit
+\ID_en 686
+\ps Noun
+\de species of tuber
+\dv ubi (macam-macam ubi)
+\dt 12/Mar/2024
+
+\lx_mwv eket
+\ID_en 750
+\ps Noun
+\de sap
+\dv air (buah, pohon)
+\dt 12/Mar/2024
+
+\lx_mwv kapoˈ, kepa
+\ID_en 786
+\ps Noun
+\de wing
+\dv sayap
+\dt 12/Mar/2024
+
+\lx_mwv magarak odjoe
+\ID_en 932
+\ps Noun
+\de ebb
+\dv surut
+\dt 13/Mar/2024
+
+\lx_mwv rîmau
+\ID_en 722
+\ps Noun
+\de lemon
+\dv jeruk sitrun
+\dt 12/Mar/2024
+
+\lx_mwv siperakat
+\ID_en 961
+\ps Noun
+\de footstep (footprint)
+\dv bekas tapak kaki, jejak
+\dt 13/Mar/2024
+
+\lx_mwv manâtara lêleu
+\ID_en 737
+\ps Verb
+\de to climb
+\dv memanjat
+\dt 12/Mar/2024
+
+\lx_mwv loga
+\ID_en 845
+\ps Noun
+\de squirrel
+\dv bajing, tupai
+\dt 13/Mar/2024
+
+\lx_mwv pasaggak
+\ID_en 626
+\ps Noun
+\de war
+\dv perang
+\dt 12/Mar/2024
+
+\lx_mwv popoûpou, lambâet
+\ID_en 773
+\ps Noun
+\de Saccharum spontaneu
+\dv gelagah
+\dt 12/Mar/2024
+
+\lx_mwv lagi-lagi
+\ID_en 836
+\ps Noun
+\de swallow
+\dv burung layang-layang
+\dt 13/Mar/2024
+
+\lx_mwv balak
+\ID_en 891
+\ps Noun
+\de worm
+\dv cacing
+\dt 13/Mar/2024
+
+\ID_en 852
+\nt <34>
+\ps Noun
+\de rat
+\dv tikus
+\dt 13/Mar/2024
+
+\lx_mwv maneoe
+\ID_en 525-527
+\ps Verb
+\de to cook
+\dv memasak
+\dt 12/Mar/2024
+
+\lx_mwv bago
+\ID_en 716
+\ps Noun
+\de banana
+\dv pisang
+\dt 12/Mar/2024
+
+\lx_mwv papâkoeroe
+\ID_en 652
+\ps Noun
+\de hoe
+\dv pacul
+\dt 12/Mar/2024
+
+\lx_mwv soeat pooela
+\ID_en 697
+\ps Noun
+\de palm juice (unfermented)
+\dv nira
+\dt 12/Mar/2024
+
+\lx_mwv toenam alito
+\ID_en 485
+\ps Verb
+\de to put on (light)
+\dv menyalakan (sinar)
+\dt 12/Mar/2024
+
+\lx_mwv goêlai
+\ID_en 536
+\ps Noun
+\de side-dish
+\dv lauk-pauk
+\dt 12/Mar/2024
+
+\lx_mwv gepgep
+\ID_en 911
+\ps Noun
+\de moon eclipse
+\dv gerhana bulan
+\dt 13/Mar/2024
+
+\lx_mwv mara
+\ID_en 668
+\ps Adjective
+\de ripe
+\dv masak, matang
+\dt 12/Mar/2024
+
+\lx_mwv mata
+\ID_en 669
+\ps Adjective
+\de unripe
+\dv belum masak, belum matang, mentah
+\dt 12/Mar/2024
+
+\lx_mwv lago
+\ID_en 910
+\ps Noun
+\de month (name of the months)
+\dv bulan (nama-nama bulan)
+\dt 13/Mar/2024
+
+\lx_mwv lêleu
+\ID_en 955
+\ps Noun
+\de forest, woods
+\dv hutan
+\dt 13/Mar/2024
+
+\lx_mwv arigri
+\ID_en 461
+\ps Noun
+\de main posts
+\dv tiang rumah
+\dt 12/Mar/2024
+
+\lx_mwv mone
+\ID_en 653
+\ps Noun
+\de garden
+\dv kebun
+\dt 12/Mar/2024
+
+\lx_mwv baga
+\ID_en 764
+\ps Noun
+\de the flesh of the fruit
+\dv daging buah
+\dt 12/Mar/2024
+
+\lx_mwv laboe
+\ID_en 685
+\ps Noun
+\de gourd
+\dv labu kendi
+\dt 12/Mar/2024
+
+\lx_mwv goêlei
+\ID_en 537
+\ps Noun
+\de vegetables
+\dv sayuran
+\dt 12/Mar/2024
+
+\lx_mwv toeˈtoeˈ
+\ID_en 892
+\ps Noun
+\de shrimp
+\dv udang
+\dt 13/Mar/2024
+
+\lx_mwv satsat
+\ID_en 553
+\ps Noun
+\de sieve for rice
+\dv nyiru
+\dt 12/Mar/2024
+
+\lx_mwv okboek
+\ID_en 732
+\ps Noun
+\de bamboo
+\dv bambu
+\dt 12/Mar/2024
+
+\lx_mwv sakoilo
+\ID_en 794
+\nt <25>
+\ps Noun
+\de domesticated pig
+\dv babi
+\dt 12/Mar/2024
+
+\lx_mwv toenang
+\ID_en 946
+\ps Noun
+\de cape
+\dv tanjung, ujung
+\dt 13/Mar/2024
+
+\lx_mwv seˈseˈ, parou
+\ID_en 770
+\ps Noun
+\de grass
+\dv rumput
+\dt 12/Mar/2024
+
+\lx_mwv letsoe, raksok
+\ID_en 579
+\nt <20>
+\ps Noun
+\de arm ring, bracelet
+\dv gelang tangan
+\dt 12/Mar/2024
+
+\lx_mwv soengai
+\ID_en 781
+\ps Noun
+\de claw
+\dv cakar
+\dt 12/Mar/2024
+
+\lx_mwv djoegoe
+\ID_en 797
+\ps Verb
+\de to grunt
+\dv menggeram
+\dt 12/Mar/2024
+
+\lx_mwv lape
+\ID_en 468
+\ps Noun
+\de sleeping mat
+\dv tikar
+\dt 12/Mar/2024
+
+\lx_mwv padat
+\ID_en 707
+\ps Noun
+\de pandanus
+\dv pandan
+\dt 12/Mar/2024
+
+\lx_mwv moeno
+\ID_en 755
+\ps Noun
+\de resin (from the damar tree)
+\dv damar (khusus dari pohon damar)
+\dt 12/Mar/2024
+
+\lx_mwv karamen
+\ID_en 664
+\ps Noun
+\de seed
+\dv benih
+\dt 12/Mar/2024
+
+\lx_mwv lêleu
+\ID_en 947
+\ps Noun
+\de mountain
+\dv gunung
+\dt 13/Mar/2024
+
+\lx_mwv silaloe, sikalila
+\ID_en 830
+\nt <29>
+\ps Noun
+\de cock, rooster
+\dv ayam jantan
+\dt 13/Mar/2024
+
+\lx_mwv kiniu
+\ID_en 729
+\ps Noun
+\de Curcuma domestica
+\dv kunyit
+\dt 12/Mar/2024
+
+\lx_mwv toeloetoet
+\ID_en 950
+\ps Verb
+\de to go down, to descend
+\dv turun
+\dt 13/Mar/2024
+
+\lx_mwv koelit
+\ID_en 748
+\ps Noun
+\de bark
+\dv kulit kayu
+\dt 12/Mar/2024
+
+\lx_mwv Rasaki katoeboe mai senet mata bibilet/ Maiginga mata bibilet arasaki ka toeboe mai
+\ID_en 1527
+\de they buy all sorts of things from us
+\dv mereka membeli dari kami bermacam-macam barang
+\dt 17/Mar/2024
+
+\lx_mwv kapi
+\ID_en 942
+\ps Noun
+\de land
+\dv darat
+\dt 13/Mar/2024
+
+\lx_mwv sangoti
+\ID_en 765
+\nt <24>
+\ps Noun
+\de bunch
+\dv rangkai, tangkai, tandan
+\dt 12/Mar/2024
+
+\lx_mwv patoeloenan
+\ID_en 469
+\ps Noun
+\de pillow
+\dv bantal
+\dt 12/Mar/2024
+
+\lx_mwv tilakboek
+\ID_en 488
+\ps Noun
+\de bed curtain
+\dv kelambu
+\dt 12/Mar/2024
+
+\lx_mwv bola
+\ID_en 702
+\ps Noun
+\de nipa palm
+\dv pohon nipah
+\dt 12/Mar/2024
+
+\lx_mwv oeremen
+\ID_en 660
+\ps Noun
+\de vegetation
+\dv tumbuhan
+\dt 12/Mar/2024
+
+\lx_mwv korabbi
+\ID_en 617
+\ps Noun
+\de shield
+\dv perisai
+\dt 12/Mar/2024
+
+\lx_mwv pisau, palite
+\ID_en 505
+\ps Noun
+\de knife
+\dv pisau
+\dt 12/Mar/2024
+
+\lx_mwv poêtere
+\ID_en 601
+\ps Verb
+\de to twine a rope
+\dv memintal tali
+\dt 12/Mar/2024
+
+\lx_mwv oengat
+\ID_en 742-744
+\ps Noun
+\de root
+\dv akar
+\dt 12/Mar/2024
+
+\lx_mwv atimoen
+\ID_en 679
+\ps Noun
+\de cucumber
+\dv ketimun
+\dt 12/Mar/2024
+
+\lx_mwv pooela
+\ID_en 695
+\ps Noun
+\de sugarpalm, aren tree
+\dv pohon aren
+\dt 12/Mar/2024
+
+\lx_mwv masiroêsoei
+\ID_en 477
+\ps Verb
+\de to make a fire
+\dv memasang api
+\dt 12/Mar/2024
+
+\lx_mwv goset
+\ID_en 866
+\ps Noun
+\de louse
+\dv kutu
+\dt 13/Mar/2024
+
+\lx_mwv parou
+\ID_en 771
+\ps Noun
+\de weeds
+\dv rumput
+\dt 12/Mar/2024
+
+\lx_mwv makeroe odjoe
+\ID_en 934
+\ps Noun
+\de flood, tide
+\dv pasang
+\dt 13/Mar/2024
+
+\lx_mwv simagaktoe/simasâmai
+\ID_en 951
+\ps Noun
+\de plain
+\dv dataran
+\dt 13/Mar/2024
+
+\lx_mwv boea
+\ID_en 759
+\ps Noun
+\de fruit
+\dv buah
+\dt 12/Mar/2024
+
+\lx_mwv pisau, palite
+\ID_en 507
+\ps Noun
+\de kris
+\dv keris
+\dt 12/Mar/2024
+
+\lx_mwv eba
+\ID_en 968
+\ps Noun
+\de flood
+\dv banjir
+\dt 13/Mar/2024
+
+\lx_mwv lila
+\ID_en 864
+\ps Noun
+\de ray
+\dv ikan pari
+\dt 13/Mar/2024
+
+\lx_mwv keliu
+\ID_en 565
+\ps Noun
+\de sarong
+\dv sarung
+\dt 12/Mar/2024
+
+\lx_mwv Kasei irioeake radja pakoiniet/ Kasei iteoeake rimata pakoiniet?
+\ID_en 1528
+\de who has been appointed delegate by the king?
+\dv siapa yang diangkat sebagai utusan oleh raja?
+\dt 17/Mar/2024
+
+\lx_mwv katsang
+\ID_en 683
+\ps Noun
+\de peanut
+\dv kacang tanah
+\dt 12/Mar/2024
+
+\lx_mwv ogo
+\ID_en 758
+\ps Noun
+\de flower
+\dv bunga
+\dt 12/Mar/2024
+
+\lx_mwv roesa
+\ID_en 928
+\ps Noun
+\de wind
+\dv angin
+\dt 13/Mar/2024
+
+\lx_mwv ipoekpoek
+\ID_en 529
+\ps Verb
+\de to roast (in ashes)
+\dv bembam
+\dt 12/Mar/2024
+
+\lx_mwv Piga sia saanak boea rimatam?
+\ID_en 1529
+\de over how many people does your king reign?
+\dv berapa jumlah rakyat yang diperintah oleh raja anda?
+\dt 17/Mar/2024
+
+\lx_mwv leilei
+\ID_en 778
+\ps Noun
+\de tail
+\dv ekor
+\dt 12/Mar/2024
+
+\lx_mwv Bara leoe toeoeripmake kanione neˈneˈ?
+\ID_en 1523
+\de will rice be planted in these fields?
+\dv apakah padi yang akan ditanam di tanah itu?
+\dt 17/Mar/2024
+
+\ID_en 851
+\nt <34>
+\ps Noun
+\de mouse
+\dv tikus
+\dt 13/Mar/2024
+
+\lx_mwv Kasedda bai igit sakînia taˈmoi koeake
+\ID_en 1524
+\de I do not want to pay so much
+\dv saya tidak mau membayar sebanyak itu
+\dt 17/Mar/2024
+
+\lx_mwv toga
+\ID_en 757
+\ps Noun
+\de sprout
+\dv tunas
+\dt 12/Mar/2024
+
+\lx_mwv ibat laut
+\ID_en 902
+\ps Noun
+\de turtle
+\dv penyu
+\dt 13/Mar/2024
+
+\lx_mwv lago
+\ID_en 908
+\ps Noun
+\de moon
+\dv bulan
+\dt 13/Mar/2024
+
+\lx_mwv lâpara
+\ID_en 472
+\ps Noun
+\de attic (under the roof)
+\dv loteng
+\dt 12/Mar/2024
+
+\lx_mwv amoemaoan
+\ID_en 814
+\ps Verb
+\de to miaow
+\dv mengeong
+\dt 12/Mar/2024
+
+\lx_mwv letsoe, raksok
+\ID_en 580
+\nt <20>
+\ps Noun
+\de anklet
+\dv gelang laki
+\dt 12/Mar/2024
+
+\lx_mwv gougou
+\ID_en 826
+\ps Noun
+\de hen, chicken
+\dv ayam
+\dt 12/Mar/2024
+
+\lx_mwv teteoe
+\ID_en 927
+\ps Noun
+\de earthquake
+\dv gempa bumi
+\dt 13/Mar/2024
+
+\lx_mwv toga
+\ID_en 775
+\ps Noun
+\de young of animal (calf, foal, chicken, etc.)
+\dv anak binatang
+\dt 12/Mar/2024
+
+\lx_mwv mangârai loina
+\ID_en 736
+\ps Verb
+\de to climb a tree
+\dv memanjat pohon
+\dt 12/Mar/2024
+
+\lx_mwv kirit
+\ID_en 571/572
+\ps Noun
+\de head cloth (for women)
+\dv ikat kepala perempuan
+\dt 12/Mar/2024
+
+\lx_mwv oinan
+\ID_en 930
+\ps Noun
+\de water
+\dv air
+\dt 13/Mar/2024
+
+\lx_mwv manoea
+\ID_en 905
+\ps Noun
+\de sky
+\dv langit
+\dt 13/Mar/2024
+
+\lx_mwv kabit
+\ID_en 588
+\ps Noun
+\de loin cloth
+\dv cawat
+\dt 12/Mar/2024
+
+\lx_mwv sineboe
+\ID_en 733
+\ps Noun
+\de bamboo shoot, young sprout
+\dv rebung
+\dt 12/Mar/2024
+
+\lx_mwv komang
+\ID_en 589
+\ps Noun
+\de cotton fabric (local, European)
+\dv tenunan kapas (asli, Eropa)
+\dt 12/Mar/2024
+
+\lx_mwv beboetoeet
+\ID_en 620
+\nt <22>
+\ps Noun
+\de rifle
+\dv bedil (senapan)
+\dt 12/Mar/2024
+
+\lx_mwv raro
+\ID_en 690
+\ps Noun
+\de red pepper
+\dv cabe
+\dt 12/Mar/2024
+
+\dt 17/Mar/2024
+
+\lx_mwv toeboeroet
+\ID_en 878
+\ps Noun
+\de butterfly
+\dv kupu-kupu
+\dt 13/Mar/2024
+
+\lx_mwv garap
+\ID_en 563
+\de salt
+\dv garam
+\dt 12/Mar/2024
+
+\lx_mwv pasaggak
+\ID_en 629
+\ps Verb
+\de to go head hunting
+\dv mengayau
+\dt 12/Mar/2024
+
+\lx_mwv legoe laibo
+\ID_en 872
+\ps Noun
+\de fly
+\dv lalat
+\dt 13/Mar/2024
+
+\lx_mwv roemoen
+\ID_en 789
+\ps Noun
+\de nest
+\dv sarang
+\dt 12/Mar/2024
+
+\lx_mwv kapa
+\ID_en 710
+\ps Noun
+\de Nephelium lappaceum
+\dv rambutan
+\dt 12/Mar/2024
+
+\lx_mwv toktok akenen, ragi
+\ID_en 894
+\nt <41>
+\ps Noun
+\de shell
+\dv kulit kerang
+\dt 13/Mar/2024
+
+\lx_mwv linoe
+\ID_en 923
+\ps Noun
+\de rainbow
+\dv pelangi
+\dt 13/Mar/2024
+
+\lx_mwv panjanjat
+\ID_en 912
+\nt <42>
+\ps Noun
+\de star
+\dv bintang
+\dt 13/Mar/2024
+
+\lx_mwv djoˈdjoˈ
+\ID_en 811
+\ps Noun
+\de dog
+\dv anjing
+\dt 12/Mar/2024
+
+\lx_mwv Senet gogoi me kai ka leleu masigaba boeat kadjoe
+\ID_en 1533
+\de everyday we look for fruits in the forest
+\dv setiap hari kami pergi mencari buah-buahan di hutan
+\dt 17/Mar/2024
+
+\lx_mwv Sakiake ka toeboe mai bibilet neda
+\ID_en 1526
+\de sell us these goods
+\dv juallah barang ini kepada kami
+\dt 17/Mar/2024
+
+\lx_mwv pinang
+\ID_en 752
+\ps Noun
+\de Areca catechu LINN
+\dv pinang
+\dt 12/Mar/2024
+
+\ID_en 854
+\nt <35>
+\ps Noun
+\de monkey
+\dv monyet, kera
+\dt 13/Mar/2024
+
+\lx_mwv goeloegoe
+\ID_en 952
+\ps Noun
+\de valley
+\dv lembah
+\dt 13/Mar/2024
+
+\lx_mwv saîbri
+\ID_en 659
+\ps Noun
+\de fence, hedge
+\dv pagar
+\dt 12/Mar/2024
+
+\lx_mwv soengai
+\ID_en 780
+\ps Noun
+\de hoof
+\dv kuku binatang
+\dt 12/Mar/2024
+
+\lx_mwv galik
+\ID_en 834
+\nt <30>
+\ps Noun
+\de parrot
+\dv burung nuri
+\dt 13/Mar/2024
+
+\lx_mwv taˈiom
+\ID_en 634
+\nt <23>
+\ps Verb
+\de to surrender
+\dv menyerah
+\dt 12/Mar/2024
+
+\lx_mwv koat
+\ID_en 931
+\ps Noun
+\de sea
+\dv laut
+\dt 13/Mar/2024
+
+\lx_mwv piligi
+\ID_en 843
+\nt <32>
+\ps Noun
+\de kite (bird)
+\dv burung rajawali
+\dt 13/Mar/2024
+
+\lx_mwv sesêiloe
+\ID_en 511
+\ps Noun
+\de ladle
+\dv ciduk, sendok
+\dt 12/Mar/2024
+
+\lx_mwv adjolo
+\ID_en 790
+\ps Noun
+\de egg
+\dv telur
+\dt 12/Mar/2024
+
+\lx_mwv oˈong, kîsou
+\ID_en 517
+\ps Noun
+\de torch
+\dv suluh
+\dt 12/Mar/2024
+
+\lx_mwv manaˈsaˈ
+\ID_en 965
+\ps Verb
+\de to go upstream
+\dv berlayar ke hulu
+\dt 13/Mar/2024
+
+\lx_mwv magege
+\ID_en 635
+\ps Noun
+\de victory
+\dv kemenangan
+\dt 12/Mar/2024
+
+\lx_mwv sibaukatiti, abelangan leilei
+\ID_en 827
+\nt <27>
+\ps Noun
+\de chick
+\dv anak ayam
+\dt 12/Mar/2024
+
+\lx_mwv têgele
+\ID_en 506
+\ps Noun
+\de chopper
+\dv parang
+\dt 12/Mar/2024
+
+\lx_mwv anderek
+\ID_en 835
+\ps Noun
+\de parakeet, budgerigar
+\dv burung bayan
+\dt 13/Mar/2024
+
+\lx_mwv lêlegoe
+\ID_en 924
+\ps Noun
+\de thunder
+\dv guruh
+\dt 13/Mar/2024
+
+\lx_mwv Pigomoi toeoeremi geti mone neˈneˈ?
+\ID_en 1522
+\de when will these fields be planted?
+\dv kapan tanah ini akan ditanami?
+\dt 17/Mar/2024
+
+\lx_mwv paratsi
+\ID_en 688
+\ps Noun
+\de cassava
+\dv ketela
+\dt 12/Mar/2024
+
+\lx_mwv tailakka
+\ID_en 871
+\ps Noun
+\de spider
+\dv laba-laba
+\dt 13/Mar/2024
+
+\lx_mwv aboe
+\ID_en 483
+\ps Noun
+\de ashes
+\dv abu
+\dt 12/Mar/2024
+
+\lx_mwv tali
+\ID_en 602
+\ps Noun
+\de rope
+\dv tali
+\dt 12/Mar/2024
+
+\lx_mwv saggai
+\ID_en 703
+\ps Noun
+\de sago tree
+\dv pohon sagu
+\dt 12/Mar/2024
+
+\lx_mwv sipsip
+\ID_en 576
+\ps Noun
+\de ring
+\dv cincin
+\dt 12/Mar/2024
+
+\lx_mwv komentsaba
+\ID_en 888
+\ps Noun
+\de centipede
+\dv lipan
+\dt 13/Mar/2024
+
+\lx_mwv pario
+\ID_en 494
+\nt <16>
+\ps Noun
+\de pot (earthenware)
+\dv panci, kuali (tanah liat)
+\dt 12/Mar/2024
+
+\lx_mwv talabari
+\ID_en 929
+\ps Noun
+\de storm
+\dv badai, angin ribut
+\dt 13/Mar/2024
+
+\lx_mwv lêppei
+\ID_en 569/570
+\ps Noun
+\de jacket (for women)
+\dv baju perempuan
+\dt 12/Mar/2024
+
+\lx_mwv maˈ onoe
+\ID_en 936
+\ps Noun
+\de breakers, surf
+\dv gelombang
+\dt 13/Mar/2024
+
+\ID_en 824
+\nt <26>
+\ps Noun
+\de pigeon
+\dv burung merpati
+\dt 12/Mar/2024
+
+\lx_mwv boeloek
+\ID_en 746
+\ps Noun
+\de leaf
+\dv daun
+\dt 12/Mar/2024
+
+\lx_mwv moeboeat kadjoe
+\ID_en 672
+\ps Verb
+\de to gather
+\dv mengumpulkan (buah-buahan)
+\dt 12/Mar/2024
+
+\lx_mwv mangarap
+\ID_en 662/663
+\ps Verb
+\de sow
+\dv tabur
+\dt 12/Mar/2024
+
+\lx_mwv dere
+\ID_en 779
+\ps Noun
+\de paw
+\dv kaki binatang
+\dt 12/Mar/2024
+
+\lx_mwv Kipa boeroenia toepoeabak ta aîla koat?
+\ID_en 1531
+\de how long does it take to reach the sea by boat?
+\dv berapa lama kita harus berlayar hingga sampai ke laut?
+\dt 17/Mar/2024
+
+\lx_mwv saˈsaˈ
+\ID_en 731
+\ps Noun
+\de rattan, cane
+\dv rotan
+\dt 12/Mar/2024
+
+\lx_mwv loina
+\ID_en 734
+\ps Noun
+\de tree
+\dv pohon
+\dt 12/Mar/2024
+
+\lx_mwv saggak
+\ID_en 627
+\ps Noun
+\de enemy
+\dv musuh
+\dt 12/Mar/2024
+
+\lx_mwv manosa, sitoei
+\ID_en 828
+\nt <28>
+\ps Noun
+\de hen
+\dv ayam betina
+\dt 12/Mar/2024
+
+\lx_mwv popo
+\ID_en 842
+\ps Noun
+\de owl
+\dv burung hantu
+\dt 13/Mar/2024
+
+\lx_mwv sin
+\ID_en 881
+\ps Noun
+\de grasshopper
+\dv belalang
+\dt 13/Mar/2024
+
+\lx_mwv polak
+\ID_en 917
+\ps Noun
+\de earth (globe)
+\dv bumi
+\dt 13/Mar/2024
+
+\lx_mwv silogoei
+\ID_en 615
+\ps Noun
+\de arrow
+\dv anak panah
+\dt 12/Mar/2024
+
+\lx_mwv soa, soai
+\ID_en 772
+\ps Noun
+\de Imperata cylindria (Kunai grass)
+\dv lalang
+\dt 12/Mar/2024
+
+\lx_mwv oerat
+\ID_en 919
+\ps Noun
+\de rain
+\dv hujan
+\dt 13/Mar/2024
+
+\lx_mwv siamtsoera
+\ID_en 849
+\ps Noun
+\de deer
+\dv kijang
+\dt 13/Mar/2024
+
+\lx_mwv masigoreng
+\ID_en 528
+\ps Verb
+\de to bake, to grill, to fry
+\dv membakar, panggang menggoreng (dengan minyak)
+\dt 12/Mar/2024
+
+\lx_mwv alito
+\ID_en 515
+\ps Noun
+\de lamp
+\dv lampu
+\dt 12/Mar/2024
+
+\lx_mwv saggai
+\ID_en 704
+\ps Noun
+\de sago
+\dv sagu
+\dt 12/Mar/2024
+
+\lx_mwv mangoerep
+\ID_en 665
+\ps Verb
+\de to plant
+\dv menanam
+\dt 12/Mar/2024
+
+\ID_en 886
+\nt <40>
+\ps Noun
+\de snake
+\dv ular
+\dt 13/Mar/2024
+
+\lx_mwv toetoera
+\ID_en 645
+\ps Noun
+\de dibble
+\dv tugal
+\dt 12/Mar/2024
+
+\lx_mwv djamboe
+\ID_en 712
+\ps Noun
+\de Eugenia
+\dv jambu
+\dt 12/Mar/2024
+
+\lx_mwv birak
+\ID_en 600
+\ps Verb
+\de to weave, to plait
+\dv menganyam
+\dt 12/Mar/2024
+
+\lx_mwv manoebai, peu-peu
+\ID_en 604
+\nt <21>
+\ps Verb
+\de to knot, to knit
+\dv merajut, menyirat
+\dt 12/Mar/2024
+
+\lx_mwv salaˈsa
+\ID_en 473
+\ps Noun
+\de rack above the fireplace
+\dv para-para
+\dt 12/Mar/2024
+
+\lx_mwv samoeng
+\ID_en 713
+\ps Noun
+\de Lansium domesticum
+\dv langsat
+\dt 12/Mar/2024
+
+\lx_mwv sakboek
+\ID_en 609
+\ps Noun
+\de sheath
+\dv sarung pedang
+\dt 12/Mar/2024
+
+\lx_mwv oedanan
+\ID_en 489
+\ps Noun
+\de bench, seat
+\dv bangku untuk duduk
+\dt 12/Mar/2024
+
+\lx_mwv touloe, naning
+\ID_en 901
+\ps Noun
+\de tortoise
+\dv kura-kura
+\dt 13/Mar/2024
+
+\lx_mwv baibai
+\ID_en 462
+\ps Noun
+\de ceiling beams
+\dv langit-langit rumah, tutup jenang
+\dt 12/Mar/2024
+
+\lx_mwv râu
+\ID_en 739/740
+\ps Noun
+\de branch
+\dv cabang
+\dt 12/Mar/2024
+
+\lx_mwv sisip
+\ID_en 510
+\ps Noun
+\de spoon
+\dv sendok
+\dt 12/Mar/2024
+
+\lx_mwv koedjoek
+\ID_en 482
+\ps Noun
+\de smoke
+\dv asap
+\dt 12/Mar/2024
+
+\lx_mwv boeloeˈ
+\ID_en 787
+\ps Noun
+\de feather
+\dv bulu burung
+\dt 12/Mar/2024
+
+\lx_mwv simatsoera
+\ID_en 850
+\ps Noun
+\de cherrotain mousedeer
+\dv kancil
+\dt 13/Mar/2024
+
+\lx_mwv nêteu
+\ID_en 727
+\ps Noun
+\de Morinda atrocarpus
+\dv mangkudu
+\dt 12/Mar/2024
+
+\lx_mwv koelit
+\ID_en 761
+\ps Noun
+\de rind, peel
+\dv kulit buah
+\dt 12/Mar/2024
+
+\lx_mwv masiogongi
+\ID_en 812
+\ps Verb
+\de to bark
+\dv menyalak
+\dt 12/Mar/2024
+
+\lx_mwv râˈ
+\ID_en 530
+\ps Verb
+\de to grill, to roast
+\dv panggang
+\dt 12/Mar/2024
+
+\lx_mwv Bat oinan neˈneˈ taˈmoi toepoeabangi
+\ID_en 1530
+\de this river is unnavigable
+\dv sungai ini tak terlayari
+\dt 17/Mar/2024
+
+\lx_mwv noesa
+\ID_en 944
+\ps Noun
+\de island
+\dv pulau
+\dt 13/Mar/2024
+
+\lx_mwv sigep
+\ID_en 884
+\nt <39>
+\ps Noun
+\de ant
+\dv macam-macam semut
+\dt 13/Mar/2024
+
+\lx_mwv letoewang
+\ID_en 846
+\ps Noun
+\de bat
+\dv kelelawar
+\dt 13/Mar/2024
+
+\lx_mwv enoengan
+\ID_en 959
+\ps Noun
+\de way, road
+\dv jalan
+\dt 13/Mar/2024
+
+\lx_mwv toenam
+\ID_en 516
+\ps Noun
+\de lamp wick
+\dv sumbu lampu
+\dt 12/Mar/2024
+
+\ID_en 861
+\nt <36>
+\ps Noun
+\de net
+\dv jala
+\dt 13/Mar/2024
+
+\lx_mwv pareman
+\ID_en 465
+\ps Noun
+\de sleeping place
+\dv kamar tidur
+\dt 12/Mar/2024
+
+\lx_mwv poele
+\ID_en 603
+\ps Noun
+\de thread, yarn
+\dv benang
+\dt 12/Mar/2024
+
+\lx_mwv sokkit
+\ID_en 567
+\ps Noun
+\de trousers
+\dv celana
+\dt 12/Mar/2024
+
+\lx_mwv kan
+\ID_en 534
+\ps Noun
+\de food
+\dv makanan
+\dt 12/Mar/2024
+
+\lx_mwv peîgoe
+\ID_en 709
+\ps Noun
+\de Artocarpus integrifolia, Jack fruit
+\dv nangka
+\dt 12/Mar/2024
+
+\lx_mwv onoe
+\ID_en 935
+\ps Noun
+\de wave
+\dv ombak
+\dt 13/Mar/2024
+
+\lx_mwv api
+\ID_en 475
+\ps Noun
+\de fire
+\dv api
+\dt 12/Mar/2024
+
+\lx_mwv mangâisoe
+\ID_en 513
+\ps Verb
+\de to fetch water
+\dv mengambil air
+\dt 12/Mar/2024
+
+\lx_mwv pakoiniet
+\ID_en 637
+\ps Noun
+\de delegate
+\dv utusan
+\dt 12/Mar/2024
+
+\lx_mwv roriat
+\ID_en 711
+\ps Noun
+\de Durio zibethinus
+\dv durian
+\dt 12/Mar/2024
+
+\lx_mwv siniboˈ
+\ID_en 540
+\nt <18>
+\ps Noun
+\de dried meat
+\dv dendeng
+\dt 12/Mar/2024
+
+\lx_mwv palite
+\ID_en 508
+\ps Noun
+\de dagger
+\dv golok
+\dt 12/Mar/2024
+
+\lx_mwv gepgep
+\ID_en 907
+\ps Noun
+\de sun eclipse
+\dv gerhana matahari
+\dt 13/Mar/2024
+
+\lx_mwv sâbbai
+\ID_en 753
+\ps Noun
+\de betel
+\dv sirih
+\dt 12/Mar/2024
+
+\lx_mwv simatooera
+\ID_en 809
+\ps Noun
+\de deer
+\dv rusa
+\dt 12/Mar/2024
+
+\lx_mwv kanang
+\ID_en 869
+\nt <37>
+\ps Noun
+\de nit
+\dv telur kutu
+\dt 13/Mar/2024
+
+\lx_mwv noeinoedjat, padârai
+\hm 1
+\ID_en 941
+\ps Noun
+\de coral reef
+\dv karang
+\dt 13/Mar/2024
+
+\lx_mwv noeinoedjat, padârai
+\hm 2
+\ID_en 940
+\ps Noun
+\de sandbank
+\dv busung pasir
+\dt 13/Mar/2024
+
+\lx_mwv peˈake alito
+\ID_en 486
+\ps Verb
+\de to put off (light)
+\dv memadamkan (sinar)
+\dt 12/Mar/2024
+
+\lx_mwv legoe sidjô
+\ID_en 877
+\nt <38>
+\ps Noun
+\de mosquito
+\dv nyamuk
+\dt 13/Mar/2024
+
+\lx_mwv lai-lai
+\ID_en 577/578
+\ps Noun
+\de waist belt/band
+\dv ikat pinggang
+\dt 12/Mar/2024
+
+\lx_mwv mao
+\ID_en 813
+\ps Noun
+\de cat
+\dv kucing
+\dt 12/Mar/2024
+
+\lx_mwv iba
+\ID_en 541
+\nt <19>
+\ps Noun
+\de fish
+\dv ikan
+\dt 12/Mar/2024
+
+\lx_mwv oebe
+\ID_en 681
+\ps Noun
+\de tobacco
+\dv tembakau
+\dt 12/Mar/2024
+
+\lx_mwv iba, akoela
+\ID_en 539
+\ps Noun
+\de meat (raw)
+\dv daging (mentah)
+\dt 12/Mar/2024
+
+\lx_mwv kailea/seggoe
+\ID_en 840
+\nt <31>
+\ps Noun
+\de heron
+\dv burung bangau
+\dt 13/Mar/2024
+
+\lx_mwv moeno
+\ID_en 754
+\ps Noun
+\de resin
+\dv damar (umum)
+\dt 12/Mar/2024
+
+\lx_mwv Oebe le koeake sakînia
+\ID_en 1525
+\de I shall pay in tobacco
+\dv saya memberikan tembakau sebagai alat penukar
+\dt 17/Mar/2024
+
+\lx_mwv tilakboek
+\ID_en 464
+\ps Noun
+\de curtain
+\dv tirai
+\dt 12/Mar/2024
+
+\lx_mwv loˈloˈ
+\ID_en 920
+\ps Noun
+\de dew
+\dv embun
+\dt 13/Mar/2024
+
+\lx_mwv malabo
+\ID_en 476
+\ps Noun
+\de fire
+\dv api, kebakaran
+\dt 12/Mar/2024
+
+\lx_mwv leîti
+\ID_en 879
+\ps Noun
+\de caterpillar
+\dv ulat (bulu)
+\dt 13/Mar/2024
+
+\lx_mwv bat oinan
+\ID_en 963
+\ps Noun
+\de river
+\dv sungai
+\dt 13/Mar/2024
+
+\lx_mwv goilôoe, loeîkoe
+\ID_en 763
+\ps Noun
+\de pip, stone
+\dv biji
+\dt 12/Mar/2024
+
+\lx_mwv bâtara
+\ps Noun
+\de cotton
+\dv kapas
+\dt 12/Mar/2024
+
+\lx_mwv ilek/ileng
+\ID_en 865
+\ps Noun
+\de eel
+\dv belut
+\dt 13/Mar/2024
+
+\lx_mwv toela
+\ID_en 766
+\ps Noun
+\de oil
+\dv minyak
+\dt 12/Mar/2024
+
+\lx_mwv rou-rou
+\ID_en 613
+\ps Noun
+\de bow
+\dv busur
+\dt 12/Mar/2024
+
+\lx_mwv koerid
+\ID_en 896
+\ps Noun
+\de frog
+\dv katak
+\dt 13/Mar/2024
+
+\lx_mwv sogoênei
+\ID_en 717
+\ps Noun
+\de banana (wild)
+\dv pisang (liar)
+\dt 12/Mar/2024

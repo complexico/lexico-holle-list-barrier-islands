@@ -1,0 +1,1697 @@
+
+\lx_skh féeˈ
+\ID_en 991
+\ps Noun
+\de gift, present
+\dv hadiah, pemberian
+\dt 16/Mar/2024
+
+\lx_skh itété
+\ID_en 1114
+\ps Adjective
+\de small
+\dv kecil
+\dt 20/Mar/2024
+
+\lx_skh 
+\ID_en 1017/1018
+\nt <25>
+\ps Verb
+\de borrow
+\dv pinjam
+\dt 20/Mar/2024
+
+\lx_skh euchi
+\ID_en 1132-1135
+\ps Adjective
+\de nice
+\dv bagus
+\dt 20/Mar/2024
+
+\lx_skh batoe aar
+\ID_en 925
+\de thunderstone
+\dv batu guntur
+\dt 13/Mar/2024
+
+\lx_skh ènokeu
+\ID_en 1193
+\ps Verb
+\de to know
+\dv tahu, mengetahui, kenal
+\dt 20/Mar/2024
+
+\lx_skh faieu
+\ID_en 1226
+\ps Verb
+\de to wait
+\dv menunggu
+\dt 20/Mar/2024
+
+\lx_skh achenong
+\ID_en 1071
+\ps Adjective
+\de thin, meagre, skinny
+\dv kurus
+\dt 20/Mar/2024
+
+\lx_skh mengakoe
+\ID_en 1199
+\ps Verb
+\de to confess
+\dv mengaku
+\dt 20/Mar/2024
+
+\lx_skh djandji
+\ID_en 992
+\ps Verb
+\de to negotiate
+\dv berunding
+\dt 16/Mar/2024
+
+\lx_skh pikir
+\ID_en 1194
+\ps Verb
+\de to think
+\dv berpikir
+\dt 20/Mar/2024
+
+\lx_skh afaai ana
+\ID_en 1153
+\ps Adjective
+\de new
+\dv baru
+\dt 20/Mar/2024
+
+\lx_skh mòlòchai
+\ID_en 1240
+\ps Adjective
+\de jealous
+\dv cemburu, iri hati
+\dt 20/Mar/2024
+
+\lx_skh omboejoe
+\ID_en 960
+\ps Noun
+\de mud
+\dv lumpur
+\dt 16/Mar/2024
+
+\lx_skh toekar
+\ID_en 1019
+\ps Verb
+\de to exchange
+\dv menukar
+\dt 17/Mar/2024
+
+\lx_skh māchi
+\ID_en 974
+\ps Noun
+\de copper
+\dv tembaga
+\dt 16/Mar/2024
+
+\lx_skh obehoe
+\ID_en 1129
+\ps Adjective
+\de rotten
+\dv busuk
+\dt 20/Mar/2024
+
+\lx_skh atōˈ, āfafeu
+\ID_en 1085/1086
+\nt <29>
+\ps Adjective
+\de shallow
+\dv dangkal
+\dt 20/Mar/2024
+
+\lx_skh mangkim
+\ID_en 907
+\ps Noun
+\de sun eclipse
+\dv gerhana matahari
+\dt 13/Mar/2024
+
+\lx_skh meraboei
+\ID_en 1053
+\ps Noun
+\de pirate
+\dv bajak laut
+\dt 20/Mar/2024
+
+\lx_skh manhum
+\ID_en 923
+\ps Noun
+\de rainbow
+\dv pelangi
+\dt 20/Mar/2024
+
+\lx_skh soekò
+\ID_en 1242
+\ps Verb
+\de to wish
+\dv mengharapkan
+\dt 20/Mar/2024
+
+\lx_skh keradja
+\ID_en 1210
+\ps Verb
+\de to work
+\dv bekerja
+\dt 20/Mar/2024
+
+\lx_skh oerasasai
+\ID_en 1230
+\ps Verb
+\de to feel
+\dv merasai
+\dt 20/Mar/2024
+
+\lx_skh atai omekat
+\ID_en 995
+\ps Noun
+\de merchant
+\dv saudagar, pedagang
+\dt 16/Mar/2024
+
+\lx_skh ohe
+\ID_en 1185
+\ps Verb
+\de to grip, to hold, to seize
+\dv memegang
+\dt 20/Mar/2024
+
+\lx_skh nangi
+\ID_en 929
+\ps Noun
+\de storm
+\dv badai, angin ribut
+\dt 20/Mar/2024
+
+\lx_skh atoeaé
+\ID_en 1146/1147
+\nt <31>
+\ps Adjective
+\de tightly bound, tightly fitting
+\dv terikat, kencang, erat
+\dt 20/Mar/2024
+
+\lx_skh lolo
+\ID_en 926
+\ps Noun
+\de (flash of) lightning
+\dv kilat
+\dt 13/Mar/2024
+
+\lx_skh laufèfateuni
+\ID_en 1020
+\ps Verb
+\de to offer
+\dv mempersembahkan
+\dt 17/Mar/2024
+
+\lx_skh nohe afaj
+\ID_en 1021
+\ps Verb
+\de to pawn
+\dv menggadaikan
+\dt 17/Mar/2024
+
+\lx_skh acheui
+\ID_en 1144
+\ps Adjective
+\de angry
+\dv marah
+\dt 20/Mar/2024
+
+\lx_skh abébéhé
+\ID_en 1067-1069
+\sn 1
+\ps Adjective
+\de big, fat
+\dv gemuk
+\sn 2
+\ps Adjective
+\de thick
+\dv tebal
+\dt 20/Mar/2024
+
+\lx_skh atotok-ånå²
+\ID_en 1076
+\ps Noun
+\de dwarf
+\dv orang katai
+\dt 20/Mar/2024
+
+\lx_skh tawar, mèfatoehoe
+\ID_en 1022
+\ps Verb
+\de to bargain
+\dv menawar
+\dt 17/Mar/2024
+
+\lx_skh gambatoe
+\ID_en 1025
+\nt <26>
+\ps Noun
+\de a pair of scales
+\dv timbangan
+\dt 17/Mar/2024
+
+\lx_skh rangkoeng
+\ID_en 979
+\ps Noun
+\de lead
+\dv timah hitam
+\dt 16/Mar/2024
+
+\lx_skh cheman
+\ID_en 1187
+\ps Noun
+\de to make, to do
+\dv membuat
+\dt 20/Mar/2024
+
+\lx_skh denih
+\ID_en 1209
+\nt <34>
+\ps Verb
+\de to be allowed
+\dv boleh, diperbolehkan
+\dt 20/Mar/2024
+
+\lx_skh atoewa²
+\ID_en 1150
+\ps Adjective
+\de old
+\dv tua
+\dt 20/Mar/2024
+
+\lx_skh tin
+\ID_en 978
+\ps Noun
+\de tin
+\dv timah
+\dt 16/Mar/2024
+
+\lx_skh padang²
+\ID_en 951
+\ps Noun
+\de plain
+\dv dataran
+\dt 16/Mar/2024
+
+\lx_skh afala
+\ID_en 1169
+\ps Adjective
+\de red
+\dv merah
+\dt 20/Mar/2024
+
+\lx_skh <alembōˈ?>
+\ID_en 1102
+\ps Adjective
+\de weak
+\dv lembek, lemah
+\dt 20/Mar/2024
+
+\lx_skh malainde
+\ID_en 1206
+\ps Verb
+\de to call
+\dv memanggil
+\dt 20/Mar/2024
+
+\lx_skh afecheu mateudenni
+\ID_en 1239
+\ps Verb
+\de to hate
+\dv benci
+\dt 20/Mar/2024
+
+\lx_skh nieuchieuchiun
+\ID_en 1158
+\ps Verb
+\de slow
+\dv lambat
+\dt 20/Mar/2024
+
+\lx_skh bachaoe
+\ID_en 1243
+\ps Verb
+\de to want
+\dv hendak
+\dt 20/Mar/2024
+
+\lx_skh iteté
+\ID_en 1062
+\ps Adjective
+\de small
+\dv kecil
+\dt 20/Mar/2024
+
+\lx_skh lheu lheu itété
+\ID_en 948
+\ps Noun
+\de hill
+\dv bukit
+\dt 16/Mar/2024
+
+\lx_skh langi
+\ID_en 905
+\ps Noun
+\de sky
+\dv langit
+\dt 13/Mar/2024
+
+\lx_skh koetoe
+\ID_en 866
+\ps Noun
+\de louse
+\dv kutu
+\dt 20/Mar/2024
+
+\lx_skh nangi
+\ID_en 928
+\ps Noun
+\de wind
+\dv angin
+\dt 13/Mar/2024
+
+\lx_skh kati, dàsing
+\ID_en 1026-1028
+\nt <27>
+\ps Noun
+\de measures and weight
+\dv ukuran dan berat
+\dt 17/Mar/2024
+
+\lx_skh éné (fagalai)
+\ID_en 940
+\nt <21>
+\ps Noun
+\de sandbank
+\dv busung pasir
+\dt 20/Mar/2024
+
+\lx_skh òfaˈi
+\ID_en 1174
+\ps Verb
+\de to look for
+\dv mencari
+\dt 20/Mar/2024
+
+\lx_skh oehoen
+\ID_en 920
+\ps Noun
+\de dew
+\dv embun
+\dt 20/Mar/2024
+
+\lx_skh boelè
+\ID_en 1109/1110
+\de round
+\dv bulat
+\dt 20/Mar/2024
+
+\lx_skh lěngkěp
+\ID_en 1246
+\ps Verb
+\de to close
+\dv menutup
+\dt 20/Mar/2024
+
+\lx_skh déˈoe (déwoe)
+\ID_en 919
+\ps Noun
+\de rain
+\dv hujan
+\dt 13/Mar/2024
+
+\lx_skh ataa-alai
+\ID_en 1125
+\nt <30>
+\ps Adjective
+\de dry
+\dv kering
+\dt 20/Mar/2024
+
+\lx_skh bàhàng
+\ID_en 879
+\ps Noun
+\de caterpillar
+\dv ulat (bulu)
+\dt 13/Mar/2024
+
+\lx_skh máchi mèhépo
+\ID_en 975
+\ps Noun
+\de bronze
+\dv perunggu
+\dt 16/Mar/2024
+
+\lx_skh lala
+\ID_en 939
+\ps Noun
+\de strait(s)
+\dv selat
+\dt 16/Mar/2024
+
+\lx_skh aeufeu
+\ID_en 1081
+\ps Adjective
+\de wary, shy, timid
+\dv malu (takut), berhati-hati
+\dt 20/Mar/2024
+
+\lx_skh éba
+\ID_en 1061
+\ps Adjective
+\de great, big
+\dv besar
+\dt 20/Mar/2024
+
+\lx_skh djagå
+\ID_en 1222
+\ps Verb
+\de to wake, to watch
+\dv berjaga (dgn. sengaja tidak tidur)
+\dt 20/Mar/2024
+
+\lx_skh heihé
+\ID_en 898
+\ps Noun
+\de lizard
+\dv kadal
+\dt 13/Mar/2024
+
+\lx_skh feunoe
+\ID_en 901/902
+\sn 1
+\ps Noun
+\de tortoise
+\dv kura-kura
+\sn 2
+\ps Noun
+\de turtle
+\dv penyu
+\dt 13/Mar/2024
+
+\lx_skh bawah
+\ID_en 909
+\ps Noun
+\de one month
+\dv satu bulan
+\dt 13/Mar/2024
+
+\lx_skh lai
+\ID_en 961
+\ps Noun
+\de footstep (footprint)
+\dv bekas tapak kaki, jejak
+\dt 16/Mar/2024
+
+\lx_skh idaneu
+\ID_en 930
+\ps Noun
+\de water
+\dv air
+\dt 13/Mar/2024
+
+\lx_skh achàòˈ
+\ID_en 1097
+\ps Adjective
+\de slanting. sloping
+\dv serong, miring
+\dt 20/Mar/2024
+
+\lx_skh doela idaneu, doela aoeloet
+\ID_en 932
+\ps Verb
+\de ebb
+\dv surut
+\dt 13/Mar/2024
+
+\lx_skh atiǎˈ
+\ID_en 1164
+\ps Verb
+\de astringent
+\dv sepat
+\dt 20/Mar/2024
+
+\lx_skh boja
+\ID_en 900
+\ps Noun
+\de crocodile
+\dv buaya
+\dt 13/Mar/2024
+
+\lx_skh afoejoe, nonō binatang
+\ID_en 1152
+\nt <32>
+\ps Adjective
+\de young
+\dv muda
+\dt 20/Mar/2024
+
+\lx_skh agekin
+\ID_en 1123
+\ps Adjective
+\de stingy
+\dv pelit, kikir
+\dt 20/Mar/2024
+
+\lx_skh awan²
+\ID_en 921
+\ps Noun
+\de cloud
+\dv awan
+\dt 20/Mar/2024
+
+\lx_skh oafoe
+\ID_en 1106/1107
+\ps Adjective
+\de cold
+\dv dingin
+\dt 20/Mar/2024
+
+\lx_skh kapan
+\ID_en 1029/1030
+\ps Noun
+\de ship
+\dv kapal
+\dt 17/Mar/2024
+
+\lx_skh euchi kòmèk
+\ID_en 1201
+\ps Verb
+\de to mumble
+\dv komat-kamit
+\dt 20/Mar/2024
+
+\lx_skh koeali bela
+\ID_en 881
+\ps Noun
+\de grasshopper
+\dv belalang
+\dt 13/Mar/2024
+
+\lx_skh pinter
+\ID_en 1160
+\ps Adjective
+\de clever
+\dv pandai
+\dt 20/Mar/2024
+
+\lx_skh euchi
+\ID_en 1130
+\ps Adjective
+\de good
+\dv baik, bagus
+\dt 20/Mar/2024
+
+\lx_skh lolo
+\ID_en 924
+\ps Noun
+\de thunder
+\dv guruh
+\dt 13/Mar/2024
+
+\lx_skh atōˈ(oe)
+\ID_en 1088
+\ps Adjective
+\de low
+\dv rendah
+\dt 20/Mar/2024
+
+\lx_skh ganetela
+\ID_en 964
+\ps Noun
+\de bridge
+\dv jembatan
+\dt 16/Mar/2024
+
+\lx_skh kapan apoei
+\ID_en 1031
+\ps Noun
+\de steamboat
+\dv kapal uap
+\dt 17/Mar/2024
+
+\lx_skh lipas (atoeleu)
+\ID_en 1089
+\ps Adjective
+\de straight
+\dv lurus
+\dt 20/Mar/2024
+
+\lx_skh samali koekoei
+\ID_en 888
+\ps Noun
+\de centipede
+\dv lipan
+\dt 13/Mar/2024
+
+\lx_skh doeoe
+\ID_en 955
+\ps Noun
+\de forest, woods
+\dv hutan
+\dt 16/Mar/2024
+
+\lx_skh lanko
+\ID_en 893
+\ps Noun
+\de crab
+\dv kepiting
+\dt 13/Mar/2024
+
+\lx_skh bahat
+\ID_en 936
+\ps Noun
+\de breakers, surf
+\dv gelombang
+\dt 20/Mar/2024
+
+\lx_skh oewali (abacheu)
+\ID_en 1127
+\ps Adjective
+\de wet
+\dv basah
+\dt 20/Mar/2024
+
+\lx_skh achoea eu
+\ID_en 1157
+\ps Adjective
+\de fast
+\dv cepat, kencang
+\dt 20/Mar/2024
+
+\lx_skh èdafa
+\ID_en 1065/1066
+\ps Adjective
+\de short
+\dv pendek, singkat
+\dt 20/Mar/2024
+
+\lx_skh gelawa
+\ID_en 963
+\nt <24>
+\ps Noun
+\de river
+\dv sungai
+\dt 17/Mar/2024
+
+\lx_skh doeloe
+\ID_en 927
+\ps Noun
+\de earthquake
+\dv gempa bumi
+\dt 13/Mar/2024
+
+\lx_skh bawa²
+\ID_en 933
+\ps Noun
+\de lake
+\dv danau
+\dt 13/Mar/2024
+
+\lx_skh alawa
+\ID_en 1087
+\ps Adjective
+\de high
+\dv tinggi
+\dt 20/Mar/2024
+
+\lx_skh njakó
+\ID_en 1229
+\ps Verb
+\de to smell
+\dv mencium
+\dt 20/Mar/2024
+
+\lx_skh oeila machoman
+\ID_en 1195
+\ps Verb
+\de to know
+\dv tahu, mengetahui
+\dt 20/Mar/2024
+
+\lx_skh billōˈ (nofo²)
+\ID_en 1033
+\ps Noun
+\de proa, canoe
+\dv perahu
+\dt 17/Mar/2024
+
+\lx_skh koenèng
+\ID_en 1171
+\ps Adjective
+\de yellow
+\dv kuning
+\dt 20/Mar/2024
+
+\lx_skh koehoeng
+\ID_en 871
+\ps Noun
+\de spider
+\dv laba-laba
+\dt 13/Mar/2024
+
+\lx_skh boweaé (é)
+\ID_en 1245
+\ps Verb
+\de to open
+\dv membuka
+\dt 20/Mar/2024
+
+\lx_skh daoe
+\ID_en 1179
+\ps Verb
+\de to take
+\dv mengambil
+\dt 20/Mar/2024
+
+\lx_skh melawan
+\ID_en 1119
+\ps Adjective
+\de brave, bold
+\dv perkasa, gagah
+\dt 20/Mar/2024
+
+\lx_skh sindang²
+\ID_en 1203
+\ps Verb
+\de to sing
+\dv bernyanyi
+\dt 20/Mar/2024
+
+\lx_skh toeroew-ilir
+\ID_en 950
+\ps Verb
+\de to go down, to descend
+\dv turun
+\dt 16/Mar/2024
+
+\lx_skh tiang kapan
+\ID_en 1035
+\ps Noun
+\de mast
+\dv tiang perahu
+\dt 17/Mar/2024
+
+\lx_skh fageting nahe
+\ID_en 938
+\ps Noun
+\de beach
+\dv pantai
+\dt 16/Mar/2024
+
+\lx_skh alimboe
+\ID_en 1197
+\ps Verb
+\de to have forgotten something
+\dv lupa
+\dt 20/Mar/2024
+
+\lx_skh èbolōˈ
+\ID_en 1113
+\ps Adjective
+\de broad
+\dv luas, lebar
+\dt 20/Mar/2024
+
+\lx_skh maaghi
+\ID_en 973
+\ps Noun
+\de iron
+\dv besi
+\dt 16/Mar/2024
+
+\lx_skh afeunoe
+\ID_en 1143
+\ps Adjective
+\de full
+\dv penuh
+\dt 20/Mar/2024
+
+\lx_skh ōtoe
+\ID_en 1141
+\ps Adjective
+\de true, right
+\dv benar, betul
+\dt 20/Mar/2024
+
+\lx_skh meuněkat
+\ID_en 1004
+\ps Noun
+\de merchandise
+\dv barang dagangan
+\dt 17/Mar/2024
+
+\lx_skh menekat
+\ID_en 1003
+\ps Verb
+\de to trade
+\dv berdagang
+\dt 17/Mar/2024
+
+\lx_skh batoe
+\ID_en 969
+\ps Noun
+\de stone
+\dv batu
+\dt 16/Mar/2024
+
+\lx_skh nefeu
+\ID_en 1000
+\ps Noun
+\de ally
+\dv sekutu
+\dt 16/Mar/2024
+
+\lx_skh néné
+\ID_en 971
+\ps Noun
+\de sand
+\dv pasir
+\dt 16/Mar/2024
+
+\lx_skh maeu maaeu, lèpang, é solo
+\ID_en 1116
+\ps Adjective
+\de wide
+\dv luas
+\dt 20/Mar/2024
+
+\lx_skh aˈěufeu
+\ID_en 1082
+\ps Adjective
+\de shy, ashamed
+\dv malu
+\dt 20/Mar/2024
+
+\lx_skh ènoengeu
+\ID_en 1251
+\ps Verb
+\de to hit, to touch
+\dv mengenai, menyentuh
+\dt 20/Mar/2024
+
+\lx_skh atéan banais, pere batasan
+\ID_en 962
+\ps Noun
+\de border, boundary
+\dv batas
+\dt 16/Mar/2024
+
+\lx_skh mèleuleng, metaon
+\ID_en 1200
+\ps Verb
+\de to be silent
+\dv diam
+\dt 20/Mar/2024
+
+\lx_skh malenjo
+\ID_en 1037
+\ps Verb
+\de to sail
+\dv berlayar
+\dt 17/Mar/2024
+
+\lx_skh besarå
+\ID_en 1202
+\ps Verb
+\de to speak
+\dv berbicara
+\dt 20/Mar/2024
+
+\lx_skh aelup
+\ID_en 1079
+\ps Adjective
+\de tame
+\dv jinak
+\dt 20/Mar/2024
+
+\lx_skh deoe deoe
+\ID_en 957
+\ps Noun
+\de bush
+\dv belukar
+\dt 16/Mar/2024
+
+\lx_skh bintoen
+\ID_en 912
+\nt <20>
+\de star
+\dv bintang
+\dt 16/Mar/2024
+
+\lx_skh maisungěu
+\ID_en 1234
+\ps Verb
+\de to blow the nose
+\dv membuang ingus
+\dt 20/Mar/2024
+
+\lx_skh ènaloe
+\ID_en 1063/1064
+\ps Adjective
+\de long
+\dv panjang, lama
+\dt 20/Mar/2024
+
+\lx_skh anéfi
+\ID_en 1070
+\ps Adjective
+\de thin
+\dv tipis
+\dt 20/Mar/2024
+
+\lx_skh moedik
+\ID_en 965
+\ps Verb
+\de to go upstream
+\dv berlayar ke hulu
+\dt 16/Mar/2024
+
+\lx_skh oefeung
+\ID_en 1038
+\ps Noun
+\de rudder, helm
+\dv kmeudi
+\dt 17/Mar/2024
+
+\lx_skh otafeu
+\ID_en 1072-1074
+\ps Adjective
+\de far
+\dv jauh
+\dt 20/Mar/2024
+
+\lx_skh oefeung
+\ID_en 1039
+\ps Verb
+\de to sail
+\dv mengemudi
+\dt 17/Mar/2024
+
+\lx_skh boedaloe
+\ID_en 1040
+\ps Noun
+\de oar, paddle
+\dv pengayuh
+\dt 17/Mar/2024
+
+\lx_skh òlan
+\ID_en 1043
+\ps Verb
+\de to row, to pull
+\dv mengayuh
+\dt 17/Mar/2024
+
+\lx_skh bachakoe (soekå)
+\ID_en 1238
+\ps Verb
+\de to love
+\dv mencintai, mengasihi
+\dt 20/Mar/2024
+
+\lx_skh mongafā
+\ID_en 1016
+\ps Verb
+\de to sell
+\dv menjual
+\dt 20/Mar/2024
+
+\lx_skh ninèehèˈ, niēla
+\ID_en 1228
+\ps Verb
+\de to see
+\dv melihat
+\dt 20/Mar/2024
+
+\lx_skh dopè
+\ID_en 1175
+\ps Verb
+\de to find
+\dv menemukan
+\dt 20/Mar/2024
+
+\lx_skh bajan geumeuni
+\ID_en 1015
+\ps Verb
+\de to pay
+\dv membayar
+\dt 17/Mar/2024
+
+\lx_skh oelaw eundeung
+\ID_en 945
+\ps Noun
+\de isthmus
+\dv tanah genting
+\dt 16/Mar/2024
+
+\lx_skh bengkèˈ
+\ID_en 1181
+\ps Verb
+\de to take away
+\dv mengangkat (pergi)
+\dt 20/Mar/2024
+
+\lx_skh miskin
+\ID_en 1154
+\ps Adjective
+\de poor
+\dv miskin
+\dt 20/Mar/2024
+
+\lx_skh <kasot?> gédé
+\ID_en 1002
+\ps Noun
+\de market
+\dv pasar
+\dt 17/Mar/2024
+
+\lx_skh nisasaj
+\ID_en 1189
+\ps Verb
+\de to wash up (dishes, spoon, etc.)
+\dv memcuci (peralatan makan)
+\dt 20/Mar/2024
+
+\lx_skh tioˈ baoen
+\ID_en 853
+\ps Noun
+\de shrew
+\dv tikus mondok
+\dt 13/Mar/2024
+
+\lx_skh nioha, ohāˈ
+\ID_en 1211-1214/1220/1221
+\ps Verb
+\de to shoulder
+\dv memikul
+\dt 20/Mar/2024
+
+\lx_skh oedimeˈwe
+\ID_en 999
+\ps Noun
+\de follower
+\dv pengikut
+\dt 16/Mar/2024
+
+\lx_skh mada maikon
+\ID_en 993
+\ps Verb
+\de to make peace
+\dv berdamai,mengadakan perdamaian
+\dt 16/Mar/2024
+
+\lx_skh mooetokeu
+\ID_en 1058
+\ps Noun
+\de kidnapper
+\dv penculik
+\dt 20/Mar/2024
+
+\lx_skh euchi banoewaˈ
+\ID_en 996
+\ps Noun
+\de farmer
+\dv petani
+\dt 16/Mar/2024
+
+\lx_skh gedai
+\ID_en 1001
+\ps Noun
+\de shop
+\dv toko, warung
+\dt 16/Mar/2024
+
+\lx_skh toekang machi
+\ID_en 981
+\ps Noun
+\de smith
+\dv pandai besi
+\dt 16/Mar/2024
+
+\lx_skh bowbow
+\ID_en 1145
+\ps Adjective
+\de mad
+\dv gila
+\dt 20/Mar/2024
+
+\lx_skh feé
+\ID_en 1176
+\ps Verb
+\de to give
+\dv memberikan
+\dt 20/Mar/2024
+
+\lx_skh talanghan
+\ID_en 1052
+\ps Verb
+\de to be wrecked
+\dv terdampar, kandas
+\dt 20/Mar/2024
+
+\lx_skh kajó anàche
+\ID_en 1155
+\ps Adjective
+\de wealthy
+\dv kaya
+\dt 20/Mar/2024
+
+\lx_skh manginoe
+\ID_en 1233
+\ps Verb
+\de to slurp
+\dv menghirup
+\dt 20/Mar/2024
+
+\lx_skh bawa
+\ID_en 908
+\ps Noun
+\de moon
+\dv bulan
+\dt 13/Mar/2024
+
+\lx_skh manāoˈ kapan
+\ID_en 1049
+\nt <28>
+\ps Noun
+\de anchor
+\dv sauh
+\dt 17/Mar/2024
+
+\lx_skh långå
+\ID_en 1227
+\ps Verb
+\de to hear
+\dv mendengar
+\dt 20/Mar/2024
+
+\lx_skh danew
+\ID_en 970
+\ps Noun
+\de earth (ground)
+\dv tanah
+\dt 16/Mar/2024
+
+\lx_skh nachōˈ
+\ID_en 984
+\ps Noun
+\de charcoal
+\dv arang
+\dt 16/Mar/2024
+
+\lx_skh aijo
+\ID_en 1166
+\ps Adjective
+\de salty
+\dv asin
+\dt 20/Mar/2024
+
+\lx_skh abeuleu
+\ID_en 1117
+\ps Adjective
+\de strong
+\dv kokoh
+\dt 20/Mar/2024
+
+\lx_skh amio
+\ID_en 1161
+\ps Adjective
+\de sweet
+\dv manis
+\dt 20/Mar/2024
+
+\lx_skh awa
+\ID_en 886
+\nt <19>
+\ps Noun
+\de snake
+\dv ular
+\dt 16/Mar/2024
+
+\lx_skh eadeu tarang
+\ID_en 911
+\ps Noun
+\de moon eclipse
+\dv gerhana bulan
+\dt 13/Mar/2024
+
+\lx_skh boelawa
+\ID_en 977
+\ps Noun
+\de gold
+\dv emas
+\dt 16/Mar/2024
+
+\lx_skh geumeu
+\ID_en 1013
+\ps Noun
+\de debt
+\dv hutang
+\dt 17/Mar/2024
+
+\lx_skh achèoˈ
+\ID_en 1090
+\ps Adjective
+\de crooked, bent
+\dv bengkok
+\dt 20/Mar/2024
+
+\lx_skh banoewàˈ
+\ID_en 942/943
+\ps Noun
+\de land
+\dv darat
+\dt 20/Mar/2024
+
+\lx_skh malaindai oeako
+\ID_en 1236
+\ps Verb
+\de to kiss
+\dv mengecup
+\dt 20/Mar/2024
+
+\lx_skh deula
+\ID_en 1118
+\ps Adjective
+\de weak
+\dv lemah
+\dt 20/Mar/2024
+
+\lx_skh moerah
+\ID_en 1012
+\ps Adjective
+\de cheap
+\dv murah
+\dt 17/Mar/2024
+
+\lx_skh laoeloh
+\ID_en 894
+\ps Noun
+\de shell
+\dv kulit kerang
+\dt 13/Mar/2024
+
+\lx_skh mantjem
+\ID_en 1163
+\ps Adjective
+\de bitter
+\dv pahit
+\dt 20/Mar/2024
+
+\lx_skh ataleu
+\ID_en 1098
+\ps Adjective
+\de sharp
+\dv tajam
+\dt 20/Mar/2024
+
+\lx_skh euchi
+\ID_en 861
+\nt <18>
+\ps Noun
+\de net
+\dv jala
+\dt 17/Mar/2024
+
+\lx_skh loegoe
+\ID_en 937
+\ps Noun
+\de bay
+\dv teluk
+\dt 16/Mar/2024
+
+\lx_skh mahal
+\ID_en 1011
+\ps Adjective
+\de expensive
+\dv mahal
+\dt 17/Mar/2024
+
+\lx_skh (òafoe) auchoe
+\ID_en 891
+\ps Noun
+\de worm
+\dv cacing
+\dt 13/Mar/2024
+
+\lx_skh euli-niuli
+\ID_en 1010
+\ps Verb
+\de to buy
+\dv membeli
+\dt 17/Mar/2024
+
+\lx_skh loembò²
+\ID_en 896
+\ps Noun
+\de frog
+\dv katak
+\dt 13/Mar/2024
+
+\lx_skh mata i danau
+\ID_en 967
+\ps Noun
+\de spring, source
+\dv mata air, sumber air
+\dt 16/Mar/2024
+
+\lx_skh abacha
+\ID_en 1083/1084
+\ps Adjective
+\de deep
+\dv dalam
+\dt 20/Mar/2024
+
+\lx_skh hidjoe
+\ID_en 1173
+\ps Adjective
+\de green
+\dv hijau
+\dt 20/Mar/2024
+
+\lx_skh afroei
+\ID_en 1167
+\ps Adjective
+\de white
+\dv putih
+\dt 20/Mar/2024
+
+\lx_skh auchoe
+\ID_en 1165
+\ps Adjective
+\de hot, spicy
+\dv panas, pedas
+\dt 20/Mar/2024
+
+\lx_skh lala
+\ID_en 959
+\nt <23>
+\ps Noun
+\de way, road
+\dv jalan
+\dt 20/Mar/2024
+
+\lx_skh dotōˈ
+\ID_en 985
+\ps Noun
+\de hammer
+\dv martil
+\dt 16/Mar/2024
+
+\lx_skh nihéboei
+\ID_en 1060
+\ps Verb
+\de to ransom
+\dv menebus
+\dt 20/Mar/2024
+
+\lx_skh bailing
+\ID_en 892
+\ps Noun
+\de shrimp
+\dv udang
+\dt 13/Mar/2024
+
+\lx_skh loefoe
+\ID_en 934
+\ps Noun
+\de flood, tide
+\dv pasang
+\dt 20/Mar/2024
+
+\lx_skh ingkip
+\ID_en 987
+\ps Noun
+\de tongs
+\dv sepit, tang
+\dt 16/Mar/2024
+
+\lx_skh aléoe
+\ID_en 1121
+\ps Adjective
+\de lazy
+\dv malas
+\dt 20/Mar/2024
+
+\lx_skh empé sagi
+\ID_en 1112
+\ps Noun
+\de square
+\dv persegi
+\dt 20/Mar/2024
+
+\lx_skh roegi
+\ID_en 1009
+\ps Noun
+\de loss
+\dv rugi
+\dt 17/Mar/2024
+
+\lx_skh ditambai (nitěmon) soeoèn
+\ID_en 1248
+\ps Verb
+\de to multiply, to add, to increase
+\dv mengalikan, menambahkan, memperbanyak
+\dt 20/Mar/2024
+
+\lx_skh idjau langi, boewaai
+\ID_en 1172
+\ps Adjective
+\de blue
+\dv biru
+\dt 20/Mar/2024
+
+\lx_skh mata aenàˈ
+\ID_en 906
+\ps Noun
+\de sun
+\dv matahari
+\dt 13/Mar/2024
+
+\lx_skh oelaw
+\ID_en 944
+\ps Noun
+\de island
+\dv pulau
+\dt 16/Mar/2024
+
+\lx_skh mataicheu
+\ID_en 946
+\ps Noun
+\de cape
+\dv tanjung, ujung
+\dt 20/Mar/2024
+
+\lx_skh leuleu naiteu
+\ID_en 958
+\ps Noun
+\de volcano
+\dv gunung berapi
+\dt 16/Mar/2024
+
+\lx_skh mangongofaj
+\ID_en 1225
+\ps Verb
+\de to spy
+\dv mengintai
+\dt 20/Mar/2024
+
+\lx_skh oentoeng
+\ID_en 1008
+\ps Noun
+\de profit
+\dv untung, laba
+\dt 17/Mar/2024
+
+\lx_skh lheu lheu
+\ID_en 947
+\nt <22>
+\ps Noun
+\de mountain
+\dv gunung
+\dt 20/Mar/2024
+
+\lx_skh <anira toela?>
+\ID_en 1170
+\ps Adjective
+\de brown
+\dv coklat
+\dt 20/Mar/2024
+
+\lx_skh niako
+\ID_en 1237
+\ps Verb
+\de to sniff
+\dv mengendus
+\dt 20/Mar/2024
+
+\lx_skh koetoe
+\ID_en 870
+\ps Noun
+\de flea
+\dv kutu anjing
+\dt 13/Mar/2024
+
+\lx_skh langkin
+\ID_en 941
+\ps Noun
+\de coral reef
+\dv karang
+\dt 16/Mar/2024
+
+\lx_skh bingong
+\ID_en 1159
+\ps Adjective
+\de dumb
+\dv bodoh
+\dt 20/Mar/2024
+
+\lx_skh kòmèn
+\ID_en 1204
+\ps Verb
+\de to whisper
+\dv berbisik-bisik
+\dt 20/Mar/2024
+
+\lx_skh molaeutǔt
+\ID_en 1142
+\ps Adjective
+\de empty
+\dv kosong
+\dt 20/Mar/2024
+
+\lx_skh aiteu
+\ID_en 1168
+\ps Adjective
+\de black
+\dv hitam
+\dt 20/Mar/2024
+
+\lx_skh helōˈ
+\ID_en 1051
+\ps Noun
+\de harbour
+\dv pelabuhan
+\dt 17/Mar/2024
+
+\lx_skh nisasaj
+\ID_en 1190
+\ps Verb
+\de to wash (clothes)
+\dv memcuci (pakaian)
+\dt 20/Mar/2024
+
+\lx_skh adechameu
+\ID_en 1115
+\ps Adjective
+\de narrow
+\dv sempit
+\dt 20/Mar/2024
+
+\lx_skh alifombong
+\ID_en 878
+\ps Noun
+\de butterfly
+\dv kupu-kupu
+\dt 13/Mar/2024
+
+\lx_skh achènon
+\ID_en 890
+\ps Noun
+\de snail, slug
+\dv siput
+\dt 20/Mar/2024
+
+\lx_skh fateu
+\ID_en 1007
+\ps Noun
+\de price
+\dv harga
+\dt 17/Mar/2024
+
+\lx_skh mola atoea, mola lepas
+\ID_en 1148/1149
+\ps Adjective
+\de loose
+\dv longgar
+\dt 20/Mar/2024
+
+\lx_skh ganoma
+\ID_en 989
+\ps Verb
+\de to sharpen, to grind
+\dv mengasah
+\dt 20/Mar/2024
+
+\lx_skh pèraˈ
+\ID_en 976
+\ps Noun
+\de silver
+\dv perak
+\dt 16/Mar/2024
+
+\lx_skh mengafae
+\ID_en 1006
+\ps Verb
+\de to sew
+\dv menjahit
+\dt 17/Mar/2024
+
+\lx_skh délum
+\ID_en 1005
+\ps Noun
+\de needle
+\dv jarum
+\dt 17/Mar/2024
+
+\lx_skh fafaecha, denih foeila
+\ID_en 1208
+\nt <33>
+\ps Verb
+\de to be able to
+\dv dapat, sanggup
+\dt 20/Mar/2024
+
+\lx_skh daneu
+\ID_en 903
+\ps Noun
+\de universe
+\dv alam semesta
+\dt 13/Mar/2024
+
+\lx_skh bakět
+\ID_en 935
+\ps Noun
+\de wave
+\dv ombak
+\dt 14/Mar/2024
+
+\lx_skh taloeleuoe
+\ID_en 931
+\ps Noun
+\de sea
+\dv laut
+\dt 13/Mar/2024
+
+\lx_skh nafeu, gouw gouw
+\ID_en 1136-1139
+\ps Adjective
+\de ugly
+\dv jelek
+\dt 20/Mar/2024
+
+\lx_skh aloen
+\ID_en 952
+\ps Noun
+\de valley
+\dv lembah
+\dt 16/Mar/2024

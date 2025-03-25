@@ -1,0 +1,1763 @@
+
+\lx_mwv koelit son
+\ID_en 35
+\ps Noun
+\de gums
+\dv gusi
+\dt 10/Mar/2024
+
+\lx_mwv simamatei
+\ID_en 188
+\ps Noun
+\de corpse
+\dv mayat
+\dt 14/Mar/2024
+
+\lx_mwv sâpou
+\ID_en 438
+\ps Noun
+\de hut, shelter
+\dv pondok
+\dt 16/Mar/2024
+
+\lx_mwv panausau
+\ID_en 109
+\ps Noun
+\de index finger
+\dv telunjuk
+\dt 12/Mar/2024
+
+\lx_mwv mapeset
+\ID_en 229
+\ps Adjective
+\de blind
+\dv buta
+\dt 15/Mar/2024
+
+\lx_mwv tilei
+\ID_en 78
+\ps Noun
+\de vagina
+\dv puki, liang peranakan
+\dt 12/Mar/2024
+
+\lx_mwv orat
+\ID_en 453
+\ps Noun
+\de staircase, steps
+\dv tangga, anak tangga
+\dt 16/Mar/2024
+
+\lx_mwv appoe
+\ID_en 203
+\ps Noun
+\de boil
+\dv bisul
+\dt 14/Mar/2024
+
+\lx_mwv roket
+\ID_en 205
+\ps Noun
+\de fever
+\dv demam (k.b.)
+\dt 14/Mar/2024
+
+\lx_mwv sinanalep
+\ID_en 245/246
+\ps Adjective
+\de female
+\dv perempuan
+\dt 15/Mar/2024
+
+\lx_mwv talikoe simanteoe
+\ID_en 299
+\ps Noun
+\de son-in-law
+\dv menantu laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv matat baut , matat oen/oet
+\ID_en 69
+\ps Noun
+\de posterior, buttocks
+\dv pantat
+\dt 12/Mar/2024
+
+\lx_mwv lakoet, sauloe
+\ID_en 310/314
+\ps Noun
+\de brother-in-law
+\dv ipar laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv son
+\ID_en 33
+\ps Noun
+\de tooth
+\dv gigi
+\dt 10/Mar/2024
+
+\lx_mwv moetottot
+\ID_en 48
+\ps Verb
+\de to suck at the breast
+\dv menyusu
+\dt 10/Mar/2024
+
+\lx_mwv malaulau
+\ID_en 177
+\ps Verb
+\de to nod
+\dv mengangguk
+\dt 14/Mar/2024
+
+\lx_mwv pagalak
+\ID_en 410
+\ps Verb
+\de to divorce
+\dv bercerai
+\dt 16/Mar/2024
+
+\lx_mwv lila
+\ID_en 31
+\ps Noun
+\de tongue
+\dv lidah
+\dt 10/Mar/2024
+
+\lx_mwv paloe
+\ID_en 94
+\ps Noun
+\de shin
+\dv tulang kering
+\dt 12/Mar/2024
+
+\lx_mwv ba'kala
+\ID_en 29
+\ps Noun
+\de chin
+\dv dagu
+\dt 10/Mar/2024
+
+\lx_mwv appoe, bokbong
+\ID_en 197
+\ps Adjective
+\de an infected wound
+\dv luka bernanah
+\dt 14/Mar/2024
+
+\lx_mwv atei
+\ID_en 56
+\ps Noun
+\de liver
+\dv hati
+\dt 11/Mar/2024
+
+\ID_en 437
+\nt <14>
+\ps Noun
+\de house
+\dv rumah
+\dt 16/Mar/2024
+
+\lx_mwv alei
+\ID_en 268
+\nt <7>
+\ps Noun
+\de brother
+\dv saudara laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv tai keboekat siboeroe
+\ID_en 267
+\ps Noun
+\de ancestors
+\dv leluhur, nenek moyang
+\dt 15/Mar/2024
+
+\lx_mwv oekui eninasioerau
+\ID_en 304
+\ps Noun
+\de stepparents
+\dv ayah dan ibu tiri
+\dt 15/Mar/2024
+
+\lx_mwv maron toeboe
+\ID_en 202
+\ps Adjective
+\de healthy
+\dv sehat
+\dt 14/Mar/2024
+
+\lx_mwv torak
+\ID_en 451
+\ps Noun
+\de window
+\dv jendela
+\dt 16/Mar/2024
+
+\lx_mwv boeloet ngoengoe
+\ID_en 30
+\ps Noun
+\de beard
+\dv janggut
+\dt 10/Mar/2024
+
+\lx_mwv moegê
+\ID_en 174
+\ps Verb
+\de belch
+\dv sendawa
+\dt 14/Mar/2024
+
+\lx_mwv oetak
+\ID_en 400
+\ps Noun
+\de fine
+\dv denda
+\dt 16/Mar/2024
+
+\lx_mwv sokoel
+\ID_en 88
+\ps Noun
+\de ankle
+\dv buku kaki, pergelangan kaki
+\dt 12/Mar/2024
+
+\lx_mwv nganga
+\ID_en 158
+\ps Noun
+\de voice
+\dv suara
+\dt 14/Mar/2024
+
+\lx_mwv soeat tottot
+\ID_en 46
+\ps Noun
+\de breast milk
+\dv air susu
+\dt 10/Mar/2024
+
+\lx_mwv rere
+\ID_en 84
+\nt <1>
+\ps Noun
+\de leg
+\dv kaki
+\dt 12/Mar/2024
+
+\lx_mwv likei/liki
+\ID_en 231
+\ps Verb
+\de squinting
+\dv juling
+\dt 15/Mar/2024
+
+\lx_mwv laggai
+\ID_en 329
+\ps Noun
+\de hamlet
+\dv dukuh
+\dt 15/Mar/2024
+
+\lx_mwv poesoe
+\ID_en 62
+\ps Noun
+\de umbilical cord
+\dv tali pusat
+\dt 11/Mar/2024
+
+\lx_mwv togat sinanalep
+\ID_en 262
+\ps Noun
+\de daughter
+\dv anak perempuan
+\dt 15/Mar/2024
+
+\lx_mwv kebboe
+\ID_en 270/271
+\de older brother
+\dv kakak laki-laki (kandung)
+\dt 15/Mar/2024
+
+\lx_mwv mâtei
+\ID_en 183
+\ps Verb
+\de to die
+\dv meninggal dunia
+\dt 14/Mar/2024
+
+\lx_mwv tai okko,si okko
+\ID_en 248/249
+\ps Noun
+\de virgin
+\dv gadis
+\dt 15/Mar/2024
+
+\lx_mwv poengoengoean
+\ID_en 356
+\ps Noun
+\de story
+\dv cerita
+\dt 16/Mar/2024
+
+\lx_mwv simadjô
+\ID_en 368
+\ps Noun
+\de sin
+\dv dosa
+\dt 16/Mar/2024
+
+\lx_mwv lappegoe
+\ID_en 57
+\ps Noun
+\de bile
+\dv empedu
+\dt 11/Mar/2024
+
+\lx_mwv masiboeloe
+\ID_en 347
+\ps Verb
+\de to worship
+\dv menyembah
+\dt 16/Mar/2024
+
+\lx_mwv boeloe
+\ID_en 122/123
+\ps Noun
+\de hair
+\dv rambut
+\dt 12/Mar/2024
+
+\lx_mwv oete
+\ID_en 2
+\ps Noun
+\de head
+\dv kepala
+\dt 10/Mar/2024
+
+\lx_mwv sitaoni
+\ID_en 111
+\ps Noun
+\de ring finger
+\dv jari manis
+\dt 12/Mar/2024
+
+\lx_mwv sirimanoea
+\ID_en 236
+\ps Noun
+\de man, mankind
+\dv manusia
+\dt 15/Mar/2024
+
+\lx_mwv patsat
+\ID_en 209
+\ps Noun
+\de diarrhoea
+\dv menceret (k.b.)
+\dt 15/Mar/2024
+
+\lx_mwv Ai roebania enoengan; kai pa ta'ei
+\ID_en 1537
+\de the road forks, which way should we go?
+\dv jalan bercabang dua, ke mana kami harus pergi?
+\dt 16/Mar/2024
+
+\lx_mwv tadda
+\ID_en 89
+\ps Noun
+\de heel
+\dv tumit
+\dt 12/Mar/2024
+
+\lx_mwv simanteoe
+\ID_en 243
+\ps Adjective
+\de male (human)
+\dv laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv mata
+\ID_en 11
+\ps Noun
+\de eye
+\dv mata
+\dt 10/Mar/2024
+
+\lx_mwv Aisoe / seiloe oinan , pasi taptap komangkoe
+\ID_en 1539
+\de bring water to wash try clothes
+\dv ambil air untuk mencuci pakaian saya
+\dt 16/Mar/2024
+
+\lx_mwv maboete
+\ID_en 76
+\ps Verb
+\de to stink, to smell
+\dv berbau busuk
+\dt 12/Mar/2024
+
+\lx_mwv maektek
+\ID_en 133
+\ps Adjective
+\de satisfied
+\dv kenyang, puas
+\dt 13/Mar/2024
+
+\lx_mwv tokoi
+\ID_en 70
+\ps Noun
+\de tailbone, coccyx
+\dv tulang tungging, tulang ekor
+\dt 12/Mar/2024
+
+\lx_mwv male
+\ID_en 232
+\ps Verb
+\de cured
+\dv sembuh
+\dt 15/Mar/2024
+
+\ID_en 238
+\nt <4>
+\ps Noun
+\de people
+\dv orang
+\dt 15/Mar/2024
+
+\lx_mwv tobat
+\ID_en 441
+\ps Noun
+\de roofing: thatch
+\dv atap
+\dt 16/Mar/2024
+
+\lx_mwv moerêggeu
+\ID_en 152
+\ps Verb
+\de to squat
+\dv berjongkok
+\dt 14/Mar/2024
+
+\lx_mwv sanitoe, saboeloengan
+\ID_en 339
+\ps Noun
+\de ghost
+\dv setan
+\dt 15/Mar/2024
+
+\lx_mwv Ta isese sikoeania pagaladj at toeboe mai
+\ID_en 1536
+\de it is not true what they say about us
+\dv tidak benar apa yang mereka katakan tentang kami
+\dt 16/Mar/2024
+
+\lx_mwv moeënga
+\ID_en 127
+\ps Verb
+\de to breathe
+\dv bernafas
+\dt 12/Mar/2024
+
+\lx_mwv masingoe
+\ID_en 222
+\ps Adjective
+\de a cold
+\dv selesma
+\dt 15/Mar/2024
+
+\lx_mwv moehoi
+\ID_en 166
+\ps Verb
+\de to sigh
+\dv berkeluh kesah, mengeluh
+\dt 14/Mar/2024
+
+\lx_mwv sema
+\ID_en 377
+\ps Noun
+\de town hall
+\dv balai kota
+\dt 16/Mar/2024
+
+\lx_mwv lage
+\ID_en 234
+\ps Noun
+\de medicine (with magic power)
+\dv obat (dari dukun)
+\dt 15/Mar/2024
+
+\lx_mwv moeënoeng
+\ID_en 145
+\ps Verb
+\de to walk
+\dv berjalan
+\dt 14/Mar/2024
+
+\lx_mwv katêuba
+\ID_en 421
+\ps Noun
+\de drum
+\dv genderang
+\dt 16/Mar/2024
+
+\ID_en 345
+\nt <10>
+\ps Noun
+\de the supreme being
+\dv yang maha kuasa
+\dt 16/Mar/2024
+
+\lx_mwv mabesi
+\ID_en 199
+\ps Adjective
+\de ill
+\dv sakit
+\dt 14/Mar/2024
+
+\lx_mwv moerio
+\ID_en 144
+\ps Verb
+\de to stand
+\dv berdiri
+\dt 14/Mar/2024
+
+\lx_mwv sikarei
+\ID_en 331
+\ps Noun
+\de sorcerer
+\dv tukang sihir
+\dt 15/Mar/2024
+
+\lx_mwv talikoe
+\ID_en 297/298
+\ps Noun
+\de parents-in-law
+\dv mertua
+\dt 15/Mar/2024
+
+\lx_mwv masoeboe
+\ID_en 392
+\ps Noun
+\de unhappiness
+\dv kesedihan, kemalangan
+\dt 16/Mar/2024
+
+\lx_mwv kalâbai
+\ID_en 282
+\ps Noun
+\de aunt MZ
+\dv bibi MZ
+\dt 15/Mar/2024
+
+\lx_mwv moeoap
+\ID_en 176
+\ps Verb
+\de to yawn
+\dv menguap
+\dt 14/Mar/2024
+
+\lx_mwv tsimin
+\ID_en 165
+\ps Verb
+\de to smile
+\dv tersenyum
+\dt 14/Mar/2024
+
+\lx_mwv simantêoe
+\ID_en 241
+\ps Noun
+\de man
+\dv orang laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv maseret
+\ID_en 223
+\ps Adjective
+\de gone to sleep (limbs)
+\dv kesemutan
+\dt 15/Mar/2024
+
+\lx_mwv Kasei ta'moi itoet akoe , sedda ikoedoe sene
+\ID_en 1541
+\de whoever can not keep up, should stay here
+\dv siapa yang tidak sanggup mengikuti saya, harus tinggal di sini
+\dt 16/Mar/2024
+
+\lx_mwv ibat laggai
+\ID_en 416
+\nt <13>
+\ps Noun
+\de prostitute
+\dv pelacur
+\dt 16/Mar/2024
+
+\lx_mwv Ke le ai tata rimata pasagak rangan saanak boeania
+\ID_en 1543
+\de war broke out after the death of the king
+\dv perang timbul setelah kematlan raja
+\dt 16/Mar/2024
+
+\lx_mwv tairasema
+\ID_en 324
+\ps Noun
+\de guest, stranger
+\dv tamu, orang asing
+\dt 15/Mar/2024
+
+\lx_mwv pipîau
+\ID_en 420
+\ps Noun
+\de flute
+\dv suling
+\dt 16/Mar/2024
+
+\lx_mwv akkoela
+\ID_en 117
+\ps Noun
+\de flesh
+\dv daging
+\dt 12/Mar/2024
+
+\lx_mwv Kase i momo i ibairat peti ne 'ne'?
+\ID_en 1538
+\de who can carry this chest?
+\dv siapa yang mampu memikul peti ini?
+\dt 16/Mar/2024
+
+\lx_mwv maladje
+\ID_en 129
+\ps Adjective
+\de hungry
+\dv lapar
+\dt 13/Mar/2024
+
+\lx_mwv tanai
+\ID_en 73
+\ps Noun
+\de faeces
+\dv tahi
+\dt 12/Mar/2024
+
+\lx_mwv matat bâlin
+\ID_en 449
+\ps Noun
+\de door
+\dv daun pintu
+\dt 16/Mar/2024
+
+\lx_mwv Kipaga lainia ai bara besi sir imanoea ne '?
+\ID_en 1545
+\de what made these people ill?
+\dv apa yang menyebabkan orang-orang ini menjadi sakit?
+\dt 16/Mar/2024
+
+\lx_mwv moepaisi
+\ID_en 169
+\ps Verb
+\de to sneeze
+\dv bersin
+\dt 14/Mar/2024
+
+\lx_mwv moesoû
+\ID_en 163
+\ps Verb
+\de to weep
+\dv menangis
+\dt 14/Mar/2024
+
+\lx_mwv eira
+\ID_en 306-309
+\ps Noun
+\de brother-in-law WB
+\dv ipar laki-laki WB
+\dt 15/Mar/2024
+
+\lx_mwv boea, momoi
+\ID_en 287/289
+\ps Noun
+\de nephew BoS
+\dv kemenakan (laki-laki) BoS
+\dt 15/Mar/2024
+
+\lx_mwv Ai leoe sirimanoea siagainia masialeake ekeoe
+\ID_en 1546
+\de there is someone who can make you better
+\dv ada orang yang dapat menyembuhkan anda
+\dt 16/Mar/2024
+
+\lx_mwv poesoe
+\ID_en 61
+\ps Noun
+\de navel
+\dv pusat
+\dt 11/Mar/2024
+
+\lx_mwv singoe
+\ID_en 126
+\ps Noun
+\de phlegm
+\dv dahak
+\dt 12/Mar/2024
+
+\lx_mwv katatakat
+\ID_en 184
+\ps Noun
+\de death
+\dv kematian
+\dt 14/Mar/2024
+
+\lx_mwv Tidoupe gougou roe a ele teloenga moeneng ka toeboe mai ; boêleu iake
+\ID_en 1540
+\de ask him for a few chickens perhaps he will give them
+\dv minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya
+\dt 16/Mar/2024
+
+\ID_en 407/408
+\nt <11>
+\de marry, marriage
+\dv menikah, perkawinan
+\dt 16/Mar/2024
+
+\lx_mwv sinanalep
+\ID_en 242
+\ps Noun
+\de woman
+\dv orang perempuan
+\dt 15/Mar/2024
+
+\lx_mwv râtei
+\ID_en 191
+\ps Noun
+\de grave
+\dv kuburan
+\dt 14/Mar/2024
+
+\lx_mwv alei
+\ID_en 269
+\nt <7>
+\ps Noun
+\de sister
+\dv saudara perempuan
+\dt 15/Mar/2024
+
+\lx_mwv moegerei
+\ID_en 160
+\ps Verb
+\de to shout
+\dv berteriak
+\dt 14/Mar/2024
+
+\lx_mwv sikeilik
+\ID_en 66
+\ps Noun
+\de shoulderblade
+\dv tulang belikat
+\dt 11/Mar/2024
+
+\lx_mwv biti
+\ID_en 93
+\ps Noun
+\de calf
+\dv betis
+\dt 12/Mar/2024
+
+\lx_mwv siboeboea
+\ID_en 264
+\ps Noun
+\de grandmother
+\dv nenek perempuan (nenek)
+\dt 15/Mar/2024
+
+\lx_mwv leleoi
+\ID_en 358
+\ps Noun
+\de poem
+\dv sanjak, syair
+\dt 16/Mar/2024
+
+\lx_mwv takep
+\ID_en 228
+\ps Adjective
+\de deaf
+\dv tuli
+\dt 15/Mar/2024
+
+\lx_mwv maektek
+\ID_en 134
+\ps Adjective
+\de replete, satisfied
+\dv kenyang, puas
+\dt 13/Mar/2024
+
+\lx_mwv moeloedji
+\ID_en 167
+\ps Verb
+\de to spit
+\dv meludah
+\dt 14/Mar/2024
+
+\lx_mwv matat keppa
+\ID_en 99
+\ps Noun
+\de armpit
+\dv ketiak
+\dt 12/Mar/2024
+
+\lx_mwv moesokot
+\ID_en 172
+\ps Verb
+\de hiccups
+\dv tersedu
+\dt 14/Mar/2024
+
+\lx_mwv katoemoenengan
+\ID_en 401
+\ps Noun
+\de witness
+\dv saksi
+\dt 16/Mar/2024
+
+\lx_mwv kamaman
+\ID_en 276
+\ps Noun
+\de uncle MB
+\dv paman MB
+\dt 15/Mar/2024
+
+\lx_mwv pangamoek
+\ID_en 139/140
+\ps Noun
+\de dream
+\dv mimpi
+\dt 14/Mar/2024
+
+\lx_mwv moetoga
+\ID_en 413
+\ps Verb
+\de to give birth to
+\dv melahirkan
+\dt 16/Mar/2024
+
+\lx_mwv sioeran
+\ID_en 302/303
+\ps Noun
+\de stepson
+\dv anak tiri laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv oengat
+\ID_en 118
+\ps Noun
+\de tendon
+\dv urat
+\dt 12/Mar/2024
+
+\lx_mwv bagi
+\ID_en 272/273
+\de younger brother
+\dv adik laki-laki kandung
+\dt 15/Mar/2024
+
+\lx_mwv akkekeiloe
+\ID_en 15
+\ps Noun
+\de eyebrow
+\dv alis (tunggal)
+\dt 10/Mar/2024
+
+\lx_mwv tinanai
+\ID_en 54
+\ps Noun
+\de belly
+\dv perut
+\dt 11/Mar/2024
+
+\lx_mwv sikebboe
+\ID_en 108
+\ps Noun
+\de thumb
+\dv ibu jari
+\dt 12/Mar/2024
+
+\lx_mwv samandi
+\ID_en 315
+\ps Adjective
+\de related
+\dv keluarga
+\dt 15/Mar/2024
+
+\lx_mwv arat
+\ID_en 396
+\ps Noun
+\de common law
+\dv hukum adat
+\dt 16/Mar/2024
+
+\lx_mwv talinga
+\ID_en 9
+\ps Noun
+\de ear
+\dv telinga
+\dt 10/Mar/2024
+
+\lx_mwv Aileoe koegaba se ' se' kan koeroukoe
+\ID_en 1534
+\de I want to find grass for my horse
+\dv saya ingin mencari rumput untuk kuda saya
+\dt 16/Mar/2024
+
+\lx_mwv Koegalak Ie sia roe a
+\ID_en 1542
+\de here I am leaving two men behind
+\dv saya meninggalkan dua orang di sini
+\dt 16/Mar/2024
+
+\lx_mwv moelalak
+\ID_en 153
+\ps Verb
+\de to swim
+\dv berenang
+\dt 14/Mar/2024
+
+\lx_mwv tolou lolokad
+\ID_en 37
+\ps Noun
+\de throat
+\dv kerongkongan
+\dt 10/Mar/2024
+
+\lx_mwv bibo
+\ID_en 25
+\ps Noun
+\de lips
+\dv bibir (jamak)
+\dt 10/Mar/2024
+
+\lx_mwv moeloekke
+\ID_en 147
+\ps Verb
+\de to lie prone
+\dv tiarap
+\dt 14/Mar/2024
+
+\lx_mwv togat singongai
+\ID_en 112
+\ps Noun
+\de little finger
+\dv kelingking
+\dt 12/Mar/2024
+
+\lx_mwv bagat takep
+\ID_en 102
+\ps Noun
+\de palm of the hand
+\dv telapak tangan
+\dt 12/Mar/2024
+
+\lx_mwv tolat
+\ID_en 115
+\ps Noun
+\de bone
+\dv tulang
+\dt 12/Mar/2024
+
+\lx_mwv teinoeng
+\ID_en 52
+\ps Noun
+\de heart
+\dv jantung
+\dt 11/Mar/2024
+
+\lx_mwv sanitoe
+\ID_en 341
+\nt <8>
+\ps Noun
+\de evil spirit
+\dv ruh jahat
+\dt 15/Mar/2024
+
+\lx_mwv moekoeddoe
+\ID_en 149
+\ps Verb
+\de to sit (on a chair)
+\dv duduk (di atas kursi)
+\dt 14/Mar/2024
+
+\lx_mwv oni
+\ID_en 239
+\ps Noun
+\de name
+\dv nama
+\dt 15/Mar/2024
+
+\lx_mwv pagoeile
+\ID_en 432
+\ps Verb
+\de to play
+\dv bermain
+\dt 16/Mar/2024
+
+\lx_mwv moenoe, mat eiake
+\ID_en 192
+\ps Verb
+\de to kill
+\dv membunuh
+\dt 14/Mar/2024
+
+\lx_mwv singongai
+\ID_en 105
+\ps Noun
+\de fingers
+\dv jari tangan (jamak)
+\dt 12/Mar/2024
+
+\lx_mwv tambaut
+\ID_en 68
+\ps Noun
+\de buttock
+\dv pantat bagian kiri atau kanan
+\dt 11/Mar/2024
+
+\lx_mwv taket bokolo
+\ID_en 91
+\ps Noun
+\de knee
+\dv lutut
+\dt 12/Mar/2024
+
+\lx_mwv sikerei
+\ID_en 379
+\ps Noun
+\de a sort of first minister
+\dv patih
+\dt 16/Mar/2024
+
+\lx_mwv oekoei, badja
+\ID_en 275
+\ps Noun
+\de uncle FB
+\dv paman FB
+\dt 15/Mar/2024
+
+\lx_mwv mabesi oetoe
+\ID_en 219
+\ps Noun
+\de headache
+\dv sakit kepala, pusing
+\dt 15/Mar/2024
+
+\lx_mwv toesagat
+\ID_en 173
+\ps Verb
+\de to choke
+\dv tersedak
+\dt 14/Mar/2024
+
+\lx_mwv tai lainge, si lainge
+\ID_en 250
+\ps Noun
+\de boy, lad
+\dv anak laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv besit baga
+\ID_en 207
+\ps Noun
+\de stomach ache
+\dv sakit perut
+\dt 15/Mar/2024
+
+\lx_mwv alei
+\ID_en 320
+\ps Noun
+\de comrade, friend
+\dv sekutu, teman
+\dt 15/Mar/2024
+
+\lx_mwv ina
+\ID_en 256
+\ps Noun
+\de mother
+\dv ibu
+\dt 15/Mar/2024
+
+\lx_mwv moelô
+\ID_en 130
+\ps Verb
+\de to drink
+\dv minum
+\dt 13/Mar/2024
+
+\lx_mwv singoe
+\ID_en 20
+\ps Noun
+\de mucus
+\dv ingus
+\dt 10/Mar/2024
+
+\lx_mwv moesilainge, paelet
+\ID_en 415
+\nt <12>
+\ps Verb
+\de to commit adultery
+\dv berzinah
+\dt 16/Mar/2024
+
+\lx_mwv moega'ga'
+\ID_en 161
+\ps Verb
+\de to laugh
+\dv tertawa
+\dt 14/Mar/2024
+
+\lx_mwv ngoengoe
+\ID_en 22
+\ps Noun
+\de mouth
+\dv mulut
+\dt 10/Mar/2024
+
+\lx_mwv oektoeh
+\ID_en 391
+\ps Noun
+\de happiness
+\dv kebahagiaan
+\dt 16/Mar/2024
+
+\lx_mwv moeraû
+\ID_en 154
+\ps Verb
+\de to take a bath
+\dv mandi
+\dt 14/Mar/2024
+
+\lx_mwv sioeran
+\ID_en 305
+\de adopted child
+\dv anak pungut; anak angkat
+\dt 15/Mar/2024
+
+\lx_mwv koepkoep akenen
+\ID_en 194
+\ps Noun
+\de inheritance
+\dv warisan
+\dt 14/Mar/2024
+
+\lx_mwv toeboe
+\ID_en 1
+\ps Noun
+\de body
+\dv badan, tubuh
+\dt 10/Mar/2024
+
+\lx_mwv siboeboea, teteu
+\ID_en 263
+\ps Noun
+\de grandfather
+\dv nenek laki-laki (kakek)
+\dt 15/Mar/2024
+
+\lx_mwv moeri manoea
+\ID_en 182
+\ps Adjective
+\de to live (alive)
+\dv hidup
+\dt 14/Mar/2024
+
+\lx_mwv moetanai
+\ID_en 72
+\ps Verb
+\de to defecate
+\dv berak
+\dt 12/Mar/2024
+
+\lx_mwv sinetekat
+\ID_en 196
+\ps Noun
+\de wound
+\dv luka
+\dt 14/Mar/2024
+
+\lx_mwv poenoe teteu
+\ID_en 274
+\ps Noun
+\de grandchild
+\dv cucu
+\dt 15/Mar/2024
+
+\lx_mwv loedji
+\ID_en 125
+\ps Noun
+\de saliva
+\dv ludah
+\dt 12/Mar/2024
+
+\lx_mwv maônggou
+\ID_en 132
+\ps Adjective
+\de thirsty
+\dv haus
+\dt 13/Mar/2024
+
+\lx_mwv ngong
+\ID_en 424
+\ps Noun
+\de gong
+\dv gong
+\dt 16/Mar/2024
+
+\lx_mwv lakoepat
+\ID_en 5
+\ps Noun
+\de skull
+\dv tempurung kepala
+\dt 10/Mar/2024
+
+\lx_mwv laggaira sanitoe
+\ID_en 382
+\ps Noun
+\de (sacred) place (held in awe)
+\dv tempat (menyeramkan)
+\dt 16/Mar/2024
+
+\ID_en 343/344
+\nt <9>
+\ps Noun
+\de soul, spirit
+\dv jiwa, nyawa, ruh
+\dt 15/Mar/2024
+
+\lx_mwv madjorok
+\ID_en 159
+\ps Adjective
+\de hoarse
+\dv parau
+\dt 14/Mar/2024
+
+\lx_mwv boekkoe
+\ID_en 4
+\ps Noun
+\de forehead
+\dv dahi
+\dt 10/Mar/2024
+
+\lx_mwv takeikei
+\ID_en 369
+\ps Adjective
+\de forbidden
+\dv pantangan, pemali
+\dt 16/Mar/2024
+
+\lx_mwv oekui, ama
+\ID_en 255
+\ps Noun
+\de father
+\dv ayah
+\dt 15/Mar/2024
+
+\lx_mwv siboeboea
+\ID_en 266
+\ps Noun
+\de great-grandparents
+\dv moyang
+\dt 15/Mar/2024
+
+\lx_mwv sakit
+\ID_en 225
+\ps Adjective
+\de paralysed
+\dv lumpuh
+\dt 15/Mar/2024
+
+\lx_mwv logau
+\ID_en 116
+\ps Noun
+\de blood
+\dv darah
+\dt 12/Mar/2024
+
+\lx_mwv katoea gadjat
+\ID_en 338
+\ps Noun
+\de omen
+\dv pertanda
+\dt 15/Mar/2024
+
+\lx_mwv roeroekad
+\ID_en 41
+\ps Noun
+\de chest, breast (male)
+\dv dada (laki-laki, jamak)
+\dt 10/Mar/2024
+
+\lx_mwv poenen, moelia
+\ID_en 377
+\ps Noun
+\de town hall
+\dv balai kota
+\dt 16/Mar/2024
+
+\lx_mwv sikerei
+\ID_en 378
+\ps Noun
+\de king
+\dv raja
+\dt 16/Mar/2024
+
+\lx_mwv toeboedjoek
+\ID_en 148
+\ps Verb
+\de to lie
+\dv berbaring
+\dt 14/Mar/2024
+
+\lx_mwv djadjaok
+\ID_en 426
+\ps Noun
+\de Jew's harp
+\dv ginggung (genggong)
+\dt 16/Mar/2024
+
+\lx_mwv momoi , boea
+\ID_en 288/290
+\ps Noun
+\de nephew ByS
+\dv kemenakan (laki-laki) ByS
+\dt 15/Mar/2024
+
+\lx_mwv toga
+\ID_en 257/258
+\nt <6>
+\de oldest child
+\dv anak sulung
+\dt 15/Mar/2024
+
+\lx_mwv togat simanteoe
+\ID_en 261
+\ps Noun
+\de son
+\dv anak laki-laki
+\dt 15/Mar/2024
+
+\lx_mwv moekôkolo
+\ID_en 170
+\ps Verb
+\de to cough
+\dv batuk
+\dt 14/Mar/2024
+
+\lx_mwv sinanalep
+\ID_en 317
+\ps Noun
+\de husband
+\dv suami
+\dt 15/Mar/2024
+
+\lx_mwv koepkoepmen
+\ID_en 193
+\ps Verb
+\de to inherit
+\dv mewarisi
+\dt 14/Mar/2024
+
+\lx_mwv kia
+\ID_en 83
+\ps Noun
+\de piss, urine
+\dv air kencing (k.b.)
+\dt 12/Mar/2024
+
+\lx_mwv tottot
+\ID_en 42
+\ps Noun
+\de breasts (female)
+\dv dada (perempuan, jamak)
+\dt 10/Mar/2024
+
+\lx_mwv moerekkoek
+\ID_en 151
+\ps Verb
+\de to sit (with the knees bent to one side)
+\dv bertimpuh
+\dt 14/Mar/2024
+
+\lx_mwv boea, momoi
+\ID_en 291/293
+\ps Noun
+\de niece BoD
+\dv kemenakan perempuan BoD
+\dt 15/Mar/2024
+
+\lx_mwv ngâlou
+\ID_en 332
+\ps Noun
+\de talisman
+\dv jimat
+\dt 15/Mar/2024
+
+\lx_mwv para boeboengan
+\ID_en 440
+\ps Noun
+\de ridge of roof
+\dv bubungan
+\dt 16/Mar/2024
+
+\lx_mwv ngat ngaret
+\ID_en 34
+\ps Noun
+\de molar
+\dv geraham
+\dt 10/Mar/2024
+
+\lx_mwv sikeîli
+\ID_en 452
+\ps Noun
+\de corner
+\dv sudut
+\dt 16/Mar/2024
+
+\lx_mwv siritenga/inat singongai
+\ID_en 110
+\ps Noun
+\de middle finger
+\dv jari tengah
+\dt 12/Mar/2024
+
+\lx_mwv Kasei sia ab ele ka pasagangara
+\ID_en 1544
+\de who won the war?
+\dv siapa yang menang dalam peperangan itu?
+\dt 16/Mar/2024
+
+\lx_mwv patoera
+\ID_en 430
+\ps Noun
+\de riddle
+\dv teka-teki
+\dt 16/Mar/2024
+
+\lx_mwv lolokkat
+\ID_en 38
+\ps Noun
+\de neck
+\dv leher
+\dt 10/Mar/2024
+
+\lx_mwv oesoe
+\ID_en 50
+\ps Noun
+\de rib
+\dv tulang rusuk
+\dt 10/Mar/2024
+
+\lx_mwv baloegoe
+\ID_en 53
+\ps Noun
+\de stomach
+\dv lambung
+\dt 11/Mar/2024
+
+\lx_mwv eloe
+\ID_en 17
+\ps Noun
+\de tear
+\dv air mata (tunggal)
+\dt 10/Mar/2024
+
+\lx_mwv bailat
+\ID_en 21
+\ps Noun
+\de cheek
+\dv pipi
+\dt 15/Mar/2024
+
+\lx_mwv mabesi
+\ID_en 200
+\ps Adjective
+\de to be ill
+\dv merasa sakit
+\dt 14/Mar/2024
+
+\lx_mwv le'lekat
+\ID_en 8
+\ps Noun
+\de crown
+\dv hulu kepala
+\dt 10/Mar/2024
+
+\lx_mwv laiket
+\ID_en 131
+\nt <2>
+\ps Adjective
+\de drunk
+\dv mabuk
+\dt 13/Mar/2024
+
+\lx_mwv asak
+\ID_en 18
+\ps Noun
+\de nose
+\dv hidung
+\dt 10/Mar/2024
+
+\lx_mwv bakkapat
+\ID_en 90
+\ps Noun
+\de thigh
+\dv paha
+\dt 12/Mar/2024
+
+\lx_mwv goeng
+\ID_en 137
+\ps Verb
+\de to swallow
+\dv telan
+\dt 13/Mar/2024
+
+\lx_mwv Piganga gogoian ta' ai bela oerat?
+\ID_en 1535
+\de how many days has it been since it rained?
+\dv sudah berapa hari hujan tidak turun?
+\dt 16/Mar/2024
+
+\lx_mwv sinanalep
+\ID_en 318
+\ps Noun
+\de wife
+\dv istri
+\dt 15/Mar/2024
+
+\lx_mwv toga sinalalep
+\ID_en 252
+\ps Noun
+\de girl
+\dv gadis
+\dt 15/Mar/2024
+
+\lx_mwv moeëtoet
+\ID_en 75
+\ps Verb
+\de to fart
+\dv berkentut
+\dt 12/Mar/2024
+
+\lx_mwv boeloet ngoengoe
+\ID_en 28
+\ps Noun
+\de goatee
+\dv janggut seperti, janggut kambing
+\dt 10/Mar/2024
+
+\lx_mwv moegaila
+\ID_en 146
+\ps Verb
+\de to lie supine
+\dv telentang
+\dt 14/Mar/2024
+
+\lx_mwv sirimanoea
+\ID_en 237
+\ps Noun
+\de people
+\dv orang
+\dt 15/Mar/2024
+
+\lx_mwv bagat lalep
+\ID_en 456/457
+\nt <15>
+\ps Noun
+\de floor
+\dv lantai
+\dt 16/Mar/2024
+
+\lx_mwv koelit
+\ID_en 121
+\ps Noun
+\de skin
+\dv kulit
+\dt 12/Mar/2024
+
+\lx_mwv talikoe sinanalep
+\ID_en 300
+\ps Noun
+\de daughter-in-law
+\dv menantu perempuan
+\dt 15/Mar/2024
+
+\lx_mwv momoi, boea
+\ID_en 294/296
+\ps Noun
+\de niece ZyD
+\dv kemenakan perempuan ZyD
+\dt 15/Mar/2024
+
+\lx_mwv boeloet ngoengoe
+\ID_en 27
+\ps Noun
+\de moustache
+\dv kumis
+\dt 10/Mar/2024
+
+\lx_mwv rimata
+\ID_en 386
+\ps Noun
+\de village head
+\dv kepala kampung
+\dt 16/Mar/2024
+
+\lx_mwv boetoeat
+\ID_en 244
+\ps Adjective
+\de male (animal)
+\dv jantan
+\dt 15/Mar/2024
+
+\lx_mwv soelet
+\ID_en 107
+\ps Noun
+\de finger (nail)
+\dv kuku
+\dt 12/Mar/2024
+
+\lx_mwv attinang
+\ID_en 124
+\ps Noun
+\de sweat
+\dv keringat
+\dt 12/Mar/2024
+
+\lx_mwv takep , kabe
+\ID_en 97
+\ps Noun
+\de hand
+\dv tangan
+\dt 12/Mar/2024
+
+\lx_mwv kameinan
+\ID_en 281
+\ps Noun
+\de aunt FZ
+\dv bibi FZ
+\dt 25/Mar/2024
+
+\lx_mwv balak
+\ID_en 198
+\ps Noun
+\de scar
+\dv bekas luka
+\dt 14/Mar/2024
+
+\lx_mwv ta' samandi
+\ID_en 316
+\ps Adjective
+\de unrelated
+\dv bukan keluarga
+\dt 15/Mar/2024
+
+\lx_mwv ioekoem
+\ID_en 399
+\ps Verb
+\de to punish
+\dv menghukum
+\dt 16/Mar/2024
+
+\lx_mwv moekia
+\ID_en 82
+\ps Verb
+\de to urinate
+\dv kencing (k.k.)
+\dt 12/Mar/2024
+
+\lx_mwv para
+\ID_en 95
+\ps Noun
+\de arm
+\dv lengan
+\dt 12/Mar/2024
+
+\lx_mwv moetoeroe
+\ID_en 428
+\ps Verb
+\de to dance
+\dv menari
+\dt 16/Mar/2024
+
+\lx_mwv peret
+\ID_en 77
+\ps Noun
+\de penis
+\dv batang pelir
+\dt 12/Mar/2024
+
+\lx_mwv mata
+\ID_en 3
+\ps Noun
+\de face
+\dv muka, wajah
+\dt 10/Mar/2024
+
+\lx_mwv teitei
+\ID_en 63
+\ps Noun
+\de back
+\dv belakang, punggung
+\dt 11/Mar/2024
+
+\lx_mwv alai
+\ID_en 6
+\ps Noun
+\de hair
+\dv rambut
+\dt 10/Mar/2024
+
+\lx_mwv moekôm
+\ID_en 128
+\ps Verb
+\de to eat
+\dv makan
+\dt 13/Mar/2024
+
+\lx_mwv eto
+\ID_en 100
+\ps Noun
+\de elbow
+\dv siku
+\dt 12/Mar/2024
+
+\lx_mwv merep/merem
+\ID_en 138
+\ps Verb
+\de to sleep
+\dv tidur
+\dt 14/Mar/2024
+
+\lx_mwv simakate baga
+\ID_en 367
+\ps Noun
+\de virtue
+\dv kebajikan
+\dt 16/Mar/2024
+
+\lx_mwv laggai
+\ID_en 327
+\ps Noun
+\de town (capital)
+\dv kota (ibu kota)
+\dt 15/Mar/2024
+
+\lx_mwv kâsou
+\ID_en 446
+\ps Noun
+\de rafter
+\dv kasau
+\dt 16/Mar/2024
+
+\lx_mwv siagai gaut
+\ID_en 235
+\nt <3>
+\ps Noun
+\de doctor (medicine man)
+\dv dokter (dukun)
+\dt 15/Mar/2024

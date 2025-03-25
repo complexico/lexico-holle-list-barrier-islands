@@ -1,0 +1,2037 @@
+
+\lx_nia loeō
+\ID_en 1394
+\Notes_en <79>
+\ps Noun
+\de day
+\dv hari
+\dt 28/Apr/2024
+
+\lx_nia olifoe
+\ID_en 1197
+\ps Verb
+\de to have forgotten
+\dv lupa
+\dt 27/Apr/2024
+
+\lx_nia aro̠oe
+\ID_en 1453
+\ps Adjective
+\de far
+\dv jauh
+\dt 28/Apr/2024
+
+\lx_nia alawa
+\ID_en 1087
+\ps Adjective
+\de high
+\dv tinggi
+\dt 17/Mar/2024
+
+\lx_nia sōjō
+\ID_en 1169
+\ps Adjective
+\de red
+\dv merah
+\dt 27/Apr/2024
+
+\lx_nia adōgōdōgō
+\ID_en 1065/1066
+\sn 1
+\ps Adjective
+\de short (things)
+\dv pendek
+\sn 2
+\ps Adjective
+\de short (time)
+\dv singkat
+\dt 17/Mar/2024
+
+\lx_nia cho̠nia
+\ID_en 1378
+\ps Pronoun
+\de his
+\dv kata ganti empunya orang ketiga tunggal (laki-laki)
+\dt 28/Apr/2024
+
+\lx_nia haméga latano̠ laza dao̠
+\ID_en 1522
+\de when will these fields be planted?
+\dv kapan tanah ini akan ditanami?
+\dt 28/Apr/2024
+
+\lx_nia lala dao̠ fabalī; īsō sa to̠ro̠
+\ID_en 1537
+\de the road forks, which way should we go?
+\dv jalan bercabang dua, ke mana kami harus pergi?
+\dt 28/Apr/2024
+
+\lx_nia maowoe
+\ID_en 1079
+\ps Adjective
+\de tame
+\dv jinak
+\dt 17/Mar/2024
+
+\lx_nia jaoego̠
+\ID_en 1359
+\ps Pronoun
+\de kamu (sing.)
+\dv kamu, engkau
+\dt 27/Apr/2024
+
+\lx_nia ménéwī
+\ID_en 1418
+\ps Noun
+\de yesterday
+\dv kemarin
+\dt 28/Apr/2024
+
+\lx_nia féléndoea
+\ID_en 1304
+\ps number
+\de twelve
+\dv dua belas
+\dt 27/Apr/2024
+
+\lx_nia abila
+\ID_en 1090
+\ps Adjective
+\de crooked, bent
+\dv bengkok
+\dt 17/Mar/2024
+
+\lx_nia lona
+\ID_en 1429
+\ps Adverb
+\de not yet
+\dv belum
+\dt 28/Apr/2024
+
+\lx_nia matònga, tambaē
+\ID_en 1326
+\ps Noun
+\de a half
+\dv setengah
+\dt 27/Apr/2024
+
+\lx_nia haga
+\ID_en 1398
+\ps Noun
+\de light
+\dv sinar
+\dt 28/Apr/2024
+
+\lx_nia ba da'o̠
+\ID_en 1389
+\ps Adverb
+\de there (near hearer)
+\dv di situ (di sebelah pendengar)
+\dt 28/Apr/2024
+
+\lx_nia si
+\ID_en 1382
+\ps determiner
+\de which?
+\dv mana, (yang) mana
+\dt 28/Apr/2024
+
+\lx_nia ha nīha sītōla
+\ID_en 1538
+\de who can carry this chest?
+\dv siapa yang mampu memikul peti ini?
+\dt 28/Apr/2024
+
+\lx_nia médoea wongi
+\ID_en 1419
+\ps Noun
+\de the day before yesterday
+\dv kemarin dulu
+\dt 28/Apr/2024
+
+\lx_nia ara
+\ID_en 1064
+\ps Adjective
+\de long (time)
+\dv lama
+\dt 17/Mar/2024
+
+\lx_nia mangōfō
+\ID_en 1233
+\ps Verb
+\de to slurp
+\dv menghirup
+\dt 27/Apr/2024
+
+\lx_nia tōsaké, aho̠ndo̠
+\ID_en 1052
+\ps Verb
+\de to be wrecked
+\dv terdampar, kandas
+\dt 17/Mar/2024
+
+\lx_nia mōfaja
+\ID_en 1272
+\ps Verb
+\de to tell lies
+\dv berdusta
+\dt 27/Apr/2024
+
+\lx_nia līma
+\ID_en 1297
+\ps number
+\de five
+\dv lima
+\dt 27/Apr/2024
+
+\lx_nia wa-īroegī
+\ID_en 1442/1443
+\sn 1
+\ps Preposition
+\de from-to (place)
+\dv dari-hingga (tempat)
+\sn 2
+\ps Preposition
+\de from-to (time)
+\dv dari-hingga (waktu)
+\dt 28/Apr/2024
+
+\lx_nia abacha
+\ID_en 1083/1084
+\ps Adjective
+\de deep
+\dv dalam
+\dt 17/Mar/2024
+
+\lx_nia aito̠
+\ID_en 1168
+\ps Adjective
+\de black
+\dv hitam
+\dt 27/Apr/2024
+
+\lx_nia ōja
+\ID_en 1339
+\ps determiner
+\de many, much
+\dv banyak
+\dt 27/Apr/2024
+
+\lx_nia ono
+\ID_en 1298
+\ps number
+\de six
+\dv enam
+\dt 27/Apr/2024
+
+\lx_nia o̠fa'mbalo̠
+\ID_en 1112
+\ps Adjective
+\de square
+\dv persegi
+\dt 27/Apr/2024
+
+\lx_nia ésōlō, atabě
+\ID_en 1067
+\Notes_en <68>
+\ps Adjective
+\de big, fat
+\dv gemuk
+\dt 28/Apr/2024
+
+\lx_nia to̠loengafoeloe
+\ID_en 1316
+\ps number
+\de thirty
+\dv tiga puluh
+\dt 27/Apr/2024
+
+\lx_nia afoé
+\ID_en 1164
+\ps Adjective
+\de astringent
+\dv sepat
+\dt 27/Apr/2024
+
+\lx_nia félénga to̠loe
+\ID_en 1305
+\ps number
+\de thirteen
+\dv tiga belas
+\dt 27/Apr/2024
+
+\lx_nia ba, ba dété
+\ID_en 1341
+\Notes_en <74>
+\ps Adjective
+\de finished
+\dv habis
+\dt 28/Apr/2024
+
+\lx_nia mengēla
+\ID_en 1193
+\ps Verb
+\de to know
+\dv tahu, mengetahui
+\dt 27/Apr/2024
+
+\lx_nia anaoe
+\ID_en 1063
+\ps Adjective
+\de long (things)
+\dv panjang
+\dt 17/Mar/2024
+
+\lx_nia falailo̠
+\ID_en 1203
+\Notes_en <72>
+\ps Verb
+\de to sing
+\dv bernyanyi
+\dt 28/Apr/2024
+
+\lx_nia halo̠ nīdano̞ fansasa lēmbégoe
+\ID_en 1539
+\de bring water to wash try clothes
+\dv ambil air untuk mencuci pakaian saya
+\dt 28/Apr/2024
+
+\lx_nia hewisa
+\ID_en 1461
+\ps Preposition
+\de how
+\dv bagaimana
+\dt 28/Apr/2024
+
+\lx_nia cho̠
+\ID_en 1448
+\ps Preposition
+\de at, in
+\dv di
+\dt 28/Apr/2024
+
+\lx_nia hadia
+\ID_en 1380
+\ps Adverb
+\de what?
+\dv apa
+\dt 28/Apr/2024
+
+\lx_nia manola, mangaloecha
+\ID_en 1043
+\ps Verb
+\de to row, to pull
+\dv mengayuh
+\dt 17/Mar/2024
+
+\lx_nia mohalo̠wo̠
+\ID_en 1210
+\ps Verb
+\de to work
+\dv bekerja
+\dt 27/Apr/2024
+
+\lx_nia bongi
+\ID_en 1402
+\ps Noun
+\de night (time of the night)
+\dv malam
+\dt 28/Apr/2024
+
+\lx_nia awoejoe
+\ID_en 1152
+\ps Adjective
+\de young
+\dv muda
+\dt 27/Apr/2024
+
+\lx_nia jo̠oe
+\ID_en 1431
+\ps Adjective
+\de north
+\dv utara
+\dt 28/Apr/2024
+
+\lx_nia basō ba nasī
+\ID_en 1053
+\ps Noun
+\de pirate
+\dv bajak laut
+\dt 17/Mar/2024
+
+\lx_nia ja'aga
+\ID_en 1366
+\ps Pronoun
+\de we (exclusive)
+\dv kami, kata ganti orang kedua (jamak)
+\dt 27/Apr/2024
+
+\lx_nia ja īra ando̠ moewo̠li tingi² (enōni) cho̠ salawa da o̠
+\ID_en 1528
+\de who has been appointed delegate by the king?
+\dv siapa yang diangkat sebagai utusan oleh raja?
+\dt 28/Apr/2024
+
+\lx_nia ōmasī
+\ID_en 1243
+\ps Verb
+\de to want
+\dv hendak
+\dt 27/Apr/2024
+
+\lx_nia kōnī
+\ID_en 1206
+\ps Verb
+\de to call
+\dv memanggil
+\dt 27/Apr/2024
+
+\lx_nia ba zi doea wongī
+\ID_en 1423
+\ps Noun
+\de the day after tomorrow
+\dv lusa
+\dt 28/Apr/2024
+
+\lx_nia érīsérīsé
+\ID_en 1075
+\ps Adjective
+\de slim
+\dv langsing
+\dt 17/Mar/2024
+
+\lx_nia mambo̠ro̠taīgo̠
+\ID_en 1260/1261
+\ps Verb
+\de to start
+\dv mulai
+\dt 27/Apr/2024
+
+\lx_nia īdě īdě
+\ID_en 1061
+\ps Adjective
+\de small
+\dv kecil
+\dt 17/Mar/2024
+
+\lx_nia manarō, mangenī
+\ID_en 1223
+\ps Verb
+\de to be awake
+\dv bangun, terjaga, tidak tidur
+\dt 27/Apr/2024
+
+\lx_nia īada-a, oada'é
+\ID_en 1408
+\ps Adjective
+\de now
+\dv sekarang
+\dt 28/Apr/2024
+
+\lx_nia moerōngō
+\ID_en 1227
+\ps Verb
+\de to hear
+\dv mendengar
+\dt 27/Apr/2024
+
+\lx_nia zoeī
+\ID_en 1349
+\ps determiner
+\de less
+\dv kurang
+\dt 27/Apr/2024
+
+\lx_nia jawa
+\ID_en 1437
+\ps Preposition
+\de up, upper, above
+\dv di atas
+\dt 28/Apr/2024
+
+\ID_en 1383
+\Notes_en <76>
+\ps Pronoun
+\de this
+\dv ini
+\dt 28/Apr/2024
+
+\lx_nia eroho
+\ID_en 1080/1081
+\sn 1
+\ps Adjective
+\de wild
+\dv liar
+\sn 2
+\ps Adjective
+\de schuw
+\dv wary, shy, timid
+\dt 17/Mar/2024
+
+\lx_nia ōwō
+\ID_en 1033
+\Notes_en <67>
+\ps Noun
+\de proa, canoe
+\dv perahu
+\dt 28/Apr/2024
+
+\lx_nia ōwoelōhoelō
+\ID_en 1109/1110
+\sn 1
+\ps Adjective
+\de round (person)
+\dv bulat
+\sn 2
+\ps Adjective
+\de round (things)
+\dv bulat
+\dt 27/Apr/2024
+
+\lx_nia lo̠'ösī
+\ID_en 1142
+\ps Adjective
+\de empty
+\dv kosong
+\dt 27/Apr/2024
+
+\lx_nia mōlōjō
+\ID_en 1037
+\ps Verb
+\de to sail
+\dv berlayar
+\dt 17/Mar/2024
+
+\lx_nia mangéneni 'o̠
+\ID_en 1224
+\ps Verb
+\de to guard, to watch
+\dv menjaga
+\dt 27/Apr/2024
+
+\lx_nia moehalo
+\ID_en 1180
+\ps Verb
+\de to get
+\dv pergi mengambil
+\dt 27/Apr/2024
+
+\lx_nia samo̠za
+\ID_en 1328
+\ps Adverb
+\de once
+\dv sekali
+\dt 27/Apr/2024
+
+\lx_nia atoea
+\ID_en 1150
+\ps Adjective
+\de old
+\dv tua
+\dt 27/Apr/2024
+
+\lx_nia ōfoe
+\ID_en 1323
+\ps number
+\de hundred
+\dv seratus
+\dt 27/Apr/2024
+
+\lx_nia moroī tōoe, moroī sī tōoe
+\ID_en 1441
+\ps Preposition
+\de from underneath
+\dv dari bawah
+\dt 28/Apr/2024
+
+\lx_nia arō
+\ID_en 1146/1147
+\sn 1
+\ps Adjective
+\de tightly bound
+\dv terikat
+\sn 2
+\ps Adjective
+\de tightly bound
+\dv kencang, erat
+\dt 27/Apr/2024
+
+\lx_nia mō ' ōrōna
+\ID_en 1170
+\ps Adjective
+\de brown
+\dv cokelat
+\dt 27/Apr/2024
+
+\lx_nia amoerī
+\ID_en 1038
+\ps Noun
+\de rudder, helm
+\dv kemudi
+\dt 17/Mar/2024
+
+\lx_nia samo̠samo̠sa
+\ID_en 1356
+\ps determiner
+\de a few, some
+\dv beberapa
+\dt 27/Apr/2024
+
+\lx_nia ho̠no̠
+\ID_en 1324
+\ps number
+\de thousand
+\dv seribu
+\dt 27/Apr/2024
+
+\lx_nia angaō
+\ID_en 1071
+\ps Adjective
+\de thin, meagre, skinny
+\dv kurus
+\dt 17/Mar/2024
+
+\ID_en 1478
+\Notes_en <87>
+\ps Adjective
+\de almost
+\dv hampir
+\dt 28/Apr/2024
+
+\lx_nia cho̠nīa
+\ID_en 1377
+\ps Pronoun
+\de her
+\dv kata ganti empunya orang ketiga tunggal (perempuan)
+\dt 27/Apr/2024
+
+\lx_nia lo̠so̠chi
+\ID_en 1136 - 1139
+\ps Adjective
+\de ugly
+\dv buruk, jelek
+\dt 27/Apr/2024
+
+\lx_nia sifo̠fo̠na
+\ID_en 1330/1331
+\ps Noun
+\de the first
+\dv pertama
+\dt 27/Apr/2024
+
+\lx_nia sidoea
+\ID_en 1332/1333
+\ps Noun
+\de the second
+\dv kedua
+\dt 27/Apr/2024
+
+\ID_en 1472
+\Notes_en <86>
+\ps Adverb
+\de yes
+\dv ya
+\dt 28/Apr/2024
+
+\lx_nia hanīa mbo̠ro̠ nīa nīha ande moefo̠cho̠
+\ID_en 1545
+\de what made these people ill?
+\dv apa yang menyebabkan orang-orang ini menjadi sakit?
+\dt 28/Apr/2024
+
+\lx_nia ila, mangila
+\ID_en 1195
+\ps Verb
+\de to know
+\dv tahu, mengetahui
+\dt 27/Apr/2024
+
+\lx_nia so̠chi
+\ID_en 1132 - 1134
+\ps Adjective
+\de nice
+\dv bagus
+\dt 27/Apr/2024
+
+\lx_nia ébōlō
+\ID_en 1116
+\ps Adjective
+\de wide
+\dv luas
+\dt 27/Apr/2024
+
+\lx_nia mahemōloe
+\ID_en 1422
+\ps Noun
+\de tomorrow
+\dv besok
+\dt 28/Apr/2024
+
+\lx_nia cho̠, ba
+\ID_en 1449
+\ps Preposition
+\de on
+\dv di
+\dt 28/Apr/2024
+
+\lx_nia bīngoe
+\ID_en 1159
+\ps Adjective
+\de dumb
+\dv bodoh
+\dt 27/Apr/2024
+
+\lx_nia sara
+\ID_en 1293
+\ps number
+\de one
+\dv satu
+\dt 27/Apr/2024
+
+\lx_nia tawo̠
+\ID_en 1073
+\ps Noun
+\de fat, grease
+\dv lemak
+\dt 17/Mar/2024
+
+\lx_nia cho̠ra
+\ID_en 1375/1376
+\ps Pronoun
+\de their
+\dv kata ganti empunya orang ketiga jamak
+\dt 27/Apr/2024
+
+\lx_nia saō
+\ID_en 1049
+\ps Noun
+\de anchor
+\dv sauh
+\dt 17/Mar/2024
+
+\lx_nia érégé do̠do̠
+\ID_en 1156
+\ps Adjective
+\de tired
+\dv lelah
+\dt 27/Apr/2024
+
+\lx_nia boī
+\ID_en 1475
+\ps Adverb
+\de not, no
+\dv jangan
+\dt 28/Apr/2024
+
+\lx_nia mōroegī
+\ID_en 1284
+\ps Verb
+\de to arrive
+\dv tiba
+\dt 27/Apr/2024
+
+\lx_nia andro̠ cho̠nia doea mboea manoe; taīla (na) ibé é
+\ID_en 1540
+\de ask him for a few chickens perhaps he will give them
+\dv minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya
+\dt 28/Apr/2024
+
+\lx_nia ha wéga
+\ID_en 1427
+\ps Adverb
+\de when
+\dv kapan, bilamana
+\dt 28/Apr/2024
+
+\lx_nia mōfano̠
+\ID_en 1286
+\ps Verb
+\de to depart
+\dv berangkat
+\dt 27/Apr/2024
+
+\lx_nia ero² loeō mangaloeī īta boea² ba gatoea
+\ID_en 1533
+\de everyday we look for fruits in the forest
+\dv setiap hari kami pergi mencari buah-buahan di hutan
+\dt 28/Apr/2024
+
+\lx_nia o̠fàwoeloe
+\ID_en 1317
+\ps number
+\de fourty
+\dv empat puluh
+\dt 27/Apr/2024
+
+\lx_nia ésōlō
+\ID_en 1068
+\ps Adjective
+\de thick
+\dv tebal
+\dt 17/Mar/2024
+
+\lx_nia mīfona
+\ID_en 1411
+\ps Adverb
+\de formerly
+\dv tempo hari
+\dt 28/Apr/2024
+
+\lx_nia sī afoeria
+\ID_en 1336/1337
+\ps Noun
+\de the last
+\dv yang terakhir
+\dt 27/Apr/2024
+
+\lx_nia so̠chī
+\ID_en 1130
+\ps Adjective
+\de good
+\dv baik, bagus
+\dt 27/Apr/2024
+
+\ID_en 1445
+\Notes_en <79>
+\ps Preposition
+\de at
+\dv di, pada
+\dt 28/Apr/2024
+
+\lx_nia sīmano wa oja lo̠ eděnado̠ oe boe-a
+\ID_en 1524
+\de I do not want to pay so much
+\dv saya tidak mau membayar sebanyak itu
+\dt 28/Apr/2024
+
+\lx_nia samboea ni'ō'o̠fa
+\ID_en 1327
+\ps Noun
+\de a quarter
+\dv seperempat
+\dt 27/Apr/2024
+
+\lx_nia lo̠-o̠
+\ID_en 1471
+\ps Adverb
+\de no
+\dv tidak
+\dt 28/Apr/2024
+
+\lx_nia andro
+\ID_en 1269
+\Notes_en <73>
+\ps Verb
+\de to ask for
+\dv meminta
+\dt 28/Apr/2024
+
+\lx_nia aīso̠
+\ID_en 1162
+\ps Adjective
+\de sour
+\dv kecut, masam
+\dt 27/Apr/2024
+
+\lx_nia to̠ra, tōhoede
+\ID_en 1347/1348
+\sn 1
+\ps determiner
+\de more
+\dv lebih
+\sn 2
+\ps determiner
+\de most
+\dv paling
+\dt 27/Apr/2024
+
+\lx_nia amoei
+\ID_en 1119
+\ps Adjective
+\de brave, bold
+\dv perkasa, gagah
+\dt 27/Apr/2024
+
+\lx_nia sīwa
+\ID_en 1301
+\ps number
+\de nine
+\dv sembilan
+\dt 27/Apr/2024
+
+\lx_nia cho̠goe
+\ID_en 1369/1370
+\ps Pronoun
+\de mine
+\dv kata ganti empunya orang ke 1
+\dt 27/Apr/2024
+
+\lx_nia adolě, atoelō
+\ID_en 1089
+\ps Adjective
+\de straight
+\dv lurus
+\dt 17/Mar/2024
+
+\lx_nia mō'alito̠
+\ID_en 1277
+\ps Verb
+\de to burn (intr.)
+\dv sedang terbakar (intr.)
+\dt 27/Apr/2024
+
+\lx_nia moehalo̠
+\ID_en 1179
+\ps Verb
+\de to take
+\dv mengambil
+\dt 27/Apr/2024
+
+\lx_nia loe'i
+\ID_en 1220
+\ps Verb
+\de to carry on the back
+\dv memikul (di punggung)
+\dt 27/Apr/2024
+
+\lx_nia tinga
+\ID_en 1474
+\ps Adverb
+\de not, no
+\dv bukan
+\dt 28/Apr/2024
+
+\lx_nia mangangō
+\ID_en 1229
+\ps Verb
+\de to smell
+\dv mencium
+\dt 27/Apr/2024
+
+\lx_nia félérara
+\ID_en 1303
+\ps number
+\de eleven
+\dv sebelas
+\dt 27/Apr/2024
+
+\lx_nia raki
+\ID_en 1050
+\ps Noun
+\de raft
+\dv rakit
+\dt 17/Mar/2024
+
+\ID_en 1470
+\Notes_en <85>
+\ps Preposition
+\de with
+\dv dengan
+\dt 28/Apr/2024
+
+\lx_nia ahato
+\ID_en 1452
+\ps Adverb
+\de nearby
+\dv di dekat, di
+\dt 28/Apr/2024
+
+\lx_nia abaso̠
+\ID_en 1127
+\ps Adjective
+\de wet
+\dv basah
+\dt 27/Apr/2024
+
+\lx_nia lo̠ sī'ndoehoe nīawa o̠ra audo̠ cho̠da
+\ID_en 1536
+\de it is not true what they say about us
+\dv tidak benar apa yang mereka katakan tentang kami?
+\dt 28/Apr/2024
+
+\lx_nia mangila, anéhé
+\ID_en 1228
+\ps Verb
+\de to see
+\dv melihat
+\dt 27/Apr/2024
+
+\lx_nia hawa ara bawo̠lo̠jo̠ awena īroegī nasī
+\ID_en 1531
+\de how long does it take to reach the sea by boat?
+\dv berapa lama kita harus berlayar hingga sampai ke laut?
+\dt 28/Apr/2024
+
+\lx_nia ja'ita
+\ID_en 1365
+\ps Pronoun
+\de we (inclusive)
+\dv kita, kata ganti orang kedua (jamak)
+\dt 27/Apr/2024
+
+\lx_nia lo̠ tēhē
+\ID_en 1198
+\ps Verb
+\de to deny
+\dv menyangkal
+\dt 27/Apr/2024
+
+\lx_nia foeloe
+\ID_en 1302
+\ps number
+\de ten
+\dv sepuluh
+\dt 27/Apr/2024
+
+\lx_nia mamētoe-met̄oe bēwē
+\ID_en 1201
+\ps Verb
+\de to mumble
+\dv komat-kamit
+\dt 27/Apr/2024
+
+\lx_nia abé'é
+\ID_en 1101
+\ps Adjective
+\de hard
+\dv keras
+\dt 17/Mar/2024
+
+\lx_nia alo̠
+\ID_en 1125
+\ps Adjective
+\de dry
+\dv kering
+\dt 27/Apr/2024
+
+\lx_nia da'o̠, andro̠
+\ID_en 1386
+\ps determiner
+\de that (faraway)
+\dv itu (di sana)
+\dt 28/Apr/2024
+
+\lx_nia gona
+\ID_en 1251
+\ps Verb
+\de to hit, to touch
+\dv mengenai, menyentuh
+\dt 27/Apr/2024
+
+\lx_nia lo̠ mamé'é
+\ID_en 1270
+\ps Verb
+\de to refuse
+\dv menolak
+\dt 27/Apr/2024
+
+\lx_nia waloe
+\ID_en 1300
+\ps number
+\de eight
+\dv delapan
+\dt 27/Apr/2024
+
+\lx_nia si doehoe
+\ID_en 1466
+\ps Adverb
+\de certainly, sure
+\dv pasti
+\dt 28/Apr/2024
+
+\lx_nia latano waché ba laza dao̠
+\ID_en 1523
+\de will rice be planted on these fields?
+\dv apakah padi yang akan ditanam di tanah itu?
+\dt 28/Apr/2024
+
+\lx_nia fasoeī
+\ID_en 1454
+\ps Preposition
+\de around, surrounding
+\dv se-keliling
+\dt 28/Apr/2024
+
+\lx_nia mōgō'ō
+\ID_en 1278
+\ps Verb
+\de to dig
+\dv menggali
+\dt 27/Apr/2024
+
+\lx_nia oero̠i ndramatoea daroe bada-a
+\ID_en 1542
+\de here I am leaving two men behind
+\dv saya meninggalkan dua orang di sini
+\dt 28/Apr/2024
+
+\lx_nia fefoe
+\ID_en 1350
+\ps Adverb
+\de all
+\dv semua
+\dt 27/Apr/2024
+
+\lx_nia ahonō-honō
+\ID_en 1200
+\ps Adjective
+\de to be silent
+\dv diam
+\dt 27/Apr/2024
+
+\lx_nia ja'īa
+\ID_en 1363
+\ps Pronoun
+\de he
+\dv ia, kata ganti orang ketiga laki-laki (tunggal)
+\dt 27/Apr/2024
+
+\lx_nia saōto̠
+\ID_en 1051
+\ps Noun
+\de harbour
+\dv pelabuhan
+\dt 17/Mar/2024
+
+\lx_nia abolo
+\ID_en 1117
+\ps Adjective
+\de strong
+\dv kokoh
+\dt 27/Apr/2024
+
+\lx_nia mangabōtō
+\ID_en 1253-1255
+\sn 1
+\ps Verb
+\de to break (a stick)
+\dv mematahkan (tongkat)
+\sn 2
+\ps Verb
+\de to break (a rope)
+\dv memutuskan (tali)
+\sn 3
+\ps Verb
+\de to shatter
+\dv memecahkan
+\dt 27/Apr/2024
+
+\lx_nia mangasiwai
+\ID_en 1262/1263
+\ps Verb
+\de to end
+\dv mengakhiri
+\dt 27/Apr/2024
+
+\lx_nia to̠la lōjō
+\ID_en 1035
+\ps Noun
+\de mast
+\dv tiang perahu
+\dt 17/Mar/2024
+
+\ID_en 1385
+\Notes_en <77>
+\ps determiner
+\de that (nearby)
+\dv itu (dekatmu)
+\dt 28/Apr/2024
+
+\lx_nia féléwaloe
+\ID_en 1310
+\ps number
+\de eighteen
+\dv delapan belas
+\dt 27/Apr/2024
+
+\lx_nia ōnege
+\ID_en 1160
+\ps Adjective
+\de clever
+\dv pandai
+\dt 27/Apr/2024
+
+\lx_nia to̠loe
+\ID_en 1295
+\ps number
+\de three
+\dv tiga
+\dt 27/Apr/2024
+
+\ID_en 1465
+\Notes_en <84>
+\ps Adverb
+\de why
+\dv mengapa
+\dt 28/Apr/2024
+
+\lx_nia édo̠na
+\ID_en 1244
+\ps Verb
+\de to want something
+\dv menghendaki sesuatu
+\dt 27/Apr/2024
+
+\lx_nia jaōdō ha samo̠sa
+\ID_en 1358
+\ps Noun
+\de i myself
+\dv saya sendiri
+\dt 27/Apr/2024
+
+\lx_nia òmboejoe
+\ID_en 1102
+\ps Adjective
+\de weak
+\dv lemah
+\dt 27/Apr/2024
+
+\lx_nia mengéra ngéra
+\ID_en 1194
+\ps Verb
+\de to think
+\dv berpikir
+\dt 27/Apr/2024
+
+\lx_nia sōfoe
+\ID_en 1267
+\ps Verb
+\de to ask
+\dv bertanya
+\dt 27/Apr/2024
+
+\lx_nia mosīngōgo̠
+\ID_en 1234
+\ps Verb
+\de to blow the nose
+\dv membuang ingus
+\dt 27/Apr/2024
+
+\lx_nia mambo̠bo̠
+\ID_en 1264
+\ps Verb
+\de to bind, to tie
+\dv mengikat
+\dt 27/Apr/2024
+
+\lx_nia ta'iba
+\ID_en 1467
+\ps Adverb
+\de maybe
+\dv barangkali
+\dt 28/Apr/2024
+
+\lx_nia mowoegé ' é
+\ID_en 1174
+\ps Verb
+\de to look for
+\dv mencari
+\dt 27/Apr/2024
+
+\lx_nia idano̠ da-a te ai lafato̠ro̠ toendaha
+\ID_en 1530
+\de this river is unnavigable
+\dv sungai ini tak terlayari
+\dt 28/Apr/2024
+
+\lx_nia sōraboe
+\ID_en 1058
+\ps Noun
+\de kidnapper
+\dv penculik
+\dt 17/Mar/2024
+
+\ID_en 1388
+\Notes_en <78>
+\ps Adverb
+\de here
+\dv disini
+\dt 28/Apr/2024
+
+\lx_nia ba
+\ID_en 1469
+\ps conjunction
+\de and
+\dv dan
+\dt 28/Apr/2024
+
+\lx_nia ja'ia
+\ID_en 1367
+\Notes_en <75>
+\ps Pronoun
+\de they (female)
+\dv mereka, kata ganti orang ketiga jamak (perempuan)
+\dt 28/Apr/2024
+
+\lx_nia cho̠mī
+\ID_en 1374
+\ps Pronoun
+\de your (pl.)
+\dv kata ganti empunya orang kedua (jamak)
+\dt 27/Apr/2024
+
+\lx_nia auchoe
+\ID_en 1104/1105
+\sn 1
+\ps Adjective
+\de warm (person)
+\dv hangat
+\sn 2
+\ps Adjective
+\de warm (things)
+\dv hangat
+\dt 27/Apr/2024
+
+\lx_nia adōgōdōgō
+\ID_en 1088
+\ps Adjective
+\de low
+\dv rendah
+\dt 17/Mar/2024
+
+\lx_nia raja
+\ID_en 1432
+\ps Adjective
+\de south
+\dv selatan
+\dt 28/Apr/2024
+
+\lx_nia lazī alōgō
+\ID_en 1215
+\ps Verb
+\de to carry under the arm
+\dv mengepit
+\dt 27/Apr/2024
+
+\lx_nia témali, mantémali
+\ID_en 1268
+\ps Verb
+\de to answer
+\dv menjawab
+\dt 27/Apr/2024
+
+\lx_nia doeawoeloe sara
+\ID_en 1313
+\ps number
+\de twenty one
+\dv dua puluh satu
+\dt 27/Apr/2024
+
+\lx_nia mambe-e
+\ID_en 1176
+\ps Verb
+\de to give
+\dv memberikan
+\dt 27/Apr/2024
+
+\lx_nia haoega
+\ID_en 1338
+\ps determiner
+\de how much, how many
+\dv berapa
+\dt 27/Apr/2024
+
+\lx_nia kàmbera
+\ID_en 1435
+\ps Adjective
+\de left
+\dv kiri
+\dt 28/Apr/2024
+
+\lx_nia haoega bongīlo̠ motéoe
+\ID_en 1535
+\de how many days has it been since it rained?
+\dv Sudah berapa hari hujan tidak turun?
+\dt 28/Apr/2024
+
+\ID_en 1446
+\Notes_en <80>
+\ps Preposition
+\de from
+\dv dari
+\dt 28/Apr/2024
+
+\lx_nia moehīahoe
+\ID_en 1236 - 1237
+\sn 1
+\ps Verb
+\de to kiss
+\dv mengecup
+\sn 2
+\ps Verb
+\de to sniff
+\dv mengendus
+\dt 27/Apr/2024
+
+\lx_nia doeawoeloe lima
+\ID_en 1315
+\ps number
+\de twenty five
+\dv dua puluh lima
+\dt 27/Apr/2024
+
+\lx_nia iroegi, irege
+\ID_en 1447
+\Notes_en <81>
+\ps Preposition
+\de until
+\dv hingga
+\dt 28/Apr/2024
+
+\lx_nia baro̠
+\ID_en 1440
+\ps Preposition
+\de under
+\dv di bawah
+\dt 28/Apr/2024
+
+\lx_nia fatoegé baho̠go̠
+\ID_en 1212
+\ps Verb
+\de to carry on the head
+\dv menjunjung (di atas kepala)
+\dt 27/Apr/2024
+
+\lx_nia ja ōdō
+\ID_en 1357
+\ps Noun
+\de i
+\dv saya
+\dt 27/Apr/2024
+
+\lx_nia gōgōhé
+\ID_en 1213
+\ps Verb
+\de to carry something hanging from the hand
+\dv menjinjing
+\dt 27/Apr/2024
+
+\lx_nia ahōlé
+\ID_en 1097
+\ps Adjective
+\de slanting, sloping
+\dv serong, miring
+\dt 17/Mar/2024
+
+\lx_nia māngīla
+\ID_en 1208
+\ps Verb
+\de to be able to
+\dv dapat, sanggup
+\dt 27/Apr/2024
+
+\lx_nia mange'ro̠
+\ID_en 1265
+\ps Verb
+\de to hide (something)
+\dv menyembunyikan (sesuatu)
+\dt 27/Apr/2024
+
+\lx_nia hawa atō ni̍fato̠ro̠ salawamo̠
+\ID_en 1529
+\de over how many people does your king reign?
+\dv berapa jumlah rakyat yang diperintah oleh raja anda?
+\dt 28/Apr/2024
+
+\lx_nia awawo̠
+\ID_en 1085/1086
+\ps Adjective
+\de shallow
+\dv dangkal
+\dt 17/Mar/2024
+
+\lx_nia afētō
+\ID_en 1163
+\ps Adjective
+\de bitter
+\dv pahit
+\dt 27/Apr/2024
+
+\lx_nia aīla
+\ID_en 1082
+\ps Adjective
+\de shy, ashamed
+\dv malu
+\dt 17/Mar/2024
+
+\lx_nia lo̠ déla; hewīsa te o̠to̠ loeha
+\ID_en 1532
+\de there is no bridge; how can I cross the river?
+\dv tidak ada jembatan; bagaimana saya dapat menyebrangi sungai?
+\dt 28/Apr/2024
+
+\lx_nia maēfoe
+\ID_en 1340
+\ps determiner
+\de few, a little
+\dv sedikit
+\dt 27/Apr/2024
+
+\lx_nia to̠ro̠ do̠do̠
+\ID_en 1238
+\ps Verb
+\de to love
+\dv mencintai
+\dt 27/Apr/2024
+
+\lx_nia faīgī faīgī
+\ID_en 1225
+\ps Verb
+\de to spy
+\dv mengintai
+\dt 27/Apr/2024
+
+\lx_nia oebé'embago fo'mboea
+\ID_en 1525
+\de I shall pay in tobacco
+\dv Saya memberikan tembakau sebagai alat penukar
+\dt 28/Apr/2024
+
+\lx_nia mégé
+\ID_en 1416
+\ps Noun
+\de a moment ago
+\dv seketika, sebentar
+\dt 28/Apr/2024
+
+\lx_nia folloe ho̠no̠
+\ID_en 1325
+\ps number
+\de ten thousand
+\dv sepuluh ribu
+\dt 27/Apr/2024
+
+\lx_nia anīfī
+\ID_en 1070
+\ps Adjective
+\de thin
+\dv tipis
+\dt 17/Mar/2024
+
+\lx_nia famawa gama² dao cho̠ma
+\ID_en 1526
+\de sell us these goods
+\dv juallah barang ini kepada kami
+\dt 28/Apr/2024
+
+\lx_nia toejoe
+\ID_en 1216
+\ps Verb
+\de to carry in the hand
+\dv membawa (menggenggam)
+\dt 27/Apr/2024
+
+\lx_nia mōwoe waroewaroe
+\ID_en 1172
+\ps Adjective
+\de blue
+\dv biru
+\dt 27/Apr/2024
+
+\lx_nia mo'ndroeho
+\ID_en 1246
+\ps Verb
+\de to close
+\dv menutup
+\dt 27/Apr/2024
+
+\lx_nia aoeso̠
+\ID_en 1171
+\ps Adjective
+\de yellow
+\dv kuning
+\dt 27/Apr/2024
+
+\lx_nia böto̠
+\ID_en 1076
+\ps Adjective
+\de dwarf
+\dv orang katai
+\dt 17/Mar/2024
+
+\lx_nia ma'o̠cho̠
+\ID_en 1420
+\ps Noun
+\de today
+\dv hari ini
+\dt 28/Apr/2024
+
+\lx_nia ja'ia
+\ID_en 1476
+\ps Adverb
+\de yes, right, indeed
+\dv ya, benar, betul
+\dt 28/Apr/2024
+
+\lx_nia sō samo̠sa sītōla mōdadaloenī jaoego̠
+\ID_en 1546
+\de here is someone who can make you better
+\dv ada orang yang dapat menyembuhkan anda
+\dt 28/Apr/2024
+
+\lx_nia faloecha
+\ID_en 1175
+\ps Verb
+\de to find
+\dv menemukan
+\dt 27/Apr/2024
+
+\lx_nia asī ' asī
+\ID_en 1166
+\ps Adjective
+\de salty
+\dv asin
+\dt 27/Apr/2024
+
+\lx_nia si mané
+\ID_en 1462
+\Notes_en <83>
+\ps Adjective
+\de like this, like that
+\dv begini, begitu
+\dt 28/Apr/2024
+
+\lx_nia ha
+\ID_en 1477
+\ps Adverb
+\de only
+\dv hanya
+\dt 28/Apr/2024
+
+\lx_nia ba
+\ID_en 1482
+\ps Adverb
+\de yet, still
+\dv toh, namun
+\dt 28/Apr/2024
+
+\lx_nia bōhō
+\ID_en 1153
+\ps Adjective
+\de new
+\dv baru
+\dt 27/Apr/2024
+
+\lx_nia aréoe
+\ID_en 1121
+\ps Adjective
+\de lazy
+\dv malas
+\dt 27/Apr/2024
+
+\lx_nia talagoei
+\ID_en 1214
+\ps Verb
+\de to carry on the hip
+\dv menggendong, mendukung
+\dt 27/Apr/2024
+
+\lx_nia bōlō
+\ID_en 1113
+\ps Adjective
+\de broad
+\dv luas, lebar
+\dt 27/Apr/2024
+
+\lx_nia do̠fi
+\ID_en 1406
+\ps Noun
+\de year
+\dv tahun
+\dt 28/Apr/2024
+
+\lx_nia cho̠oe
+\ID_en 1373
+\ps Pronoun
+\de your (sing.)
+\dv kata ganti empunya orang kedua (tunggal)
+\dt 27/Apr/2024
+
+\lx_nia avéna té 'éra'éra
+\ID_en 1196
+\ps Verb
+\de to remember
+\dv mengingat, mengenang
+\dt 27/Apr/2024
+
+\lx_nia so̠chi
+\ID_en 1135
+\ps Adjective
+\de beautiful (things)
+\dv indah, bagus
+\dt 27/Apr/2024
+
+\lx_nia mangakoe
+\ID_en 1199
+\Notes_en <71>
+\ps Verb
+\de to confess
+\dv mengaku
+\dt 28/Apr/2024
+
+\lx_nia eboea
+\ID_en 1061
+\ps Adjective
+\de great, big
+\dv besar
+\dt 17/Mar/2024
+
+\lx_nia menōa mate salawa tebo̠ro̠ taigo̠ wanoewo̠ ando̠
+\ID_en 1543
+\de war broke out after the death of the king
+\dv perang timbul setelah kematlan raja
+\dt 28/Apr/2024
+
+\lx_nia olohoe
+\ID_en 1240
+\ps Adjective
+\de jealous
+\dv cemburu, iri hati
+\dt 27/Apr/2024
+
+\lx_nia ōkafoe
+\ID_en 1106/1107
+\sn 1
+\ps Adjective
+\de Cold (Person)
+\dv Dingin
+\sn 2
+\ps Adjective
+\de Cold (thing)
+\dv Dingin
+\dt 27/Apr/2024
+
+\lx_nia manoenoe
+\ID_en 1276
+\ps Verb
+\de to burn (tr.)
+\dv membakar (tr.)
+\dt 27/Apr/2024
+
+\lx_nia mamboekai
+\ID_en 1245
+\ps Verb
+\de to open
+\dv membuka
+\dt 27/Apr/2024
+
+\lx_nia ofà
+\ID_en 1296
+\ps number
+\de four
+\dv empat
+\dt 27/Apr/2024
+
+\lx_nia mangaī balo̠
+\ID_en 1292
+\ps Verb
+\de to take revenge
+\dv membalas dendam
+\dt 27/Apr/2024
+
+\lx_nia mōlīmō
+\ID_en 1271
+\ps Verb
+\de to cheat, to deceive
+\dv menipu
+\dt 27/Apr/2024
+
+\lx_nia mambīnī'o̠
+\ID_en 1266
+\ps Verb
+\de to hide
+\dv bersembunyi
+\dt 27/Apr/2024
+
+\lx_nia timba, menimba
+\ID_en 1041/1042
+\sn 1
+\ps Noun
+\de paddle
+\dv pengayuh
+\sn 2
+\ps Verb
+\de to paddle
+\dv mengayuh
+\dt 17/Mar/2024
+
+\lx_nia ataro
+\ID_en 1098
+\ps Adjective
+\de sharp
+\dv tajam
+\dt 17/Mar/2024
+
+\lx_nia īsō
+\ID_en 1460
+\ps Adverb
+\de where
+\dv di mana
+\dt 28/Apr/2024
+
+\lx_nia félésiwa
+\ID_en 1311
+\ps number
+\de nineteen
+\dv sembilan belas
+\dt 27/Apr/2024
+
+\lx_nia limawoeloe
+\ID_en 1318
+\ps number
+\de fifty
+\dv lima puluh
+\dt 27/Apr/2024
+
+\lx_nia nōmana
+\ID_en 1154
+\Notes_en <70>
+\ps Adjective
+\de poor
+\dv miskin
+\dt 28/Apr/2024
+
+\lx_nia òmboejoe'mboejoe
+\ID_en 1118
+\ps Adjective
+\de weak
+\dv lemah
+\dt 27/Apr/2024
+
+\lx_nia tōdégé, alo̠so̠
+\ID_en 1115
+\ps Adjective
+\de narrow
+\dv sempit
+\dt 27/Apr/2024
+
+\lx_nia moroī jawa, moroī sījawa
+\ID_en 1439
+\ps Preposition
+\de from above
+\dv dari atas
+\dt 28/Apr/2024
+
+\lx_nia kàmbolo
+\ID_en 1436
+\ps Adjective
+\de right
+\dv kanan
+\dt 28/Apr/2024
+
+\lx_nia danīa
+\ID_en 1409
+\ps Adverb
+\de shortly
+\dv sebentar lagi
+\dt 28/Apr/2024
+
+\lx_nia aéfa
+\ID_en 1148/1149
+\ps Adjective
+\de loose
+\dv longgar
+\dt 27/Apr/2024
+
+\lx_nia amī
+\ID_en 1161
+\ps Adjective
+\de sweet
+\dv manis
+\dt 27/Apr/2024
+
+\lx_nia idenado̠ mangaloeī doe-e o̠koedo̠goe
+\ID_en 1534
+\de I want to find grass for my horse
+\dv saya ingin mencari rumput untuk kuda saya
+\dt 28/Apr/2024
+
+\lx_nia ja'ami
+\ID_en 1362
+\ps Preposition
+\de you
+\dv kamu sekalian
+\dt 27/Apr/2024
+
+\lx_nia tabīla sa
+\ID_en 1481
+\ps Adverb
+\de however, nevertheless
+\dv walaupun, meskipun
+\dt 28/Apr/2024
+
+\lx_nia doeawoeloe
+\ID_en 1312
+\ps number
+\de twenty
+\dv dua puluh
+\dt 27/Apr/2024
+
+\lx_nia ba
+\ID_en 1450
+\ps Preposition
+\de in, inside
+\dv di (dalam)
+\dt 28/Apr/2024
+
+\lx_nia afo̠noe
+\ID_en 1143
+\ps Adjective
+\de full
+\dv penuh
+\dt 27/Apr/2024
+
+\lx_nia ba
+\ID_en 1479
+\ps conjunction
+\de but
+\dv tetapi
+\dt 28/Apr/2024
+
+\lx_nia moroi ba, awai
+\ID_en 1451
+\Notes_en <82>
+\ps Preposition
+\de out, outside
+\dv luar, (di) luar
+\dt 28/Apr/2024
+
+\lx_nia aéchoela
+\ID_en 1434
+\ps Adjective
+\de west
+\dv barat
+\dt 28/Apr/2024
+
+\lx_nia hani̍ha sitebaī mōlo̍ o̠ jaō to̠ro̠i bada-a
+\ID_en 1541
+\de whoever can not keep up, should stay here
+\dv siapa yang tidak sanggup mengikuti saya, harus tinggal di sini
+\dt 28/Apr/2024
+
+\lx_nia sola, aloecha
+\ID_en 1040
+\Notes_en <67>
+\ps Noun
+\de oar, paddle
+\dv pengayuh
+\dt 28/Apr/2024
+
+\lx_nia mendroea
+\ID_en 1329
+\ps Adverb
+\de twice
+\dv dua kali
+\dt 27/Apr/2024
+
+\lx_nia o̠no̠ngafoeloe
+\ID_en 1319
+\ps number
+\de sixty
+\dv enam puluh
+\dt 27/Apr/2024
+
+\lx_nia nōa
+\ID_en 1428
+\ps Adverb
+\de already
+\dv sudah
+\dt 28/Apr/2024
+
+\lx_nia abao do̠do̠
+\ID_en 1239
+\ps Verb
+\de to hate
+\dv membenci
+\dt 27/Apr/2024
+
+\lx_nia mōférao̠
+\ID_en 1259
+\ps Verb
+\de to pinch, to squeeze
+\dv menjepit, menekan
+\dt 27/Apr/2024
+
+\lx_nia bé bagalisī, mōnōre bagalīsī
+\ID_en 1211
+\ps Verb
+\de to shoulder
+\dv memikul
+\dt 27/Apr/2024
+
+\lx_nia io̠
+\ID_en 1486
+\ps Adverb
+\de no, not a, none
+\dv tidak, tidak ada, bukan
+\dt 28/Apr/2024
+
+\ID_en 1096
+\Notes_en <69>
+\ps Adjective
+\de light
+\dv ringan
+\dt 28/Apr/2024
+
+\lx_nia mōhédé
+\ID_en 1202
+\ps Verb
+\de to speak
+\dv bebicara
+\dt 27/Apr/2024
+
+\lx_nia fitoe
+\ID_en 1299
+\ps number
+\de seven
+\dv tujuh
+\dt 27/Apr/2024
+
+\lx_nia mangaho̠li
+\ID_en 1060
+\ps Verb
+\de to ransom
+\dv menebus
+\dt 17/Mar/2024
+
+\lx_nia afoesī
+\ID_en 1167
+\ps Adjective
+\de white
+\dv putih
+\dt 27/Apr/2024
+
+\lx_nia mamo̠sī
+\ID_en 1291
+\ps Verb
+\de to hit (to beat, to slap, etc)
+\dv memukul (menampar, meninju, dll)
+\dt 27/Apr/2024
+
+\lx_nia atoemboecha, abo̠lata
+\ID_en 1433
+\ps Adjective
+\de east
+\dv timur
+\dt 28/Apr/2024
+
+\lx_nia haniha
+\ID_en 1379
+\ps Pronoun
+\de who?
+\dv siapa
+\dt 28/Apr/2024
+
+\lx_nia doea
+\ID_en 1294
+\ps number
+\de two
+\dv dua
+\dt 27/Apr/2024
+
+\lx_nia fo̠na
+\ID_en 1412/1413
+\ps Preposition
+\de before
+\dv sebelum
+\dt 28/Apr/2024

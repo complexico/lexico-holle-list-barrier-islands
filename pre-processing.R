@@ -5,6 +5,10 @@ library(readxl)
 holle_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/data/digitised-holle-list-in-stokhof-1980.tsv")
 holle_1904_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/refs/heads/main/data/digitised-holle-list-in-stokhof-1980-add-1904_1911.tsv")
 holle_1931_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/refs/heads/main/data/digitised-holle-list-in-stokhof-1980-add-1931.tsv")
+## add a tibble containing the ordered factor of Holle's ID to re-order the word list
+holle_index <- tibble(ID = c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index),
+                      ORDERS = factor(c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index),
+                                      levels = c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index)))
 
 # list the file
 files <- dir(pattern = ".+\\.txt|xlsx", recursive = TRUE)
@@ -184,8 +188,11 @@ nias1905main <- nias1905a_tb |>
 ### CHECK ID in the list with the main holle list =====
 setdiff(nias1905main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
-
-
+### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
+nias1905main <- nias1905main |> 
+  left_join(holle_index, by = join_by(ID)) |> 
+  arrange(ORDERS) |> 
+  select(-ORDERS)
 
 
 
@@ -327,22 +334,26 @@ nias1911main <- nias1911main |>
          ID = replace(ID, ID == "1080/1081", "1080-1081"))
 setdiff(nias1911main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
-
+### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
+nias1911main <- nias1911main |> 
+  left_join(holle_index, by = join_by(ID)) |> 
+  arrange(ORDERS) |> 
+  select(-ORDERS)
 
 
 
 
 # Salang & Sigule ====
 salangsigulefiles <- files |> 
-  str_subset("SALANG") |> 
+  str_subset("SALANG_AND_SIGULE") |> 
   str_subset("\\.txt$")
 
 salangsigule <- map(salangsigulefiles, read_lines) |> 
   unlist()
 
 salangsigule_notes <- files |> 
-  str_subset("SALANG") |> 
-  str_subset("\\/C03_NOTES\\.xlsx") |> 
+  str_subset("SALANG_AND_SIGULE") |> 
+  str_subset("C03_NOTES\\.xlsx") |> 
   read_xlsx() |> 
   rename(nt = NOTE_ID) |> 
   mutate(nt = as.character(nt))
@@ -374,6 +385,19 @@ salangsigule_a <- if_else(str_detect(salangsigule_a, "\\\\sn\\s[1-9]"),
 salangsigule_a <- if_else(str_detect(salangsigule_a, "\\\\sn\\s[1-9]"),
                      str_replace_all(salangsigule_a, "__(\\\\sn [2-9])", "; \\1"),
                      salangsigule_a)
+## handle anomaly in this data as the first six IDs are duplicated across the three students
+### they could be remnant of one student's work provide example mode for the other twos who then forgot to delete these models
+salangsigule_a |> length()
+salangsigule_a |> unique() |> length()
+salangsigule_a <- unique(salangsigule_a)
+### yet still duplicated IDs
+salangsigule_still_duplicated_id <- salangsigule_a |> 
+  str_extract("ID_en \\d+_") |> 
+  table() |> 
+  sort() |> 
+  rev() |> 
+  (\(x) x[x>1])()
+
 salangsigule_a_tb <- tibble(mc = salangsigule_a) |> 
   separate_wider_delim(mc, delim = "__", names_sep = "", too_few = "debug") |> 
   select(-mcmc) |> 
@@ -381,16 +405,14 @@ salangsigule_a_tb <- tibble(mc = salangsigule_a) |>
 ## check the distribution of column pieces
 salangsigule_a_tb |> 
   count(mcmcpieces)
-# # A tibble: 7 × 2
+# A tibble: 5 × 2
 # mcmcpieces     n
 # <int> <int>
 #   1          1     1
-# 2          2     1
-# 3          3     1
-# 4          4     2
-# 5          5    15
-# 6          6  1393
-# 7          7    39
+# 2          3     1
+# 3          5    13
+# 4          6   805
+# 5          7     7
 
 ### in which column "ID" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^ID", x = .))))
@@ -501,7 +523,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ### COMBINE main table with the notes =====
 salangsigule_main <- salangsigule_a_tb |> 
-  left_join(salangsigule_notes) |> # the warning of many-to-many relationship is OK
+  left_join(salangsigule_notes, by = join_by(nt)) |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
 
 ### CHECK ID in the list with the main holle list =====
@@ -515,6 +537,12 @@ salangsigule_main <- salangsigule_main |>
          ID = replace(ID, ID == "1080/1081", "1080-1081"),
          ID = replace(ID, ID == "1104/1104", "1104/1105"))
 setdiff(salangsigule_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+
+### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
+salangsigule_main <- salangsigule_main |> 
+  left_join(holle_index, by = join_by(ID)) |> 
+  arrange(ORDERS) |> 
+  select(-ORDERS)
 
 
 
@@ -563,7 +591,8 @@ mentawai_notes <- files |>
   mutate(nt_cats = "nt",
          nt_cats = if_else(`WORD/EXPRESSION` %in% c("lakopa", "njoang lêleu", "njoang", "terengangang"),
                            "additional_data",
-                           nt_cats))
+                           nt_cats)) |> 
+  select(-ID)
 mentawai_additional_data <- mentawai_notes |> 
   filter(nt_cats == "additional_data") |> 
   select(-nt_cats) |> 
@@ -734,7 +763,7 @@ mentawai_a_tb <- mentawai_a_tb |>
 
 ### COMBINE main table with the notes =====
 mentawai_main <- mentawai_a_tb |> 
-  left_join(mentawai_notes, relationship = "many-to-many") |> # the warning of many-to-many relationship is OK
+  left_join(mentawai_notes, relationship = "many-to-many", by = join_by(nt)) |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
 
 ### CHECK ID in the list with the main holle list =====
@@ -970,7 +999,7 @@ semalur_a_tb <- semalur_a_tb |>
 
 ### COMBINE main table with the notes =====
 semalur_main <- semalur_a_tb |> 
-  left_join(semalur_notes, relationship = "many-to-many") |> # the warning of many-to-many relationship is OK
+  left_join(semalur_notes, relationship = "many-to-many", by = join_by("nt")) |> # the warning of many-to-many relationship is OK
   mutate(across(where(is.character), ~replace_na(., "")))
 
 ### CHECK ID in the list with the main holle list =====

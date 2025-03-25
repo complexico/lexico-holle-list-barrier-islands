@@ -1,0 +1,2260 @@
+
+\lx_nia bosī, bolī
+\ID_en 411
+\ps Noun
+\de bride price
+\dv mas kawin
+\dt 22/Mar/2024
+
+\lx_nia laloe'ā
+\ID_en 102
+\ps Noun
+\de palm of the hand
+\dv telapak tangan
+\dt 14/Mar/2024
+
+\lx_nia niha satō
+\ID_en 393
+\ps Noun
+\de free man
+\dv orang merdeka
+\dt 21/Mar/2024
+
+\lx_nia boenoe wandoe
+\ID_en 486
+\ps Verb
+\de to put off (light)
+\dv memadamkan (sinar)
+\dt 22/Mar/2024
+
+\lx_nia sondo
+\ID_en 511
+\Notes_en <28>
+\ps Noun
+\de ladle
+\dv ciduk, sendok
+\dt 25/Mar/2024
+
+\lx_nia doeri
+\ID_en 426
+\ps Noun
+\de jew's harp
+\dv ginggung (genggong)
+\dt 22/Mar/2024
+
+\lx_nia fasoembano
+\ID_en 245/246
+\ps Noun
+\de female
+\dv perempuan
+\dt 15/Mar/2024
+
+\lx_nia bétoe'a
+\ID_en 53
+\ps Noun
+\de stomach
+\dv lambung
+\dt 14/Mar/2024
+
+\lx_nia doso̠
+\ID_en 368
+\ps Noun
+\de sin
+\dv dosa
+\dt 16/Mar/2024
+
+\lx_nia faosa
+\ID_en 197
+\Notes_en <5>
+\ps Noun
+\de an infected wound
+\dv luka bernanah
+\dt 25/Mar/2024
+
+\lx_nia matē
+\ID_en 184
+\ps Noun
+\de death
+\dv kematian
+\dt 15/Mar/2024
+
+\lx_nia sano̠ngo̠nī, sasī
+\ID_en 401
+\ps Noun
+\de witness
+\dv saksi
+\dt 21/Mar/2024
+
+\lx_nia alachao̠
+\ID_en 370
+\ps Noun
+\de forbidden, taboo
+\dv pemali
+\dt 16/Mar/2024
+
+\lx_nia mamalogoe
+\ID_en 147
+\ps Verb
+\de to lie prone
+\dv tiarap
+\dt 15/Mar/2024
+
+\lx_nia ōmō
+\ID_en 437
+\ps Noun
+\de house
+\dv rumah
+\dt 22/Mar/2024
+
+\lx_nia balatoe
+\ID_en 505
+\Notes_en <27>
+\ps Noun
+\de knife
+\dv pisau
+\dt 25/Mar/2024
+
+\lx_nia fogao
+\ID_en 400
+\ps Noun
+\de fine
+\dv denda
+\dt 21/Mar/2024
+
+\lx_nia foeso̠
+\ID_en 61
+\ps Noun
+\de navel
+\dv pusat
+\dt 14/Mar/2024
+
+\lx_nia ōra
+\ID_en 453
+\ps Noun
+\de staircase
+\dv tangga, anak tangga
+\dt 22/Mar/2024
+
+\lx_nia talifoeso̠ matoea
+\ID_en 268
+\ps Noun
+\de brother
+\dv saudara laki-laki
+\dt 16/Mar/2024
+
+\lx_nia to̠la 'mbisi
+\ID_en 94
+\ps Noun
+\de shin
+\dv tulang kering
+\dt 14/Mar/2024
+
+\lx_nia laīlo̠
+\ID_en 358
+\ps Noun
+\de poem
+\dv sanjak, syair
+\dt 16/Mar/2024
+
+\lx_nia amoata
+\ID_en 367
+\ps Noun
+\de virtue
+\dv kebajikan
+\dt 16/Mar/2024
+
+\lx_nia mōfanō
+\ID_en 145
+\ps Verb
+\de to walk
+\dv berjalan
+\dt 15/Mar/2024
+
+\lx_nia fabéla
+\ID_en 415
+\ps Verb
+\de to commit adultery
+\dv berzinah
+\dt 22/Mar/2024
+
+\lx_nia mangasa-ngasa
+\ID_en 224
+\ps Verb
+\de cramp
+\dv kejang
+\dt 15/Mar/2024
+
+\ID_en 291/294
+\Notes_en <14>
+\ps Noun
+\de cousin
+\dv sepupu
+\dt 26/Mar/2024
+
+\lx_nia koela'mboe
+\ID_en 488
+\ps Noun
+\de bed curtain
+\dv kelambu
+\dt 22/Mar/2024
+
+\lx_nia satoea
+\ID_en 389
+\ps Noun
+\de village elders
+\dv orang tua-tua
+\dt 21/Mar/2024
+
+\lx_nia tī'ī
+\ID_en 72
+\ps Verb
+\de to defecate
+\dv berak
+\dt 14/Mar/2024
+
+\lx_nia toehī'mbanoea
+\ID_en 152
+\ps Verb
+\de to squat
+\dv berjongkok
+\dt 15/Mar/2024
+
+\lx_nia ira alawé
+\ID_en 242
+\ps Noun
+\de woman
+\dv orang perempuan
+\dt 15/Mar/2024
+
+\lx_nia léwato̠
+\ID_en 191
+\ps Noun
+\de grave
+\dv kuburan
+\dt 15/Mar/2024
+
+\lx_nia baloegoe
+\ID_en 388
+\ps Noun
+\de nobleman
+\dv bangsawan
+\dt 16/Mar/2024
+
+\lx_nia a'oeloe
+\ID_en 225
+\ps Adjective
+\de paralysed
+\dv lumpuh
+\dt 25/Mar/2024
+
+\lx_nia focho̠ to̠la
+\ID_en 220
+\ps Noun
+\de rheumatism
+\dv sengal, encok
+\dt 15/Mar/2024
+
+\lx_nia balo̠ mēmē
+\ID_en 45
+\ps Noun
+\de nipple
+\dv puting susu
+\dt 14/Mar/2024
+
+\lx_nia alēgē
+\ID_en 231
+\ps Verb
+\de squinting
+\dv juling
+\dt 15/Mar/2024
+
+\lx_nia sangochoekoe
+\ID_en 402
+\ps Noun
+\de judge
+\dv hakim
+\dt 21/Mar/2024
+
+\lx_nia thandaja
+\ID_en 469
+\ps Noun
+\de pillow
+\dv bantal
+\dt 22/Mar/2024
+
+\lx_nia bagi
+\ID_en 38
+\ps Noun
+\de neck
+\dv leher
+\dt 14/Mar/2024
+
+\lx_nia àwo̠ehoe
+\ID_en 57
+\ps Noun
+\de bile
+\dv empedu
+\dt 14/Mar/2024
+
+\lx_nia sanoewo
+\ID_en 390
+\ps Noun
+\de warrior
+\dv pahlawan perang
+\dt 21/Mar/2024
+
+\lx_nia abao, sabao
+\ID_en 416
+\Notes_en <23>
+\ps Noun
+\de prostitute
+\dv pelacur
+\dt 25/Mar/2024
+
+\lx_nia àngangō
+\ID_en 4
+\ps Noun
+\de forehead
+\dv dahi
+\dt 13/Mar/2024
+
+\lx_nia toeroe si achi
+\ID_en 112
+\ps Noun
+\de little finger
+\dv kelingking
+\dt 14/Mar/2024
+
+\lx_nia awé
+\ID_en 264
+\ps Noun
+\de grandmother
+\dv nenek
+\dt 16/Mar/2024
+
+\lx_nia lowalangi, soaja
+\ID_en 345
+\Notes_en <22>
+\ps Noun
+\de the supreme being
+\dv yang maha kuasa
+\dt 25/Mar/2024
+
+\lx_nia tébabara
+\ID_en 148
+\ps Verb
+\de to lie
+\dv terbaring
+\dt 15/Mar/2024
+
+\lx_nia niha
+\ID_en 238
+\Notes_en <8>
+\ps Noun
+\de people
+\dv orang
+\dt 25/Mar/2024
+
+\lx_nia ōnō alawé
+\ID_en 252
+\ps Noun
+\de girl
+\dv gadis
+\dt 16/Mar/2024
+
+\lx_nia fabalī
+\ID_en 410
+\ps Verb
+\de to divorce
+\dv bercerai
+\dt 22/Mar/2024
+
+\lx_nia mabò
+\ID_en 131
+\ps Verb
+\de drunk
+\dv mabuk
+\dt 15/Mar/2024
+
+\lx_nia foelawa
+\ID_en 473
+\ps Noun
+\de rack above the fireplace
+\dv para-para
+\dt 22/Mar/2024
+
+\lx_nia taro'ō
+\ID_en 67
+\ps Noun
+\de buttocks
+\dv pantat posterior
+\dt 14/Mar/2024
+
+\lx_nia daloe-daloe
+\ID_en 234
+\ps Noun
+\de medicine (with magic power)
+\dv obat (dari dukun)
+\dt 15/Mar/2024
+
+\lx_nia famano̠ mano̠
+\ID_en 356
+\ps Noun
+\de story
+\dv cerita
+\dt 16/Mar/2024
+
+\lx_nia ga'a ira alawé
+\ID_en 271
+\ps Noun
+\de older sister
+\dv kakak perempuan
+\dt 17/Mar/2024
+
+\lx_nia balīarō
+\ID_en 146
+\ps Verb
+\de to lie supine
+\dv telentang
+\dt 15/Mar/2024
+
+\lx_nia a'mbo̠oe hoea
+\ID_en 76
+\ps Verb
+\de to stink, to smell
+\dv berbau busuk
+\dt 17/Mar/2024
+
+\lx_nia ō'ndrita
+\ID_en 194
+\ps Noun
+\de inheritance
+\dv warisan
+\dt 15/Mar/2024
+
+\lx_nia ama
+\ID_en 255
+\ps Noun
+\de father
+\dv ayah
+\dt 16/Mar/2024
+
+\lx_nia ōnō matoea
+\ID_en 250
+\ps Noun
+\de boy, lad
+\dv anak laki-laki
+\dt 16/Mar/2024
+
+\lx_nia simbō
+\ID_en 482
+\ps Noun
+\de smoke
+\dv asap
+\dt 22/Mar/2024
+
+\lx_nia lo̠ fatalifoeso
+\ID_en 316
+\ps Adjective
+\de unrelated
+\dv bukan keluarga
+\dt 16/Mar/2024
+
+\lx_nia manéma ō'ndrita
+\ID_en 193
+\ps Verb
+\de to inherit
+\dv mewarisi
+\dt 15/Mar/2024
+
+\lx_nia manoeko̠oe
+\ID_en 75
+\ps Verb
+\de to fart
+\dv berkentut
+\dt 14/Mar/2024
+
+\lx_nia talīnga
+\ID_en 9
+\ps Noun
+\de ear
+\dv telinga
+\dt 13/Mar/2024
+
+\lx_nia īdano̠ ho̠ro̠
+\ID_en 17
+\ps Noun
+\de tear
+\dv air mata (tunggal)
+\dt 14/Mar/2024
+
+\lx_nia ira matoea
+\ID_en 277
+\ps Noun
+\de uncle fbo
+\dv paman fbo
+\dt 16/Mar/2024
+
+\lx_nia haré
+\ID_en 472
+\ps Noun
+\de attic (under the roof)
+\dv loteng
+\dt 22/Mar/2024
+
+\ID_en 287/289
+\Notes_en <12>
+\ps Noun
+\de cousin
+\dv sepupu
+\dt 26/Mar/2024
+
+\lx_nia toenoe wandoe
+\ID_en 485
+\Notes_en <25>
+\ps Verb
+\de to put on (light)
+\dv menyalakan (sinar)
+\dt 25/Mar/2024
+
+\lx_nia bowo
+\ID_en 396
+\ps Noun
+\de common law
+\dv hukum adat
+\dt 21/Mar/2024
+
+\lx_nia ro̠ngo̠
+\ID_en 30
+\ps Noun
+\de beard
+\dv janggut
+\dt 14/Mar/2024
+
+\lx_nia donga ira matoea, donga ira alawe <19>
+\ID_en 317
+\ps Noun
+\de husband
+\dv suami
+\dt 16/Mar/2024
+
+\lx_nia salawa
+\ID_en 378
+\ps Noun
+\de king
+\dv raja
+\dt 16/Mar/2024
+
+\lx_nia toeroe
+\ID_en 105
+\ps Noun
+\de fingers
+\dv jari tangan (jamak)
+\dt 14/Mar/2024
+
+\lx_nia ila-ila
+\ID_en 338
+\ps Noun
+\de omen
+\dv pertanda
+\dt 16/Mar/2024
+
+\lx_nia sīnalī ga'anōnō
+\ID_en 62
+\ps Noun
+\de umbilical cord
+\dv tali pusat
+\dt 14/Mar/2024
+
+\lx_nia gaélō
+\ID_en 157
+\ps Verb
+\de to speak with a burr
+\dv berbicara dengan artikulasi uvular
+\dt 17/Mar/2024
+
+\lx_nia bisi
+\ID_en 93
+\ps Noun
+\de calf
+\dv betis
+\dt 14/Mar/2024
+
+\ID_en 288/290
+\Notes_en <13>
+\ps Noun
+\de cousin
+\dv sepupu
+\dt 26/Mar/2024
+
+\lx_nia fīga
+\ID_en 497
+\ps Noun
+\de dish
+\dv piring
+\dt 22/Mar/2024
+
+\lx_nia mano'mba
+\ID_en 347
+\ps Verb
+\de to worship
+\dv menyembah
+\dt 16/Mar/2024
+
+\lx_nia laīgī
+\ID_en 419
+\ps Noun
+\de violin
+\dv biola (rebab)
+\dt 22/Mar/2024
+
+\lx_nia oeli
+\ID_en 121
+\ps Noun
+\de skin
+\dv kulit
+\dt 14/Mar/2024
+
+\lx_nia fogīchī
+\ID_en 205
+\ps Adjective
+\de fever
+\dv demam
+\dt 15/Mar/2024
+
+\lx_nia ōwo̠chi
+\ID_en 132
+\ps Adjective
+\de thristy
+\dv haus
+\dt 15/Mar/2024
+
+\lx_nia nagōlé
+\ID_en 117
+\ps Noun
+\de flesh
+\dv daging
+\dt 14/Mar/2024
+
+\lx_nia ērē daloe daloe
+\ID_en 235
+\ps Noun
+\de doctor (medicine man)
+\dv dokter (dukun)
+\dt 15/Mar/2024
+
+\lx_nia boe ro̠ngo̠
+\ID_en 15
+\ps Noun
+\de eyebrow
+\dv alis (tunggal)
+\dt 14/Mar/2024
+
+\lx_nia figa
+\ID_en 502
+\ps Noun
+\de small saucer (earthenware)
+\dv pinggan kecil
+\dt 22/Mar/2024
+
+\lx_nia béléwa
+\ID_en 506
+\ps Noun
+\de chopper
+\dv parang
+\dt 22/Mar/2024
+
+\lx_nia modadau
+\ID_en 149
+\ps Verb
+\de to sit (on a chair)
+\dv duduk (di atas kursi)
+\dt 15/Mar/2024
+
+\lx_nia tihasoe
+\ID_en 127
+\ps Verb
+\de to breath
+\dv bernafas
+\dt 14/Mar/2024
+
+\lx_nia to̠la ho̠go̠
+\ID_en 5
+\ps Noun
+\de skull
+\dv tempurung kepala
+\dt 14/Mar/2024
+
+\lx_nia gana
+\ID_en 330
+\ps Noun
+\de people (tribe)
+\dv rakyat, bangsa (suku bangsa)
+\dt 16/Mar/2024
+
+\lx_nia amoe'i
+\ID_en 244
+\ps Noun
+\de male (animal)
+\dv jantan
+\dt 15/Mar/2024
+
+\lx_nia lēla
+\ID_en 31
+\ps Noun
+\de tongue
+\dv lidah
+\dt 14/Mar/2024
+
+\lx_nia ilo
+\ID_en 125
+\ps Noun
+\de saliva
+\dv ludah
+\dt 14/Mar/2024
+
+\lx_nia oe'ō
+\ID_en 118
+\ps Noun
+\de tendon
+\dv urat
+\dt 14/Mar/2024
+
+\lx_nia boe'mbēwē
+\ID_en 27
+\ps Noun
+\de moustache
+\dv kumis
+\dt 14/Mar/2024
+
+\lx_nia alacha
+\ID_en 369
+\ps Noun
+\de forbidden
+\dv pantangan, pemali
+\dt 16/Mar/2024
+
+\lx_nia ōnōgoe matoea
+\ID_en 261
+\ps Noun
+\de son
+\dv anak laki-laki
+\dt 16/Mar/2024
+
+\lx_nia ba'i
+\ID_en 77
+\ps Noun
+\de penis
+\dv batang pelir
+\dt 14/Mar/2024
+
+\lx_nia aboeso
+\ID_en 134
+\ps Adjective
+\de replete, satisfied
+\dv kenyang, puas
+\dt 15/Mar/2024
+
+\lx_nia to̠la hoeloe
+\ID_en 63
+\ps Noun
+\de back
+\dv belakang, punggung
+\dt 14/Mar/2024
+
+\lx_nia ngingi
+\ID_en 33/35
+\ps Noun
+\de tooth
+\dv gigi
+\dt 14/Mar/2024
+
+\lx_nia ōnō sīachī
+\ID_en 258
+\ps Noun
+\de youngest child
+\dv anak bungsu
+\dt 16/Mar/2024
+
+\lx_nia focho̠ taloe
+\ID_en 207
+\ps Adjective
+\de stomach ache
+\dv sakit perut
+\dt 15/Mar/2024
+
+\lx_nia moejoe-moejoe
+\ID_en 70
+\ps Noun
+\de tailbone, coccyx
+\dv tulang tungging, tulang ekor
+\dt 14/Mar/2024
+
+\lx_nia mōkéha
+\ID_en 170
+\ps Verb
+\de to cough
+\dv batuk
+\dt 15/Mar/2024
+
+\lx_nia ahe
+\ID_en 86
+\ps Noun
+\de foot
+\dv kaki
+\dt 14/Mar/2024
+
+\lx_nia li
+\ID_en 158
+\ps Noun
+\de voice
+\dv suara
+\dt 15/Mar/2024
+
+\lx_nia tōme, niha bo̠'o̠
+\ID_en 324
+\ps Noun
+\de guest, stranger
+\dv tamu, orang asing
+\dt 16/Mar/2024
+
+\lx_nia ama tiri, ina tiri
+\ID_en 304
+\Notes_en <17>
+\ps Noun
+\de stepparents
+\dv ayah dan ibu tiri
+\dt 25/Mar/2024
+
+\lx_nia silalo jawa, éhōmō
+\ID_en 461
+\ps Noun
+\de main posts
+\dv tiang rumah
+\dt 22/Mar/2024
+
+\lx_nia boe'oe kawono
+\ID_en 88
+\ps Noun
+\de ankle
+\dv buku kaki, pergelangan kaki
+\dt 14/Mar/2024
+
+\lx_nia gambi
+\ID_en 28
+\ps Noun
+\de goatee
+\dv janggut seperti, janggut kambing
+\dt 14/Mar/2024
+
+\lx_nia alito̠
+\ID_en 475
+\ps Noun
+\de fire
+\dv api
+\dt 22/Mar/2024
+
+\lx_nia bōha
+\ID_en 34
+\ps Noun
+\de molar
+\dv geraham
+\dt 14/Mar/2024
+
+\lx_nia afocho
+\ID_en 199
+\ps Adjective
+\de ill
+\dv sakit
+\dt 15/Mar/2024
+
+\lx_nia īna
+\ID_en 256
+\ps Noun
+\de mother
+\dv ibu
+\dt 16/Mar/2024
+
+\lx_nia sa'a
+\ID_en 107
+\ps Noun
+\de (finger)nail
+\dv kuku
+\dt 14/Mar/2024
+
+\lx_nia achozi
+\ID_en 476
+\ps Noun
+\de fire
+\dv api, kebakaran
+\dt 22/Mar/2024
+
+\ID_en 278/280
+\Notes_en <10>
+\ps Noun
+\de uncle
+\dv paman
+\dt 26/Mar/2024
+
+\lx_nia toe'a-toe'a
+\ID_en 451
+\ps Noun
+\de window
+\dv jendela
+\dt 22/Mar/2024
+
+\lx_nia faha
+\ID_en 90
+\ps Noun
+\de thigh
+\dv paha
+\dt 14/Mar/2024
+
+\lx_nia sībatoea
+\ID_en 382
+\ps Noun
+\de (sacred) place (held in awe)
+\dv tempat (menyeramkan)
+\dt 16/Mar/2024
+
+\lx_nia taī
+\ID_en 73
+\ps Noun
+\de faeces
+\dv tahi
+\dt 14/Mar/2024
+
+\lx_nia baho̠
+\ID_en 169
+\ps Verb
+\de to sneeze
+\dv bersin
+\dt 15/Mar/2024
+
+\lx_nia taloe
+\ID_en 54
+\ps Noun
+\de belly
+\dv perut
+\dt 14/Mar/2024
+
+\lx_nia bawa talīnga
+\ID_en 452
+\ps Noun
+\de corner
+\dv sudut
+\dt 22/Mar/2024
+
+\lx_nia bīda
+\ID_en 414
+\ps Noun
+\de midwife
+\dv bidan
+\dt 22/Mar/2024
+
+\lx_nia niha
+\ID_en 237
+\Notes_en <7>
+\ps Noun
+\de people
+\dv orang
+\dt 25/Mar/2024
+
+\lx_nia dauli²
+\ID_en 423
+\ps Noun
+\de xylophone
+\dv gambang
+\dt 22/Mar/2024
+
+\lx_nia sārāno
+\ID_en 503
+\Notes_en <26>
+\ps Noun
+\de copper saucer
+\dv pinggan tembaga
+\dt 25/Mar/2024
+
+\lx_nia afiso
+\ID_en 228
+\ps Adjective
+\de deaf
+\dv tuli
+\dt 15/Mar/2024
+
+\lx_nia focho̠ bahi
+\ID_en 210
+\ps Noun
+\de small pox
+\dv cacar
+\dt 15/Mar/2024
+
+\lx_nia ta' iō
+\ID_en 95
+\ps Noun
+\de arm
+\dv lengan
+\dt 14/Mar/2024
+
+\lx_nia mamadoe, badoe
+\ID_en 130
+\Notes_en <2>
+\ps Verb
+\de to drink
+\dv minum
+\dt 25/Mar/2024
+
+\lx_nia mako
+\ID_en 498
+\ps Noun
+\de cup
+\dv cangkir
+\dt 22/Mar/2024
+
+\lx_nia toeroe mani
+\ID_en 111
+\ps Noun
+\de ring finger
+\dv jari manis
+\dt 14/Mar/2024
+
+\lx_nia moriri
+\ID_en 223
+\ps Verb
+\de gone to sleep (limbs)
+\dv kesemutan
+\dt 17/Mar/2024
+
+\lx_nia haroe-haroe
+\ID_en 66
+\ps Noun
+\de shoulderblade
+\dv tulang belikat
+\dt 14/Mar/2024
+
+\lx_nia ho̠g̠o̠
+\ID_en 2
+\ps Noun
+\de head
+\dv kepala
+\dt 14/Mar/2024
+
+\lx_nia bobo 'mbo', hēche 'mbo'o
+\ID_en 165
+\ps Verb
+\de to smile
+\dv tersenyum
+\dt 15/Mar/2024
+
+\lx_nia boeato̠
+\ID_en 462
+\ps Noun
+\de ceiling beams
+\dv langit-langit rumah, tutup jenang
+\dt 22/Mar/2024
+
+\lx_nia ēlēmoe
+\ID_en 333
+\ps Noun
+\de incantation
+\dv mantra
+\dt 16/Mar/2024
+
+\lx_nia ere
+\ID_en 371
+\ps Noun
+\de priest
+\dv pemimpin agama laki-laki
+\dt 16/Mar/2024
+
+\lx_nia banoea
+\ID_en 326
+\ps Noun
+\de country
+\dv negara
+\dt 16/Mar/2024
+
+\lx_nia mo'mboenoe
+\ID_en 192
+\ps Verb
+\de to kill
+\dv membunuh
+\dt 15/Mar/2024
+
+\lx_nia bo'o̠
+\ID_en 21
+\ps Noun
+\de cheek
+\dv pipi
+\dt 14/Mar/2024
+
+\lx_nia abé'e
+\ID_en 202
+\ps Adjective
+\de healthy
+\dv sehat
+\dt 15/Mar/2024
+
+\lx_nia ērē
+\ID_en 331
+\ps Noun
+\de sorcerer
+\dv tukang sihir
+\dt 16/Mar/2024
+
+\lx_nia maigi
+\ID_en 161
+\Notes_en <3>
+\ps Verb
+\de to laugh
+\dv tertawa
+\dt 25/Mar/2024
+
+\lx_nia boto
+\ID_en 1
+\ps Noun
+\de body
+\dv badan, tubuh
+\dt 13/Mar/2024
+
+\lx_nia tōhé mbanoea
+\ID_en 386
+\ps Noun
+\de village head
+\dv kepala kampung
+\dt 16/Mar/2024
+
+\lx_nia manari
+\ID_en 428
+\ps Verb
+\de to dance
+\dv menari
+\dt 22/Mar/2024
+
+\lx_nia īngo
+\ID_en 20
+\ps Noun
+\de mucus
+\dv ingus
+\dt 13/Mar/2024
+
+\lx_nia toi
+\ID_en 239
+\ps Noun
+\de name
+\dv nama
+\dt 15/Mar/2024
+
+\lx_nia afaō
+\ID_en 159
+\ps Noun
+\de hoarse
+\dv parau
+\dt 15/Mar/2024
+
+\lx_nia ono nisow
+\ID_en 305
+\ps Noun
+\de adopted child
+\dv anak pungut; anak angkat
+\dt 16/Mar/2024
+
+\lx_nia mé'é
+\ID_en 163
+\Notes_en <4>
+\ps Verb
+\de to weep
+\dv menangis
+\dt 25/Mar/2024
+
+\lx_nia araro
+\ID_en 32
+\ps Noun
+\de palate
+\dv langit-langit
+\dt 14/Mar/2024
+
+\lx_nia mamakaō
+\ID_en 399
+\ps Verb
+\de to punish
+\dv menghukum
+\dt 21/Mar/2024
+
+\lx_nia tàmboeroe
+\ID_en 421
+\ps Noun
+\de drum
+\dv genderang
+\dt 22/Mar/2024
+
+\lx_nia toeroe lawa
+\ID_en 110
+\ps Noun
+\de middle finger
+\dv jari tengah
+\dt 14/Mar/2024
+
+\lx_nia aroe 'mbato̠
+\ID_en 487
+\ps Noun
+\de space under the house
+\dv kolong rumah
+\dt 22/Mar/2024
+
+\lx_nia awoe
+\ID_en 474
+\ps Noun
+\de hearth, fireplace
+\dv dapur, tungku
+\dt 22/Mar/2024
+
+\lx_nia mo̠ro̠
+\ID_en 138
+\ps Verb
+\de to sleep
+\dv tidur
+\dt 15/Mar/2024
+
+\lx_nia idano̠ me̠me̠
+\ID_en 46
+\ps Noun
+\de breast milk
+\dv air susu
+\dt 14/Mar/2024
+
+\lx_nia boenoe galito̠
+\ID_en 478
+\ps Verb
+\de to extinguish (with water)
+\dv memadamkan api (dengan air)
+\dt 22/Mar/2024
+
+\lx_nia talifoeso̠ alawé
+\ID_en 269
+\ps Noun
+\de sister
+\dv kakak perempuan
+\dt 16/Mar/2024
+
+\lx_nia mēmē
+\ID_en 41/42
+\ps Noun
+\de chest, breast
+\dv dada
+\dt 14/Mar/2024
+
+\lx_nia adoe-adoe
+\ID_en 337
+\ps Noun
+\de idol
+\dv patung pemujaan
+\dt 16/Mar/2024
+
+\lx_nia soedoe
+\ID_en 510
+\ps Noun
+\de spoon
+\dv sendok
+\dt 22/Mar/2024
+
+\lx_nia toeroe loewo
+\ID_en 109
+\ps Noun
+\de index finger
+\dv telunjuk
+\dt 14/Mar/2024
+
+\lx_nia boeto
+\ID_en 229
+\ps Adjective
+\de blind
+\dv buta
+\dt 15/Mar/2024
+
+\ID_en 281/286
+\Notes_en <11>
+\ps Noun
+\de aunt
+\dv tante
+\dt 26/Mar/2024
+
+\lx_nia fawoe'oe lī
+\ID_en 412
+\ps Noun
+\de betrothal
+\dv perjanjian
+\dt 22/Mar/2024
+
+\lx_nia to̠lo̠
+\ID_en 137
+\ps Verb
+\de to swallow
+\dv telan
+\dt 15/Mar/2024
+
+\lx_nia batoea
+\ID_en 375
+\ps Noun
+\de holy place
+\dv tempat suci
+\dt 16/Mar/2024
+
+\lx_nia banoea
+\ID_en 329
+\ps Noun
+\de hamlet
+\dv dukuh
+\dt 16/Mar/2024
+
+\lx_nia amatēla
+\ID_en 188
+\ps Noun
+\de corpse
+\dv mayat
+\dt 15/Mar/2024
+
+\lx_nia nī'ō waloe
+\ID_en 248
+\ps Noun
+\de virgin
+\dv gadis
+\dt 15/Mar/2024
+
+\lx_nia toea
+\ID_en 263
+\ps Noun
+\de grandfather
+\dv kakek
+\dt 16/Mar/2024
+
+\ID_en 303
+\Notes_en <16>
+\ps Noun
+\de stepdaughter
+\dv anak tiri perempuan
+\dt 26/Mar/2024
+
+\lx_nia telinga si'oe
+\ID_en 100
+\ps Noun
+\de elbow
+\dv siku
+\dt 14/Mar/2024
+
+\lx_nia ōnō sīa'a
+\ID_en 257
+\ps Noun
+\de oldest child
+\dv anak sulung
+\dt 16/Mar/2024
+
+\lx_nia mange'ndilo
+\ID_en 167
+\ps Verb
+\de to spit
+\dv meludah
+\dt 15/Mar/2024
+
+\lx_nia achi
+\ID_en 272
+\ps Noun
+\de younger brother
+\dv adik laki-laki
+\dt 17/Mar/2024
+
+\lx_nia boe
+\ID_en 122
+\ps Noun
+\de body hair
+\dv bulu
+\dt 14/Mar/2024
+
+\lx_nia fīga sō'osoe
+\ID_en 501
+\ps Noun
+\de saucer (earthenware)
+\dv pinggan
+\dt 22/Mar/2024
+
+\lx_nia achi na alawé
+\ID_en 273
+\ps Noun
+\de younger sister
+\dv adik perempuan
+\dt 17/Mar/2024
+
+\lx_nia sīrawī
+\ID_en 508
+\ps Noun
+\de dagger
+\dv golok
+\dt 22/Mar/2024
+
+\lx_nia fo̠ro̠ma
+\ID_en 465
+\ps Noun
+\de sleeping place
+\dv kamar tidur
+\dt 22/Mar/2024
+
+\lx_nia mamadoe me̠me̠
+\ID_en 48
+\ps Verb
+\de to suck at the breast
+\dv menyusu
+\dt 14/Mar/2024
+
+\ID_en 277/279
+\Notes_en <9>
+\ps Noun
+\de uncle
+\dv paman
+\dt 25/Mar/2024
+
+\lx_nia ma'oewoe
+\ID_en 274
+\ps Noun
+\de grandchild
+\dv cucu
+\dt 16/Mar/2024
+
+\lx_nia ōnō
+\ID_en 257/258
+\ps Noun
+\de child
+\dv anak
+\dt 16/Mar/2024
+
+\lx_nia bo̠ro̠ ta
+\ID_en 267
+\ps Noun
+\de ancestors
+\dv leluhur, nenek moyang
+\dt 16/Mar/2024
+
+\lx_nia balo̠ doehī
+\ID_en 91
+\ps Noun
+\de knee
+\dv lutut
+\dt 14/Mar/2024
+
+\lx_nia mangifi
+\ID_en 139/140
+\ps Verb
+\de dream
+\dv mimpi
+\dt 15/Mar/2024
+
+\lx_nia to̠la nosoe
+\ID_en 50
+\ps Noun
+\de rib
+\dv tulang rusuk
+\dt 14/Mar/2024
+
+\lx_nia lawoeō
+\ID_en 921
+\ps Noun
+\de cloud
+\dv awan
+\dt 13/Mar/2024
+
+\lx_nia mo'ono
+\ID_en 413
+\ps Verb
+\de to give birth to
+\dv melahirkan
+\dt 22/Mar/2024
+
+\lx_nia ōra
+\ID_en 454
+\ps Noun
+\de ladder
+\dv tangga
+\dt 22/Mar/2024
+
+\lx_nia to̠to̠lo̠
+\ID_en 37
+\ps Noun
+\de throat
+\dv kerongkongan
+\dt 14/Mar/2024
+
+\lx_nia zoeramō
+\ID_en 172
+\ps Verb
+\de hiccups
+\dv tersedu
+\dt 17/Mar/2024
+
+\lx_nia gagō
+\ID_en 156
+\ps Verb
+\de to stammer
+\dv gagap
+\dt 17/Mar/2024
+
+\lx_nia mōlangi
+\ID_en 153
+\ps Verb
+\de to swim
+\dv berenang
+\dt 15/Mar/2024
+
+\lx_nia fatō
+\ID_en 509
+\ps Noun
+\de axe, hatchet
+\dv kapak
+\dt 22/Mar/2024
+
+\lx_nia socho
+\ID_en 196
+\ps Noun
+\de wound
+\dv luka
+\dt 15/Mar/2024
+
+\lx_nia bara
+\ID_en 203
+\ps Noun
+\de boil
+\dv bisul
+\dt 15/Mar/2024
+
+\lx_nia niha
+\ID_en 236
+\ps Noun
+\de man, mankind
+\dv manusia
+\dt 15/Mar/2024
+
+\lx_nia balanga si ölī
+\ID_en 493
+\ps Noun
+\de pot (iron)
+\dv kuali (besi), panci (besi)
+\dt 22/Mar/2024
+
+\lx_nia laté
+\ID_en 456
+\ps Noun
+\de floor (made from bamboo lath)
+\dv lantai (dari bambu)
+\dt 22/Mar/2024
+
+\lx_nia oemo̠no̠
+\ID_en 300
+\ps Noun
+\de daughter-in-law
+\dv menantu perempuan
+\dt 16/Mar/2024
+
+\lx_nia to̠do̠
+\ID_en 52
+\ps Noun
+\de heart
+\dv jantung
+\dt 14/Mar/2024
+
+\lx_nia moeaō
+\ID_en 160
+\ps Verb
+\de to shout
+\dv berteriak
+\dt 15/Mar/2024
+
+\lx_nia ere
+\ID_en 372
+\ps Noun
+\de priestess
+\dv pemimpin agama perempuan
+\dt 16/Mar/2024
+
+\lx_nia sawoejoe
+\ID_en 394
+\ps Noun
+\de slave
+\dv budak
+\dt 21/Mar/2024
+
+\lx_nia niha si lo̠ soe̠hi, niha si lakō
+\ID_en 397
+\ps Noun
+\de criminal
+\dv penjahat
+\dt 21/Mar/2024
+
+\lx_nia fasélō
+\ID_en 150
+\ps Verb
+\de to sit (with the legs crossed)
+\dv bersila
+\dt 15/Mar/2024
+
+\lx_nia ōlōfō
+\ID_en 129
+\ps Adjective
+\de hungry
+\dv lapar
+\dt 15/Mar/2024
+
+\lx_nia ga'a
+\ID_en 270
+\ps Noun
+\de older brother
+\dv kakak laki-laki
+\dt 17/Mar/2024
+
+\lx_nia matoea
+\ID_en 297/298
+\ps Noun
+\de parents-in-law / respective parents of the married couple
+\dv mertua / besan
+\dt 16/Mar/2024
+
+\lx_nia faha
+\ID_en 84
+\ps Noun
+\de leg
+\dv kaki
+\dt 14/Mar/2024
+
+\lx_nia aori
+\ID_en 182
+\ps Verb
+\de to live (alive)
+\dv hidup
+\dt 15/Mar/2024
+
+\lx_nia f̄of̄o
+\ID_en 844
+\ps Noun
+\de bird
+\dv burung
+\dt 13/Mar/2024
+
+\lx_nia bōwōà
+\ID_en 496
+\ps Noun
+\de rice kettle (earthenware)
+\dv kundia
+\dt 22/Mar/2024
+
+\lx_nia méha
+\ID_en 176
+\ps Verb
+\de to yawn
+\dv menguap
+\dt 15/Mar/2024
+
+\lx_nia bāgoloe
+\ID_en 459
+\ps Noun
+\de wall (bamboo wall)
+\dv dinding (bilik)
+\dt 22/Mar/2024
+
+\lx_nia narako
+\ID_en 362
+\ps Noun
+\de underworld
+\dv dunia orang mati
+\dt 16/Mar/2024
+
+\lx_nia boe
+\ID_en 123
+\ps Noun
+\de body hair (animal)
+\dv bulu (binatang)
+\dt 14/Mar/2024
+
+\lx_nia fadaho̠daho̠
+\ID_en 430
+\ps Noun
+\de riddle
+\dv teka teki
+\dt 22/Mar/2024
+
+\lx_nia màméwoeao̠
+\ID_en 477
+\ps Noun
+\de to make a fire
+\dv memasang api
+\dt 22/Mar/2024
+
+\lx_nia gori
+\ID_en 507
+\ps Noun
+\de kris
+\dv keris
+\dt 22/Mar/2024
+
+\lx_nia fatalifoeso
+\ID_en 315
+\ps Adjective
+\de related
+\dv keluarga
+\dt 16/Mar/2024
+
+\lx_nia béchoe
+\ID_en 341
+\Notes_en <21>
+\ps Noun
+\de evil spirit
+\dv ruh jahat
+\dt 25/Mar/2024
+
+\lx_nia īchoe
+\ID_en 18
+\ps Noun
+\de nose
+\dv hidung
+\dt 13/Mar/2024
+
+\lx_nia mōzīzīo
+\ID_en 144
+\ps Verb
+\de to stand
+\dv berdiri
+\dt 15/Mar/2024
+
+\lx_nia toetoe
+\ID_en 422
+\ps Noun
+\de tambourine
+\dv tambur
+\dt 22/Mar/2024
+
+\lx_nia bawa
+\ID_en 22
+\ps Noun
+\de mouth
+\dv mulut
+\dt 13/Mar/2024
+
+\lx_nia boe'mboe
+\ID_en 440
+\ps Noun
+\de ridge of roof
+\dv bubungan
+\dt 22/Mar/2024
+
+\lx_nia kio̠
+\ID_en 83
+\ps Noun
+\de piss, urine
+\dv air kencing
+\dt 14/Mar/2024
+
+\lx_nia galoe, bawa 'nroeho̠
+\ID_en 449
+\ps Noun
+\de door
+\dv daun pintu
+\dt 22/Mar/2024
+
+\lx_nia ado̠'o̠
+\ID_en 173
+\ps Verb
+\de to choke
+\dv tersedak
+\dt 15/Mar/2024
+
+\lx_nia banoea foeri
+\ID_en 366
+\ps Noun
+\de the afterlife
+\dv kehidupan setelah mati
+\dt 16/Mar/2024
+
+\lx_nia aramba
+\ID_en 424
+\ps Noun
+\de gong
+\dv gong
+\dt 22/Mar/2024
+
+\ID_en 302
+\Notes_en <15>
+\ps Noun
+\de stepson
+\dv anak tiri laki-laki
+\dt 26/Mar/2024
+
+\lx_nia awoe
+\ID_en 483
+\ps Noun
+\de ashes
+\dv abu
+\dt 22/Mar/2024
+
+\lx_nia toeroe séboe'a
+\ID_en 108
+\ps Noun
+\de thumb
+\dv ibu jari
+\dt 14/Mar/2024
+
+\lx_nia balanga tano̠
+\ID_en 494
+\ps Noun
+\de pot (earthenware)
+\dv panci, kuali (tanah liat)
+\dt 22/Mar/2024
+
+\lx_nia alizoezoe
+\ID_en 8
+\ps Noun
+\de crown
+\dv hulu kepala
+\dt 13/Mar/2024
+
+\lx_nia awo̠
+\ID_en 320
+\ps Noun
+\de comrade, friend
+\dv sekutu, teman
+\dt 16/Mar/2024
+
+\lx_nia kio̠
+\ID_en 82
+\ps Verb
+\de to urinate
+\dv kencing (k.k.)
+\dt 14/Mar/2024
+
+\lx_nia ōnōgoe alawé
+\ID_en 262
+\ps Noun
+\de daughter
+\dv anak perempuan
+\dt 16/Mar/2024
+
+\lx_nia la'o
+\ID_en 306-309
+\ps Noun
+\de brother-in-law
+\dv ipar laki-laki / biras laki-laki
+\dt 16/Mar/2024
+
+\lx_nia īra alawé snarí
+\ID_en 417
+\Notes_en <24>
+\ps Noun
+\de dancing girl
+\dv gadis penari
+\dt 25/Mar/2024
+
+\lx_nia lahēto
+\ID_en 198
+\ps Noun
+\de scar
+\dv bekas luka
+\dt 15/Mar/2024
+
+\lx_nia méndoea toea
+\ID_en 266
+\ps Noun
+\de great-grandparents
+\dv moyang
+\dt 16/Mar/2024
+
+\lx_nia o̠sī'mbanoea
+\ID_en 365
+\ps Noun
+\de population
+\dv penduduk
+\dt 16/Mar/2024
+
+\lx_nia fo̠cho̠ ho̠go̠
+\ID_en 219
+\ps Adjective
+\de headache
+\dv sakit kepala, pusing
+\dt 15/Mar/2024
+
+\lx_nia to̠mba
+\ID_en 29
+\ps Noun
+\de chin
+\dv dagu
+\dt 14/Mar/2024
+
+\lx_nia fahandona
+\ID_en 381
+\ps Noun
+\de guard
+\dv hulubalang
+\dt 16/Mar/2024
+
+\lx_nia béchoe si so̠chi
+\ID_en 340
+\Notes_en <20>
+\ps Noun
+\de spirit
+\dv ruh baik
+\dt 25/Mar/2024
+
+\lx_nia talifoeso n'amagoe, ira matoea
+\ID_en 275
+\ps Noun
+\de uncle fb
+\dv paman fb
+\dt 16/Mar/2024
+
+\lx_nia soeroené
+\ID_en 420
+\ps Noun
+\de flute
+\dv suling
+\dt 22/Mar/2024
+
+\lx_nia atō
+\ID_en 56
+\ps Noun
+\de liver
+\dv hati
+\dt 14/Mar/2024
+
+\lx_nia ho̠ro̠
+\ID_en 11
+\ps Noun
+\de eye
+\dv mata
+\dt 14/Mar/2024
+
+\lx_nia bāgoloe
+\ID_en 458
+\ps Noun
+\de wall (plank wall)
+\dv dinding (papan)
+\dt 22/Mar/2024
+
+\lx_nia focho̠ taloe
+\ID_en 209
+\ps Noun
+\de diarrhoea
+\dv mencret (k.b.)
+\dt 15/Mar/2024
+
+\lx_nia lo̠ hēdē
+\ID_en 227
+\ps Adjective
+\de mute
+\dv bisu
+\dt 15/Mar/2024
+
+\lx_nia mangētoe-ngētoe
+\ID_en 183
+\ps Verb
+\de to die
+\dv meninggal dunia
+\dt 15/Mar/2024
+
+\lx_nia sowoazitaura
+\ID_en 211
+\ps Adjective
+\de swelling, swollen
+\dv bengkak
+\dt 15/Mar/2024
+
+\lx_nia mamadoho
+\ID_en 232
+\ps Adjective
+\de cured
+\dv sembuh
+\dt 17/Mar/2024
+
+\lx_nia bo̠ro̠ kēha
+\ID_en 126
+\ps Noun
+\de phlegm
+\dv dahak
+\dt 14/Mar/2024
+
+\lx_nia to̠la
+\ID_en 115
+\ps Noun
+\de bone
+\dv tulang
+\dt 14/Mar/2024
+
+\lx_nia tanga
+\ID_en 97
+\ps Noun
+\de hand
+\dv tangan
+\dt 14/Mar/2024
+
+\lx_nia soera
+\ID_en 354
+\ps Noun
+\de letter
+\dv surat
+\dt 16/Mar/2024
+
+\lx_nia oemo̠no̠
+\ID_en 299
+\ps Noun
+\de son-in-law
+\dv menantu laki-laki
+\dt 16/Mar/2024
+
+\lx_nia toefō
+\ID_en 468
+\ps Noun
+\de sleeping mat
+\dv tikar
+\dt 22/Mar/2024
+
+\lx_nia falo̠wa
+\ID_en 407/408
+\ps Verb
+\de marry, marriage
+\dv menikah, perkawinan
+\dt 22/Mar/2024
+
+\lx_nia do
+\ID_en 116
+\ps Noun
+\de blood
+\dv darah
+\dt 14/Mar/2024
+
+\lx_nia bonī
+\ID_en 214
+\Notes_en <6>
+\ps Verb
+\de eruption (of rash)
+\dv ruam
+\dt 25/Mar/2024
+
+\lx_nia fa lo̠ ao̠ehī
+\ID_en 392
+\ps Noun
+\de unhappiness
+\dv kesedihan, kemalangan
+\dt 21/Mar/2024
+
+\lx_nia sibaja
+\ID_en 276
+\ps Noun
+\de uncle mb
+\dv paman mb
+\dt 16/Mar/2024
+
+\lx_nia boe
+\ID_en 6
+\ps Noun
+\de hair
+\dv rambut
+\dt 13/Mar/2024
+
+\lx_nia aro̠ galōgō
+\ID_en 99
+\ps Noun
+\de armpit
+\dv ketiak
+\dt 14/Mar/2024
+
+\lx_nia ōnō alawē
+\ID_en 249
+\ps Noun
+\de virginity
+\dv perawan, kegadisan
+\dt 15/Mar/2024
+
+\lx_nia lambai
+\ID_en 332
+\ps Noun
+\de talisman
+\dv jimat
+\dt 16/Mar/2024
+
+\lx_nia donga ira alawé
+\ID_en 318
+\Notes_en <19>
+\ps Noun
+\de wife
+\dv istri
+\dt 25/Mar/2024
+
+\lx_nia lofo
+\ID_en 391
+\ps Noun
+\de happiness
+\dv kebahagiaan
+\dt 21/Mar/2024
+
+\lx_nia béchoe
+\ID_en 339
+\ps Noun
+\de ghost
+\dv setan
+\dt 16/Mar/2024
+
+\lx_nia taloe ralō
+\ID_en 457
+\ps Noun
+\de floor (made from wood)
+\dv lantai (dari kayu)
+\dt 22/Mar/2024
+
+\lx_nia mō'ndī
+\ID_en 154
+\ps Verb
+\de to take a bath
+\dv mandi
+\dt 15/Mar/2024
+
+\lx_nia mōjō
+\ID_en 843
+\ps Noun
+\de kite (bird)
+\dv burung rajawali
+\dt 13/Mar/2024
+
+\lx_nia tō'a
+\ID_en 78
+\ps Noun
+\de vagina
+\dv puki, liang peranakan
+\dt 14/Mar/2024
+
+\lx_nia mōho̠ko̠
+\ID_en 177
+\ps Verb
+\de to nod
+\dv mengangguk
+\dt 15/Mar/2024
+
+\lx_nia éoe galito̠, éoe nawoe
+\ID_en 484
+\ps Noun
+\de fire wood
+\dv kayu api
+\dt 22/Mar/2024
+
+\lx_nia halo̠ nidano̠, taoe nidano̠
+\ID_en 513
+\ps Verb
+\de to fetch water
+\dv mengambil air
+\dt 22/Mar/2024
+
+\lx_nia bēwē
+\ID_en 25
+\Notes_en <1>
+\ps Noun
+\de lips
+\dv bibir (jamak)
+\dt 25/Mar/2024
+
+\lx_nia gajoe, naha nidano̠
+\ID_en 499
+\ps Noun
+\de drinking bowl
+\dv tempat minum
+\dt 22/Mar/2024
+
+\lx_nia lakōnī
+\ID_en 240
+\ps Noun
+\de nickname
+\dv julukan
+\dt 15/Mar/2024
+
+\lx_nia moföcho̠
+\ID_en 200
+\ps Verb
+\de to be ill
+\dv merasa sakit
+\dt 17/Mar/2024
+
+\lx_nia bo̠bo̠'ī
+\ID_en 124
+\ps Noun
+\de sweat
+\dv keringat
+\dt 14/Mar/2024
+
+\lx_nia noso
+\ID_en 343/344
+\ps Noun
+\de soul, spirit, ghost
+\dv jiwa, nyawa, ruh
+\dt 16/Mar/2024
+
+\lx_nia bawa
+\ID_en 3
+\ps Noun
+\de face
+\dv muka, wajah
+\dt 13/Mar/2024
+
+\lx_nia īra matoea
+\ID_en 241
+\ps Noun
+\de man
+\dv orang laki-laki
+\dt 15/Mar/2024
+
+\lx_nia sago̠
+\ID_en 441
+\ps Noun
+\de roofing: thatch
+\dv atap
+\dt 22/Mar/2024
+
+\lx_nia mōgo̠a
+\ID_en 174
+\ps Verb
+\de belch
+\dv sendawa
+\dt 15/Mar/2024
+
+\lx_nia fàngasi
+\ID_en 404
+\ps Noun
+\de funeral ceremony
+\dv upacara kematian, pemakaman
+\dt 21/Mar/2024
+
+\lx_nia gaso̠
+\ID_en 446
+\ps Noun
+\de rafter
+\dv kasau
+\dt 22/Mar/2024
+
+\lx_nia raga-raga, daga
+\ID_en 514
+\Notes_en <29>
+\ps Noun
+\de basket (all sorts of)
+\dv keranjang (bermacam-macam)
+\dt 25/Mar/2024
+
+\lx_nia aboeso
+\ID_en 133
+\ps Adjective
+\de satisfied
+\dv kenyang, puas
+\dt 15/Mar/2024
+
+\lx_nia fahasoe
+\ID_en 166
+\ps Verb
+\de to sigh
+\dv berkeluh kesah, mengeluh
+\dt 15/Mar/2024
+
+\lx_nia manga
+\ID_en 128
+\ps Verb
+\de to eat
+\dv makan
+\dt 14/Mar/2024

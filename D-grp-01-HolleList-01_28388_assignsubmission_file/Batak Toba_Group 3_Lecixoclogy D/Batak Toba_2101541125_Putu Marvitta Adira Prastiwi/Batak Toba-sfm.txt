@@ -1,0 +1,2784 @@
+
+\lx lasiak
+\ID_en 562
+\ps Noun
+\de black pepper
+\d_id lada hitam
+\dt 26/Apr/2024
+
+\lx maboek
+\ID_en 131
+\ps Adjective
+\de drunk
+\d_id mabuk
+\dt 14/Mar/2024
+
+\lx ina ni tangan
+\ID_en 108
+\ps Noun
+\de thumb
+\d_id ibu jari
+\dt 14/Mar/2024
+
+\lx amangoeda
+\ID_en 275
+\ps Noun
+\de uncle FB
+\d_id paman FB
+\dt 20/Apr/2024
+
+\lx tanda
+\ID_en 338
+\ps Noun
+\de omen
+\d_id pertanda
+\dt 20/Apr/2024
+
+\lx lae
+\ID_en 306-309
+\ps Noun
+\de brother-in-law WB
+\d_id ipar laki-laki WB
+\dt 20/Apr/2024
+
+\lx hoedjoer , goeringgoeringan
+\ID_en 611
+\nt <44>
+\ps Noun
+\de pike, lance, javelin
+\d_id tombak, lembing
+\dt 28/Apr/2024
+
+\lx mata
+\ID_en 11
+\nt  < 1 >
+\ps Noun
+\de eye
+\d_id mata
+\dt 13/Mar/2024
+
+\lx sondoek
+\ID_en 510
+\ps Noun
+\de spoon
+\d_id sendok
+\dt 26/Apr/2024
+
+\lx datoe, pandaoni
+\ID_en 235
+\ps Noun
+\de doctor (medicine man)
+\d_id dokter (dukun)
+\dt 15/Mar/2024
+
+\lx igoeng
+\ID_en 18
+\ps Noun
+\de nose
+\d_id hidung
+\dt 13/Mar/2024
+
+\lx biring
+\ID_en 203
+\ps Noun
+\de boil
+\d_id bisul
+\dt 14/Mar/2024
+
+\lx mangintopi palito
+\ID_en 486
+\ps Verb
+\de to put off (light)
+\d_id memadamkan (sinar)
+\dt 26/Apr/2024
+
+\lx mamioe ( pioe )
+\ID_en 601
+\ps Verb
+\de to twine a rope
+\d_id memintal tali
+\dt 28/Apr/2024
+
+\lx tali ni poesok
+\ID_en 62
+\ps Noun
+\de umbilical cord
+\d_id tali pusat
+\dt 14/Mar/2024
+
+\lx radja
+\ID_en 378
+\ps Noun
+\de king
+\d_id radja
+\dt 20/Apr/2024
+
+\ID_en 421
+\nt <28>
+\ps Noun
+\de drum
+\d_id genderang
+\dt 28/Apr/2024
+
+\lx bankoe
+\ID_en 489
+\ps Noun
+\de bench, seat
+\d_id bangku untuk duduk
+\dt 26/Apr/2024
+
+\ID_en 241
+\nt <15>
+\ps Noun
+\de man
+\d_id orang laki-laki
+\dt 15/Mar/2024
+
+\lx t angga
+\ID_en 453
+\ps Noun
+\de staircase, steps
+\d_id tangga, anak tangga
+\dt 26/Apr/2024
+
+\lx morsahit , hansitan
+\ID_en 199
+\ps Adjective
+\de ill
+\d_id sakit
+\dt 14/Mar/2024
+
+\lx sondoehan
+\ID_en 403
+\ps Noun
+\de credit bondsman
+\d_id orang tergadai
+\dt 26/Apr/2024
+
+\lx tali
+\ID_en 602
+\ps Noun
+\de rope
+\d_id tali
+\dt 28/Apr/2024
+
+\lx pandoeloan , djandela
+\ID_en 451
+\ps Noun
+\de window
+\d_id jendela
+\dt 26/Apr/2024
+
+\lx boroe
+\ID_en 291-294
+\ps Noun
+\de niece BoD
+\d_id kemenakan perempuan BoD
+\dt 20/Apr/2024
+
+\lx dahanon
+\ID_en 544
+\ps Noun
+\de husked rice
+\d_id beras
+\dt 26/Apr/2024
+
+\lx timoes
+\ID_en 482
+\ps Noun
+\de smoke
+\d_id asap
+\dt 26/Apr/2024
+
+\lx hoedon
+\ID_en 495/496
+\ps Noun
+\de rice kettle (copper)
+\d_id dandang
+\dt 26/Apr/2024
+
+\lx nipi , mornipi
+\ID_en 139/140
+\ps Noun
+\de dream
+\d_id mimpi
+\dt 14/Mar/2024
+
+\lx ogoeng
+\ID_en 424
+\ps Noun
+\de gong
+\d_id gong
+\dt 26/Apr/2024
+
+\lx mordjoedji
+\ID_en 432
+\nt <30>
+\ps Verb
+\de to play
+\d_id bermain
+\dt 26/Apr/2024
+
+\lx hoeroem
+\ID_en 21
+\ps Noun
+\de cheek
+\d_id pipi
+\dt 13/Mar/2024
+
+\lx modom (podom)
+\ID_en 138
+\de to sleep
+\d_id tidur
+\dt 14/Mar/2024
+
+\lx boetoeha bolon
+\ID_en 53
+\ps Noun
+\de stomach
+\d_id lambung
+\dt 14/Mar/2024
+
+\lx kapala kampong
+\ID_en 386
+\ps Noun
+\de village head
+\d_id kepala kampung
+\dt 26/Apr/2024
+
+\lx boroeboroe
+\ID_en 242
+\ps Noun
+\de woman
+\d_id orang perempuan
+\dt 15/Mar/2024
+
+\lx iboto
+\ID_en 269
+\nt <17>
+\ps Noun
+\de sister
+\d_id saudara perempuan
+\dt 20/Apr/2024
+
+\ID_en 392
+\nt <26>
+\ps Noun
+\de unhappiness
+\d_id kesedihan, kemalangan
+\dt 26/Apr/2024
+
+\lx rabi
+\ID_en 506
+\ps Noun
+\de chopper
+\d_id parang
+\dt 26/Apr/2024
+
+\lx baoa, lahilahi
+\ID_en 243
+\ps Adjective
+\de male (human)
+\d_id laki-laki
+\dt 15/Mar/2024
+
+\lx badjoe badjoe
+\ID_en 569/570
+\ps Noun
+\de jacket (for women)
+\d_id baju perempuan
+\dt 26/Apr/2024
+
+\lx pinggol
+\ID_en 9
+\ps Noun
+\de ear
+\d_id telinga
+\dt 13/Mar/2024
+
+\lx boengkoelan
+\ID_en 440
+\ps Noun
+\de ridge of roof
+\d_id bubungan
+\dt 26/Apr/2024
+
+\lx tondong, poroehaon
+\ID_en 315
+\ps Noun
+\de related
+\d_id keluarga
+\dt 20/Apr/2024
+
+\lx morporo ( poro )
+\ID_en 159
+\nt <10> 
+\de hoarse
+\d_id parau
+\dt 14/Mar/2024
+
+\lx pinggan
+\ID_en 501-503
+\ps Noun
+\de saucer (earthenware)
+\d_id pinggan
+\dt 26/Apr/2024
+
+\lx arab, hasapi
+\ID_en 419
+\ps Noun
+\de violin
+\d_id biola (rebab)
+\dt 26/Apr/2024
+
+\lx ngoengoe
+\ID_en 227
+\ps Adjective
+\de mute
+\d_id bisu
+\dt 15/Mar/2024
+
+\lx dakdanak
+\ID_en 257/258
+\ps Noun
+\de child
+\d_id anak
+\dt 20/Apr/2024
+
+\lx dame
+\ID_en 630
+\ps Noun
+\de peace
+\d_id damai
+\dt 28/Apr/2024
+
+\lx oerat oerat
+\ID_en 118
+\ps Noun
+\de tendon
+\d_id urat
+\dt 14/Mar/2024
+
+\lx ingkaoe
+\ID_en 537
+\ps Noun
+\de vegetables
+\d_id sayuran
+\dt 26/Apr/2024
+
+\lx abara
+\ID_en 66
+\ps Noun
+\de shoulderblade
+\d_id tulang belikat
+\dt 14/Mar/2024
+
+\lx ama painoendoen
+\ID_en 304
+\ps Noun
+\de stepparents
+\d_id ayah dan ibu tiri
+\dt 20/Apr/2024
+
+\lx riapriap
+\ID_en 214
+\ps Noun
+\de eruption (of rash)
+\d_id ruam
+\dt 15/Mar/2024
+
+\lx manirang (sirang)
+\ID_en 410
+\ps Verb
+\de to divorce
+\d_id bercerai
+\dt 26/Apr/2024
+
+\lx siahaan
+\ID_en 257
+\ps Noun
+\de oldest child
+\d_id anak sulung
+\dt 20/Apr/2024
+
+\lx tanggoeroeng
+\ID_en 63
+\ps Noun
+\de back
+\d_id belakang, punggung
+\dt 14/Mar/2024
+
+\lx paroemaen
+\ID_en 300
+\ps Noun
+\de daughter-in-law
+\d_id menantu perempuan
+\dt 20/Apr/2024
+
+\lx loeat, tano
+\ID_en 326
+\ps Noun
+\de country
+\d_id negara
+\dt 20/Apr/2024
+
+\lx mommon
+\ID_en 20
+\ps Noun
+\de mucus
+\d_id ingus
+\dt 13/Mar/2024
+
+\lx gigi
+\ID_en 643
+\ps Noun
+\de coulter
+\d_id mata bajak
+\dt 28/Apr/2024
+
+\lx mise, djanggoet
+\ID_en 30
+\nt <3>
+\ps Noun
+\de beard
+\d_id janggut
+\dt 14/Mar/2024
+
+\lx soesoe, bagot
+\ID_en 46
+\ps Noun
+\de breast milk
+\d_id air susu
+\dt 14/Mar/2024
+
+\lx harotas
+\ID_en 353
+\ps Noun
+\de paper
+\d_id kertas
+\dt 20/Apr/2024
+
+\lx boroeboroe
+\ID_en 318
+\nt <19>
+\ps Noun
+\de wife
+\d_id istri
+\dt 20/Apr/2024
+
+\lx manaok ( saok )
+\ID_en 530
+\ps Verb
+\de to grill, to roast
+\d_id panggang
+\dt 26/Apr/2024
+
+\lx peak
+\ID_en 148
+\ps Verb
+\de to lie
+\d_id berbaring
+\dt 15/Mar/2024
+
+\lx bagot, soesoe
+\ID_en 42
+\ps Noun
+\de breasts (female)
+\d_id dada (perempuan, jamak)
+\dt 14/Mar/2024
+
+\lx mantri, manter
+\ID_en 380
+\ps Noun
+\de mantri
+\d_id mantri
+\dt 20/Apr/2024
+
+\lx sondoek
+\ID_en 511
+\ps Noun
+\de ladle
+\d_id ciduk, sendok
+\dt 26/Apr/2024
+
+\lx dando
+\ID_en 400
+\ps Noun
+\de fine
+\d_id denda
+\dt 26/Apr/2024
+
+\lx moroendjoek, hasampoeran
+\ID_en 407/408
+\ps Noun
+\de marry, marriage
+\d_id menikah, perkawinan
+\dt 26/Apr/2024
+
+\lx sopo
+\ID_en 549
+\ps Noun
+\de rice barn
+\d_id lumbung beras, lumbung padi
+\dt 26/Apr/2024
+
+\lx parangan
+\ID_en 390
+\de warrior
+\nt pahlawan perang
+\dt 26/Apr/2024
+
+\lx mangoeroentelmek
+\ID_en 152
+\ps Verb
+\de to squat
+\d_id berjongkok
+\dt 14/Mar/2024
+
+\lx tot
+\ID_en 91
+\ps Noun
+\de knee
+\d_id lutut
+\dt 14/Mar/2024
+
+\lx andoeri
+\ID_en 553
+\ps Noun
+\de sieve for rice
+\d_id nyiru
+\dt 26/Apr/2024
+
+\lx hoendoel
+\ID_en 149
+\ps Verb
+\de to sit (on a chair)
+\d_id duduk (di atas kursi)
+\dt 14/Mar/2024
+
+\lx hoendoelan
+\ID_en 68
+\ps Noun
+\de buttock
+\d_id pantat bagian kiri atau kanan
+\dt 14/Mar/2024
+
+\lx amangtoea
+\ID_en 277-280
+\ps Noun
+\de uncle FBo
+\d_id paman FBo
+\dt 20/Apr/2024
+
+\lx poestaha
+\ID_en 335
+\ps Noun
+\de magic book
+\d_id buku mantera
+\dt 20/Apr/2024
+
+\lx morlange ( lange )
+\ID_en 153
+\ps Verb
+\de to swim
+\d_id berenang
+\dt 14/Mar/2024
+
+\lx soeroean
+\ID_en 637
+\ps Noun
+\de delegate
+\d_id utusan
+\dt 28/Apr/2024
+
+\lx haëhaë
+\ID_en 90
+\ps Noun
+\de thigh
+\d_id paha
+\dt 14/Mar/2024
+
+\ID_en 487
+\nt <35>
+\ps Noun
+\de space under the house
+\d_id kolong rumah
+\dt 26/Apr/2024
+
+\lx haha, anggi
+\ID_en 272/273
+\ps Noun
+\de younger brother
+\d_id adik laki-laki
+\dt 20/Apr/2024
+
+\lx tidjoer
+\ID_en 125
+\ps Noun
+\de saliva
+\d_id ludah
+\dt 14/Mar/2024
+
+\lx soerat
+\ID_en 354
+\ps Noun
+\de letter
+\d_id surat
+\dt 20/Apr/2024
+
+\lx samboeboe
+\ID_en 8
+\ps Noun
+\de crown
+\d_id hulu kepala
+\dt 13/Mar/2024
+
+\lx begoe
+\ID_en 341
+\nt <22>
+\ps Noun
+\de evil spirit
+\d_id ruh jahat
+\dt 20/Apr/2024
+
+\lx tangkoerak
+\ID_en 5
+\ps Noun
+\de skull
+\d_id tempurung kepala
+\dt 13/Mar/2024
+
+\lx ihoer, amboeroek
+\ID_en 69
+\ps Noun
+\de posterior, buttocks
+\d_id pantat
+\dt 14/Mar/2024
+
+\lx oboek
+\ID_en 6
+\ps Noun
+\de hair
+\d_id rambut
+\dt 13/Mar/2024
+
+\lx amak
+\ID_en 468
+\ps Noun
+\de sleeping mat
+\d_id tikar
+\dt 26/Apr/2024
+
+\lx antinganting
+\ID_en 582
+\ps Noun
+\de earring
+\d_id anting-anting
+\dt 28/Apr/2024
+
+\lx boetar
+\ID_en 443/444
+\ps Noun
+\de roofing: wood
+\d_id atap: sirap (kayu)
+\dt 26/Apr/2024
+
+\lx podang
+\ID_en 608
+\ps Noun
+\de sabre
+\d_id parang, kelewang
+\dt 28/Apr/2024
+
+\lx toelang
+\ID_en 276
+\ps Noun
+\de uncle MB
+\d_id paman MB
+\dt 20/Apr/2024
+
+\lx anak painoendoen
+\ID_en 302/303
+\ps Noun
+\de stepson
+\d_id anak tiri laki-laki
+\dt 20/Apr/2024
+
+\lx bonang, oelaoela tonoen
+\ID_en 594-597
+\ps Noun
+\de loom (meed)
+\d_id sisir tenun
+\dt 28/Apr/2024
+
+\lx goegoean
+\ID_en 640
+\ps Noun
+\de tax
+\d_id pajak
+\dt 28/Apr/2024
+
+\lx bohi
+\ID_en 3
+\ps Noun
+\de face
+\d_id muka, wajah
+\dt 13/Mar/2024
+
+\ID_en 420
+\nt <27>
+\ps Noun
+\de flute
+\d_id suling
+\dt 26/Apr/2024
+
+\lx gogop
+\ID_en 156
+\ps Verb
+\de to stammer
+\d_id gagap
+\dt 14/Mar/2024
+
+\lx tangan
+\ID_en 95
+\ps Noun
+\de arm
+\d_id lengan
+\dt 14/Mar/2024
+
+\lx tiang
+\ID_en 461
+\ps Noun
+\de main posts
+\d_id tiang rumah
+\dt 26/Apr/2024
+
+\lx bodil
+\ID_en 620
+\ps Noun
+\de rifle
+\d_id bedil (senapan)
+\dt 28/Apr/2024
+
+\lx imboeloe
+\ID_en 122/123
+\ps Noun
+\de hair
+\d_id rambut
+\dt 14/Mar/2024
+
+\lx mambaoe , mandandan
+\ID_en 600
+\ps Verb
+\de to weave, to plait
+\d_id menganyam
+\dt 28/Apr/2024
+
+\lx mangintopi api
+\ID_en 478
+\ps Verb
+\de to extinguish (with water)
+\d_id memadamkan api (dengan air)
+\dt 26/Apr/2024
+
+\lx ina
+\ID_en 256
+\ps Noun
+\de mother
+\d_id ibu
+\dt 20/Apr/2024
+
+\lx bodil meriam
+\ID_en 628
+\ps Noun
+\de cannon
+\d_id meriam
+\dt 28/Apr/2024
+
+\ID_en 535
+\nt <40>
+\ps Noun
+\de provisions
+\d_id bekal
+\dt 26/Apr/2024
+
+\lx pangoehoem
+\ID_en 402
+\ps Noun
+\de judge
+\d_id hakim
+\dt 26/Apr/2024
+
+\lx pat
+\ID_en 86
+\ps Noun
+\de foot
+\d_id kaki
+\dt 14/Mar/2024
+
+\lx pinggan
+\ID_en 497
+\ps Noun
+\de dish
+\d_id piring
+\dt 26/Apr/2024
+
+\lx djaroem manis
+\ID_en 111
+\ps Noun
+\de ring finger
+\d_id jari manis
+\dt 14/Mar/2024
+
+\lx hare
+\ID_en 561
+\ps Noun
+\de porridge
+\d_id bubur
+\dt 26/Apr/2024
+
+\lx datoe
+\ID_en 331
+\ps Noun
+\de sorcerer
+\d_id tukang sihir
+\dt 20/Apr/2024
+
+\lx anak boroe , boroeboroe
+\ID_en 252
+\ps Noun
+\de girl
+\d_id gadis
+\dt 15/Mar/2024
+
+\lx hodok, panas
+\ID_en 124
+\ps Noun
+\de sweat
+\d_id keringat
+\dt 14/Mar/2024
+
+\lx toenggal
+\ID_en 244
+\ps Adjective
+\de male (animal)
+\d_id jantan
+\dt 15/Mar/2024
+
+\lx pagalak palito
+\ID_en 485
+\ps Verb
+\de to put on (light)
+\d_id menyalakan (sinar)
+\dt 26/Apr/2024
+
+\ID_en 317
+\nt <18>
+\ps Noun
+\de husband
+\d_id suami
+\dt 20/Apr/2024
+
+\lx gasing
+\ID_en 433
+\ps Noun
+\de top
+\d_id gasing
+\dt 26/Apr/2024
+
+\lx pagalak api
+\ID_en 477
+\ps Verb
+\de to make a fire
+\d_id memasang api
+\dt 26/Apr/2024
+
+\lx saroeng
+\ID_en 609
+\ps Noun
+\de sheath
+\d_id sarung pedang
+\dt 28/Apr/2024
+
+\lx dorpi
+\ID_en 458/459
+\sn 1
+\ps Noun
+\de wall (plank wall)
+\d_id dinding (papan)
+\sn 2
+\ps Noun
+\de wall (bamboo wall)
+\d_id dinding (bilik)
+\dt 26/Apr/2024
+
+\lx siraboen
+\ID_en 483
+\ps Noun
+\de ashes
+\d_id abu
+\dt 26/Apr/2024
+
+\lx salibon
+\ID_en 15
+\ps Noun
+\de eyebrow
+\d_id alis (tunggal)
+\dt 13/Mar/2024
+
+\lx sira
+\ID_en 563
+\ps Noun
+\de salt
+\d_id garam
+\dt 26/Apr/2024
+
+\lx boekoe (poestaha)
+\ID_en 355
+\ps Noun
+\de book
+\d_id buku
+\dt 20/Apr/2024
+
+\lx aroen , siloepa
+\ID_en 205
+\ps Noun
+\de fever
+\d_id demam (k.b.)
+\dt 14/Mar/2024
+
+\ID_en 22
+\nt < 2 >
+\ps Noun
+\de mouth
+\d_id mulut
+\dt 14/Mar/2024
+
+\lx heheamon
+\ID_en 176
+\ps Verb
+\de to yawn
+\d_id menguap
+\dt 14/Mar/2024
+
+\lx api
+\ID_en 475
+\ps Noun
+\de fire
+\d_id api
+\dt 26/Apr/2024
+
+\lx male
+\ID_en 129
+\ps Adjective
+\de hungry
+\d_id lapar
+\dt 14/Mar/2024
+
+\lx ansosohoton
+\ID_en 172
+\ps Verb
+\de hiccups
+\d_id tersedu
+\dt 14/Mar/2024
+
+\lx anak
+\ID_en 250
+\ps Noun
+\de boy, lad
+\d_id anak laki-laki
+\dt 15/Mar/2024
+
+\lx oloe
+\ID_en 2
+\ps Noun
+\de head
+\d_id kepala
+\dt 13/Mar/2024
+
+\lx bioer
+\ID_en 548
+\ps Noun
+\de ear of rice, corn
+\d_id bulir, mayang
+\dt 26/Apr/2024
+
+\lx boegang
+\ID_en 196
+\ps Noun
+\de wound
+\d_id luka
+\dt 14/Mar/2024
+
+\lx sarong
+\ID_en 565
+\ps Noun
+\de sarong
+\d_id sarung
+\dt 26/Apr/2024
+
+\lx boetong
+\ID_en 133
+\ps Adjective
+\de satisfied
+\d_id kenyang, puas
+\dt 14/Mar/2024
+
+\lx djoegoek
+\ID_en 150
+\ps Verb
+\de to sit (with the legs crossed)
+\d_id bersila
+\dt 14/Mar/2024
+
+\lx mengkelengkel, mortata
+\ID_en 161
+\ps Verb
+\de to laugh
+\d_id tertawa
+\dt 14/Mar/2024
+
+\lx pintoe, kinsoe kinsoe
+\ID_en 449
+\ps Noun
+\de door
+\d_id daun pintu
+\dt 26/Apr/2024
+
+\lx morlodjong
+\ID_en 145
+\nt <9>
+\de to walk
+\d_id berjalan
+\dt 14/Mar/2024
+
+\lx hela
+\ID_en 299
+\ps Noun
+\de son-in-law
+\d_id menantu laki-laki
+\dt 20/Apr/2024
+
+\lx ompoe
+\ID_en 266
+\ps Noun
+\de great-grandparents
+\d_id moyang
+\dt 20/Apr/2024
+
+\lx bibir
+\ID_en 25
+\ps Noun
+\de lips
+\d_id bibir (jamak)
+\dt 13/Mar/2024
+
+\lx pahompoe
+\ID_en 274
+\ps Noun
+\de grandchild
+\d_id cucu
+\dt 20/Apr/2024
+
+\lx soebang
+\ID_en 369
+\ps Noun
+\de forbidden
+\d_id pantangan, pemali
+\dt 20/Apr/2024
+
+\lx anak ni tangan
+\ID_en 112
+\ps Noun
+\de little finger
+\d_id kelingking
+\dt 14/Mar/2024
+
+\lx datoe, porbaringin
+\ID_en 371
+\ps Noun
+\de priest
+\d_id pemimpin agama laki-laki
+\dt 20/Apr/2024
+
+\lx mongkolongkol
+\ID_en 170
+\ps Verb
+\de to cough
+\d_id batuk
+\dt 14/Mar/2024
+
+\ID_en 437
+\nt <31>
+\ps Noun
+\de house
+\d_id rumah
+\dt 26/Apr/2024
+
+\lx haha, anggi
+\ID_en 270/271
+\ps Noun
+\de older brother
+\d_id kakak laki-laki
+\dt 20/Apr/2024
+
+\lx endeende
+\ID_en 358
+\ps Noun
+\de poem
+\d_id sanjak, syair
+\dt 20/Apr/2024
+
+\lx sampoesampoe
+\ID_en 224
+\ps Noun
+\de cramp
+\d_id kejang
+\dt 15/Mar/2024
+
+\lx sopo
+\ID_en 377
+\ps Noun
+\de town hall
+\d_id balai kota
+\dt 20/Apr/2024
+
+\lx oeltop
+\ID_en 612
+\ps Noun
+\de blow-pipe
+\d_id sumpitan
+\dt 28/Apr/2024
+
+\lx boroe sibabidjalang
+\ID_en 416
+\ps Noun
+\de prostitute
+\d_id pelacur
+\dt 26/Apr/2024
+
+\lx ganaganaan
+\ID_en 337
+\ps Noun
+\de idol
+\d_id patung pemujaan
+\dt 20/Apr/2024
+
+\lx sior
+\ID_en 613
+\nt <45>
+\ps Noun
+\de bow
+\d_id busur
+\dt 28/Apr/2024
+
+\lx ipos ipos
+\ID_en 198
+\ps Noun
+\de scar
+\d_id bekas luka
+\dt 14/Mar/2024
+
+\lx raboek
+\ID_en 621
+\ps Noun
+\de gun powder
+\d_id obat bedil
+\dt 28/Apr/2024
+
+\lx maminsang (pinsang), mangoehoemi
+\ID_en 399
+\ps Verb
+\de to punish
+\d_id menghukum
+\dt 26/Apr/2024
+
+\lx bonang
+\ID_en 603
+\ps Noun
+\de thread, yarn
+\d_id benang
+\dt 28/Apr/2024
+
+\lx mandoeda
+\ID_en 555
+\nt <42>
+\ps Verb
+\de to grind
+\d_id menggiling
+\dt 26/Apr/2024
+
+\lx sosor
+\ID_en 328
+\ps Noun
+\de hamlet
+\d_id dukuh
+\dt 20/Apr/2024
+
+\lx ngenge
+\ID_en 210
+\ps Noun
+\de small pox
+\d_id cacar
+\dt 15/Mar/2024
+
+\lx manoesoe (soesoe)
+\ID_en 48
+\ps Verb
+\de to suck at the breast
+\d_id menyusu
+\dt 14/Mar/2024
+
+\lx morhosa
+\ID_en 127
+\ps Verb
+\de to breath
+\d_id bernapas
+\dt 14/Mar/2024
+
+\lx dongan
+\ID_en 320
+\ps Noun
+\de comrade, friend
+\d_id sekutu, teman
+\dt 20/Apr/2024
+
+\lx sintoea
+\ID_en 399
+\ps Noun
+\de village elders
+\d_id orang tua-tua
+\dt 26/Apr/2024
+
+\lx saboek
+\ID_en 588
+\ps Noun
+\de loin cloth
+\d_id cawat
+\dt 28/Apr/2024
+
+\lx mandorgoek ( dorgoek ), mamondoet ( bondoet )
+\ID_en 137
+\ps Verb
+\de to swallow
+\d_id telan
+\dt 14/Mar/2024
+
+\lx simakban
+\ID_en 316
+\ps Noun
+\de unrelated
+\d_id bukan keluarga
+\dt 20/Apr/2024
+
+\lx lomboelomboe
+\ID_en 617
+\ps Noun
+\de shield
+\d_id perisai
+\dt 28/Apr/2024
+
+\lx golang golang
+\ID_en 579/580
+\ps Noun
+\de arm ring, bracelet
+\d_id gelang tangan
+\dt 28/Apr/2024
+
+\lx mamodil
+\ID_en 623
+\ps Verb
+\de to shoot
+\d_id menembak
+\dt 28/Apr/2024
+
+\lx aroe aroe
+\ID_en 37
+\ps Noun
+\de throat
+\d_id kerongkongan
+\dt 14/Mar/2024
+
+\lx soemangot
+\ID_en 340
+\nt <21>
+\de spirit
+\d_id ruh baik
+\dt 20/Apr/2024
+
+\lx soehi
+\ID_en 452
+\ps Noun
+\de corner
+\d_id sudut
+\dt 26/Apr/2024
+
+\lx mamoenoe ( boenoe )
+\ID_en 192
+\ps Verb
+\de to kill
+\d_id membunuh
+\dt 14/Mar/2024
+
+\lx peak
+\ID_en 146
+\ps Verb
+\de to lie supine
+\d_id telentang
+\dt 15/Mar/2024
+
+\lx nengei
+\ID_en 228
+\ps Adjective
+\de deaf
+\d_id tuli
+\dt 15/Mar/2024
+
+\lx hohak
+\ID_en 126
+\ps Noun
+\de phlegm
+\d_id dahak
+\dt 14/Mar/2024
+
+\lx pormainanon
+\ID_en 415
+\ps Verb
+\de to commit adultery
+\d_id berzinah
+\dt 26/Apr/2024
+
+\lx soerat
+\ID_en 351
+\ps Noun
+\de writing
+\d_id tulisan
+\dt 20/Apr/2024
+
+\lx pat
+\ID_en 84
+\ps Noun
+\de leg
+\d_id kaki
+\dt 14/Mar/2024
+
+\lx raoet , karis
+\ID_en 507
+\ps Noun
+\de kris
+\d_id keris
+\dt 26/Apr/2024
+
+\lx maoeas
+\ID_en 132
+\ps Adjective
+\de thirsty
+\d_id haus
+\dt 14/Mar/2024
+
+\lx inangtoea
+\ID_en 281-286
+\ps Noun
+\de aunt FZ
+\d_id tante FZ
+\dt 20/Apr/2024
+
+\lx poesok
+\ID_en 61
+\ps Noun
+\de navel
+\d_id pusat
+\dt 14/Mar/2024
+
+\lx pantang
+\ID_en 370
+\ps Noun
+\de forbidden, taboo
+\d_id pemali
+\dt 20/Apr/2024
+
+\lx sari, ngihit
+\ID_en 220
+\ps Noun
+\de rheumatism
+\d_id sengal, encok
+\dt 15/Mar/2024
+
+\lx manganggoehi
+\ID_en 160
+\ps Verb
+\de to shout
+\d_id berteriak
+\dt 14/Mar/2024
+
+\lx anak mata
+\ID_en 393
+\ps Noun
+\de free man
+\d_id orang merdeka (vs. budak)
+\dt 26/Apr/2024
+
+\lx mambolongkon aek
+\ID_en 82
+\nt <6>
+\ps Verb
+\de to urinate
+\d_id kencing (k.k.)
+\dt 14/Mar/2024
+
+\lx toeboean, mangintoeboe
+\ID_en 413
+\ps Verb
+\de to giving birth to
+\d_id melahirkan
+\dt 26/Apr/2024
+
+\lx roengkoeng
+\ID_en 38
+\ps Noun
+\de neck
+\d_id leher
+\dt 14/Mar/2024
+
+\lx moedar
+\ID_en 116
+\ps Noun
+\de blood
+\d_id darah
+\dt 14/Mar/2024
+
+\lx tamoee, anak dagang
+\ID_en 324
+\ps Noun
+\de guest, stranger
+\d_id tamu, orang asing
+\dt 20/Apr/2024
+
+\lx bangke
+\ID_en 188
+\ps Noun
+\de corpse
+\d_id mayat
+\dt 14/Mar/2024
+
+\lx dengdeng
+\ID_en 540
+\ps Noun
+\de dried meat
+\d_id dendeng
+\dt 26/Apr/2024
+
+\lx boroe
+\ID_en 262
+\ps Noun
+\de daughter
+\d_id anak perempuan
+\dt 20/Apr/2024
+
+\lx sahan
+\ID_en 427
+\nt <29>
+\ps Noun
+\de horn
+\d_id terompet
+\dt 26/Apr/2024
+
+\lx hadjoet
+\ID_en 605/606
+\ps Noun
+\de bag (woven bag)
+\d_id tas (dari bahan tenun)
+\dt 28/Apr/2024
+
+\lx homitan
+\ID_en 332
+\ps Noun
+\de talisman
+\d_id jimat
+\dt 20/Apr/2024
+
+\lx tataring
+\ID_en 474
+\ps Noun
+\de hearth, fireplace
+\d_id dapur, tungku
+\dt 26/Apr/2024
+
+\lx anak
+\ID_en 287-290
+\ps Noun
+\de nephew BoS
+\d_id kemenakan (laki-laki) BoS
+\dt 20/Apr/2024
+
+\lx mangan
+\ID_en 128
+\nt <8>
+\ps Verb
+\de to eat
+\d_id makan
+\dt 14/Mar/2024
+
+\lx anak bodil
+\ID_en 622
+\ps Noun
+\de bullet
+\d_id peluru
+\dt 28/Apr/2024
+
+\lx toenggane (pariban)
+\ID_en 310/314
+\ps Noun
+\de brother-in-law
+\d_id ipar laki-laki
+\dt 20/Apr/2024
+
+\lx ohan
+\ID_en 173
+\nt <11>
+\ps Verb
+\de to choke
+\d_id tersedak
+\dt 14/Mar/2024
+
+\lx harop
+\ID_en 157
+\ps Verb
+\de to speak with a burr
+\d_id berbicara dengan artikulasi uvular
+\dt 14/Mar/2024
+
+\lx tomoe
+\ID_en 207
+\ps Noun
+\de stomach ache
+\d_id sakit perut
+\dt 15/Mar/2024
+
+\lx hoedon
+\ID_en 522
+\ps Noun
+\de pot, jar
+\d_id periuk
+\dt 26/Apr/2024
+
+\lx dengke , ihan
+\ID_en 541
+\ps Noun
+\de fish
+\d_id ikan
+\dt 26/Apr/2024
+
+\ID_en 339
+\nt <20>
+\ps Noun
+\de ghost
+\d_id setan
+\dt 20/Apr/2024
+
+\lx dasar
+\ID_en 499
+\nt <36>
+\ps Noun
+\de drinking bowl
+\d_id tempat minum
+\dt 26/Apr/2024
+
+\lx sita
+\ID_en 590
+\ps Noun
+\de silk
+\d_id sutera
+\dt 28/Apr/2024
+
+\lx oelos , sita
+\ID_en 589
+\nt <43>
+\ps Noun
+\de cotton fabric (local, European)
+\d_id tenunan kapas (asli, Eropa)
+\dt 28/Apr/2024
+
+\lx pantar pantar
+\ID_en 456/457
+\ps Noun
+\de floor
+\d_id lantai
+\dt 26/Apr/2024
+
+\lx isi
+\ID_en 365
+\ps Noun
+\de population
+\d_id penduduk
+\dt 20/Apr/2024
+
+\lx djari djari
+\ID_en 105
+\ps Noun
+\de fingers
+\d_id jari tangan (jamak)
+\dt 14/Mar/2024
+
+\lx morhoi
+\ID_en 166
+\ps Verb
+\de to sigh
+\d_id berkeluh kesah, mengeluh
+\dt 14/Mar/2024
+
+\lx boroeboroe
+\ID_en 245/246
+\ps Adjective
+\de female
+\d_id perempuan
+\dt 15/Mar/2024
+
+\lx morsit idjoer
+\ID_en 167
+\ps Verb
+\de to spit
+\d_id meludah
+\dt 14/Mar/2024
+
+\lx sisilon
+\ID_en 107
+\ps Noun
+\de (finger) nail
+\d_id kuku
+\dt 14/Mar/2024
+
+\lx tok oeloe
+\ID_en 219
+\ps Noun
+\de headache
+\d_id sakit kepala, pusing
+\dt 15/Mar/2024
+
+\lx mortonoen
+\ID_en 593
+\ps Verb
+\de to weave
+\d_id bertenun
+\dt 28/Apr/2024
+
+\lx hatoban
+\ID_en 394
+\ps Noun
+\de slave
+\d_id budak
+\dt 26/Apr/2024
+
+\lx sipanganon
+\ID_en 534
+\ps Noun
+\de food
+\d_id makanan
+\dt 26/Apr/2024
+
+\lx salendang
+\ID_en 586
+\ps Noun
+\de shawl
+\d_id selendang
+\dt 28/Apr/2024
+
+\lx andora
+\ID_en 41
+\ps Noun
+\de chest, breast (male)
+\d_id dada (laki-laki, jamak)
+\dt 14/Mar/2024
+
+\lx pordjahat
+\ID_en 397
+\ps Noun
+\de criminal
+\d_id penjahat
+\dt 26/Apr/2024
+
+\lx manean ( tean)
+\ID_en 193
+\ps Verb
+\de to inherit
+\d_id mewarisi
+\dt 14/Mar/2024
+
+\ID_en 514
+\nt <38>
+\ps Noun
+\de basket (all sorts of)
+\d_id keranjang (bermacam-macam)
+\dt 26/Apr/2024
+
+\lx halak
+\ID_en 238
+\ps Noun
+\de people
+\d_id orang
+\dt 15/Mar/2024
+
+\lx tangan
+\ID_en 97
+\ps Noun
+\de hand
+\d_id tangan
+\dt 14/Mar/2024
+
+\lx baro
+\ID_en 197
+\ps Noun
+\de an infected wound
+\d_id luka bernanah
+\dt 14/Mar/2024
+
+\lx morsomba
+\ID_en 347
+\ps Verb
+\de to worship
+\d_id menyembah
+\dt 20/Apr/2024
+
+\lx andaloe
+\ID_en 551
+\ps Noun
+\de pounder
+\d_id alu
+\dt 26/Apr/2024
+
+\lx sitoernoedoe
+\ID_en 109
+\ps Noun
+\de index finger
+\d_id telunjuk
+\dt 14/Mar/2024
+
+\lx loempoe
+\ID_en 225
+\ps Adjective
+\de paralysed
+\d_id lumpuh
+\dt 15/Mar/2024
+
+\lx tepos
+\ID_en 83
+\ps Noun
+\de piss, urine
+\d_id air kencing (k.b.)
+\dt 14/Mar/2024
+
+\lx dosa, sala
+\ID_en 368
+\ps Noun
+\de sin
+\d_id dosa
+\dt 20/Apr/2024
+
+\ID_en 441/442
+\nt <33>
+\ps Noun
+\de roofing
+\d_id atap
+\dt 26/Apr/2024
+
+\lx hipas , hisar
+\ID_en 202
+\ps Adjective
+\de healthy
+\d_id sehat
+\dt 14/Mar/2024
+
+\lx morsahit , hansitan
+\ID_en 200
+\ps Verb
+\de to be ill
+\d_id merasa sakit
+\dt 14/Mar/2024
+
+\lx mata ni ari ni tot
+\ID_en 88
+\ps Noun
+\de ankle
+\d_id buku kaki, pergelangan kaki
+\dt 14/Mar/2024
+
+\lx djongdjong, tindang
+\ID_en 144
+\ps Verb
+\de to stand
+\d_id berdiri
+\dt 14/Mar/2024
+
+\ID_en 639
+\nt <46>
+\ps Noun
+\de tribute
+\d_id upeti, bakti
+\dt 28/Apr/2024
+
+\lx minoem (inoem)
+\ID_en 130
+\ps Verb
+\de to drink
+\d_id minum
+\dt 14/Mar/2024
+
+\lx palak ni tangan
+\ID_en 102
+\ps Noun
+\de palm of the hand
+\d_id telapak tangan
+\dt 14/Mar/2024
+
+\lx iloe iloe
+\ID_en 17
+\ps Noun
+\de tear
+\d_id air mata (tunggal)
+\dt 13/Mar/2024
+
+\lx hoeling hoeling
+\ID_en 121
+\ps Noun
+\de skin
+\d_id kulit
+\dt 14/Mar/2024
+
+\lx toenggal panaloean
+\ID_en 334
+\ps Noun
+\de magic wand
+\d_id tongkat mantera
+\dt 20/Apr/2024
+
+\lx mengkel
+\ID_en 165
+\ps Verb
+\de to smile
+\d_id tersenyum
+\dt 14/Mar/2024
+
+\lx soehi ni tangan
+\ID_en 100
+\ps Noun
+\de elbow
+\d_id siku
+\dt 14/Mar/2024
+
+\lx barsi
+\ID_en 169
+\ps Verb
+\de to sneeze
+\d_id bersin
+\dt 14/Mar/2024
+
+\lx langit langit
+\ID_en 472
+\ps Noun
+\de attic (under the roof)
+\d_id loteng
+\dt 26/Apr/2024
+
+\lx mangalompa , mordahan
+\ID_en 525-527
+\ps Verb
+\de to cook
+\d_id memasak
+\dt 26/Apr/2024
+
+\ID_en 503
+\nt <37>
+\ps Noun
+\de knife
+\d_id pisau
+\dt 26/Apr/2024
+
+\lx teanteanan
+\ID_en 194
+\ps Noun
+\de inheritance
+\d_id warisan
+\dt 14/Mar/2024
+
+\lx ompoe porsadaan
+\ID_en 267
+\ps Noun
+\de ancestors
+\d_id leluhur
+\dt 20/Apr/2024
+
+\lx tondi
+\ID_en 343/344
+\ps Noun
+\de soul, spirit
+\d_id jiwa, nyawa, ruh
+\dt 20/Apr/2024
+
+\lx oloebalang, pangoelina
+\ID_en 381
+\ps Noun
+\de guard
+\d_id hulubalang
+\dt 20/Apr/2024
+
+\lx sibong
+\ID_en 583
+\ps Noun
+\de earclip
+\d_id subang
+\dt 28/Apr/2024
+
+\lx na morbadjoe
+\ID_en 248/249
+\ps Adjective
+\de virgin
+\d_id gadis
+\dt 15/Mar/2024
+
+\lx soara
+\ID_en 158
+\ps Noun
+\de voice
+\d_id suara
+\dt 14/Mar/2024
+
+\lx ngenge metmet
+\ID_en 211
+\nt <14>
+\ps Noun
+\de measles
+\d_id campak
+\dt 15/Mar/2024
+
+\lx goar
+\ID_en 239
+\ps Noun
+\de name
+\d_id nama
+\dt 15/Mar/2024
+
+\lx soban
+\ID_en 484
+\ps Noun
+\de fire wood
+\d_id kayu api
+\dt 26/Apr/2024
+
+\lx anak
+\ID_en 261
+\ps Noun
+\de son
+\d_id anak laki-laki
+\dt 20/Apr/2024
+
+\lx pordompahan
+\ID_en 4
+\ps Noun
+\de forehead
+\d_id dahi
+\dt 13/Mar/2024
+
+\lx hangoloean sogot
+\ID_en 366
+\ps Noun
+\de the afterlife
+\d_id kehidupan setelah mati
+\dt 20/Apr/2024
+
+\lx na niain
+\ID_en 305
+\de adopted child
+\d_id anak pungut ; anak angkat
+\dt 20/Apr/2024
+
+\lx toeroen
+\ID_en 404
+\ps Noun
+\de funeral ceremony
+\d_id upacara kematian, pemakaman
+\dt 26/Apr/2024
+
+\lx poesoepoesoe
+\ID_en 52
+\ps Noun
+\de heart
+\d_id jantung
+\dt 14/Mar/2024
+
+\lx salenggang
+\ID_en 426
+\ps Noun
+\de Jew's harp
+\d_id ginggung (genggong)
+\dt 26/Apr/2024
+
+\lx dodak
+\ID_en 554
+\ps Noun
+\de chaff
+\d_id sekam
+\dt 26/Apr/2024
+
+\lx tergeterge
+\ID_en 174
+\ps Noun
+\de belch
+\d_id sendawa
+\dt 14/Mar/2024
+
+\lx mangampir
+\ID_en 223
+\ps Noun
+\de gone to sleep (limbs)
+\d_id kesemutan
+\dt 15/Mar/2024
+
+\lx soeri
+\ID_en 573
+\ps Noun
+\de comb
+\d_id sisir
+\dt 26/Apr/2024
+
+\lx toenggal
+\ID_en 243/244
+\ps Adjective
+\de male
+\d_id pria
+\dt 15/Mar/2024
+
+\lx daon , oebat
+\ID_en 234
+\ps Noun
+\de medicine (with magic power)
+\d_id obat (dari dukun)
+\dt 15/Mar/2024
+
+\lx hansar
+\ID_en 209
+\ps Noun
+\de diarrhoea
+\d_id menceret (k.b.)
+\dt 15/Mar/2024
+
+\lx osang osang, isang
+\ID_en 29
+\ps Noun
+\de chin
+\d_id dagu
+\dt 13/Mar/2024
+
+\lx hoeta
+\ID_en 327
+\ps Noun
+\de town (capital)
+\d_id kota (ibu kota)
+\dt 20/Apr/2024
+
+\lx ipon
+\ID_en 33/35
+\ps Noun
+\de tooth
+\d_id gigi
+\dt 14/Mar/2024
+
+\lx hoeling hoelingan
+\ID_en 430
+\ps Noun
+\de riddle
+\d_id teka-teki
+\dt 26/Apr/2024
+
+\lx ompoe
+\ID_en 263
+\ps Noun
+\de grandfather
+\d_id kakek
+\dt 20/Apr/2024
+
+\lx hadjo
+\ID_en 524
+\ps Noun
+\de earthen water barrel
+\d_id tempayan
+\dt 26/Apr/2024
+
+\lx baoe
+\ID_en 76
+\ps Verb
+\de to stink, to smell
+\d_id berbau busuk
+\dt 14/Mar/2024
+
+\lx balanga
+\ID_en 493
+\ps Noun
+\de pot (iron)
+\d_id kuali (besi), panci (besi)
+\dt 26/Apr/2024
+
+\lx eme
+\ID_en 546
+\ps Noun
+\de unhusked rice
+\d_id padi
+\dt 26/Apr/2024
+
+\lx bitis
+\ID_en 93
+\ps Noun
+\de calf
+\d_id betis
+\dt 14/Mar/2024
+
+\lx ompoe boroe
+\ID_en 264
+\ps Noun
+\de grandmother
+\d_id nenek
+\dt 20/Apr/2024
+
+\lx ambalang
+\ID_en 624
+\ps Noun
+\de sling
+\d_id ali-ali
+\dt 28/Apr/2024
+
+\lx ninggala
+\ID_en 642
+\ps Noun
+\de plough
+\d_id bajak
+\dt 28/Apr/2024
+
+\lx manortor (tortor)
+\ID_en 428
+\ps Verb
+\de to dance
+\d_id menari
+\dt 26/Apr/2024
+
+\lx dila
+\ID_en 31
+\ps Noun
+\de tongue
+\d_id lidah
+\dt 14/Mar/2024
+
+\lx tanggoeroeng ni bitis
+\ID_en 94
+\ps Noun
+\de shin
+\d_id tulang kering
+\dt 14/Mar/2024
+
+\lx holi holi
+\ID_en 115
+\nt <7>
+\ps Noun
+\de bone
+\d_id tulang
+\dt 14/Mar/2024
+
+\lx djolma, halak
+\ID_en 237
+\ps Noun
+\de people
+\d_id orang
+\dt 15/Mar/2024
+
+\lx halang oeloe
+\ID_en 469
+\ps Noun
+\de pillow
+\d_id bantal
+\dt 26/Apr/2024
+
+\lx sibaso
+\ID_en 414
+\ps Noun
+\de midwife
+\d_id bidan
+\dt 26/Apr/2024
+
+\lx hangoloean , mangoloe
+\ID_en 182
+\nt <12>
+\ps Verb
+\de to live (alive)
+\d_id hidup
+\dt 14/Mar/2024
+
+\lx ipon
+\ID_en 34
+\nt <4>
+\ps Noun
+\de molar
+\d_id geraham
+\dt 14/Mar/2024
+
+\lx haha, anggi
+\ID_en 268
+\nt <16>
+\ps Noun
+\de brother
+\d_id saudara laki-laki
+\dt 20/Apr/2024
+
+\lx maridi
+\ID_en 154
+\ps Verb
+\de to take a bath
+\d_id mandi
+\dt 14/Mar/2024
+
+\lx rimberimbe
+\ID_en 464
+\nt <34>
+\ps Noun
+\de curtain
+\d_id tirai
+\dt 26/Apr/2024
+
+\lx mangoloi patoe
+\ID_en 634
+\ps Verb
+\de to surrender
+\d_id menyerah
+\dt 28/Apr/2024
+
+\lx manisia, djolma manisia
+\ID_en 236
+\ps Noun
+\de man, mankind
+\d_id manusia
+\dt 15/Mar/2024
+
+\lx losoeng
+\ID_en 550
+\ps Noun
+\de rice pounder, mortar
+\d_id lesung
+\dt 26/Apr/2024
+
+\lx debata
+\ID_en 345
+\nt <23>
+\de the supreme being
+\d_id yang maha kuasa
+\dt 20/Apr/2024
+
+\lx tobeng
+\ID_en 418
+\ps Noun
+\de mask
+\d_id topeng
+\dt 26/Apr/2024
+
+\lx hamonangan
+\ID_en 635
+\ps Noun
+\de victory
+\d_id kemenangan
+\dt 28/Apr/2024
+
+\lx gidikgidik
+\ID_en 99
+\ps Noun
+\de armpit
+\d_id ketiak
+\dt 14/Mar/2024
+
+\lx mangharoeari
+\ID_en 72
+\ps Verb
+\de to defecate
+\d_id berak
+\dt 14/Mar/2024
+
+\lx omboen omboen
+\ID_en 222
+\ps Noun
+\de a cold
+\d_id selesma
+\dt 15/Mar/2024
+
+\lx toeritoerian
+\ID_en 356
+\ps Noun
+\de story
+\d_id cerita
+\dt 20/Apr/2024
+
+\lx roesoek
+\ID_en 50
+\ps Noun
+\de rib
+\d_id tulang rusuk
+\dt 14/Mar/2024
+
+\lx logoe
+\ID_en 359
+\ps Noun
+\de tune, melody
+\d_id nyanyian
+\dt 20/Apr/2024
+
+\lx siampoedan
+\ID_en 258
+\ps Noun
+\de youngest child
+\d_id anak bungsu
+\dt 20/Apr/2024
+
+\lx sitoealang
+\ID_en 110
+\ps Noun
+\de middle finger
+\d_id jari tengah
+\dt 14/Mar/2024
+
+\lx rimberimbe
+\ID_en 488
+\ps Noun
+\de bed curtain
+\d_id kelambu
+\dt 26/Apr/2024
+
+\lx moesoe
+\ID_en 627
+\ps Noun
+\de enemy
+\d_id musuh
+\dt 28/Apr/2024
+
+\lx api na gor
+\ID_en 476
+\ps Noun
+\de fire
+\d_id api, kebakaran
+\dt 26/Apr/2024
+
+\lx poti
+\ID_en 520
+\ps Noun
+\de case for cloth
+\d_id peti pakaian
+\dt 26/Apr/2024
+
+\lx palito
+\ID_en 515
+\nt <39>
+\ps Noun
+\de lamp
+\d_id lampu
+\dt 26/Apr/2024
+
+\lx hamatean
+\ID_en 184
+\ps Noun
+\de death
+\d_id kematian
+\dt 14/Mar/2024
+
+\lx bosoer, boetong
+\ID_en 134
+\de replete, satisfied
+\d_id kenyang, puas
+\dt 14/Mar/2024
+
+\lx banoea gindjang
+\ID_en 364
+\ps Noun
+\de the upper world
+\d_id dunia atas ; kayangan
+\dt 20/Apr/2024
+
+\lx anak
+\ID_en 295
+\ps Noun
+\de cousin FB/FZS MB/MZS
+\d_id saudara sepupu laki-laki FB/FZS, MB/MZS
+\dt 20/Apr/2024
+
+\lx dj oehoet
+\ID_en 539
+\ps Noun
+\de meat (raw)
+\d_id daging (mentah)
+\dt 26/Apr/2024
+
+\lx hamoesoeon
+\ID_en 626
+\ps Noun
+\de war
+\d_id perang
+\dt 28/Apr/2024
+
+\lx pilat
+\ID_en 77
+\ps Noun
+\de penis
+\d_id batang pelir
+\dt 14/Mar/2024
+
+\lx adat
+\ID_en 396
+\ps Noun
+\de common law
+\d_id hukum adat
+\dt 26/Apr/2024
+
+\lx sitindangi, saksi
+\ID_en 401
+\ps Noun
+\de witness
+\d_id saksi
+\dt 26/Apr/2024
+
+\lx sombaon
+\ID_en 375
+\ps Noun
+\de holy place
+\d_id tempat suci
+\dt 20/Apr/2024
+
+\lx sisiasia
+\ID_en 352
+\ps Noun
+\de letter
+\d_id huruf
+\dt 20/Apr/2024
+
+\lx maleom
+\ID_en 232
+\ps Adjective
+\de cured
+\d_id sembuh
+\dt 15/Mar/2024
+
+\lx podoman
+\ID_en 465
+\ps Noun
+\de sleeping place
+\d_id kamar tidur
+\dt 26/Apr/2024
+
+\lx simatoea
+\ID_en 297/298
+\ps Noun
+\de parents-in-law
+\d_id mertua
+\dt 20/Apr/2024
+
+\lx boli, sinamot
+\ID_en 411
+\ps Noun
+\de bride price
+\d_id mas kawin
+\dt 26/Apr/2024
+
+\lx pede
+\ID_en 231
+\ps Adjective
+\de squinting
+\d_id juling
+\dt 15/Mar/2024
+
+\lx djoro
+\ID_en 374
+\nt <24>
+\ps Noun
+\de temple
+\d_id kuil
+\dt 20/Apr/2024
+
+\lx djanggoet
+\ID_en 28
+\ps Noun
+\de goatee
+\d_id janggut seperti, janggut kambing
+\dt 13/Mar/2024
+
+\lx erne
+\ID_en 543
+\nt <41>
+\ps Noun
+\de harvested rice
+\d_id padi yang sudah diketam
+\dt 26/Apr/2024
+
+\lx banoea toroe
+\ID_en 362
+\ps Noun
+\de underworld
+\d_id dunia orang mati
+\dt 20/Apr/2024
+
+\lx manggoreng
+\ID_en 528
+\ps Verb
+\de to bake, to grill, to fry
+\d_id membakar, panggang menggoreng (dengan minyak)
+\dt 26/Apr/2024
+
+\lx boerdjoe, denggan
+\ID_en 367
+\ps Noun
+\de virtue
+\d_id kebajikan
+\dt 20/Apr/2024
+
+\lx tibalan
+\ID_en 547
+\ps Noun
+\de stalk
+\d_id tangkai padi, batang padi
+\dt 26/Apr/2024
+
+\lx tanoman , porbandaan
+\ID_en 191
+\ps Noun
+\de grave
+\d_id kuburan
+\dt 14/Mar/2024
+
+\ID_en 183
+\nt <13>
+\ps Verb
+\de to die
+\d_id meninggal dunia
+\dt 14/Mar/2024
+
+\lx ate ate
+\ID_en 56
+\ps Noun
+\de liver
+\d_id hati
+\dt 14/Mar/2024
+
+\lx pogoe
+\ID_en 57
+\ps Noun
+\de bile
+\d_id empedu
+\dt 14/Mar/2024
+
+\lx langit langit
+\ID_en 32
+\ps Noun
+\de palate
+\d_id langit-langit
+\dt 14/Mar/2024
+
+\lx oeroer
+\ID_en 446
+\ps Noun
+\de rafter
+\d_id kasau
+\dt 26/Apr/2024
+
+\lx mangkoek
+\ID_en 498
+\ps Noun
+\de cup
+\d_id cangkir
+\dt 26/Apr/2024
+
+\lx mortoeaek
+\ID_en 513
+\ps Verb
+\de to fetch water
+\d_id mengambil air
+\dt 26/Apr/2024
+
+\lx detar
+\ID_en 571/572
+\ps Noun
+\de head cloth (for women)
+\d_id ikat kepala perempuan
+\dt 26/Apr/2024
+
+\lx talam
+\ID_en 494
+\ps Noun
+\de pot (earthenware)
+\d_id panci, kuali (tanah liat)
+\dt 26/Apr/2024
+
+\lx na radja, na sangap
+\ID_en 388
+\ps Noun
+\de nobleman
+\d_id bangsawan
+\dt 26/Apr/2024
+
+\lx boetoeha
+\ID_en 54
+\nt <5>
+\ps Noun
+\de belly
+\d_id perut
+\dt 14/Mar/2024
+
+\lx badan , daging
+\ID_en 1
+\ps Noun
+\de body
+\d_id badan, tubuh
+\dt 13/Mar/2024
+
+\lx oeloe ni soesoe
+\ID_en 45
+\ps Noun
+\de nipple
+\d_id puting susu
+\dt 14/Mar/2024
+
+\ID_en 438
+\nt <32>
+\ps Noun
+\de hut, shelter
+\d_id pondok
+\dt 26/Apr/2024
+
+\lx ga:irga:ir
+\ID_en 644
+\ps Noun
+\de rake
+\d_id garu
+\dt 28/Apr/2024
+
+\lx mapitoeng
+\ID_en 229
+\ps Adjective
+\de blind
+\d_id buta
+\dt 15/Mar/2024
+
+\lx morsoeraksoerak
+\ID_en 163
+\ps Verb
+\de to weep
+\d_id menangis
+\dt 14/Mar/2024
+
+\lx lelo
+\ID_en 619
+\ps Noun
+\de kind of small cannon
+\d_id sejenis kanon kecil
+\dt 28/Apr/2024
+
+\lx tintin
+\ID_en 576
+\ps Noun
+\de ring
+\d_id cincin
+\dt 26/Apr/2024
+
+\lx ginagat, nanotak
+\ID_en 73
+\ps Noun
+\de faeces
+\d_id tahi
+\dt 14/Mar/2024
+
+\lx daging, siboek
+\ID_en 117
+\ps Noun
+\de flesh
+\d_id daging
+\dt 14/Mar/2024
+
+\lx ama
+\ID_en 255
+\ps Noun
+\de father
+\d_id ayah
+\dt 20/Apr/2024
+
+\lx soeloesoeloe
+\ID_en 517
+\ps Noun
+\de torch
+\d_id suluh
+\dt 26/Apr/2024
+
+\lx bale
+\ID_en 470
+\ps Noun
+\de couch
+\d_id bale-bale
+\dt 26/Apr/2024
+
+\lx lompan
+\ID_en 536
+\ps Noun
+\de side-dish
+\d_id lauk-pauk
+\dt 26/Apr/2024
+
+\lx mandjalin
+\ID_en 604
+\ps Verb
+\de to knot, to knit
+\d_id merajut, menyirat
+\dt 28/Apr/2024
+
+\lx tangke
+\ID_en 509
+\ps Noun
+\de axe, hatchet
+\d_id kapak
+\dt 26/Apr/2024
+
+\lx peak
+\ID_en 147
+\ps Verb
+\de to lie prone
+\d_id tiarap
+\dt 15/Mar/2024
+
+\lx bangso
+\ID_en 330
+\ps Noun
+\de people (tribe)
+\d_id rakyat, bangsa (suku bangsa)
+\dt 20/Apr/2024
+
+\lx saraoal
+\ID_en 567
+\ps Noun
+\de trousers
+\d_id celana
+\dt 26/Apr/2024
+
+\lx goelang goelang
+\ID_en 462
+\ps Noun
+\de ceiling beams
+\d_id langit-langit rumah, tutup jenang
+\dt 26/Apr/2024
+
+\lx tabas
+\ID_en 333
+\ps Noun
+\de incantation
+\d_id mantera
+\dt 20/Apr/2024
+
+\ID_en 391
+\nt <25>
+\ps Noun
+\de happiness
+\d_id kebahagiaan
+\dt 26/Apr/2024
+
+\lx indahan
+\ID_en 545
+\ps Noun
+\de cooked rice
+\d_id nasi
+\dt 26/Apr/2024

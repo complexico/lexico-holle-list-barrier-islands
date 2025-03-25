@@ -1,0 +1,1014 @@
+
+\lx_skh ilofoongi
+\ID_en 1423
+\ps Adverb
+\de the day after tomorrow
+\dv lusa
+\dt 15/Mar/2024
+
+\lx_skh e᷇lale᷇e᷇
+\ID_en 1408
+\ps Adverb
+\de now
+\dv sekarang
+\dt 15/Mar/2024
+
+\lx_skh alènè, makale
+\ID_en 1351
+\ps Adjective
+\de whole
+\dv sama sekali
+\dt 15/Mar/2024
+
+\lx_skh då foeloeh lima
+\ID_en 1315
+\ps number
+\de twenty five
+\dv dua puluh lima
+\dt 13/Mar/2024
+
+\lx_skh mandèè
+\ID_en 1388
+\ps Adverb
+\de here
+\dv di sini
+\dt 15/Mar/2024
+
+\lx_skh (h)ō'
+\ID_en 1378
+\ps Pronoun
+\de his
+\dv kata ganti empunya orang ke III tunggal (laki-laki)
+\dt 14/Mar/2024
+
+\lx_skh niboō'
+\ID_en 1274
+\ps Verb
+\de to throw away
+\dv membuang
+\dt 13/Mar/2024
+
+\lx_skh nibinieu
+\ID_en 1265/1266
+\ps Verb
+\de to hide
+\dv menyembunyikan
+\dt 13/Mar/2024
+
+\lx_skh atéa
+\ID_en 1481
+\ps Adverb
+\de however, nevertheless
+\dv walaupun, meskipun
+\dt 15/Mar/2024
+
+\lx_skh samå², falawan
+\ID_en 1353
+\nt <36>
+\ps Adjective
+\de alike, similar
+\dv mirip, sama
+\dt 14/Mar/2024
+
+\lx_skh bagi empèt, saper empet
+\ID_en 1327
+\ps number
+\de a quarter
+\dv seperempat
+\dt 13/Mar/2024
+
+\lx_skh leuntōe'
+\ID_en 1447
+\ps Preposition
+\de until
+\dv hingga
+\dt 15/Mar/2024
+
+\lx_skh <ofeu i?>
+\ID_en 1367/1368
+\ps Pronoun
+\de she
+\dv dia
+\dt 14/Mar/2024
+
+\lx_skh aeoa a' <auteuwi?>
+\ID_en 1465
+\nt <44>
+\ps Adverb
+\de why
+\dv mengapa
+\dt 15/Mar/2024
+
+\lx_skh ǔtǔt
+\ID_en 1262/1263
+\ps Verb
+\de to end
+\dv berakhir
+\dt 13/Mar/2024
+
+\lx_skh ilonda
+\ID_en 1427
+\ps Adverb
+\de kapan
+\dv kapan, bilamana
+\dt 15/Mar/2024
+
+\lx_skh abacha
+\ID_en 1457
+\ps Preposition
+\de inside, within
+\dv di dalam
+\dt 15/Mar/2024
+
+\lx_skh atia
+\dt 15/Mar/2024
+
+\lx_skh iméu'
+\ID_en 1267
+\ps Verb
+\de to ask
+\dv bertanya
+\dt 13/Mar/2024
+
+\lx_skh faaito
+\ID_en 1455
+\ps Preposition
+\de outside
+\dv luar, di luar
+\dt 15/Mar/2024
+
+\lx_skh faālheue
+\ID_en 1444
+\ps Preposition
+\de below, beneath
+\dv bawah
+\dt 15/Mar/2024
+
+\lx_skh selatan
+\ID_en 1432
+\ps Noun
+\de south
+\dv selatan
+\dt 15/Mar/2024
+
+\lx_skh lamofè
+\ID_en 1338
+\ps Adverb
+\de how much, how many
+\dv berapa
+\dt 14/Mar/2024
+
+\lx_skh <bawa²?>
+\ID_en 1347
+\ps Adverb
+\de more
+\dv lebih
+\dt 14/Mar/2024
+
+\ID_en 1396
+\nt <39>
+\ps unknown
+\de the day of the week
+\dv hari-hari dalam satu minggu
+\dt 15/Mar/2024
+
+\lx_skh angkěn
+\ID_en 1445
+\ps Preposition
+\de at
+\dv di, pada
+\dt 15/Mar/2024
+
+\lx_skh <aděhoe?> aděaoe
+\ID_en 1453
+\ps Preposition
+\de far
+\dv jauh
+\dt 15/Mar/2024
+
+\lx_skh èta ae
+\ID_en 1379
+\ps Pronoun
+\de who?
+\dv siapa
+\dt 14/Mar/2024
+
+\lx_skh saratoei, ōtoe
+\ID_en 1323
+\ps number
+\de hundred
+\dv seratus
+\dt 13/Mar/2024
+
+\lx_skh euta
+\ID_en 1366
+\ps Pronoun
+\de we (exclusive)
+\dv kami (kata ganti orang ke II jamak)
+\dt 14/Mar/2024
+
+\lx_skh adehoe milan, aaihan
+\ID_en 1390
+\ps Adverb
+\de there
+\dv di sana
+\dt 15/Mar/2024
+
+\lx_skh amba fache᷇
+\ID_en 1406
+\ps Noun
+\de year
+\dv tahun
+\dt 15/Mar/2024
+
+\lx_skh matongah
+\ID_en 1326
+\ps number
+\de a half
+\dv setengah
+\dt 13/Mar/2024
+
+\lx_skh ihi, nampoen
+\ID_en 1375/1376
+\ps Pronoun
+\de their
+\dv kata ganti empunya orang ke III jamak
+\dt 14/Mar/2024
+
+\lx_skh afieu/afe᷇e᷇
+\ID_en 1411
+\ps Adverb
+\de formerly
+\dv tempo hari
+\dt 15/Mar/2024
+
+\lx_skh ogaja
+\ID_en 1339
+\ps Adjective
+\de many, much
+\dv banyak
+\dt 14/Mar/2024
+
+\lx_skh meugeué
+\ID_en 1420
+\ps Noun
+\de today
+\dv hari ini
+\dt 15/Mar/2024
+
+\lx_skh daloea
+\ID_en 1332/1333
+\ps number
+\de the second
+\dv kedua
+\dt 14/Mar/2024
+
+\lx_skh e᷆lale᷆e᷆
+\ID_en 1410
+\ps Adverb
+\de now, at present
+\dv kini
+\dt 15/Mar/2024
+
+\lx_skh mělě mělě
+\ID_en 1292
+\ps Verb
+\de to take revenge
+\dv membalas dendam
+\dt 13/Mar/2024
+
+\lx_skh kahabisan
+\ID_en 1336/1337
+\ps number
+\de the last
+\dv yang terakhir
+\dt 14/Mar/2024
+
+\lx_skh <ègeu?>
+\ID_en 1361
+\ps Pronoun
+\de you all (excluding those absent)
+\dv kamu sekalian (tidak termasuk yang tidak hadir)
+\dt 14/Mar/2024
+
+\lx_skh malaindai
+\ID_en 1283
+\ps Verb
+\de to come
+\dv datang
+\dt 13/Mar/2024
+
+\lx_skh migala, imeuifaté
+\ID_en 1451
+\ps Preposition
+\de out, outside
+\dv luar, (di) luar
+\dt 15/Mar/2024
+
+\lx_skh soelit
+\ID_en 1272
+\ps Verb
+\de to tell lies
+\dv berdusta
+\dt 13/Mar/2024
+
+\lx_skh òtoe
+\ID_en 1472
+\ps Adverb
+\de yes
+\dv ya
+\dt 15/Mar/2024
+
+\lx_skh niènto'
+\ID_en 1291
+\ps Verb
+\de to hit (to beat, to slap, etc.)
+\dv memukul (menampar meninju dll.)
+\dt 13/Mar/2024
+
+\lx_skh ia (cho)
+\ID_en 1471
+\ps Adverb
+\de no
+\dv tidak
+\dt 15/Mar/2024
+
+\lx_skh faboecha
+\ID_en 1287
+\ps Verb
+\de to meet
+\dv berjumpa dengan
+\dt 13/Mar/2024
+
+\lx_skh faifeuna
+\ID_en 1412/1413
+\ps Preposition
+\de before
+\dv sebelum
+\dt 15/Mar/2024
+
+\lx_skh alembō'
+\ID_en 1395
+\nt <39>
+\ps Noun
+\de week
+\dv mInggu
+\dt 15/Mar/2024
+
+\lx_skh ménén
+\ID_en 1383
+\ps Pronoun
+\de this
+\dv ini
+\dt 14/Mar/2024
+
+\lx_skh kafambilò'
+\ID_en 1435
+\ps Adverb
+\de left
+\dv kiri
+\dt 15/Mar/2024
+
+\lx_skh mata i daneu
+\ID_en 1476
+\ps Adverb
+\de yes, right, indeed
+\dv ya, benar, betul
+\dt 15/Mar/2024
+
+\lx_skh siwa
+\ID_en 1301
+\ps number
+\de nine
+\dv sembilan
+\dt 13/Mar/2024
+
+\lx_skh niòhe, tafeu
+\ID_en 1259
+\nt <35>
+\ps Verb
+\de to pinch, to squeeze
+\dv menjepit, menekan
+\dt 13/Mar/2024
+
+\lx_skh oetara
+\ID_en 1431
+\ps Noun
+\de north
+\dv utara
+\dt 15/Mar/2024
+
+\lx_skh bala
+\ID_en 1279
+\ps Verb
+\de to go
+\dv pergi
+\dt 13/Mar/2024
+
+\lx_skh djoesta
+\ID_en 1271
+\ps Verb
+\de to cheat, to decieve
+\dv menipu
+\dt 13/Mar/2024
+
+\lx_skh doea poeloeh dale
+\ID_en 1313
+\ps number
+\de twenty one
+\dv dua puluh satu
+\dt 13/Mar/2024
+
+\lx_skh <ègeu?>
+\ID_en 1360
+\ps Pronoun
+\de you (pl.)
+\dv kamu sekalian
+\dt 14/Mar/2024
+
+\lx_skh ahō'
+\ID_en 1382
+\ps Pronoun
+\de which?
+\dv mana, (yang) mana
+\dt 14/Mar/2024
+
+\lx_skh sariboe
+\ID_en 1324
+\ps number
+\de thousand
+\dv seribu
+\dt 13/Mar/2024
+
+\lx_skh acheumi
+\ID_en 1401
+\nt <40>
+\ps Noun
+\de night (darkness)
+\dv malam
+\dt 15/Mar/2024
+
+\lx_skh félésewa
+\ID_en 1311
+\ps number
+\de nineteen
+\dv sembilan belas
+\dt 13/Mar/2024
+
+\lx_skh mekeuhan manoefa
+\ID_en 1362
+\ps Pronoun
+\de you
+\dv kamu sekalian
+\dt 14/Mar/2024
+
+\lx_skh (lentō'), tjokoei
+\ID_en 1354
+\ps Adjective
+\de enough
+\dv cukup
+\dt 14/Mar/2024
+
+\lx_skh eadeudeu
+\ID_en 1270
+\ps Verb
+\de to refuse
+\dv menolak
+\dt 13/Mar/2024
+
+\lx_skh acheumi
+\ID_en 1403
+\ps Adjective
+\de dark
+\dv gelap
+\dt 15/Mar/2024
+
+\lx_skh āteuh
+\ID_en 1452
+\ps Preposition
+\de nearby
+\dv di dekat, di
+\dt 15/Mar/2024
+
+\lx_skh manada
+\ID_en 1462
+\ps Adverb
+\de like this, like that
+\dv begini, begitu
+\dt 15/Mar/2024
+
+\lx_skh aboaé, beubeu
+\ID_en 1264
+\ps Verb
+\de to bind, to tie
+\dv mengikat
+\dt 13/Mar/2024
+
+\lx_skh åloe
+\ID_en 1300
+\ps number
+\de eight
+\dv delapan
+\dt 13/Mar/2024
+
+\lx_skh lima
+\ID_en 1297
+\ps number
+\de five
+\dv lima
+\dt 13/Mar/2024
+
+\lx_skh adehoe mihan
+\ID_en 1387
+\ps Adverb
+\de overthere, yonder
+\dv itu (di sana)
+\dt 15/Mar/2024
+
+\lx_skh me᷆ne᷆fi (baa᷆ë)
+\ID_en 1418
+\ps Adverb
+\de yesterday
+\dv kemarin
+\dt 15/Mar/2024
+
+\lx_skh faieu akadjab
+\ID_en 1409
+\nt <41>
+\ps Adverb
+\de shortly
+\dv sebentar lagi
+\dt 15/Mar/2024
+
+\lx_skh euneunga foeloeh
+\ID_en 1319
+\ps number
+\de sixty
+\dv enam puluh
+\dt 13/Mar/2024
+
+\lx_skh féléàla
+\ID_en 1303
+\ps number
+\de eleven
+\dv sebelas
+\dt 13/Mar/2024
+
+\lx_skh mefatoetoe
+\ID_en 1289
+\ps Verb
+\de to collect
+\dv mengumpulkan
+\dt 13/Mar/2024
+
+\lx_skh euta
+\ID_en 1296
+\ps number
+\de four
+\dv empat
+\dt 13/Mar/2024
+
+\lx_skh melō foongi lanèn
+\ID_en 1419
+\ps unknown
+\de the day before yesterday
+\dv kemarin dulu
+\dt 15/Mar/2024
+
+\lx_skh failawa
+\ID_en 1341
+\ps Adjective
+\de finished
+\dv habis
+\dt 14/Mar/2024
+
+\lx_skh ateu
+\ID_en 1478
+\ps Adverb
+\de almost
+\dv hampir
+\dt 15/Mar/2024
+
+\lx_skh doea
+\ID_en 1294
+\ps number
+\de two
+\dv dua
+\dt 13/Mar/2024
+
+\lx_skh ofeu i
+\ID_en 1364
+\ps Pronoun
+\de she
+\dv kata ganti orang ke III tunggal (perempuan)
+\dt 14/Mar/2024
+
+\lx_skh naié
+\ID_en 1391
+\ps Pronoun
+\de which, who, that
+\dv yang
+\dt 15/Mar/2024
+
+\lx_skh barat tempat
+\ID_en 1434
+\ps Noun
+\de west
+\dv barat
+\dt 15/Mar/2024
+
+\lx_skh foongi
+\ID_en 1422
+\ps Adverb
+\de tomorrow
+\dv besok
+\dt 15/Mar/2024
+
+\lx_skh tadorang
+\ID_en 1468
+\ps Adverb
+\de very
+\dv sangat
+\dt 15/Mar/2024
+
+\lx_skh ménoa
+\ID_en 1416
+\ps Adverb
+\de a moment ago
+\dv tadi
+\dt 15/Mar/2024
+
+\lx_skh faalheuë
+\ID_en 1440
+\ps Preposition
+\de under
+\dv di bawah
+\dt 15/Mar/2024
+
+\lx_skh toe afá
+\ID_en 1282
+\ps Verb
+\de to send
+\dv kirim (mengirim)
+\dt 13/Mar/2024
+
+\lx_skh alomin, nialoenèn
+\ID_en 1260/1261
+\ps Verb
+\de to start
+\dv mulai
+\dt 13/Mar/2024
+
+\lx_skh tigå poeloeh
+\ID_en 1316
+\ps number
+\de thirty
+\dv tiga puluh
+\dt 13/Mar/2024
+
+\lx_skh nitoetoeng
+\ID_en 1277
+\ps Verb
+\de to burn (intr.)
+\dv sedang terbakar (intr.)
+\dt 15/Mar/2024
+
+\lx_skh <tjeugeu?>
+\ID_en 1373/1374
+\ps Pronoun
+\de your
+\dv kata ganti orang empunya orang ke II
+\dt 14/Mar/2024
+
+\lx_skh loewoe
+\ID_en 1394
+\nt <37>
+\ps Noun
+\de day
+\dv hari
+\dt 15/Mar/2024
+
+\lx_skh faibacha, cha
+\ID_en 1450
+\ps Preposition
+\de in, inside
+\dv di (dalam)
+\dt 15/Mar/2024
+
+\lx_skh atiafaja
+\ID_en 1461
+\ps Adverb
+\de how
+\dv bagaimana
+\dt 15/Mar/2024
+
+\lx_skh foeloeh ngalipati
+\ID_en 1325
+\ps number
+\de ten thousand
+\dv sepuluh ribu
+\dt 13/Mar/2024
+
+\lx_skh tarang
+\ID_en 1398
+\ps Noun
+\de light
+\dv sinar
+\dt 15/Mar/2024
+
+\lx_skh eutofé
+\ID_en 1340
+\ps Adjective
+\de few, a little
+\dv sedikit
+\dt 14/Mar/2024
+
+\lx_skh aféhé åfeuna
+\ID_en 1330/1331
+\ps Adverb
+\de the first
+\dv pertama
+\dt 13/Mar/2024
+
+\lx_skh timor
+\ID_en 1433
+\ps Noun
+\de east
+\dv timur
+\dt 15/Mar/2024
+
+\lx_skh andēo'
+\ID_en 1460
+\nt <43>
+\ps Adverb
+\de where
+\dv di mana
+\dt 15/Mar/2024
+
+\lx_skh doea foeloeh
+\ID_en 1312
+\ps number
+\de twenty
+\dv dua puluh
+\dt 13/Mar/2024
+
+\lx_skh mèhěn
+\ID_en 1389
+\ps Adverb
+\de there (near hearer)
+\dv di situ (di sebelah pendengar)
+\dt 15/Mar/2024
+
+\lx_skh failawa
+\ID_en 1437
+\ps Preposition
+\de up, upper, above
+\dv di atas
+\dt 15/Mar/2024
+
+\lx_skh amba, ala
+\ID_en 1293
+\ps number
+\de one
+\dv satu
+\dt 13/Mar/2024
+
+\lx_skh salinkai
+\ID_en 1454
+\ps Preposition
+\de around, surrounding
+\dv se-kelIling
+\dt 15/Mar/2024
+
+\lx_skh dà'choli
+\ID_en 1329
+\ps Adverb
+\de twice
+\dv dua kali
+\dt 13/Mar/2024
+
+\lx_skh toedjoeh, fitoe
+\ID_en 1299
+\ps number
+\de seven
+\dv tujuh
+\dt 13/Mar/2024
+
+\lx_skh fēlin doea, fele doea
+\ID_en 1304
+\ps number
+\de twelve
+\dv dua belas
+\dt 13/Mar/2024
+
+\lx_skh boewang, bō'ō
+\ID_en 1275
+\ps Verb
+\de to throw
+\dv melempar, melontar
+\dt 13/Mar/2024
+
+\lx_skh feu'i
+\ID_en 1363
+\ps Pronoun
+\de he
+\dv ia, kata ganti orang ke III tunggal (laki-laki)
+\dt 14/Mar/2024
+
+\lx_skh sebab
+\ID_en 1485
+\nt <45>
+\ps conjunction
+\de because
+\dv karena, sebab
+\dt 15/Mar/2024
+
+\lx_skh naié
+\ID_en 1385/1386
+\ps determiner
+\de that
+\dv itu
+\dt 15/Mar/2024
+
+\lx_skh beatoe àla
+\ID_en 1477
+\ps Adverb
+\de only
+\dv hanya
+\dt 15/Mar/2024
+
+\lx_skh abéta aboentoeng
+\ID_en 1253-1255
+\ps Verb
+\de to break (a stick)
+\dv mematahkan (tongkat)
+\dt 13/Mar/2024
+
+\lx_skh ofombileu
+\ID_en 1436
+\ps Adverb
+\de right
+\dv kanan
+\dt 15/Mar/2024
+
+\lx_skh nio'ō
+\ID_en 1278
+\ps Verb
+\de to dig
+\dv menggali
+\dt 13/Mar/2024
+
+\lx_skh atepinga
+\ID_en 1417
+\nt <42>
+\ps Adverb
+\de a moment
+\dv seketika, sebentar
+\dt 15/Mar/2024
+
+\lx_skh lima foeloeh
+\ID_en 1318
+\ps number
+\de fifty
+\dv lima puluh
+\dt 13/Mar/2024
+
+\lx_skh aiteu é
+\ID_en 1380
+\ps Pronoun
+\de what?
+\dv apa
+\dt 14/Mar/2024
+
+\lx_skh tigå balè
+\ID_en 1305
+\ps number
+\de thirteen
+\dv tiga belas
+\dt 13/Mar/2024
+
+\lx_skh eufa foeloeh
+\ID_en 1317
+\ps number
+\de fourty
+\dv empat puluh
+\dt 13/Mar/2024
+
+\lx_skh acholi
+\ID_en 1328
+\ps Adverb
+\de once
+\dv sekali
+\dt 13/Mar/2024
+
+\lx_skh adénaěn
+\ID_en 1429
+\ps Adverb
+\de not yet
+\dv belum
+\dt 15/Mar/2024
+
+\lx_skh iaachō
+\ID_en 1486
+\ps Adverb
+\de no, not a, none
+\dv tidak, tidak ada, bukan
+\dt 15/Mar/2024
+
+\lx_skh tigå, tēloe
+\ID_en 1295
+\ps number
+\de three
+\dv tiga
+\dt 13/Mar/2024
+
+\lx_skh palenta
+\ID_en 1281
+\ps Verb
+\de to send (out), to order, to command
+\dv menyuruh (pergi) memerintahkan
+\dt 13/Mar/2024
+
+\lx_skh sapoeloeh, foeloeh
+\ID_en 1302
+\ps number
+\de ten
+\dv sepuluh
+\dt 13/Mar/2024
+
+\lx_skh atéa
+\ID_en 1479
+\ps conjunction
+\de but
+\dv tetapi
+\dt 15/Mar/2024
+
+\lx_skh melangka
+\ID_en 1286
+\ps Verb
+\de to depart
+\dv berangkat
+\dt 13/Mar/2024
+
+\lx_skh fà
+\ID_en 1448
+\ps Preposition
+\de at, in
+\dv di
+\dt 15/Mar/2024
+
+\lx_skh jotō
+\ID_en 1357
+\ps Pronoun
+\de I
+\dv saya
+\dt 14/Mar/2024
+
+\lx_skh otoe
+\ID_en 1466
+\ps Adverb
+\de certainly, sure
+\dv pasti
+\dt 15/Mar/2024
+
+\lx_skh mola
+\ID_en 1428
+\ps Adverb
+\de already
+\dv sudah
+\dt 15/Mar/2024
+
+\lx_skh tanggoe
+\ID_en 1426
+\ps Adverb
+\de now and then, occasionally
+\dv kadang-kadang
+\dt 15/Mar/2024
+
+\lx_skh enam, ěuně
+\ID_en 1298
+\ps number
+\de six
+\dv enam
+\dt 13/Mar/2024
+
+\lx_skh euta
+\ID_en 1365
+\ps Pronoun
+\de we (inclusive)
+\dv kita (kata ganti orang ke II jamak)
+\dt 14/Mar/2024
+
+\lx_skh <ègeu?>
+\ID_en 1359
+\ps Pronoun
+\de you (sing.)
+\dv kamu, engkau
+\dt 14/Mar/2024
+
+\lx_skh eacho
+\ID_en 1473-1475
+\ps Adverb
+\de not
+\dv tidak, bukan, jangan
+\dt 15/Mar/2024

@@ -4,9 +4,9 @@
 .Ruserdata
 /C-grp-*/**/*.docx
 /C-grp-*/**/*.odt
-/C-grp-*/**/*.xlsx
 /C-grp-*/**/*.zip
+/C-grp-*/**/*.jpg
 /D-grp-*/**/*.docx
 /D-grp-*/**/*.odt
-/D-grp-*/**/*.xlsx
 /D-grp-*/**/*.zip
+/D-grp-*/**/*.jpg

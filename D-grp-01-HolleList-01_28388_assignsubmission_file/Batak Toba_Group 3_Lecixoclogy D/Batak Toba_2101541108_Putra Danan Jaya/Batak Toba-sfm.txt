@@ -1,0 +1,1030 @@
+
+\lx lima poeloe
+\ID_en 1318
+\ps number
+\de fifty
+\d_id lima puluh
+\dt 13/Mar/2024
+
+\lx gor
+\ID_en 1277
+\ps Verb
+\de to burn (intr.)
+\d_id sedang terbakar (intr.)
+\dt 13/Mar/2024
+
+\lx hami
+\ID_en 1366
+\ps Pronoun
+\de we (exclusive)
+\d_id kami (kata ganti orang ke II jamak)
+\dt 13/Mar/2024
+
+\lx di djolo ni
+\ID_en 1412
+\ps Preposition
+\de before (place)
+\d_id di muka
+\dt 13/Mar/2024
+
+\lx saratoes
+\ID_en 1323
+\ps number
+\de hundred
+\d_id seratus
+\dt 13/Mar/2024
+
+\lx di gindjang, di atas
+\ID_en 1437
+\ps Preposition
+\de up, upper, above
+\d_id di atas
+\dt 15/Mar/2024
+
+\lx pitoe
+\ID_en 1299
+\ps number
+\de seven
+\d_id tujuh
+\dt 13/Mar/2024
+
+\lx doea
+\ID_en 1294
+\ps number
+\de two
+\d_id dua
+\dt 13/Mar/2024
+
+\lx dao
+\ID_en 1453
+\ps Adjective
+\de far
+\d_id jauh
+\dt 15/Mar/2024
+
+\lx Ndang olo ahoe manggarar na sai
+\ID_en 1524
+\de I do not want to pay so much
+\d_id saya tidak mau membayar sebanyak itu
+\dt 15/Mar/2024
+
+\lx sahali
+\ID_en 1328
+\ps Adverb
+\de once
+\d_id sekali
+\dt 13/Mar/2024
+
+\lx borhat
+\ID_en 1286
+\ps Verb
+\de to depart
+\d_id berangkat
+\dt 13/Mar/2024
+
+\lx Hoeloeloei rna roempoet di hodangkoe
+\ID_en 1534
+\de I want to find grass for my horse
+\d_id saya ingin mencari rumput untuk kuda saya
+\dt 15/Mar/2024
+
+\lx olat ni-toe
+\ID_en 1442/1443
+\ps Preposition
+\de from-to (place)
+\d_id dari-hingga (tempat)
+\dt 15/Mar/2024
+
+\lx di atas ni
+\ID_en 1341
+\ps Adjective
+\de finished
+\d_id habis
+\dt 13/Mar/2024
+
+\lx Ise tarporsan pot ion?
+\ID_en 1538
+\de who can carry this chest?
+\d_id siapa yang mampu memikul peti ini?
+\dt 15/Mar/2024
+
+\lx ari
+\ID_en 1394
+\nt <83>
+\ps Noun
+\de day
+\d_id hari
+\dt 13/Mar/2024
+
+\lx mamalos (balos), martoebol (toebol)
+\ID_en 1292
+\ps Verb
+\de to take revenge
+\d_id membalas dendam
+\dt 13/Mar/2024
+
+\lx toe
+\ID_en 1447
+\ps Preposition
+\de until
+\d_id hingga
+\dt 15/Mar/2024
+
+\lx noeaëng
+\ID_en 1408
+\ps Adverb
+\de now
+\d_id sekarang
+\dt 13/Mar/2024
+
+\lx Ganoep ari laho hami masiporboeë toe harangan (ramba)
+\ID_en 1533
+\de everyday we look for fruits in the forest
+\d_id setiap hari kami pergi mencari buah-buahan di hutan
+\dt 15/Mar/2024
+
+\lx Piga ari ndang ro oedan?
+\ID_en 1535
+\de how many days has it been since it rained?
+\d_id sudah berapa hari hujan tidak turun?
+\dt 15/Mar/2024
+
+\lx sia
+\ID_en 1301
+\ps number
+\de nine
+\d_id sembilan
+\dt 13/Mar/2024
+
+\lx Piga halak diradjai radjamoena?
+\ID_en 1529
+\de over how many people does your king reign?
+\d_id berapa jumlah rakyat yang diperintah oleh raja anda?
+\dt 15/Mar/2024
+
+\lx borngin
+\ID_en 1402
+\nt <85>
+\ps Noun
+\de night (time of the night)
+\d_id malam
+\dt 13/Mar/2024
+
+\lx hoetadinghon dison doea halak
+\ID_en 1542
+\de here I am leaving two men behind
+\d_id saya meninggalkan dua orang di sini
+\dt 15/Mar/2024
+
+\lx Ise dibahen radja i soeroeanna?
+\ID_en 1528
+\de who has been appointed delegate by the king?
+\d_id siapa yang diangkat sebagai utusan oleh raja?
+\dt 15/Mar/2024
+
+\lx toeng
+\ID_en 1482
+\ps Adverb
+\de yet, still
+\d_id toh, namun
+\dt 15/Mar/2024
+
+\lx doeapoeloe sada
+\ID_en 1313
+\ps number
+\de twenty one
+\d_id dua puluh satu
+\dt 13/Mar/2024
+
+\lx nantoari sada
+\ID_en 1419
+\ps Adverb
+\de the day before yesterday
+\d_id kemarin dulu
+\dt 15/Mar/2024
+
+\lx sampoeloe oealoe
+\ID_en 1310
+\ps number
+\de eighteen
+\d_id delapan belas
+\dt 13/Mar/2024
+
+\lx onom poeloe
+\ID_en 1319
+\ps number
+\de sixty
+\d_id enam puluh
+\dt 13/Mar/2024
+
+\lx Toeboe do erne di haoema on?
+\ID_en 1523
+\de will rice be planted in these fields?
+\d_id apakah padi yang akan ditanam di tanah itu?
+\dt 15/Mar/2024
+
+\lx sian
+\ID_en 1451
+\ps Preposition
+\de out, outside
+\d_id luar, (di) luar
+\dt 15/Mar/2024
+
+\lx boasa, dia alan
+\ID_en 1465
+\ps Adverb
+\de why
+\d_id mengapa
+\dt 15/Mar/2024
+
+\lx salpoe
+\ID_en 1413
+\ps Adverb
+\de before (time)
+\d_id sebelum
+\dt 13/Mar/2024
+
+\lx Manang ise na so tarbahen mangihoethon ahoe, ingkon tinggal dison
+\ID_en 1541
+\de whoever can not keep up, should stay here
+\d_id siapa yang tidak sanggup mengikuti saya, harus tinggal di sini
+\dt 15/Mar/2024
+
+\lx sampoeloe doea
+\ID_en 1304
+\ps number
+\de twelve
+\d_id dua belas
+\dt 13/Mar/2024
+
+\lx ise
+\ID_en 1379
+\ps Pronoun
+\de who?
+\d_id siapa
+\dt 13/Mar/2024
+
+\lx sian toroe
+\ID_en 1441
+\ps Preposition
+\de from underneath
+\d_id dari bawah
+\dt 15/Mar/2024
+
+\lx Nandigan tarpaoeli haoema on?
+\ID_en 1522
+\de when will these fields be planted?
+\d_id kapan tanah ini akan ditanami?
+\dt 15/Mar/2024
+
+\lx saloksa
+\ID_en 1325
+\ps number
+\de ten thousand
+\d_id sepuluh ribu
+\dt 13/Mar/2024
+
+\lx -nasida
+\ID_en 1375/1376
+\nt <81>
+\ps Pronoun
+\de their
+\d_id kata ganti empunya orang ke III jamak
+\dt 13/Mar/2024
+
+\lx ndang dope
+\ID_en 1429
+\ps Adverb
+\de not yet
+\d_id belum
+\dt 15/Mar/2024
+
+\lx ahoe sandiri, ausambing
+\ID_en 1358
+\ps Pronoun
+\de I myself
+\d_id saya sendiri
+\dt 13/Mar/2024
+
+\lx toloe
+\ID_en 1295
+\ps number
+\de three
+\d_id tiga
+\dt 13/Mar/2024
+
+\ID_en 1469
+\nt <88>
+\ps Noun
+\de and
+\d_id dan
+\dt 15/Mar/2024
+
+\lx doeapoeloe
+\ID_en 1312
+\ps number
+\de twenty
+\d_id dua puluh
+\dt 13/Mar/2024
+
+\dt 20/Mar/2024
+
+\lx -i
+\ID_en 1385
+\ps Pronoun
+\de that (nearby)
+\d_id itu (dekatmu)
+\dt 13/Mar/2024
+
+\ID_en 1326
+\nt <78>
+\ps Noun
+\de a half
+\d_id setengah
+\dt 13/Mar/2024
+
+\lx ne
+\ID_en 1478
+\nt <89>
+\ps Adverb
+\de almost
+\d_id hampir
+\dt 15/Mar/2024
+
+\lx alai
+\ID_en 1479
+\ps Adverb
+\de but
+\d_id tetapi
+\dt 15/Mar/2024
+
+\ID_en 1467
+\nt <87>
+\ps Adverb
+\de maybe
+\d_id barangkali
+\dt 15/Mar/2024
+
+\lx oenang
+\ID_en 1475
+\ps Adverb
+\de not, no
+\d_id jangan
+\dt 15/Mar/2024
+
+\lx noenga
+\ID_en 1428
+\ps Adverb
+\de already
+\d_id sudah
+\dt 15/Mar/2024
+
+\lx sampoeloe sada
+\ID_en 1303
+\ps number
+\de eleven
+\d_id sebelas
+\dt 13/Mar/2024
+
+\lx opat poeloe
+\ID_en 1317
+\ps number
+\de fourty
+\d_id empat puluh
+\dt 13/Mar/2024
+
+\lx ndang
+\ID_en 1471
+\ps Adverb
+\de no
+\d_id tidak
+\dt 15/Mar/2024
+
+\lx i pe
+\ID_en 1416
+\ps Adverb
+\de a moment ago
+\d_id tadi
+\dt 13/Mar/2024
+
+\lx Ndang boloeson ni peraoe binanga on
+\ID_en 1530
+\de this river is unnavigable
+\d_id sungai ini tak terlayari
+\dt 15/Mar/2024
+
+\lx -hoe
+\ID_en 1369
+\nt <81>
+\ps Pronoun
+\de my (sing.)
+\d_id kata ganti empunya orang ke I tunggal
+\dt 13/Mar/2024
+
+\lx Manirpang do dalan i, toe dia hita?
+\ID_en 1537
+\de the road forks, which way should we go?
+\d_id jalan bercabang dua, ke mana kami harus pergi?
+\dt 15/Mar/2024
+
+\lx -an
+\ID_en 1386
+\ps Pronoun
+\de that (faraway)
+\d_id itu (di sana)
+\dt 13/Mar/2024
+
+\lx piga, sadia
+\ID_en 1338
+\ps unknown
+\de how much, how many
+\d_id berapa
+\dt 13/Mar/2024
+
+\lx Pangido toe ibana manoek deba; ra lehononna ma i
+\ID_en 1540
+\de ask him for a few chickens perhaps he will give them
+\d_id minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya
+\dt 15/Mar/2024
+
+\lx hita
+\ID_en 1365
+\ps Pronoun
+\de we (inclusive)
+\d_id kita (kata ganti orang ke II jamak)
+\dt 13/Mar/2024
+
+\lx porpoedi
+\ID_en 1336/1337
+\ps Noun
+\de the last
+\d_id yang terakhir
+\dt 13/Mar/2024
+
+\ID_en 1350
+\nt <80>
+\ps Adjective
+\de all
+\d_id semua
+\dt 13/Mar/2024
+
+\lx hambirang
+\ID_en 1435
+\ps Adverb
+\de left
+\d_id kiri
+\dt 15/Mar/2024
+
+\lx hadoean
+\ID_en 1423
+\ps Adverb
+\de the day after tomorrow
+\d_id lusa
+\dt 15/Mar/2024
+
+\lx oetara
+\ID_en 1431
+\ps Adverb
+\de north
+\d_id utara
+\dt 15/Mar/2024
+
+\lx Binahen ni aha oembahen morsahit halak on ?
+\ID_en 1545
+\de what made these people ill?
+\d_id apa yang menyebabkan orang-orang ini menjadi sakit?
+\dt 15/Mar/2024
+
+\lx ho
+\ID_en 1359
+\ps Pronoun
+\de you (sing.)
+\d_id kamu, engkau
+\dt 13/Mar/2024
+
+\lx ahoe
+\ID_en 1357
+\ps Pronoun
+\de I
+\d_id saya
+\dt 13/Mar/2024
+
+\lx dohot
+\ID_en 1470
+\ps Preposition
+\de with
+\d_id dengan
+\dt 15/Mar/2024
+
+\ID_en 1427
+\nt <86>
+\ps Adverb
+\de when
+\d_id kapan, bilamana
+\dt 15/Mar/2024
+
+\lx sampoeloe toloe
+\ID_en 1305
+\ps number
+\de thirteen
+\d_id tiga belas
+\dt 13/Mar/2024
+
+\lx dia
+\ID_en 1382
+\ps Pronoun
+\de which?
+\d_id mana, (yang) mana
+\dt 13/Mar/2024
+
+\lx disi, disan
+\ID_en 1389
+\ps Adverb
+\de there (near hearer)
+\d_id di situ (di sebelah pendengar)
+\dt 13/Mar/2024
+
+\lx Adong do na oembota pamaloemhon sahitmoe.
+\ID_en 1546
+\de there is someone who can make you better
+\d_id ada orang yang dapat menyembuhkan anda
+\dt 15/Mar/2024
+
+\lx moroe
+\ID_en 1349
+\ps Adjective
+\de less
+\d_id kurang
+\dt 13/Mar/2024
+
+\lx ndang ad◌́ng sada
+\ID_en 1486
+\nt <90>
+\ps Adverb
+\de no, not a, none
+\d_id tidak, tidak ada, bukan
+\dt 15/Mar/2024
+
+\lx nasida
+\ID_en 1367/1368
+\ps Pronoun
+\de they
+\d_id mereka
+\dt 13/Mar/2024
+
+\lx holan, sambing
+\ID_en 1477
+\ps Adverb
+\de only
+\d_id hanya
+\dt 15/Mar/2024
+
+\lx deba
+\ID_en 1356
+\ps Adjective
+\de a few, some
+\d_id beberapa
+\dt 13/Mar/2024
+
+\lx pordjolo
+\ID_en 1330/1331
+\ps Noun
+\de the first
+\d_id pertama
+\dt 13/Mar/2024
+
+\lx Ditoehor nasida do sian hami ragamragam oe garan
+\ID_en 1527
+\de they buy all sorts of things from us
+\d_id mereka membeli dari kami bermacam-macam barang
+\dt 15/Mar/2024
+
+\lx sampoeloe sia
+\ID_en 1311
+\ps number
+\de nineteen
+\d_id sembilan belas
+\dt 13/Mar/2024
+
+\lx sariboe
+\ID_en 1324
+\ps number
+\de thousand
+\d_id seribu
+\dt 13/Mar/2024
+
+\ID_en 1284
+\nt <77>
+\ps Verb
+\de to arrive
+\d_id tiba
+\dt 13/Mar/2024
+
+\lx saporopat , sakaë
+\ID_en 1327
+\ps number
+\de a quarter
+\d_id seperempat
+\dt 13/Mar/2024
+
+\lx opat
+\ID_en 1296
+\ps number
+\de four
+\d_id empat
+\dt 13/Mar/2024
+
+\lx -na
+\ID_en 1378
+\nt <81>
+\ps Pronoun
+\de his
+\d_id kata ganti empunya orang ke III tunggal (laki-laki)
+\dt 13/Mar/2024
+
+\lx donok
+\ID_en 1452
+\ps Preposition
+\de nearby
+\d_id di dekat, di
+\dt 15/Mar/2024
+
+\lx hoemaliang
+\ID_en 1454
+\ps Preposition
+\de around, surrounding
+\d_id se-kellling
+\dt 15/Mar/2024
+
+\lx otik
+\ID_en 1340
+\ps Noun
+\de few, a little
+\d_id sedikit
+\dt 13/Mar/2024
+
+\lx Ndang na toetoe na nidoknasida taringot toe hami
+\ID_en 1536
+\de it is not true what they say about us
+\d_id tidak benar apa yang mereka katakan tentang kami
+\dt 15/Mar/2024
+
+\lx Ise monang di hamoesoeon i?
+\ID_en 1544
+\de who won the war?
+\d_id siapa yang menang dalam peperangan itu?
+\dt 15/Mar/2024
+
+\lx na djolo, na sai laon
+\ID_en 1411
+\ps Adverb
+\de formerly
+\d_id tempo hari
+\dt 13/Mar/2024
+
+\lx aha, beha
+\ID_en 1380
+\ps Pronoun
+\de what?
+\d_id apa
+\dt 13/Mar/2024
+
+\lx nantoari
+\ID_en 1418
+\ps Adverb
+\de yesterday
+\d_id kemarin
+\dt 15/Mar/2024
+
+\lx hasoendoetan , pastima
+\ID_en 1434
+\ps Adverb
+\de west
+\d_id barat
+\dt 15/Mar/2024
+
+\lx ndang, ndada
+\ID_en 1474
+\ps Adverb
+\de not, no
+\d_id bukan
+\dt 15/Mar/2024
+
+\lx sada
+\ID_en 1293
+\ps number
+\de one
+\d_id satu
+\dt 13/Mar/2024
+
+\lx saonari
+\ID_en 1409
+\ps Adverb
+\de shortly
+\d_id sebentar lagi
+\dt 13/Mar/2024
+
+\lx Alap ma aek manoensi abithoe
+\ID_en 1539
+\de bring water to wash try clothes
+\d_id ambil air untuk mencuci pakaian saya
+\dt 15/Mar/2024
+
+\lx di
+\ID_en 1449
+\ps Preposition
+\de on
+\d_id di
+\dt 15/Mar/2024
+
+\lx lima
+\ID_en 1297
+\ps number
+\de five
+\d_id lima
+\dt 13/Mar/2024
+
+\lx toloe poeloe
+\ID_en 1316
+\ps number
+\de thirty
+\d_id tiga puluh
+\dt 13/Mar/2024
+
+\lx on
+\ID_en 1383
+\nt <82>
+\ps Pronoun
+\de this
+\d_id ini
+\dt 13/Mar/2024
+
+\lx panondang, palito
+\ID_en 1398
+\nt <84>
+\ps Noun
+\de light
+\d_id sinar
+\dt 13/Mar/2024
+
+\lx mamastap (pastap), mangalomboet (lomboet)
+\ID_en 1291
+\ps Verb
+\de to hit (to beat, to slap, etc.)
+\d_id memukul (menampar meninju dll.)
+\dt 13/Mar/2024
+
+\lx habinsaran, poerba
+\ID_en 1433
+\ps Adverb
+\de east
+\d_id tmur
+\dt 15/Mar/2024
+
+\lx didia?
+\ID_en 1460
+\ps Adverb
+\de where
+\d_id di mana
+\dt 15/Mar/2024
+
+\lx oealoe
+\ID_en 1300
+\ps number
+\de eight
+\d_id delapan
+\dt 13/Mar/2024
+
+\lx onom
+\ID_en 1298
+\ps number
+\de six
+\d_id enam
+\dt 13/Mar/2024
+
+\lx dis◌́n
+\ID_en 1388
+\ps Adverb
+\de here
+\d_id here
+\dt 15/Mar/2024
+
+\lx doeng mate radja i, poeltop ma homoesoeon
+\ID_en 1543
+\de war broke out after the death of the king
+\d_id perang timbul setelah kematlan raja
+\dt 15/Mar/2024
+
+\lx sian gindjang
+\ID_en 1439
+\ps Preposition
+\de from above
+\d_id dari atas
+\dt 15/Mar/2024
+
+\lx morsogot
+\ID_en 1422
+\ps Adverb
+\de tomorrow
+\d_id besok
+\dt 15/Mar/2024
+
+\lx lobi (loemobi), goemodang
+\ID_en 1347/1348
+\ps Adjective
+\de more, most
+\d_id lebih
+\dt 15/Mar/2024
+
+\lx doeapoeloe lima
+\ID_en 1315
+\ps number
+\de twenty five
+\d_id dua puluh lima
+\dt 13/Mar/2024
+
+\lx Sadia leteng mordalan paraoe i asa sahat toe laoet?
+\ID_en 1531
+\de how long does it take to reach the sea by boat?
+\d_id berapa lama kita harus berlayar hingga sampai ke laut?
+\dt 15/Mar/2024
+
+\lx taon
+\ID_en 1406
+\ps Noun
+\de year
+\d_id tahun
+\dt 13/Mar/2024
+
+\lx di bagasan ni
+\ID_en 1450
+\ps Preposition
+\de in, inside
+\d_id di (dalam)
+\dt 15/Mar/2024
+
+\lx di, di lamboeng ni
+\ID_en 1445
+\ps Preposition
+\de at
+\d_id di, pada
+\dt 15/Mar/2024
+
+\lx ra
+\ID_en 1476
+\ps Adverb
+\de yes, right, indeed
+\d_id ya, benar, betul
+\dt 15/Mar/2024
+
+\lx Ndang adong djambatan disi ; dia me dalan manaripari aek i?
+\ID_en 1532
+\de there is no bridge; how can I cross the river?
+\d_id tidak ada jembatan; bagaimana saya dapat menyeberangi sungai?
+\dt 15/Mar/2024
+
+\lx dangsina
+\ID_en 1432
+\ps Adverb
+\de south
+\d_id selatan
+\dt 15/Mar/2024
+
+\lx olo
+\ID_en 1472
+\ps Adverb
+\de yes
+\d_id ya
+\dt 15/Mar/2024
+
+\lx sadari on
+\ID_en 1420
+\ps Adverb
+\de today
+\d_id hari ini
+\dt 15/Mar/2024
+
+\lx portaonan
+\ID_en 1407
+\ps Noun
+\de monsoon
+\d_id musim
+\dt 13/Mar/2024
+
+\lx Timbaho do lehononkoe manggarar
+\ID_en 1525
+\de I shall pay in tobacco
+\d_id saya memberikan tembakau sebagai alat penukar
+\dt 15/Mar/2024
+
+\lx di toroe
+\ID_en 1440
+\ps Preposition
+\de under
+\d_id di bawah
+\dt 15/Mar/2024
+
+\lx manghali (hali)
+\ID_en 1278
+\ps Verb
+\de to dig
+\d_id menggali
+\dt 13/Mar/2024
+
+\lx siamoen
+\ID_en 1436
+\ps Adverb
+\de right
+\d_id kanan
+\dt 15/Mar/2024
+
+\ID_en 1339
+\nt <79>
+\ps Adjective
+\de many, much
+\d_id banyak
+\dt 13/Mar/2024
+
+\lx songon dia, behá
+\ID_en 1461
+\ps Adverb
+\de how
+\d_id bagaimana
+\dt 15/Mar/2024
+
+\lx toet◌́e
+\ID_en 1466
+\ps Adverb
+\de certainly, sure
+\d_id pasti
+\dt 15/Mar/2024
+
+\lx Gadis ma boniaga on di hami
+\ID_en 1526
+\de sell us these goods
+\d_id juallah barang ini kepada kami
+\dt 15/Mar/2024
+
+\lx di
+\ID_en 1448
+\ps Preposition
+\de at, in
+\d_id di
+\dt 15/Mar/2024
+
+\lx hamoe
+\ID_en 1362
+\ps Pronoun
+\de you
+\d_id kamu sekalian
+\dt 13/Mar/2024
+
+\lx -moe, -moe-na
+\ID_en 1373
+\nt <81>
+\ps Pronoun
+\de your (sing.)
+\d_id kata ganti empunya orang ke II tunggal
+\dt 13/Mar/2024
+
+\lx ibana
+\ID_en 1363
+\ps Pronoun
+\de he
+\d_id ia, kata ganti orang ke III tunggal (laki-laki)
+\dt 13/Mar/2024
+
+\lx sipata
+\ID_en 1426
+\ps Adverb
+\de now and then, occasionally
+\d_id kadang-kadang
+\dt 15/Mar/2024
+
+\lx songon i
+\ID_en 1462
+\ps Adverb
+\de like this, like that
+\d_id begini, begitu
+\dt 15/Mar/2024
+
+\lx sian
+\ID_en 1446
+\ps Preposition
+\de from
+\d_id dari
+\dt 15/Mar/2024
+
+\lx padoeahon
+\ID_en 1332/1333
+\ps Noun
+\de the second
+\d_id kedua
+\dt 13/Mar/2024
+
+\lx sampoeloe
+\ID_en 1302
+\ps number
+\de ten
+\d_id sepuluh
+\dt 13/Mar/2024

@@ -1,0 +1,2089 @@
+
+\lx arian
+\ID_en 1397
+\ps Noun
+\de daylight
+\d_id siang
+\dt 21/Mar/2024
+
+\lx ro
+\ID_en 1283
+\ps Verb
+\de to come
+\d_id datang
+\dt 20/Mar/2024
+
+\lx sampoeloe sada
+\ID_en 1303
+\ps number
+\de eleven
+\d_id sebelas
+\dt 21/Mar/2024
+
+\lx mangompa
+\ID_en 1218
+\ps Verb
+\de to carry in a sarong
+\d_id menggendong dalam sarung
+\dt 20/Mar/2024
+
+\lx hoendoel hoǃ
+\ID_en 1492
+\de have a seat!
+\d_id duduklah!
+\dt 12/Apr/2024
+
+\lx ari-oedan
+\ID_en 1405
+\ps Noun
+\de rainy season, wet season
+\d_id musim hujan
+\dt 21/Mar/2024
+
+\lx on
+\ID_en 1383
+\ps Pronoun
+\de this
+\d_id ini
+\dt 21/Mar/2024
+
+\lx dao
+\ID_en 1453
+\ps Adjective
+\de far
+\d_id jauh
+\dt 21/Mar/2024
+
+\lx dangsina
+\ID_en 1432
+\ps Noun
+\de south
+\d_id selatan
+\dt 21/Mar/2024
+
+\lx sampoeloe sia
+\ID_en 1311
+\ps number
+\de nineteen
+\d_id sembilan belas
+\dt 21/Mar/2024
+
+\lx mangkapithon
+\ID_en 1215
+\ps Verb
+\de to carry under the arm
+\d_id mengepit
+\dt 20/Mar/2024
+
+\lx ari
+\ID_en 1394
+\ps Noun
+\de day
+\d_id hari
+\dt 21/Mar/2024
+
+\lx topar
+\ID_en 1258
+\ps Adjective
+\de shattered
+\d_id pecah
+\dt 20/Mar/2024
+
+\lx mamaloshon
+\ID_en 1292
+\ps Verb
+\de to take revenge
+\d_id membalas dendam
+\dt 20/Mar/2024
+
+\lx pangan ma indahan onǃ
+\ID_en 1515
+\de eat up this rice
+\d_id habiskanlah nasi ini
+\dt 12/Apr/2024
+
+\lx ho
+\ID_en 1359
+\ps Pronoun
+\de you (sing.)
+\d_id kamu, engkau
+\dt 21/Mar/2024
+
+\lx godang
+\ID_en 1339
+\ps Adjective
+\de many, much
+\d_id banyak
+\dt 21/Mar/2024
+
+\lx maniop
+\ID_en 1213
+\ps Verb
+\de to carry something hanging from the head
+\d_id menjinjing
+\dt 20/Mar/2024
+
+\lx sampoeloe pitoe
+\ID_en 1309
+\ps number
+\de seventeen
+\d_id tujuh belas
+\dt 21/Mar/2024
+
+\lx sampoeloe doea
+\ID_en 1304
+\ps number
+\de twelve
+\d_id dua belas
+\dt 21/Mar/2024
+
+\lx oetara
+\ID_en 1431
+\ps Noun
+\de north
+\d_id utara
+\dt 21/Mar/2024
+
+\lx mandok
+\ID_en 1205
+\ps Verb
+\de to say
+\d_id berkata
+\dt 20/Mar/2024
+
+\lx mamboeat
+\ID_en 1179
+\ps Verb
+\de to take
+\d_id mengambil
+\dt 20/Mar/2024
+
+\lx laho toedia ho?
+\ID_en 1498
+\de where are you going?
+\d_id engkau hendak ke mana?
+\dt 12/Apr/2024
+
+\lx mangoela
+\ID_en 1210
+\ps Verb
+\de to work
+\d_id bekerja
+\dt 20/Mar/2024
+
+\lx noenga maridi no?
+\ID_en 1509
+\de have you bathed yet?
+\d_id engkau sudah mandi?
+\dt 12/Apr/2024
+
+\lx ahoe sandiri, holan akoe
+\ID_en 1358
+\ps Pronoun
+\de I myself
+\d_id saya sendiri
+\dt 21/Mar/2024
+
+\lx padoea halihon
+\ID_en 1333
+\ps Adjective
+\de second (in time)
+\d_id kedua kali
+\dt 21/Mar/2024
+
+\lx maradian
+\ID_en 1262/1263
+\ps Adjective
+\de to end
+\d_id berakhir
+\dt 20/Mar/2024
+
+\lx sian-sahat
+\ID_en 1442
+\ps Preposition
+\de from-to (place)
+\d_id dari-hingga (tempat)
+\dt 21/Mar/2024
+
+\lx nosogol, nosogotan
+\ID_en 1421
+\ps Adverb
+\de this morning
+\d_id tadi pagi
+\dt 21/Mar/2024
+
+\lx sada
+\ID_en 1293
+\ps number
+\de one
+\d_id satu
+\dt 21/Mar/2024
+
+\lx manggotap
+\ID_en 1254
+\ps Verb
+\de to break (a rope)
+\d_id memutuskan (tali)
+\dt 20/Mar/2024
+
+\lx holan
+\ID_en 1477
+\ps Adverb
+\de only
+\d_id hanya
+\dt 21/Mar/2024
+
+\lx boasa tangis ho?
+\ID_en 1493
+\de why are you crying?
+\d_id mengapa engkau menangis?
+\dt 12/Apr/2024
+
+\lx sipata-sipata
+\ID_en 1426
+\ps Adverb
+\de now and then, occasionally
+\d_id kadang-kadang
+\dt 21/Mar/2024
+
+\lx manaengkoen
+\ID_en 1267
+\ps Verb
+\de to ask
+\d_id bertanya
+\dt 20/Mar/2024
+
+\lx mangompa
+\ID_en 1217
+\ps Verb
+\de to carry on the back (with strap over the shoudler or head)
+\d_id memgambin
+\dt 20/Mar/2024
+
+\lx mangalehon
+\ID_en 1176
+\ps Verb
+\de to give
+\d_id memberikan
+\dt 20/Mar/2024
+
+\lx mansai
+\ID_en 1468
+\ps Adverb
+\de very
+\d_id sangat
+\dt 21/Mar/2024
+
+\lx manaroehon
+\ID_en 1184
+\ps Verb
+\de to accompany
+\d_id menyertai, mengiringi
+\dt 20/Mar/2024
+
+\lx hambirang
+\ID_en 1435
+\ps Adjective
+\de left
+\d_id kiri
+\dt 21/Mar/2024
+
+\lx borhat
+\ID_en 1286
+\ps Verb
+\de to depart
+\d_id berangkat
+\dt 20/Mar/2024
+
+\lx beha, songon dia
+\ID_en 1416
+\ps Adverb
+\de a moment ago
+\d_id tadi
+\dt 21/Mar/2024
+
+\lx saonnari
+\ID_en 1408
+\ps Adverb
+\de now
+\d_id sekarang
+\dt 21/Mar/2024
+
+\lx pangan kamoe ma indahan onǃ
+\ID_en 1516
+\de eat up this rice (pl.)
+\d_id habiskanlah nasi ini (jamak)
+\dt 12/Apr/2024
+
+\lx hami
+\ID_en 1366
+\ps Pronoun
+\de we (exclusive)
+\d_id kami (kata ganti orang ke II jamak)
+\dt 21/Mar/2024
+
+\lx ndang adong
+\ID_en 1343
+\ps Adjective
+\de there are not
+\d_id tidak ada
+\dt 21/Mar/2024
+
+\lx mamboeat
+\ID_en 1181
+\ps Verb
+\de to take away
+\d_id mengangkat (pergi)
+\dt 20/Mar/2024
+
+\lx ibana
+\ID_en 1364
+\ps Pronoun
+\de she
+\d_id ia, kata ganti orang ke III tunggal (perempuan)
+\dt 21/Mar/2024
+
+\lx sasoede, soede
+\ID_en 1350
+\ps Adjective
+\de all
+\d_id semua
+\dt 21/Mar/2024
+
+\lx nasida
+\ID_en 1367/1368
+\ps Pronoun
+\de they (female)
+\d_id mereka, kata ganti orang ke III jamak (perempuan)
+\dt 21/Mar/2024
+
+\lx djaboe dia
+\ID_en 1381
+\de which house?
+\d_id rumah mana
+\dt 21/Mar/2024
+
+\lx oealoe
+\ID_en 1300
+\ps number
+\de eight
+\d_id delapan
+\dt 21/Mar/2024
+
+\lx sian toroe
+\ID_en 1441
+\ps Preposition
+\de from underneath
+\d_id dari bawah
+\dt 21/Mar/2024
+
+\lx manongos
+\ID_en 1282
+\ps Verb
+\de to send
+\d_id kirim (mengirim)
+\dt 20/Mar/2024
+
+\lx molo
+\ID_en 1483
+\ps Noun
+\de if
+\d_id kalau
+\dt 21/Mar/2024
+
+\lx doengo
+\ID_en 1222
+\ps Verb
+\de to wake, to watch
+\d_id berjaga (dgn. sengaja tidak tidur)
+\dt 20/Mar/2024
+
+\lx poengoe, rap
+\ID_en 1352
+\ps Adverb
+\de together
+\d_id bersama-sama
+\dt 21/Mar/2024
+
+\lx mandadap
+\ID_en 1231
+\ps Verb
+\de to feel, to touch
+\d_id meraba
+\dt 20/Mar/2024
+
+\lx sip
+\ID_en 1200
+\ps Adjective
+\de to be silent
+\d_id diam
+\dt 20/Mar/2024
+
+\lx saloehoetud
+\ID_en 1351
+\ps Adjective
+\de whole
+\d_id sama sekali
+\dt 21/Mar/2024
+
+\lx udi
+\ID_en 1384
+\ps Pronoun
+\de that
+\d_id itu
+\dt 21/Mar/2024
+
+\lx maniop
+\ID_en 1185
+\ps Verb
+\de to grip, to hold, to seize
+\d_id memegang
+\dt 20/Mar/2024
+
+\lx ahoe noeng manoekar sada manoek
+\ID_en 1517
+\de I want to buy a chicken
+\d_id saya hendak membeli seekor ayam
+\dt 12/Apr/2024
+
+\lx marhatoetoehon
+\ID_en 1199
+\ps Verb
+\de to confess
+\d_id mengaku
+\dt 20/Mar/2024
+
+\ID_en 1291
+\nt <32>
+\ps Verb
+\de to hit (to beat, to slap, etc.)
+\d_id memukul (menampar meninju dll.)
+\dt 20/Mar/2024
+
+\lx marhoesip
+\ID_en 1204
+\ps Verb
+\de to whisper
+\d_id berbisik-bislk
+\dt 20/Mar/2024
+
+\lx mangkoear
+\ID_en 1278
+\ps Verb
+\de to dig
+\d_id menggali
+\dt 20/Mar/2024
+
+\lx soeda
+\ID_en 1341
+\ps Adjective
+\de finished
+\d_id habis
+\dt 21/Mar/2024
+
+\lx saparopat
+\ID_en 1327
+\ps Noun
+\de a quarter
+\d_id seperempat
+\dt 21/Mar/2024
+
+\lx alai
+\ID_en 1480
+\ps Adverb
+\de however, nevertheless
+\d_id tetapi, meskipun
+\dt 21/Mar/2024
+
+\lx opat poeloe
+\ID_en 1317
+\ps number
+\de fourty
+\d_id empat puluh
+\dt 21/Mar/2024
+
+\lx dohot
+\ID_en 1470
+\ps Preposition
+\de with
+\d_id dengan
+\dt 21/Mar/2024
+
+\lx mangaloeloei, mandiori
+\ID_en 1174
+\ps Verb
+\de to look for
+\d_id mencari
+\dt 20/Mar/2024
+
+\lx birong
+\ID_en 1168
+\ps Adjective
+\de black
+\d_id hitam
+\dt 20/Mar/2024
+
+\lx manganggo
+\ID_en 1229
+\ps Verb
+\de to smell
+\d_id mencium
+\dt 20/Mar/2024
+
+\lx mangkonai
+\ID_en 1251
+\ps Verb
+\de to hit, to touch
+\d_id mengenai, menyentuh
+\dt 20/Mar/2024
+
+\lx annon
+\ID_en 1409
+\ps Adverb
+\de shortly
+\d_id sebentar lagi
+\dt 21/Mar/2024
+
+\lx na bara
+\ID_en 1170
+\ps Adjective
+\de brown
+\d_id coklat
+\dt 20/Mar/2024
+
+\lx atik pe
+\ID_en 1484
+\ps Adverb
+\de although
+\d_id meskipun
+\dt 21/Mar/2024
+
+\lx olo do ho, manang udang
+\ID_en 1491
+\de do you want to or not?
+\d_id mau engkau atau tidak? / engkau mau atau tidak?
+\dt 12/Apr/2024
+
+\lx lomo raho
+\ID_en 1241
+\ps Verb
+\de to approve
+\d_id menyetujui, membenarkan
+\dt 20/Mar/2024
+
+\lx udang be
+\ID_en 1430
+\ps Adverb
+\de not again
+\d_id tidak lagi
+\dt 21/Mar/2024
+
+\lx padoeahon
+\ID_en 1332
+\ps Adjective
+\de second (in space)
+\d_id kedua
+\dt 21/Mar/2024
+
+\lx doea halak baoa borhat marsogot
+\ID_en 1514
+\de tomorrow two men will go away
+\d_id besok akan berangkat dua orang laki-laki
+\dt 12/Apr/2024
+
+\lx botari
+\ID_en 1425
+\ps Noun
+\de evening
+\d_id petang hari
+\dt 21/Mar/2024
+
+\lx adong manang aho
+\ID_en 1344
+\ps Adjective
+\de there is something
+\d_id ada apa-apa
+\dt 21/Mar/2024
+
+\lx manimboeng, tae toroe
+\ID_en 1250
+\ps Verb
+\de to jump down
+\d_id melompat ke bawah, terjun
+\dt 20/Mar/2024
+
+\lx ampehon toe gindjang ni api i
+\ID_en 1504
+\de put it on the fire
+\d_id jerangkanlah ; letakkanlah di atas api
+\dt 12/Apr/2024
+
+\lx arilogo
+\ID_en 1404
+\ps Noun
+\de dry season
+\d_id musim kemarau, musing kering
+\dt 21/Mar/2024
+
+\lx peangkon mo iǃ
+\ID_en 1497
+\de put it down
+\d_id letakkanlah!
+\dt 12/Apr/2024
+
+\lx ndang mangoloi ahoe disi
+\ID_en 1501
+\de I do not allow it
+\d_id saya tak mengijinkan
+\dt 12/Apr/2024
+
+\lx manggaboesi, paotootokon
+\ID_en 1271
+\ps Verb
+\de to cheat, to deceive
+\d_id menipu
+\dt 20/Mar/2024
+
+\lx mananda
+\ID_en 1193
+\ps Verb
+\de to know
+\d_id tahu, mengetahui kenal
+\dt 20/Mar/2024
+
+\lx olo do ahoe
+\ID_en 1490
+\de I would like to
+\d_id saya suka / saya mau
+\dt 12/Apr/2024
+
+\lx marsogotu
+\ID_en 1422
+\ps Adverb
+\de tomorrow
+\d_id besok
+\dt 21/Mar/2024
+
+\lx ndang adong, manang aho
+\ID_en 1345
+\ps Adjective
+\de there is nothing
+\d_id tidak ada apa-apa
+\dt 21/Mar/2024
+
+\lx margaboes
+\ID_en 1272
+\ps Verb
+\de to tell lies
+\d_id berdusta
+\dt 20/Mar/2024
+
+\lx painte djoloǃ, paimo djoloǃ
+\ID_en 1500
+\de Just a moment
+\d_id nanti dulu
+\dt 12/Apr/2024
+
+\lx mangaloesi
+\ID_en 1268
+\ps Verb
+\de to answer
+\d_id menjawab
+\dt 20/Mar/2024
+
+\lx saratoes
+\ID_en 1323
+\nt <34>
+\ps number
+\de hundred
+\d_id seratus
+\dt 21/Mar/2024
+
+\lx manggotil
+\ID_en 1259
+\ps Verb
+\de to pinch, to squeeze
+\d_id menjepit, menekan
+\dt 20/Mar/2024
+
+\lx asom
+\ID_en 1162
+\ps Adjective
+\de sour
+\d_id kecut, masam
+\dt 20/Mar/2024
+
+\ID_en 1264
+\nt <31>
+\ps Verb
+\de to bind, to tie
+\d_id mengikat
+\dt 20/Mar/2024
+
+\lx mandoengo i
+\ID_en 1224
+\ps Verb
+\de to guard, to watch
+\d_id menjaga
+\dt 20/Mar/2024
+
+\lx papoengoehon
+\ID_en 1289
+\ps Verb
+\de to collect
+\d_id mengumpulkan
+\dt 20/Mar/2024
+
+\lx ahanta
+\ID_en 1371
+\nt <36>
+\ps Pronoun
+\de our (inclusive)
+\d_id kata ganti empunya orang ke I jamak (inclusive)
+\dt 21/Mar/2024
+
+\lx laho toesan
+\ID_en 1280
+\ps Verb
+\de to go there
+\d_id pergi ke sana
+\dt 20/Mar/2024
+
+\lx ndang
+\ID_en 1471
+\ps Noun
+\de no
+\d_id tidak
+\dt 21/Mar/2024
+
+\lx mangkilala
+\ID_en 1230
+\ps Verb
+\de to feel
+\d_id merasai
+\dt 20/Mar/2024
+
+\lx songon on
+\ID_en 1463
+\ps Adverb
+\de like this
+\d_id begini
+\dt 21/Mar/2024
+
+\lx ahanami
+\ID_en 1372
+\nt <37>
+\ps Pronoun
+\de our (exclusive)
+\d_id kata ganti empunya orang ke I jamak (exclusive)
+\dt 21/Mar/2024
+
+\lx laho
+\ID_en 1279
+\ps Verb
+\de to go
+\d_id pergi
+\dt 20/Mar/2024
+
+\lx sampoeloe lima
+\ID_en 1307
+\ps number
+\de fifteen
+\d_id lima belas
+\dt 21/Mar/2024
+
+\lx ahana
+\ID_en 1377/1378
+\nt <39>
+\ps Pronoun
+\de her, his
+\d_id kata ganti empunya orang ke III tunggal
+\dt 21/Mar/2024
+
+\lx sariboe
+\ID_en 1324
+\ps number
+\de thousand
+\d_id seribu
+\dt 21/Mar/2024
+
+\lx loepa
+\ID_en 1197
+\ps Verb
+\de to have forgotten something
+\d_id lupa
+\dt 20/Mar/2024
+
+\lx mandai
+\ID_en 1232
+\ps Verb
+\de to taste
+\d_id mencicipi
+\dt 20/Mar/2024
+
+\lx manoeroe
+\ID_en 1281
+\ps Verb
+\de to send (out), to order, to command
+\d_id menyuruh (pergi) memerintahkan
+\dt 20/Mar/2024
+
+\lx hita
+\ID_en 1365
+\ps Pronoun
+\de we (inclusive)
+\d_id kita (kata ganti orang ke II jamak)
+\dt 21/Mar/2024
+
+\lx djoempangan, dapotan
+\ID_en 1175
+\ps Verb
+\de to find
+\d_id menemukan
+\dt 20/Mar/2024
+
+\lx sadia
+\ID_en 1338
+\de how much, how many
+\d_id berapa
+\dt 21/Mar/2024
+
+\lx doeapoeloe
+\ID_en 1312
+\ps number
+\de twenty
+\d_id dua puluh
+\dt 21/Mar/2024
+
+\lx digindjang
+\ID_en 1437
+\ps Adverb
+\de up, upper, above
+\d_id di atas
+\dt 21/Mar/2024
+
+\lx manogoe
+\ID_en 1186
+\ps Verb
+\de to lead by the hand
+\d_id menuntun
+\dt 20/Mar/2024
+
+\lx djadi
+\ID_en 1209
+\ps Verb
+\de to be allowed
+\d_id boleh, diperbolehkan
+\dt 20/Mar/2024
+
+\lx ndang koeboto i
+\ID_en 1494
+\de I can not
+\d_id saya tak bisa
+\dt 12/Apr/2024
+
+\lx noenga goergoer
+\ID_en 1505
+\de it is already boiling
+\d_id sudah mendidih
+\dt 12/Apr/2024
+
+\lx nabaroeou, nadjolo
+\ID_en 1411
+\ps Adverb
+\de formerly
+\d_id tempo hari
+\dt 21/Mar/2024
+
+\lx patoloehon
+\ID_en 1334
+\ps Adjective
+\de third (in space)
+\d_id ketiga
+\dt 21/Mar/2024
+
+\lx ditoroe
+\ID_en 1455
+\ps Noun
+\de outside
+\d_id luar, di luar
+\dt 21/Mar/2024
+
+\lx poerba
+\ID_en 1433
+\ps Noun
+\de east
+\d_id timur
+\dt 21/Mar/2024
+
+\lx lima poeloe
+\ID_en 1318
+\ps number
+\de fifty
+\d_id lima puluh
+\dt 21/Mar/2024
+
+\lx ahoe
+\ID_en 1357
+\ps Pronoun
+\de i
+\d_id saya
+\dt 21/Mar/2024
+
+\lx djonok
+\ID_en 1452
+\ps Adverb
+\de nearby
+\d_id di dekat, di
+\dt 21/Mar/2024
+
+\lx sahali
+\ID_en 1328
+\ps Adverb
+\de once
+\d_id sekali
+\dt 21/Mar/2024
+
+\lx siak
+\ID_en 1165
+\ps Adjective
+\de hot, spicy
+\d_id panas, pedas
+\dt 20/Mar/2024
+
+\lx beta ma hita borhatǃ
+\ID_en 1513
+\de let us go now
+\d_id marilah kita berangkat sekarang
+\dt 12/Apr/2024
+
+\lx manoengsi
+\ID_en 1189
+\ps Verb
+\de to wash up (dishes, spoons, etc.)
+\d_id mencuci (peralatan makanan)
+\dt 20/Mar/2024
+
+\lx manoboen
+\ID_en 1233
+\ps Verb
+\de to slurp
+\d_id menghirup
+\dt 20/Mar/2024
+
+\lx toloe
+\ID_en 1295
+\ps number
+\de three
+\d_id tiga
+\dt 21/Mar/2024
+
+\lx pitoe poeloe
+\ID_en 1320
+\ps number
+\de seventy
+\d_id tujuh puluh
+\dt 21/Mar/2024
+
+\lx adoei
+\ID_en 1387
+\ps Adverb
+\de overthere, yonder
+\d_id itu (di sana)
+\dt 21/Mar/2024
+
+\lx noenga mate ibana
+\ID_en 1502
+\de he is dead
+\d_id dia sudah mati
+\dt 12/Apr/2024
+
+\lx ansim
+\ID_en 1166
+\ps Adjective
+\de salty
+\d_id asin
+\dt 20/Mar/2024
+
+\lx patoedjolo
+\ID_en 1331
+\ps Adjective
+\de first (in time)
+\d_id pertama kali
+\dt 21/Mar/2024
+
+\lx doea hali
+\ID_en 1329
+\ps Adverb
+\de twice
+\d_id dua kali
+\dt 21/Mar/2024
+
+\lx ndang
+\ID_en 1473
+\ps Noun
+\de not, no
+\d_id tidak
+\dt 21/Mar/2024
+
+\lx di dalan
+\ID_en 1438
+\ps Preposition
+\de on the road
+\d_id di jalan
+\dt 21/Mar/2024
+
+\lx saotik
+\ID_en 1340
+\ps Adjective
+\de few, a little
+\d_id sedikit
+\dt 21/Mar/2024
+
+\lx hadoean
+\ID_en 1423
+\ps Adverb
+\de the day after tomorrow
+\d_id lusa
+\dt 21/Mar/2024
+
+\lx paimahon
+\ID_en 1226
+\ps Verb
+\de to wait
+\d_id menunggu
+\dt 20/Mar/2024
+
+\lx marpoengoe
+\ID_en 1290
+\ps Verb
+\de to gather, to meet
+\d_id berkumpul
+\dt 20/Mar/2024
+
+\lx manantap
+\ID_en 1190
+\ps Verb
+\de to wash (clothes)
+\d_id mencuci (pakaian)
+\dt 20/Mar/2024
+
+\lx manimboeng
+\ID_en 1249
+\ps Verb
+\de to spring, to jump
+\d_id melompat
+\dt 20/Mar/2024
+
+\lx ise
+\ID_en 1379
+\ps Pronoun
+\de who?
+\d_id siapa
+\dt 21/Mar/2024
+
+\lx moese
+\ID_en 1415
+\ps Adverb
+\de later
+\d_id kelak
+\dt 21/Mar/2024
+
+\lx nantoari
+\ID_en 1418
+\ps Adverb
+\de yesterday
+\d_id kemarin
+\dt 21/Mar/2024
+
+\lx disan
+\ID_en 1390
+\de there
+\d_id di sana
+\dt 21/Mar/2024
+
+\lx maniop
+\ID_en 1216
+\ps Verb
+\de to carry in the hand
+\d_id membawa (menggenggam)
+\dt 20/Mar/2024
+
+\lx onom poeloe
+\ID_en 1319
+\ps number
+\de sixty
+\d_id enam puluh
+\dt 21/Mar/2024
+
+\lx marpingkir
+\ID_en 1194
+\ps Verb
+\de to think
+\d_id berpikir
+\dt 20/Mar/2024
+
+\lx pardjalo
+\ID_en 1330
+\ps Adjective
+\de first (in space)
+\d_id pertama
+\dt 21/Mar/2024
+
+\lx opat
+\ID_en 1296
+\ps number
+\de four
+\d_id empat
+\dt 21/Mar/2024
+
+\lx moelai
+\ID_en 1260/1261
+\ps Verb
+\de to start
+\d_id mulai
+\dt 20/Mar/2024
+
+\lx manangko
+\ID_en 1273
+\ps Verb
+\de to steal
+\d_id mencuri
+\dt 20/Mar/2024
+
+\lx sae
+\ID_en 1354
+\ps Adjective
+\de enough
+\d_id cukup
+\dt 21/Mar/2024
+
+\lx ndian
+\ID_en 1389
+\ps Adverb
+\de there (near hearer)
+\d_id di situ (di sebelah pendengar)
+\dt 21/Mar/2024
+
+\lx mandjalo
+\ID_en 1178
+\ps Verb
+\de to accept
+\d_id menerima
+\dt 20/Mar/2024
+
+\lx oealoe poeloe
+\ID_en 1321
+\ps number
+\de eighty
+\d_id delapan puluh
+\dt 21/Mar/2024
+
+\lx mandjooe
+\ID_en 1206
+\ps Verb
+\de to call
+\d_id memanggil
+\dt 20/Mar/2024
+
+\lx rara
+\ID_en 1169
+\ps Adjective
+\de red
+\d_id merah
+\dt 20/Mar/2024
+
+\lx mangkoensi, manardak
+\ID_en 1246
+\ps Verb
+\de to close
+\d_id menutup
+\dt 20/Mar/2024
+
+\lx sadari on
+\ID_en 1420
+\ps Adverb
+\de today
+\d_id hari ini
+\dt 21/Mar/2024
+
+\lx ditoroe
+\ID_en 1440
+\ps Preposition
+\de under
+\d_id di bawah
+\dt 21/Mar/2024
+
+\lx mangonsop
+\ID_en 1235
+\ps Verb
+\de to suck
+\d_id menghisap
+\dt 20/Mar/2024
+
+\lx ala
+\ID_en 1485
+\ps Noun
+\de because
+\d_id karena, sebab
+\dt 21/Mar/2024
+
+\lx satonga
+\ID_en 1326
+\ps Noun
+\de a half
+\d_id setengah
+\dt 21/Mar/2024
+
+\lx sahat
+\ID_en 1284
+\ps Verb
+\de to arrive
+\d_id tiba
+\dt 20/Mar/2024
+
+\lx mosoek
+\ID_en 1458
+\ps Verb
+\de to go inside
+\d_id memasuki, masuk
+\dt 21/Mar/2024
+
+\lx sian gindjang
+\ID_en 1439
+\ps Preposition
+\de from above
+\d_id dari atas
+\dt 21/Mar/2024
+
+\lx sampoeloe riboe
+\ID_en 1325
+\ps number
+\de ten thousand
+\d_id sepuluh ribu
+\dt 21/Mar/2024
+
+\lx ndang hoeboto dopeǃ
+\ID_en 1495
+\de I do not know yet
+\d_id saya belum tahu
+\dt 12/Apr/2024
+
+\ID_en 1314
+\nt <33>
+\ps number
+\de twenty one, twenty two, etc.
+\d_id dua puluh satu, dua puluh dua, dst.
+\dt 21/Mar/2024
+
+\lx babi na hoeboenoe i
+\ID_en 1518
+\de the pig which I killed
+\d_id babi yang sudah saya bunuh
+\dt 12/Apr/2024
+
+\lx hoenik
+\ID_en 1171
+\ps Adjective
+\de yellow
+\d_id kuning
+\dt 20/Mar/2024
+
+\lx mamboengka
+\ID_en 1245
+\ps Verb
+\de to open
+\d_id membuka
+\dt 20/Mar/2024
+
+\lx pistar
+\ID_en 1160
+\ps Adjective
+\de clever
+\d_id pandai
+\dt 20/Mar/2024
+
+\lx mangoemma
+\ID_en 1236
+\ps Verb
+\de to kiss
+\d_id mengecup
+\dt 20/Mar/2024
+
+\lx bodok
+\ID_en 1159
+\ps Adjective
+\de dumb
+\d_id bodoh
+\dt 20/Mar/2024
+
+\lx mangkaholongi
+\ID_en 1238
+\ps Verb
+\de to love
+\d_id mencintai, mengasihi
+\dt 20/Mar/2024
+
+\lx sampoeloe opat
+\ID_en 1306
+\ps number
+\de fourteen
+\d_id empat belas
+\dt 21/Mar/2024
+
+\lx sia poeloe
+\ID_en 1322
+\ps number
+\de ninety
+\d_id sembilan puluh
+\dt 21/Mar/2024
+
+\lx sia
+\ID_en 1301
+\ps number
+\de nine
+\d_id sembilan
+\dt 21/Mar/2024
+
+\lx holom, golap
+\ID_en 1403
+\ps Adjective
+\de dark
+\d_id gelap
+\dt 21/Mar/2024
+
+\lx manogat
+\ID_en 1424
+\ps Noun
+\de morning
+\d_id pagi hari
+\dt 21/Mar/2024
+
+\lx adong
+\ID_en 1342
+\ps Adjective
+\de there are
+\d_id ada
+\dt 21/Mar/2024
+
+\lx ro sian dia ho?
+\ID_en 1499
+\de where have you been?
+\d_id engkau dari mana?
+\dt 12/Apr/2024
+
+\lx boi
+\ID_en 1208
+\ps Verb
+\de to be able to
+\d_id dapat, sanggup
+\dt 20/Mar/2024
+
+\lx paet
+\ID_en 1163
+\ps Adjective
+\de bitter
+\d_id pahit
+\dt 20/Mar/2024
+
+\lx sian-sahat rodi
+\ID_en 1443
+\ps Preposition
+\de from-to (time)
+\d_id dari-hingga (waktu)
+\dt 21/Mar/2024
+
+\lx mambege
+\ID_en 1227
+\ps Verb
+\de to hear
+\d_id mendengar
+\dt 20/Mar/2024
+
+\lx aha pangidoanmoe
+\ID_en 1511
+\de what do you want
+\d_id engkau meminta apa?
+\dt 12/Apr/2024
+
+\lx ahangkoe
+\ID_en 1369
+\nt <35>
+\ps Pronoun
+\de my (sing.)
+\d_id kata ganti empunya orang ke I tunggal
+\dt 21/Mar/2024
+
+\lx rata-rata
+\ID_en 1173
+\ps Adjective
+\de green
+\d_id hijau
+\dt 20/Mar/2024
+
+\lx patoloehalihon
+\ID_en 1335
+\ps Adjective
+\de third (in time)
+\d_id ketiga kali
+\dt 21/Mar/2024
+
+\lx saotik nan
+\ID_en 1478
+\ps Adverb
+\de almost
+\d_id hampir
+\dt 21/Mar/2024
+
+\lx nangkin, nangkiningan
+\ID_en 1416
+\ps Adverb
+\de a moment ago
+\d_id tadi
+\dt 21/Mar/2024
+
+\lx mamorso
+\ID_en 1198
+\ps Verb
+\de to deny
+\d_id menyangkal
+\dt 20/Mar/2024
+
+\lx aha disoengkoen ho?
+\ID_en 1510
+\de what did you ask?
+\d_id engkau bertanya apa?
+\dt 12/Apr/2024
+
+\lx manoerboe
+\ID_en 1276
+\ps Verb
+\de to burn (tr.)
+\d_id membakar (tr.)
+\dt 20/Mar/2024
+
+\lx pitoe
+\ID_en 1299
+\ps number
+\de seven
+\d_id tujuh
+\dt 21/Mar/2024
+
+\lx noenga masak
+\ID_en 1506
+\de it is done
+\d_id sudah masak ; sudah matang
+\dt 12/Apr/2024
+
+\lx dison
+\ID_en 1388
+\ps Adverb
+\de here
+\d_id di sini
+\dt 21/Mar/2024
+
+\lx bontar
+\ID_en 1167
+\ps Adjective
+\de white
+\d_id putih
+\dt 20/Mar/2024
+
+\lx lima
+\ID_en 1297
+\ps number
+\de five
+\d_id lima
+\dt 21/Mar/2024
+
+\lx didio
+\ID_en 1460
+\ps Adverb
+\de where
+\d_id di mana
+\dt 21/Mar/2024
+
+\lx mamotong
+\ID_en 1247
+\ps Verb
+\de to cut off
+\d_id memotong
+\dt 20/Mar/2024
+
+\lx ahana
+\ID_en 1373/1374
+\ps Pronoun
+\de your
+\d_id kata ganti empunya orang ke II
+\dt 21/Mar/2024
+
+\lx mamereng
+\ID_en 1228
+\ps Verb
+\de to see
+\d_id melihat
+\dt 20/Mar/2024
+
+\lx na
+\ID_en 1391
+\ps Pronoun
+\de which, who, that
+\d_id yang
+\dt 21/Mar/2024
+
+\lx mamboan, manaroehon
+\ID_en 1183
+\ps Verb
+\de to bring
+\d_id membawa serta
+\dt 20/Mar/2024
+
+\lx ndang
+\ID_en 1474
+\ps Adjective
+\de not, no
+\d_id bukan
+\dt 21/Mar/2024
+
+\lx sampoeloe
+\ID_en 1302
+\ps number
+\de ten
+\d_id sepuluh
+\dt 21/Mar/2024
+
+\lx ndang olo ahoe
+\ID_en 1488
+\de I do not want to
+\d_id saya tak mau
+\dt 12/Apr/2024
+
+\lx soeman
+\ID_en 1353
+\ps Adjective
+\de alike, similar
+\d_id mirip, sama
+\dt 21/Mar/2024
+
+\lx taon
+\ID_en 1406
+\ps Noun
+\de year
+\d_id tahun
+\dt 21/Mar/2024
+
+\lx manang sadia, manang piga
+\ID_en 1355
+\ps Noun
+\de only, some
+\d_id satu-satunya, beberapa
+\dt 21/Mar/2024
+
+\lx olor
+\ID_en 1243
+\ps Verb
+\de to want
+\d_id hendak
+\dt 20/Mar/2024
+
+\lx ndang mate dope ibana
+\ID_en 1503
+\de he is not dead yet
+\d_id dia belum mati
+\dt 12/Apr/2024
+
+\lx tonggi
+\ID_en 1161
+\ps Adjective
+\de sweet
+\d_id manis
+\dt 20/Mar/2024
+
+\lx marningot
+\ID_en 1196
+\ps Verb
+\de to remember
+\d_id mengingat, mengenang
+\dt 20/Mar/2024
+
+\lx nantoari sada
+\ID_en 1419
+\ps Adverb
+\de the day before yesterday
+\d_id kemarin dulu
+\dt 21/Mar/2024
+
+\lx hona
+\ID_en 1252
+\ps Verb
+\de hit, touched
+\d_id kena
+\dt 20/Mar/2024
+
+\lx noenga
+\ID_en 1428
+\ps Adverb
+\de already
+\d_id sudah
+\dt 21/Mar/2024
+
+\lx mangalap
+\ID_en 1180
+\de to get
+\d_id pergi mengambil
+\dt 20/Mar/2024
+
+\lx marsoeap
+\ID_en 1191
+\ps Verb
+\de to wash (face)
+\d_id mencuci (muka)
+\dt 20/Mar/2024
+
+\lx mangido
+\ID_en 1269
+\ps Verb
+\de to ask for
+\d_id meminta
+\dt 20/Mar/2024
+
+\lx sahat toeson
+\ID_en 1285
+\ps Verb
+\de to be coming
+\d_id datang kemari
+\dt 20/Mar/2024
+
+\lx dibagosan
+\ID_en 1457
+\ps Noun
+\de inside, within
+\d_id di dalam
+\dt 21/Mar/2024
+
+\lx galak
+\ID_en 1277
+\ps Verb
+\de to burn (intr.)
+\d_id sedang terbakar (intr.)
+\dt 20/Mar/2024
+
+\lx postima
+\ID_en 1434
+\ps Noun
+\de west
+\d_id barat
+\dt 21/Mar/2024
+
+\lx manaparhon
+\ID_en 1255
+\ps Verb
+\de to shatter
+\d_id memecahkan
+\dt 20/Mar/2024
+
+\lx hoemaliang
+\ID_en 1454
+\ps Adverb
+\de around, surrounding
+\d_id se-kellling
+\dt 21/Mar/2024
+
+\lx ibana
+\ID_en 1363
+\ps Pronoun
+\de he
+\d_id ia, kata ganti orang ke III tunggal (laki-laki)
+\dt 21/Mar/2024
+
+\lx toe toroe, haroear
+\ID_en 1456
+\nt <40>
+\ps Verb
+\de to go outside
+\d_id (pergi) ke luar
+\dt 21/Mar/2024
+
+\lx sampoeloe ari nari oso borhat hami
+\ID_en 1520
+\de we will not leave for another ten days
+\d_id sepuluh hari lagi baru kami berangkat
+\dt 12/Apr/2024
+
+\lx mambolongkon
+\ID_en 1274
+\ps Verb
+\de to throw away
+\d_id membuang
+\dt 20/Mar/2024
+
+\lx di
+\ID_en 1450
+\ps Preposition
+\de in, inside
+\d_id di (dalam)
+\dt 21/Mar/2024
+
+\lx marende
+\ID_en 1203
+\ps Verb
+\de to sing
+\d_id bernyanyi
+\dt 20/Mar/2024
+
+\lx noenga rade sepanganon
+\ID_en 1507
+\de the food is ready
+\d_id makanan sudah siap
+\dt 12/Apr/2024
+
+\lx onom
+\ID_en 1298
+\ps number
+\de six
+\d_id enam
+\dt 21/Mar/2024
+
+\lx mandjoea
+\ID_en 1270
+\ps Verb
+\de to refuse
+\d_id menolak
+\dt 20/Mar/2024
+
+\lx marpangir
+\ID_en 1192
+\ps Verb
+\de to wash (hair)
+\d_id mencuci (rambut)
+\dt 20/Mar/2024
+
+\lx paoelihon
+\ID_en 1188
+\ps Verb
+\de to prepare, to make ready
+\d_id menyediakan, menyiapkan
+\dt 20/Mar/2024
+
+\lx manoehoek
+\ID_en 1211
+\ps Verb
+\de to shoulder
+\d_id memikul
+\dt 20/Mar/2024
+
+\lx oembolosa
+\ID_en 1195
+\ps Verb
+\de to know
+\d_id tahu, mengetahui
+\dt 20/Mar/2024
+
+\lx simata dia do di ahoe?
+\ID_en 1519
+\de which beads are for me?
+\d_id manik-manik manakah yang untuk saya?
+\dt 12/Apr/2024
+
+\lx toloe poeloe
+\ID_en 1316
+\ps number
+\de thirty
+\d_id tiga puluh
+\dt 21/Mar/2024
+
+\lx padjoempang
+\ID_en 1287
+\ps Verb
+\de to meet
+\d_id berjumpa dengan
+\dt 20/Mar/2024
+
+\lx ndang
+\ID_en 1475
+\ps Noun
+\de not, no
+\d_id jangan
+\dt 21/Mar/2024
+
+\lx mamboan
+\ID_en 1182
+\ps Verb
+\de to take along
+\d_id membawa pergi
+\dt 20/Mar/2024
+
+\lx boasa
+\ID_en 1465
+\ps Pronoun
+\de why
+\d_id mengapa
+\dt 21/Mar/2024
+
+\lx ro toeson, hatopǃ
+\ID_en 1487
+\de come, quickly!
+\d_id kemari, lekas!
+\dt 12/Apr/2024
+
+\lx doeng i
+\ID_en 1469
+\ps Noun
+\de and
+\d_id dan
+\dt 21/Mar/2024
+
+\lx mangalandja
+\ID_en 1219
+\ps Verb
+\de to carry
+\d_id menggotong, mengusung
+\dt 20/Mar/2024
+
+\lx djolo maridi dope ahoe
+\ID_en 1508
+\de I am going to bathe first
+\d_id saya pergi mandi dahulu
+\dt 12/Apr/2024
+
+\lx ninna ibana si anoe noenga borhat.
+\ID_en 1521
+\de he says that Mr X has gone
+\d_id katanya si Anu sudah berangkat
+\dt 12/Apr/2024
+
+\lx ponggol
+\ID_en 1256
+\ps Adjective
+\de broken (a stick)
+\d_id patah (tongkat)
+\dt 20/Mar/2024
+
+\lx manoerdoengkon
+\ID_en 1177
+\ps Verb
+\de to hand, to pass
+\d_id menyampaikan
+\dt 20/Mar/2024
+
+\lx songon an
+\ID_en 1464
+\ps Adverb
+\de like that
+\d_id begitu
+\dt 21/Mar/2024
+
+\lx mandanggoerhon, mangareongkon
+\ID_en 1275
+\ps Verb
+\de to throw
+\d_id melempar, melontar
+\dt 20/Mar/2024
+
+\lx martaboeni
+\ID_en 1266
+\ps Verb
+\de to hide
+\d_id bersembunyi
+\dt 20/Mar/2024
+
+\lx nandigan
+\ID_en 1427
+\ps Adverb
+\de when
+\d_id kapan, bilamana
+\dt 21/Mar/2024
+
+\lx lobi
+\ID_en 1347
+\ps Adjective
+\de more
+\d_id lebih
+\dt 21/Mar/2024
+
+\lx olo
+\ID_en 1472
+\ps Noun
+\de yes
+\d_id ya
+\dt 21/Mar/2024
+
+\lx mangkatai
+\ID_en 1202
+\ps Verb
+\de to speak
+\d_id berbicara
+\dt 20/Mar/2024
+
+\lx borngin
+\ID_en 1401
+\ps Noun
+\de night (darkness)
+\d_id malam
+\dt 21/Mar/2024
+
+\lx mamonggolhon, manoeangkon
+\ID_en 1253
+\ps Verb
+\de to break (a stick)
+\d_id mematahkan (tongkat)
+\dt 20/Mar/2024
+
+\lx siamoen
+\ID_en 1436
+\ps Adjective
+\de right
+\d_id kanan
+\dt 21/Mar/2024
+
+\lx manaboenihon
+\ID_en 1265
+\ps Verb
+\de to hide (something to hide)
+\d_id menyembunyikan (sesuatu)
+\dt 20/Mar/2024
+
+\lx doea
+\ID_en 1294
+\ps number
+\de two
+\d_id dua
+\dt 21/Mar/2024
+
+\lx na balaoe
+\ID_en 1172
+\ps Adjective
+\de blue
+\d_id biru
+\dt 20/Mar/2024
+
+\lx padjoempang
+\ID_en 1288
+\ps Verb
+\de to meet one another
+\d_id saling berjumpa
+\dt 20/Mar/2024
+
+\lx ahanasida
+\ID_en 1375/1376
+\nt <38>
+\ps Pronoun
+\de their
+\d_id kata ganti empunya orang ke III jamak
+\dt 21/Mar/2024
+
+\lx manambai
+\ID_en 1248
+\ps Verb
+\de to multiply, to add, to increase
+\d_id mengalikan, menambah, memperbanyak
+\dt 20/Mar/2024
+
+\lx sampoeloe oealoe
+\ID_en 1310
+\ps number
+\de eighteen
+\d_id delapan belas
+\dt 21/Mar/2024
+
+\lx satongkin
+\ID_en 1417
+\ps Adverb
+\de a moment
+\d_id seketika, sebentar
+\dt 21/Mar/2024
+
+\lx aha
+\ID_en 1380
+\ps Pronoun
+\de what?
+\d_id apa
+\dt 21/Mar/2024
+
+\lx ndang olo ibano
+\ID_en 1489
+\de he does not want to
+\d_id dia tidak mau
+\dt 12/Apr/2024
+
+\lx noenga hoeboto
+\ID_en 1496
+\de I already know that
+\d_id saya sudah tahu
+\dt 12/Apr/2024
+
+\lx mangkoent
+\ID_en 1212
+\ps Verb
+\de to carry on the head
+\d_id menjunjung (di atas kepala)
+\dt 20/Mar/2024
+
+\lx gotap
+\ID_en 1257
+\ps Adjective
+\de broken (rope)
+\d_id putus (tali)
+\dt 20/Mar/2024
+
+\lx sampoeloe toloe
+\ID_en 1305
+\ps number
+\de thirteen
+\d_id tiga belas
+\dt 21/Mar/2024
+
+\lx ndang adong be
+\ID_en 1346
+\ps Adjective
+\de there is nothing left
+\d_id tidak ada apa-apa lagi
+\dt 21/Mar/2024
+
+\lx sampoeloe onom
+\ID_en 1308
+\ps number
+\de sixteen
+\d_id enam belas
+\dt 21/Mar/2024
+
+\lx ra
+\ID_en 1467
+\ps Adverb
+\de maybe
+\d_id barangkali
+\dt 21/Mar/2024
+
+\lx tioer
+\ID_en 1398
+\ps Noun
+\de light
+\d_id sinar
+\dt 21/Mar/2024
+
+\lx parpodi
+\ID_en 1336/1337
+\ps Adjective
+\de the last
+\d_id yang terakhir
+\dt 21/Mar/2024
+
+\lx udong dope
+\ID_en 1429
+\de not yet
+\d_id belum
+\dt 21/Mar/2024
+
+\lx hoerang, moroe
+\ID_en 1349
+\ps Adjective
+\de less
+\d_id kurang
+\dt 21/Mar/2024
+
+\lx mambahen
+\ID_en 1187
+\ps Verb
+\de to make, to do
+\d_id membuat
+\dt 20/Mar/2024

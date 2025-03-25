@@ -1,0 +1,2413 @@
+
+\lx làklàk, làmpàk
+\ID_en 748
+\ps Noun
+\de bark
+\d_id kulit kayu
+\dt 27/Mar/2024
+
+\lx bàlbaoel talī
+\ID_en 606
+\ps Noun
+\de bag (made from rope)
+\d_id tas (dari tali)
+\dt 28/Mar/2024
+
+\lx goelō
+\ID_en 701
+\ps Noun
+\de sugar
+\d_id gula
+\dt 25/Mar/2024
+
+\lx oedon tombaga
+\ID_en 495
+\ps Noun
+\de rice kettle (copper)
+\d_id dandang
+\dt 27/Apr/2024
+
+\lx bowàl
+\ID_en 535
+\ps Noun
+\de provisions
+\d_id bekal
+\dt 25/Apr/2024
+
+\lx dorpī
+\ID_en 458
+\ps Noun
+\de wall (plank wall)
+\d_id dinding (papan)
+\dt 25/Apr/2024
+
+\lx sontàng
+\ID_en 726
+\ps Noun
+\de uncaria gambir
+\d_id gambir
+\dt 25/Mar/2024
+
+\lx soda
+\ID_en 728
+\nt <23>
+\ps Noun
+\de lime
+\d_id kapur
+\dt 28/Mar/2024
+
+\lx patoemanama
+\ID_en 1330/1331
+\ps Noun
+\de the first
+\d_id pertama
+\dt 28/Apr/2024
+
+\lx aoet nī pagoe
+\ID_en 462
+\ps Noun
+\de ceiling beams
+\d_id langit-langit rumah, tutup jenang
+\dt 28/Mar/2024
+
+\lx gadoe batangī
+\ID_en 656
+\ps Noun
+\de small dike in rice-field
+\d_id pematang
+\dt 25/Apr/2024
+
+\lx dèngdèng
+\ID_en 540
+\ps Noun
+\de dried meat
+\d_id dengdeng
+\dt 25/Apr/2024
+
+\lx līma poeloe
+\ID_en 1318
+\ps Noun
+\de fifty
+\d_id lima puluh
+\dt 25/Apr/2024
+
+\lx màrmakō
+\ID_en 597
+\ps Noun
+\de loom (weft)
+\d_id pakan
+\dt 27/Apr/2024
+
+\lx alaī
+\ID_en 1367/1368
+\ps Pronoun
+\de she
+\d_id dia
+\dt 28/Mar/2024
+
+\lx màrpoejoe
+\ID_en 601
+\ps Verb
+\de to twine a rope
+\d_id memintal tali
+\dt 27/Apr/2024
+
+\lx timbakō
+\ID_en 681
+\ps Noun
+\de tobacco
+\d_id tembakau
+\dt 27/Apr/2024
+
+\lx amī
+\ID_en 1366
+\ps Pronoun
+\de we (exclusive)
+\d_id kami (kata ganti orang ke II jamak)
+\dt 28/Mar/2024
+
+\lx lōsoeng
+\ID_en 550
+\ps Noun
+\de rice pounder, mortar
+\d_id lesung
+\dt 25/Apr/2024
+
+\lx masàk, malamoen
+\ID_en 668
+\ps Adjective
+\de ripe
+\d_id masak, matang
+\dt 27/Apr/2024
+
+\lx ho
+\ID_en 1359
+\ps Pronoun
+\de you (sing.)
+\d_id kamu, engkau
+\dt 28/Mar/2024
+
+\lx soekō
+\ID_en 698
+\ps Noun
+\de palm wine (fermented)
+\d_id tuak
+\dt 27/Apr/2024
+
+\lx amonangàn
+\ID_en 635
+\ps Noun
+\de victory
+\d_id kemenangan
+\dt 28/Mar/2024
+
+\lx pira
+\ID_en 790
+\ps Noun
+\de egg
+\d_id telur
+\dt 28/Mar/2024
+
+\lx asàr
+\ID_en 789
+\ps Noun
+\de nest
+\d_id sarang
+\dt 27/Mar/2024
+
+\lx poeseok
+\ID_en 702
+\ps Noun
+\de nipa palm
+\d_id pohon nipah
+\dt 25/Mar/2024
+
+\lx ōpat bōlas
+\ID_en 1306
+\ps Noun
+\de fourteen
+\d_id empat belas
+\dt 25/Apr/2024
+
+\lx toewàk
+\ID_en 699
+\ps Noun
+\de palmwine
+\d_id tuak
+\dt 27/Apr/2024
+
+\lx bahat
+\ID_en 1339
+\ps Adjective
+\de many, much
+\d_id banyak
+\dt 27/Mar/2024
+
+\lx amoe
+\ID_en 1361
+\ps Pronoun
+\de you all (excluding those absent)
+\d_id kamu sekalian (tidak termasuk yang tidak hadir)
+\dt 28/Mar/2024
+
+\lx sīpangoehoem, paroehoem
+\ID_en 402
+\ps Noun
+\de judge
+\d_id hakim
+\dt 27/Apr/2024
+
+\lx pondīng
+\ID_en 578
+\ps Noun
+\de metal waist band
+\d_id ikat pinggang dari logam
+\dt 27/Apr/2024
+
+\lx sīmoentoe
+\ID_en 418
+\ps Noun
+\de mask
+\d_id topeng
+\dt 27/Apr/2024
+
+\lx oedon
+\ID_en 495/496
+\ps Noun
+\de rice kettle
+\d_id ketel beras
+\dt 28/Mar/2024
+
+\lx gōloek
+\ID_en 505
+\nt <18>
+\ps Noun
+\de knife
+\d_id pisau
+\dt 25/Apr/2024
+
+\lx laboe
+\ID_en 685
+\ps Noun
+\de gourd
+\d_id labu kendi
+\dt 25/Apr/2024
+
+\lx ladàng
+\ID_en 654/655
+\ps Noun
+\de rice field
+\d_id sawah
+\dt 28/Mar/2024
+
+\lx salaso
+\ID_en 1325
+\ps Noun
+\de ten thousand
+\d_id sepuluh ribu
+\dt 25/Apr/2024
+
+\lx mangomboes apī
+\ID_en 477
+\ps Verb
+\de to make a fire
+\d_id memasang api
+\dt 25/Apr/2024
+
+\lx partaon nī hoeta
+\ID_en 631
+\ps Noun
+\de fortification
+\d_id benteng (pertahanan)
+\dt 27/Apr/2024
+
+\lx màrdahàn
+\ID_en 525-527
+\ps Verb
+\de to cook
+\d_id memasak
+\dt 27/Apr/2024
+
+\lx pōràng
+\ID_en 626
+\ps Noun
+\de war
+\d_id perang
+\dt 27/Apr/2024
+
+\lx katjang
+\ID_en 678
+\ps Noun
+\de bean
+\d_id kacang
+\dt 25/Apr/2024
+
+\lx galōga
+\ID_en 773
+\ps Noun
+\de Saccharum spontaneum
+\d_id gelagah
+\dt 28/Mar/2024
+
+\lx soerī
+\ID_en 594
+\ps Noun
+\de loom (meed)
+\d_id sisir tenun
+\dt 27/Apr/2024
+
+\lx goelaèn
+\ID_en 536
+\ps Noun
+\de side-dish
+\d_id lauk-pauk
+\dt 25/Apr/2024
+
+\lx oewalī
+\ID_en 493
+\ps Noun
+\de pot (iron)
+\d_id kuali (besi), panci (besi)
+\dt 27/Apr/2024
+
+\lx masīoe
+\ID_en 621
+\ps Noun
+\de gun powder
+\d_id obat bedil
+\dt 27/Apr/2024
+
+\lx àmpīl
+\ID_en 605
+\ps Noun
+\de bag (woven bag)
+\d_id tas (dari bahan tenun)
+\dt 14/Mar/2024
+
+\lx doewa poeloe sada
+\ID_en 1313
+\ps Noun
+\de twenty one
+\d_id dua puluh satu
+\dt 25/Apr/2024
+
+\lx tījàng
+\ID_en 461
+\ps Noun
+\de main posts
+\d_id tiang rumah
+\dt 27/Apr/2024
+
+\lx sanōlī
+\ID_en 1328
+\ps Adverb
+\de once
+\d_id sekali
+\dt 28/Mar/2024
+
+\lx saraor
+\ID_en 567
+\ps Noun
+\de trousers
+\d_id celana
+\dt 27/Apr/2024
+
+\lx ōnōm bōlas
+\ID_en 1308
+\ps Noun
+\de sixteen
+\d_id enam belas
+\dt 25/Apr/2024
+
+\lx nàngkàt
+\ID_en 615
+\ps Noun
+\de arrow
+\d_id anak panah
+\dt 27/Apr/2024
+
+\lx parapī
+\ID_en 473
+\ps Noun
+\de rack above the fireplace
+\d_id para-para
+\dt 27/Apr/2024
+
+\lx djom
+\ID_en 1399
+\ps Noun
+\de hour
+\d_id jam
+\dt 27/Mar/2024
+
+\lx taroep padàng
+\ID_en 441
+\ps Noun
+\de roofing: thatch
+\d_id atap
+\dt 27/Apr/2024
+
+\lx solpa
+\ID_en 616
+\ps Noun
+\de quiver
+\d_id tempat anak panah
+\dt 27/Apr/2024
+
+\lx ījàn
+\ID_en 541
+\ps Noun
+\de fish
+\d_id ikan
+\dt 14/Mar/2024
+
+\lx marījàm
+\ID_en 628
+\ps Noun
+\de cannon
+\d_id meriam
+\dt 27/Apr/2024
+
+\lx panaīt soeloe
+\ID_en 485
+\ps Verb
+\de to put on (light)
+\d_id menyalakan (sinar)
+\dt 27/Apr/2024
+
+\lx bīnatàng
+\ID_en 774
+\ps Noun
+\de animal, beast
+\d_id binatang
+\dt 27/Mar/2024
+
+\lx talī nī panàh
+\ID_en 614
+\ps Noun
+\de bowstring
+\d_id tali busur
+\dt 27/Apr/2024
+
+\lx bàngkoe
+\ID_en 489
+\ps Noun
+\de bench, seat
+\d_id bangku untuk duduk
+\dt 28/Mar/2024
+
+\lx pamaraī
+\ID_en 727
+\ps Noun
+\de morinda atrocarpus
+\d_id mangkudu
+\dt 25/Mar/2024
+
+\lx ōtōm
+\ID_en 651
+\ps Noun
+\de knife for cutting rice plant
+\d_id ani-ani
+\dt 14/Mar/2024
+
+\lx īja poena
+\ID_en 1378
+\ps Pronoun
+\de his
+\d_id kata ganti empunya orang ke III tunggal (laki-laki)
+\dt 28/Mar/2024
+
+\lx boeboer
+\ID_en 561
+\ps Noun
+\de porridge
+\d_id bubur
+\dt 28/Mar/2024
+
+\lx kanoenèng
+\ID_en 423
+\ps Noun
+\de xylophone
+\d_id gambang
+\dt 25/Apr/2024
+
+\lx sàngkīr
+\ID_en 498
+\ps Noun
+\de cup
+\d_id cangkir
+\dt 27/Apr/2024
+
+\lx tarpoedī
+\ID_en 1393
+\ps Adjective
+\de late
+\d_id terlambat
+\dt 28/Mar/2024
+
+\lx taroep kajoe
+\ID_en 443/444
+\ps Noun
+\de roofing: wood
+\d_id atap: sirap (kayu)
+\dt 27/Apr/2024
+
+\lx otàng
+\ID_en 731
+\ps Noun
+\de rattan, cane
+\d_id rotan
+\dt 25/Mar/2024
+
+\lx màrpōràng
+\ID_en 625
+\ps Verb
+\de to wage war
+\d_id berperang
+\dt 27/Apr/2024
+
+\lx īndaloe
+\ID_en 551
+\ps Noun
+\de pounder
+\d_id alu
+\dt 14/Mar/2024
+
+\lx īta
+\ID_en 1365
+\ps Pronoun
+\de we (inclusive)
+\d_id kita (kata ganti orang ke II jamak)
+\dt 28/Mar/2024
+
+\lx màrkarosoewàn
+\ID_en 415
+\ps Verb
+\de to commit adultery
+\d_id berzinah
+\dt 27/Apr/2024
+
+\lx màmbombom
+\ID_en 529
+\ps Verb
+\de to roast (in ashes)
+\d_id bembam
+\dt 25/Apr/2024
+
+\lx salèndāng
+\ID_en 586
+\ps Noun
+\de shawl
+\d_id selendang
+\dt 27/Apr/2024
+
+\lx kōpī
+\ID_en 723
+\ps Noun
+\de coffee
+\d_id kopi
+\dt 25/Mar/2024
+
+\lx pamōnàngkon
+\ID_en 634
+\ps Verb
+\de to surrender
+\d_id menyerah
+\dt 27/Apr/2024
+
+\lx na targade
+\ID_en 403
+\ps Noun
+\de credit bondsman
+\d_id orang tergadai
+\dt 27/Apr/2024
+
+\lx soeroewàn
+\ID_en 637
+\ps Noun
+\de delegate
+\d_id utusan
+\dt 27/Apr/2024
+
+\lx torondoek
+\ID_en 514
+\nt <20>
+\ps Noun
+\de basket (all sorts of)
+\d_id keranjang (bermacam-macam)
+\dt 27/Apr/2024
+
+\lx oedon tanō
+\ID_en 496
+\ps Noun
+\de rice kettle (earthenware)
+\d_id kundia
+\dt 27/Apr/2024
+
+\lx saksī
+\ID_en 401
+\ps Verb
+\de witness
+\d_id saksi
+\dt 27/Apr/2024
+
+\lx pōdōmàn
+\ID_en 463
+\ps Noun
+\de bed
+\d_id tempat tidur
+\dt 27/Apr/2024
+
+\lx tatarīng
+\ID_en 474
+\ps Noun
+\de hearth, fireplace
+\d_id dapur, tungku
+\dt 27/Apr/2024
+
+\lx kàndoerī
+\ID_en 404
+\ps Noun
+\de funeral ceremony
+\d_id upacara kematian, pemakaman
+\dt 25/Apr/2024
+
+\lx abīt
+\ID_en 589
+\ps Noun
+\de cotton fabric (local, European)
+\d_id tenunan kapas (asli, Eropa)
+\dt 28/Mar/2024
+
+\lx padoewana
+\ID_en 1332/1333
+\ps Noun
+\de the second
+\d_id kedua
+\dt 28/Apr/2024
+
+\lx sīràng
+\ID_en 410
+\ps Verb
+\de to divorce
+\d_id bercerai
+\dt 27/Apr/2024
+
+\lx djaoeng
+\ID_en 674
+\ps Noun
+\de maize, corn
+\d_id jagung
+\dt 25/Apr/2024
+
+\lx djoehoet na mata
+\ID_en 539
+\ps Noun
+\de meat (raw)
+\d_id daging (mentah)
+\dt 25/Apr/2024
+
+\lx dàngka
+\ID_en 739/740
+\ps Noun
+\de branch
+\d_id cabang
+\dt 27/Mar/2024
+
+\lx saboek
+\ID_en 588
+\ps Noun
+\de loin cloth
+\d_id cawat
+\dt 27/Apr/2024
+
+\lx ari sapōken
+\ID_en 1396
+\ps Adverb
+\de the day of the week
+\d_id hari-hari dalam satu minggu
+\dt 28/Apr/2024
+
+\lx sadīja
+\ID_en 1338
+\ps Adverb
+\de how much, how many
+\d_id berapa
+\dt 28/Apr/2024
+
+\lx taroep
+\ID_en 439
+\ps Noun
+\de roof
+\d_id atap
+\dt 27/Apr/2024
+
+\lx soerto
+\ID_en 590
+\ps Noun
+\de silk
+\d_id sutera
+\dt 27/Apr/2024
+
+\lx pinggān
+\ID_en 497
+\ps Noun
+\de dish
+\d_id piring
+\dt 27/Apr/2024
+
+\lx bejō
+\ID_en 640
+\ps Noun
+\de tax
+\d_id pajak
+\dt 28/Mar/2024
+
+\lx salapàn bōlas
+\ID_en 1310
+\ps Noun
+\de eighteen
+\d_id delapan belas
+\dt 25/Apr/2024
+
+\lx soeloe
+\ID_en 517
+\ps Noun
+\de torch
+\d_id suluh
+\dt 27/Apr/2024
+
+\lx tàmpàng
+\ID_en 664
+\ps Noun
+\de seed
+\d_id benih
+\dt 27/Apr/2024
+
+\lx tōloe bōlas
+\ID_en 1305
+\ps Noun
+\de thirteen
+\d_id tiga belas
+\dt 25/Apr/2024
+
+\lx doewa poeloe
+\ID_en 1312
+\ps Noun
+\de twenty
+\d_id dua puluh
+\dt 25/Apr/2024
+
+\lx oedon
+\ID_en 522
+\ps Noun
+\de pot, jar
+\d_id periuk
+\dt 28/Mar/2024
+
+\lx manjale
+\ID_en 530
+\ps Verb
+\de to grill, to roast
+\d_id panggang
+\dt 25/Apr/2024
+
+\lx sondoek
+\ID_en 510
+\ps Noun
+\de spoon
+\d_id sendok
+\dt 27/Apr/2024
+
+\lx aer manīs
+\ID_en 700
+\ps Noun
+\de syrup
+\d_id seterup
+\dt 28/Mar/2024
+
+\lx ho poena
+\ID_en 1373
+\ps Pronoun
+\de your (sing.)
+\d_id kata ganti empunya orang ke II tunggal
+\dt 28/Mar/2024
+
+\lx pōdang
+\ID_en 608
+\ps Noun
+\de sabre
+\d_id parang, kelewang
+\dt 27/Apr/2024
+
+\lx dīngdīng
+\ID_en 458/459
+\ps Noun
+\de wall
+\d_id dinding
+\dt 28/Mar/2024
+
+\lx Katjang
+\ID_en 677
+\ps Noun
+\de beans
+\d_id kacang-kacangan
+\dt 14/Mar/2024
+
+\lx dōhoek dōhoek
+\ID_en 797
+\ps Verb
+\de to grunt
+\d_id menggeram
+\dt 27/Mar/2024
+
+\lx sagoe
+\ID_en 704
+\ps Noun
+\de sago
+\d_id sagu
+\dt 25/Mar/2024
+
+\lx mànggōreng
+\ID_en 528
+\ps Verb
+\de to bake, to grill, to fry
+\d_id membakar, panggang menggoreng (dengan minyak)
+\dt 25/Apr/2024
+
+\lx sapoken
+\ID_en 1395
+\ps Noun
+\de week
+\d_id minggu
+\dt 28/Mar/2024
+
+\lx pītoe bōlas
+\ID_en 1309
+\ps Noun
+\de seventeen
+\d_id tujuh belas
+\dt 25/Apr/2024
+
+\lx amàk pōdōmàn
+\ID_en 468
+\ps Noun
+\de sleeping mat
+\d_id tikar
+\dt 28/Mar/2024
+
+\lx rōpanō
+\ID_en 422
+\ps Noun
+\de tambourine
+\d_id tambur
+\dt 27/Apr/2024
+
+\lx parsidoenganna
+\ID_en 1336/1337
+\ps Adjective
+\de the last
+\d_id yang terakhir
+\dt 25/Apr/2024
+
+\lx sīmarata
+\ID_en 537
+\ps Noun
+\de vegetables
+\d_id sayuran
+\dt 27/Apr/2024
+
+\lx batàng nī lontàr
+\ID_en 696
+\ps Noun
+\de lontar tree
+\d_id pohon lontar
+\dt 28/Mar/2024
+
+\lx njīrō
+\ID_en 697/698
+\ps Adjective
+\de empty
+\d_id kosong
+\dt 28/Mar/2024
+
+\lx sōpō eme
+\ID_en 549
+\ps Noun
+\de rice barn
+\d_id lumbung beras, lumbung padi
+\dt 27/Apr/2024
+
+\lx amī poena
+\ID_en 1370
+\ps Pronoun
+\de my (pl.)
+\d_id kata ganti empunya orang ke I jamak
+\dt 28/Mar/2024
+
+\lx panàh
+\ID_en 613
+\ps Noun
+\de bow
+\d_id busur
+\dt 27/Apr/2024
+
+\lx pīnīng
+\ID_en 752
+\ps Noun
+\de areca catechu LINN
+\d_id pinang
+\dt 28/Mar/2024
+
+\lx sapoeloe
+\ID_en 1302
+\ps Noun
+\de ten
+\d_id sepuluh
+\dt 25/Apr/2024
+
+\lx bodīl
+\ID_en 620
+\ps Noun
+\de rifle
+\d_id bedil (senapan)
+\dt 28/Mar/2024
+
+\lx parsombahàn ; sora
+\ID_en 639
+\ps Noun
+\de tribute
+\d_id upeti, bakti
+\dt 27/Apr/2024
+
+\lx ōnom poeloe
+\ID_en 1319
+\ps Noun
+\de sixty
+\d_id enam puluh
+\dt 25/Apr/2024
+
+\lx goembàng
+\ID_en 524
+\ps Noun
+\de earthen water barrel
+\d_id tempayan
+\dt 25/Apr/2024
+
+\lx toenàs
+\ID_en 757
+\ps Noun
+\de sprout
+\d_id tunas
+\dt 28/Mar/2024
+
+\lx manortor
+\ID_en 428
+\ps Verb
+\de to dance
+\d_id menari
+\dt 27/Apr/2024
+
+\lx pīntoe
+\ID_en 449
+\ps Noun
+\de door
+\d_id daun pintu
+\dt 27/Apr/2024
+
+\lx boerīr
+\ID_en 548
+\ps Noun
+\de ear of rice, corn
+\d_id bulir, mayang
+\dt 25/Apr/2024
+
+\lx parnel
+\ID_en 592
+\ps Noun
+\de flannel
+\d_id pelanel
+\dt 27/Apr/2024
+
+\lx doehoet doehoet
+\ID_en 771
+\ps Noun
+\de weeds
+\d_id rumput
+\dt 27/Mar/2024
+
+\lx dahanon
+\ID_en 544
+\ps Noun
+\de husked rice
+\d_id beras
+\dt 25/Apr/2024
+
+\lx dīgīndjàng
+\ID_en 1341
+\ps Adjective
+\de finished
+\d_id habis
+\dt 27/Mar/2024
+
+\lx batoe nī ajoe
+\ID_en 759
+\ps Noun
+\de fruit
+\d_id buah
+\dt 27/Mar/2024
+
+\lx sambīlàn bōlas
+\ID_en 1311
+\ps Noun
+\de nineteen
+\d_id sembilan belas
+\dt 25/Apr/2024
+
+\lx toràng
+\ID_en 1398
+\ps Noun
+\de light
+\d_id sinar
+\dt 28/Mar/2024
+
+\lx gōta
+\ID_en 751
+\ps Noun
+\de gum
+\d_id getah
+\dt 27/Mar/2024
+
+\lx apondjī
+\ID_en 706
+\ps Noun
+\de kapok
+\d_id kapuk
+\dt 25/Mar/2024
+
+\lx bīrī bīrī
+\ID_en 798
+\ps Noun
+\de sheep
+\d_id domba
+\dt 27/Mar/2024
+
+\lx ho
+\ID_en 1360
+\ps Pronoun
+\de you (pl.)
+\d_id kamu sekalian
+\dt 28/Mar/2024
+
+\lx àmpīl
+\ID_en 605/606
+\ps Noun
+\de bag or sack
+\d_id tas atau karung
+\dt 28/Mar/2024
+
+\lx badjoe bōla
+\ID_en 568
+\ps Noun
+\de kebaya
+\d_id kebaya
+\dt 28/Mar/2024
+
+\lx màmbajoe
+\ID_en 600
+\ps Verb
+\de to weave, to plait
+\d_id menganyam
+\dt 25/Apr/2024
+
+\lx boeloeng
+\ID_en 746
+\ps Noun
+\de leaf
+\d_id daun
+\dt 27/Mar/2024
+
+\lx rī
+\ID_en 772
+\ps Noun
+\de imperata cylindria (kunai grass)
+\d_id lalang
+\dt 28/Mar/2024
+
+\lx pardangàs
+\ID_en 416
+\ps Noun
+\de prostitute
+\d_id pelacur
+\dt 27/Apr/2024
+
+\lx taroema
+\ID_en 487
+\ps Noun
+\de space under the house
+\d_id kolong rumah
+\dt 27/Apr/2024
+
+\lx bàrgot
+\ID_en 695
+\ps Noun
+\de sugarpalm, aren tree
+\d_id pohon aren
+\dt 28/Mar/2024
+
+\lx sīsīlon
+\ID_en 781
+\ps Noun
+\de claw
+\d_id cakar
+\dt 28/Mar/2024
+
+\lx tadjàk
+\ID_en 648
+\ps Noun
+\de trowel (a small trowel)
+\d_id sekop (kecil)
+\dt 27/Apr/2024
+
+\lx eme
+\ID_en 546
+\ps Noun
+\de unhusked rice
+\d_id padi
+\dt 25/Apr/2024
+
+\lx manjaboer
+\ID_en 662/663
+\ps Verb
+\de sow
+\d_id tabur
+\dt 25/Apr/2024
+
+\lx mangīntopī
+\ID_en 478
+\ps Verb
+\de to extinguish (with water)
+\d_id memadamkan api (dengan air)
+\dt 25/Apr/2024
+
+\lx mījàk
+\ID_en 766
+\ps Noun
+\de oil
+\d_id minyak
+\dt 27/Mar/2024
+
+\lx saba
+\ID_en 654
+\ps Noun
+\de rice-field (wet, sawah)
+\d_id sawah
+\dt 27/Apr/2024
+
+\lx tàngga
+\ID_en 453
+\ps Noun
+\de staircase, steps
+\d_id tangga, anak tangga
+\dt 27/Apr/2024
+
+\lx manjōgot njōgot
+\ID_en 1392
+\sn 1
+\ps Adjective
+\de early
+\d_id pagi
+\sn 2
+\ps Adverb
+\de soon
+\d_id segera
+\dt 28/Mar/2024
+
+\lx gadoeng
+\ID_en 686
+\ps Noun
+\de species of tuber
+\d_id ubi (macam-macam ubi)
+\dt 25/Apr/2024
+
+\lx soerī
+\ID_en 573
+\ps Noun
+\de comb
+\d_id sisir
+\dt 27/Apr/2024
+
+\lx taroep
+\ID_en 441/442
+\ps Noun
+\de roofing
+\d_id atap
+\dt 27/Apr/2024
+
+\lx sàmbong
+\ID_en 501-503
+\ps Noun
+\de saucer (earthenware)
+\d_id pinggan
+\dt 27/Apr/2024
+
+\lx aoe
+\ID_en 1357
+\ps Pronoun
+\de i
+\d_id saya
+\dt 28/Mar/2024
+
+\lx batoe nī ajoe
+\ID_en 763
+\ps Noun
+\de pip, stone
+\d_id biji
+\dt 27/Mar/2024
+
+\lx oeltop
+\ID_en 612
+\ps Noun
+\de blow-pipe
+\d_id sumpitan
+\dt 27/Apr/2024
+
+\lx gondīt
+\ID_en 579/580
+\ps Noun
+\de band or ring
+\d_id pita atau cincin
+\dt 28/Mar/2024
+
+\lx antjīmoen
+\ID_en 679
+\ps Noun
+\de cucumber
+\d_id ketimun
+\dt 28/Mar/2024
+
+\lx oentjīm
+\ID_en 717
+\ps Noun
+\de banana (wild)
+\d_id pisang (liar)
+\dt 25/Mar/2024
+
+\lx djoewada
+\ID_en 560
+\ps Noun
+\de cake
+\d_id kue
+\dt 25/Apr/2024
+
+\lx tambīrīk
+\ID_en 780
+\ps Noun
+\de hoof
+\d_id kuku binatang
+\dt 28/Mar/2024
+
+\lx danon nī aràmbīr
+\ID_en 692
+\ps Noun
+\de coconut (fruit)
+\d_id kelapa (buah)
+\dt 25/Apr/2024
+
+\lx tīntīn
+\ID_en 576
+\ps Noun
+\de ring
+\d_id cincin
+\dt 27/Apr/2024
+
+\lx taroem
+\ID_en 724/725
+\ps Noun
+\de indigo
+\d_id nila
+\dt 25/Mar/2024
+
+\lx dasàr
+\ID_en 499
+\ps Noun
+\de drinking bowl
+\d_id tempat minum
+\dt 25/Apr/2024
+
+\lx doewa bōlas
+\ID_en 1304
+\ps Noun
+\de twelve
+\d_id dua belas
+\dt 25/Apr/2024
+
+\lx īndahàn
+\ID_en 545
+\ps Noun
+\de cooked rice
+\d_id nasi
+\dt 14/Mar/2024
+
+\lx sabōlas
+\ID_en 1303
+\ps Noun
+\de eleven
+\d_id sebelas
+\dt 25/Apr/2024
+
+\lx datoe dadabōroe
+\ID_en 414
+\ps Noun
+\de midwife
+\d_id bidan
+\dt 25/Apr/2024
+
+\lx djàmboe
+\ID_en 712
+\ps Noun
+\de eugenia
+\d_id jambu
+\dt 25/Mar/2024
+
+\lx àndàng
+\ID_en 659
+\ps Noun
+\de fence, hedge
+\d_id pagar
+\dt 14/Mar/2024
+
+\lx mànggīlīng, màndōgos
+\ID_en 555
+\ps Verb
+\de to grind
+\d_id menggiling
+\dt 25/Apr/2024
+
+\lx batàng nī aràmbīr
+\ID_en 691
+\ps Noun
+\de coconut (tree)
+\d_id kelapa (pohon)
+\dt 28/Mar/2024
+
+\lx damàr
+\ID_en 754
+\ps Noun
+\de resin
+\d_id damar (umum)
+\dt 27/Mar/2024
+
+\lx satōnga
+\ID_en 1326
+\ps Noun
+\de a half
+\d_id setengah
+\dt 25/Apr/2024
+
+\lx doehoet
+\ID_en 770
+\ps Noun
+\de grass
+\d_id rumput
+\dt 27/Mar/2024
+
+\lx batàng nī sagoe
+\ID_en 703
+\ps Noun
+\de sago tree
+\d_id pohon sagu
+\dt 25/Mar/2024
+
+\lx dīja
+\ID_en 1382
+\ps Pronoun
+\de which?
+\d_id mana, (yang) mana
+\dt 27/Mar/2024
+
+\lx màttànda
+\ID_en 412
+\ps Noun
+\de betrothal
+\d_id perjanjian
+\dt 27/Apr/2024
+
+\lx màngga
+\ID_en 708
+\ps Noun
+\de mango
+\d_id mangga
+\dt 25/Mar/2024
+
+\lx gondàng
+\ID_en 421
+\ps Noun
+\de drum
+\d_id genderang
+\dt 25/Apr/2024
+
+\lx panaekàn
+\ID_en 454
+\ps Noun
+\de ladder
+\d_id tangga
+\dt 27/Apr/2024
+
+\lx bōnàng
+\ID_en 603
+\ps Noun
+\de thread, yarn
+\d_id benang
+\dt 25/Apr/2024
+
+\lx saotīk
+\ID_en 1340
+\ps Adjective
+\de few, a little
+\d_id sedikit
+\dt 28/Mar/2024
+
+\lx damàr
+\ID_en 755
+\ps Noun
+\de resin (from the damar tree)
+\d_id damar (khusus dari pohon damar)
+\dt 27/Mar/2024
+
+\lx oembàn
+\ID_en 624
+\ps Noun
+\de sling
+\d_id ali-ali
+\dt 27/Apr/2024
+
+\lx galoek
+\ID_en 511
+\ps Noun
+\de ladle
+\d_id ciduk, sendok
+\dt 25/Apr/2024
+
+\lx Lakàn
+\ID_en 591
+\ps Noun
+\de woollen fabric
+\d_id kain wol
+\dt 14/Mar/2024
+
+\lx mamōdīl
+\ID_en 623
+\ps Verb
+\de to shoot
+\d_id menembak
+\dt 25/Apr/2024
+
+\lx loemobī
+\ID_en 1347
+\ps Adverb
+\de more
+\d_id lebih
+\dt 25/Apr/2024
+
+\lx oeràt panoempol
+\ID_en 742
+\ps Noun
+\de main root, taproot
+\d_id ibu akar, akar tunggang
+\dt 28/Mar/2024
+
+\lx aràmbir
+\ID_en 691/693
+\ps Noun
+\de coconut
+\d_id kelapa
+\dt 28/Mar/2024
+
+\lx oenīk
+\ID_en 729
+\ps Noun
+\de curcuma domestica
+\d_id kunyit
+\dt 25/Mar/2024
+
+\lx bījōla, rōbop
+\ID_en 419
+\ps Noun
+\de violin
+\d_id biola (rebab)
+\dt 28/Mar/2024
+
+\lx badīk
+\ID_en 508
+\ps Noun
+\de dagger
+\d_id golok
+\dt 28/Mar/2024
+
+\lx loemobījan
+\ID_en 1348
+\ps Adjective
+\de most
+\d_id paling
+\dt 25/Apr/2024
+
+\lx līma bōlas
+\ID_en 1307
+\ps Noun
+\de fifteen
+\d_id lima belas
+\dt 25/Apr/2024
+
+\lx boenga
+\ID_en 758
+\ps Noun
+\de flower
+\d_id bunga
+\dt 27/Mar/2024
+
+\lx katjàng tano
+\ID_en 683
+\ps Noun
+\de peanut
+\d_id kacang tanah
+\dt 25/Apr/2024
+
+\lx oente gōdàng
+\ID_en 721
+\ps Noun
+\de grape fruit
+\d_id citrus paradisi
+\dt 25/Mar/2024
+
+\lx dīndīng gōgàt
+\ID_en 459
+\ps Noun
+\de wall (bamboo wall)
+\d_id dinding (bilik)
+\dt 25/Apr/2024
+
+\lx majangàn
+\ID_en 765
+\ps Noun
+\de bunch
+\d_id rangkai, tangkai, tandan
+\dt 28/Mar/2024
+
+\lx soebong
+\ID_en 583
+\ps Noun
+\de earclip
+\d_id subang
+\dt 27/Apr/2024
+
+\lx pàntàr papàn
+\ID_en 457
+\ps Noun
+\de floor (made from wood)
+\d_id lantai (dari kayu)
+\dt 27/Apr/2024
+
+\lx porlàk
+\ID_en 653
+\ps Noun
+\de garden
+\d_id kebun
+\dt 27/Apr/2024
+
+\lx sōbàn
+\ID_en 484
+\ps Noun
+\de fire wood
+\d_id kayu api
+\dt 27/Apr/2024
+
+\lx abīt karoeng
+\ID_en 565
+\ps Noun
+\de sarong
+\d_id sarung
+\dt 28/Mar/2024
+
+\lx tīngkàp
+\ID_en 451
+\ps Noun
+\de window
+\d_id jendela
+\dt 27/Apr/2024
+
+\lx lasījak koetoe
+\ID_en 690
+\ps Noun
+\de red pepper
+\d_id cabe
+\dt 25/Apr/2024
+
+\lx aratàk
+\ID_en 438
+\ps Noun
+\de hut, shelter
+\d_id pondok
+\dt 28/Mar/2024
+
+\lx piroeroe
+\ID_en 622
+\ps Noun
+\de bullet
+\d_id peluru
+\dt 27/Apr/2024
+
+\lx mangīntopī soeloe
+\ID_en 486
+\ps Verb
+\de to put off (light)
+\d_id memadamkan (sinar)
+\dt 25/Apr/2024
+
+\lx pàntàr topàs
+\ID_en 456
+\ps Noun
+\de floor (made from bamboo lath)
+\d_id lantai (dari bambu)
+\dt 27/Apr/2024
+
+\lx manjoewàn
+\ID_en 665
+\ps Verb
+\de to plant
+\d_id menanam
+\dt 25/Apr/2024
+
+\lx tekō
+\ID_en 500
+\ps Noun
+\de (tea) pot
+\d_id poci, teko
+\dt 27/Apr/2024
+
+\lx oeràt ràmboe
+\ID_en 744
+\ps Noun
+\de fibrous root
+\d_id akar serabut
+\dt 28/Mar/2024
+
+\lx saparōpàt
+\ID_en 1327
+\ps Noun
+\de a quarter
+\d_id seperempat
+\dt 25/Apr/2024
+
+\lx palītō, hedje
+\ID_en 515
+\nt <21>
+\ps Noun
+\de lamp
+\d_id lampu
+\dt 27/Apr/2024
+
+\lx moesoe
+\ID_en 627
+\ps Noun
+\de enemy
+\d_id musuh
+\dt 27/Apr/2024
+
+\lx bondàr
+\ID_en 657
+\ps Noun
+\de irrigation
+\d_id pengairan
+\dt 25/Apr/2024
+
+\lx sasabī
+\ID_en 650
+\ps Noun
+\de sickle
+\d_id sabit
+\dt 27/Apr/2024
+
+\lx boeloe
+\ID_en 732
+\ps Noun
+\de bamboo
+\d_id bambu
+\dt 25/Mar/2024
+
+\lx pandàn
+\ID_en 707
+\ps Noun
+\de pandanus
+\d_id pandan
+\dt 25/Mar/2024
+
+\lx sadari sàborngīn
+\ID_en 1400
+\ps Adverb
+\de twenty four hours
+\d_id sehari semalam
+\dt 28/Apr/2024
+
+\lx alai poena
+\ID_en 1375/1376
+\ps Pronoun
+\de their
+\d_id kata ganti empunya orang ke III jamak
+\dt 28/Mar/2024
+
+\lx aoe poena
+\ID_en 1369
+\ps Pronoun
+\de my (sing.)
+\d_id kata ganti empunya orang ke I tunggal
+\dt 28/Mar/2024
+
+\lx oeràt oeràt
+\ID_en 743
+\ps Noun
+\de side-root
+\d_id akar samping
+\dt 28/Mar/2024
+
+\lx ordàng, īnsoewàn
+\ID_en 645
+\ps Noun
+\de dibble
+\d_id tugal
+\dt 27/Apr/2024
+
+\lx golàng tangàn
+\ID_en 579
+\ps Noun
+\de arm ring, bracelet
+\d_id gelang tangan
+\dt 25/Apr/2024
+
+\lx pàngkoer
+\ID_en 652
+\ps Noun
+\de hoe
+\d_id pacul
+\dt 27/Apr/2024
+
+\lx djoehoet
+\ID_en 539/540
+\ps Noun
+\de meat
+\d_id daging
+\dt 25/Apr/2024
+
+\lx gènggong
+\ID_en 426
+\ps Noun
+\de Jew's harp
+\d_id ginggung (genggong)
+\dt 25/Apr/2024
+
+\lx toeràk
+\ID_en 595
+\ps Noun
+\de loom (weaving spool)
+\d_id kumparan benang
+\dt 27/Apr/2024
+
+\lx īja
+\ID_en 1363
+\ps Pronoun
+\de he
+\d_id ia, kata ganti orang ke III tunggal (laki-laki)
+\dt 28/Mar/2024
+
+\lx bàntàl goelīng
+\ID_en 467
+\ps Noun
+\de cylindrical bolster
+\d_id (bantal) guling
+\dt 28/Mar/2024
+
+\lx pantīl
+\ID_en 471
+\ps Noun
+\de front verandah
+\d_id pendopo
+\dt 27/Apr/2024
+
+\lx tàndoek
+\ID_en 427
+\ps Noun
+\de horn
+\d_id terompet
+\dt 27/Apr/2024
+
+\lx pīsàng
+\ID_en 716
+\ps Noun
+\de banana
+\d_id pisang
+\dt 25/Mar/2024
+
+\lx ise
+\ID_en 1379
+\ps Pronoun
+\de who?
+\d_id siapa
+\dt 28/Mar/2024
+
+\lx tōloe poeloe
+\ID_en 1316
+\ps Noun
+\de thirty
+\d_id tiga puluh
+\dt 25/Apr/2024
+
+\lx sībōdàk
+\ID_en 709
+\ps Noun
+\de artocarpus integrifolia, Jack fruit
+\d_id nangka
+\dt 25/Mar/2024
+
+\lx soewàt
+\ID_en 689
+\ps Noun
+\de taro
+\d_id talas, keladi
+\dt 27/Apr/2024
+
+\lx badjàk
+\ID_en 642
+\ps Noun
+\de plough
+\d_id bajak
+\dt 28/Mar/2024
+
+\lx saratoes
+\ID_en 1323
+\ps Noun
+\de hundred
+\d_id seratus
+\dt 25/Apr/2024
+
+\lx sīra
+\ID_en 563
+\ps Noun
+\de salt
+\d_id garam
+\dt 27/Apr/2024
+
+\lx abong
+\ID_en 787
+\ps Noun
+\de feather
+\d_id bulu burung
+\dt 27/Mar/2024
+
+\lx gadoebàng
+\ID_en 506
+\nt <19>
+\ps Noun
+\de chopper
+\d_id parang
+\dt 25/Apr/2024
+
+\lx panganon
+\ID_en 534
+\ps Noun
+\de food
+\d_id makanan
+\dt 27/Apr/2024
+
+\lx djoedjoeràn
+\ID_en 411
+\ps Noun
+\de bride price
+\d_id mas kawin
+\dt 25/Apr/2024
+
+\lx kapak
+\ID_en 786
+\ps Noun
+\de wing
+\d_id sayap
+\dt 27/Mar/2024
+
+\lx aèk
+\ID_en 750
+\ps Noun
+\de sap
+\d_id air (buah, pohon)
+\dt 27/Mar/2024
+
+\lx tombàk
+\ID_en 611
+\ps Noun
+\de pike, lance, javelin
+\d_id tombak, lembing
+\dt 27/Apr/2024
+
+\lx alàng oeloe, bàntàl
+\ID_en 469
+\ps Noun
+\de pillow
+\d_id bantal
+\dt 28/Mar/2024
+
+\lx oejoepoejoep
+\ID_en 420
+\ps Noun
+\de flute
+\d_id suling
+\dt 27/Apr/2024
+
+\lx parīntje
+\ID_en 617
+\ps Noun
+\de shield
+\d_id perisai
+\dt 27/Apr/2024
+
+\lx sasabī
+\ID_en 649
+\ps Noun
+\de knife for cutting grass
+\d_id alat babat rumput
+\dt 27/Apr/2024
+
+\lx oewàt
+\ID_en 688
+\ps Noun
+\de cassava
+\d_id ketela
+\dt 27/Apr/2024
+
+\lx bangkītan
+\ID_en 672
+\ps Verb
+\de to gather
+\d_id mengumpulkan (buah-buahan)
+\dt 28/Mar/2024
+
+\lx apàs
+\ID_en 705
+\ps Noun
+\de cotton
+\d_id kapas
+\dt 25/Mar/2024
+
+\lx antīng antīng
+\ID_en 582
+\ps Noun
+\de earring
+\d_id anting-anting
+\dt 28/Mar/2024
+
+\lx golàng pàt
+\ID_en 580
+\ps Noun
+\de anklet
+\d_id gelang kaki
+\dt 25/Apr/2024
+
+\lx oente
+\ID_en 722
+\ps Noun
+\de lemon
+\d_id jeruk sitrun
+\dt 25/Mar/2024
+
+\lx oelit
+\ID_en 761
+\ps Noun
+\de rind, peel
+\d_id kulit buah
+\dt 28/Mar/2024
+
+\lx amoe poena
+\ID_en 1374
+\ps Pronoun
+\de your (pl.)
+\d_id kata ganti empunya orang ke II jamak
+\dt 28/Mar/2024
+
+\lx balanga
+\ID_en 494
+\ps Noun
+\de pot (earthenware)
+\d_id panci, kuali (tanah liat)
+\dt 28/Mar/2024
+
+\lx taroep boeloe
+\ID_en 442
+\ps Noun
+\de roofing: bamboo lath
+\d_id atap: bilah, pelupuh bambu
+\dt 27/Apr/2024
+
+\lx tōboe
+\ID_en 682
+\ps Noun
+\de sugarcane
+\d_id tebu
+\dt 27/Apr/2024
+
+\lx amoe soede
+\ID_en 1362
+\ps Pronoun
+\de you
+\d_id kamu sekalian
+\dt 28/Mar/2024
+
+\lx soedena
+\ID_en 1349
+\ps Adverb
+\de less
+\d_id kurang
+\dt 28/Mar/2024
+
+\lx màngkōtoek
+\ID_en 604
+\ps Verb
+\de to knot, to knit
+\d_id merajut, menyirat
+\dt 25/Apr/2024
+
+\lx arī
+\ID_en 1394
+\ps Noun
+\de day
+\d_id hari
+\dt 27/Mar/2024
+
+\lx bōsī badjàk
+\ID_en 643
+\ps Noun
+\de coulter
+\d_id mata bajak
+\dt 25/Apr/2024
+
+\lx ījoer
+\ID_en 778
+\ps Noun
+\de tail
+\d_id ekor
+\dt 27/Mar/2024
+
+\lx pàt nī bīnatàng
+\ID_en 779
+\ps Noun
+\de paw
+\d_id kaki binatang
+\dt 28/Mar/2024
+
+\lx oelàmboe
+\ID_en 488
+\ps Noun
+\de bed curtain
+\d_id kelambu
+\dt 27/Apr/2024
+
+\lx loemok
+\ID_en 764
+\ps Noun
+\de the flesh of the fruit
+\d_id daging buah
+\dt 28/Mar/2024
+
+\lx ōgoeng
+\ID_en 424
+\ps Noun
+\de gong
+\d_id gong
+\dt 14/Mar/2024
+
+\lx tabanàn
+\ID_en 636
+\ps Noun
+\de prisoner of war
+\d_id tawanan perang
+\dt 27/Apr/2024
+
+\lx màrbaoer soerto
+\ID_en 596
+\ps Noun
+\de loom (warp)
+\d_id lungsin
+\dt 27/Apr/2024
+
+\lx njīrō
+\ID_en 697
+\ps Noun
+\de palm juice (unfermented)
+\d_id nira
+\dt 28/Mar/2024
+
+\lx pōtī pōtī
+\ID_en 519
+\ps Noun
+\de box, case
+\d_id kotak, dos
+\dt 27/Apr/2024
+
+\lx aboewàn
+\ID_en 483
+\ps Noun
+\de ashes
+\d_id abu
+\dt 28/Mar/2024
+
+\lx oltīng
+\ID_en 577
+\ps Noun
+\de waist belt/band
+\d_id ikat pinggang
+\dt 27/Apr/2024
+
+\lx ōrīs
+\ID_en 507
+\ps Noun
+\de kris
+\d_id keris
+\dt 14/Mar/2024
+
+\lx manàmpàng tōlōnàn
+\ID_en 629
+\ps Verb
+\de to go head hunting
+\d_id mengayau
+\dt 25/Apr/2024
+
+\lx martōnoen
+\ID_en 593
+\ps Verb
+\de to weave
+\d_id bertenun
+\dt 27/Apr/2024
+
+\lx apī
+\ID_en 475
+\ps Noun
+\de fire
+\d_id api
+\dt 28/Mar/2024
+
+\lx màndera
+\ID_en 618
+\ps Noun
+\de flag
+\d_id bendera
+\dt 25/Apr/2024
+
+\lx ōpat poeloe
+\ID_en 1317
+\ps Noun
+\de fourty
+\d_id empat puluh
+\dt 25/Apr/2024
+
+\lx on
+\ID_en 1383
+\ps Pronoun
+\de this
+\d_id ini
+\dt 28/Mar/2024
+
+\lx eme
+\ID_en 544/545
+\ps Noun
+\de rice (husked raw rice, cooked rice)
+\d_id nasi (beras mentah, nasi matang)
+\dt 25/Apr/2024
+
+\lx para, pagoe
+\ID_en 472
+\ps Noun
+\de attic (under the roof)
+\d_id loteng
+\dt 27/Apr/2024
+
+\lx doewa nōlī
+\ID_en 1329
+\ps Adverb
+\de twice
+\d_id dua kali
+\dt 28/Mar/2024
+
+\lx na mata
+\ID_en 669
+\ps Adjective
+\de unripe
+\d_id belum masak, belum matang, mentah
+\dt 27/Apr/2024
+
+\lx màrdame
+\ID_en 630
+\ps Noun
+\de peace
+\d_id damai
+\dt 27/Apr/2024
+
+\lx aoema
+\ID_en 655
+\ps Noun
+\de rice-field (dry)
+\d_id huma, ladang
+\dt 28/Mar/2024
+
+\lx doewa poeloe līma
+\ID_en 1315
+\ps Noun
+\de twenty five
+\d_id dua puluh lima
+\dt 25/Apr/2024
+
+\lx anàk nī bīnatàng
+\ID_en 775
+\nt <24>
+\ps Noun
+\de young of animal (calf, foal, chicken, etc.)
+\d_id anak binatang
+\dt 27/Mar/2024
+
+\lx talī
+\ID_en 602
+\ps Noun
+\de rope
+\d_id tali
+\dt 27/Apr/2024
+
+\lx lada
+\ID_en 562
+\nt <22>
+\ps Noun
+\de black pepper
+\d_id lada hitam
+\dt 25/Apr/2024
+
+\lx roentjī
+\ID_en 547
+\ps Noun
+\de stalk
+\d_id tangkai padi, batang padi
+\dt 27/Apr/2024
+
+\lx boerangīr
+\ID_en 753
+\ps Noun
+\de betel
+\d_id sirih
+\dt 27/Mar/2024
+
+\lx màrbagàs, marīnganàn
+\ID_en 407/408
+\ps Verb
+\de marry, marriage
+\d_id menikah, perkawinan
+\dt 27/Apr/2024
+
+\lx dī adoe
+\ID_en 1389
+\ps Pronoun
+\de there (near hearer)
+\d_id di situ (di sebelah pendengar)
+\dt 28/Mar/2024
+
+\lx màrpompàr, màrdaganak
+\ID_en 413
+\ps Verb
+\de to give birth to
+\d_id melahirkan
+\dt 27/Apr/2024
+
+\lx soemboe
+\ID_en 516
+\ps Noun
+\de lamp wick
+\d_id sumbu lampu
+\dt 27/Apr/2024
+
+\lx dison
+\ID_en 1388
+\ps Adverb
+\de here
+\d_id di sini
+\dt 27/Mar/2024
+
+\lx oente manīs
+\ID_en 720
+\ps Noun
+\de orange
+\d_id jeruk manis
+\dt 25/Mar/2024
+
+\lx djaīlàn
+\ID_en 710
+\ps Noun
+\de nephelium lappaceum
+\d_id rambutan
+\dt 25/Mar/2024
+
+\lx on, ī
+\ID_en 1385
+\ps Pronoun
+\de that (nearby)
+\d_id itu (dekatmu)
+\dt 28/Mar/2024
+
+\lx aha
+\ID_en 1380
+\ps Pronoun
+\de what?
+\d_id apa
+\dt 28/Mar/2024
+
+\lx batàng kajoe
+\ID_en 734
+\ps Noun
+\de tree
+\d_id pohon
+\dt 27/Mar/2024
+
+\lx īre īre, oelamboe
+\ID_en 464
+\ps Noun
+\de curtain
+\d_id tirai
+\dt 14/Mar/2024
+
+\lx bagàs
+\ID_en 437
+\ps Noun
+\de house
+\d_id rumah
+\dt 28/Mar/2024
+
+\lx soewàn soewanàn
+\ID_en 660
+\ps Noun
+\de vegetation
+\d_id tumbuhan
+\dt 27/Apr/2024
+
+\lx lelo
+\ID_en 619
+\ps Noun
+\de kind of small cannon
+\d_id sejenis kanon kecil
+\dt 25/Apr/2024
+
+\lx sada sada
+\ID_en 1359
+\ps Pronoun
+\de you (sing.)
+\d_id kamu, engkau
+\dt 28/Mar/2024
+
+\lx soerī
+\ID_en 644
+\ps Noun
+\de rake
+\d_id garu
+\dt 27/Apr/2024
+
+\lx potī abīt
+\ID_en 520
+\ps Noun
+\de case for cloth
+\d_id peti pakaian
+\dt 27/Apr/2024
+
+\lx soewa
+\ID_en 671
+\ps Verb
+\de to reap
+\d_id menuai
+\dt 27/Apr/2024
+
+\lx pōdōmàn
+\ID_en 465
+\ps Noun
+\de sleeping place
+\d_id kamar tidur
+\dt 27/Apr/2024
+
+\lx sambilan, sīja
+\ID_en 1301
+\ps Noun
+\de nine
+\d_id sembilan
+\dt 25/Apr/2024
+
+\lx adoe
+\ID_en 1386
+\ps Pronoun
+\de that (faraway)
+\d_id itu (di sana)
+\dt 28/Mar/2024
+
+\lx sariboe
+\ID_en 1324
+\ps Noun
+\de thousand
+\d_id seribu
+\dt 25/Apr/2024

@@ -1,0 +1,1700 @@
+
+\lx_skh poeléh
+\ID_en 232
+\ps Noun
+\de cured
+\dv sembuh
+\dt 14/Mar/2024
+
+\lx_skh matoea
+\ID_en 317
+\ps Noun
+\de husband
+\dv suami
+\dt 14/Mar/2024
+
+\lx_skh radjå
+\ID_en 378
+\nt <6>
+\ps Noun
+\de king
+\dv raja
+\dt 15/Mar/2024
+
+\lx_skh āteu
+\ID_en 315
+\ps Adjective
+\de related
+\dv keluarga
+\dt 14/Mar/2024
+
+\lx_skh oe deuteu
+\ID_en 173
+\ps Verb
+\de to choke
+\dv tersedak
+\dt 14/Mar/2024
+
+\lx_skh boenting
+\ID_en 178
+\ps Adjective
+\de pregnant
+\dv hamil
+\dt 14/Mar/2024
+
+\lx_skh mata <eukeu?>
+\ID_en 4
+\ps Noun
+\de forehead
+\dv dahi
+\dt 13/Mar/2024
+
+\lx_skh betoewa idété
+\ID_en 55
+\ps Noun
+\de intestines
+\dv usus
+\dt 13/Mar/2024
+
+\lx_skh nono ealofé
+\ID_en 252
+\ps Noun
+\de girl
+\dv gadis
+\dt 14/Mar/2024
+
+\lx_skh datō'
+\ID_en 386
+\ps Noun
+\de village head
+\dv kepala kampung
+\dt 15/Mar/2024
+
+\lx_skh kalung² kahé
+\ID_en 88
+\ps Noun
+\de ankle
+\dv buku kaki, pergelangan kaki
+\dt 13/Mar/2024
+
+\lx_skh bébé
+\ID_en 121
+\ps Noun
+\de skin
+\dv kulit
+\dt 13/Mar/2024
+
+\lx_skh eadeu euchi péèl
+\ID_en 368
+\ps Noun
+\de sin
+\dv dosa
+\dt 15/Mar/2024
+
+\lx_skh metaj
+\ID_en 72
+\ps Verb
+\de to defecate
+\dv berak
+\dt 13/Mar/2024
+
+\lx_skh auli
+\ID_en 182
+\ps Verb
+\de to live (alive)
+\dv hidup
+\dt 14/Mar/2024
+
+\lx_skh bèngó
+\ID_en 20
+\ps Noun
+\de mucus
+\dv ingus
+\dt 13/Mar/2024
+
+\lx_skh bidan
+\ID_en 235
+\ps Noun
+\de doctor (medicine man)
+\dv dokter (dukun)
+\dt 14/Mar/2024
+
+\lx_skh naleu
+\ID_en 43
+\ps Noun
+\de breast
+\dv dada (tunggal)
+\dt 13/Mar/2024
+
+\lx_skh bidèu
+\ID_en 414
+\ps Noun
+\de midwife
+\dv bidan
+\dt 15/Mar/2024
+
+\lx_skh ade denih
+\ID_en 369
+\ps Adjective
+\de forbidden
+\dv pantangan, pemali
+\dt 15/Mar/2024
+
+\lx_skh pengawaj
+\ID_en 332
+\ps Noun
+\de talisman
+\dv jimat
+\dt 14/Mar/2024
+
+\lx_skh banoea
+\ID_en 382
+\nt <7>
+\ps Noun
+\de (sacred) place (held in awe)
+\dv tempat (menyeramkan)
+\dt 15/Mar/2024
+
+\lx_skh bàfa'
+\ID_en 22
+\ps Noun
+\de mouth
+\dv mulut
+\dt 13/Mar/2024
+
+\lx_skh achékoe
+\ID_en 287-290
+\ps Noun
+\de cousin
+\dv sepupu
+\dt 14/Mar/2024
+
+\lx_skh banoèwa'
+\ID_en 326
+\ps Noun
+\de country
+\dv negara
+\dt 14/Mar/2024
+
+\lx_skh toematawa
+\ID_en 165
+\ps Verb
+\de to smile
+\dv tersenyum
+\dt 14/Mar/2024
+
+\lx_skh matai ae
+\ID_en 100
+\ps Noun
+\de elbow
+\dv siku
+\dt 13/Mar/2024
+
+\lx_skh elaofé
+\ID_en 318
+\ps Noun
+\de wife
+\dv istri
+\dt 14/Mar/2024
+
+\lx_skh laloe dangan
+\ID_en 102
+\ps Noun
+\de palm of the hand
+\dv telapak tangan
+\dt 13/Mar/2024
+
+\lx_skh maté
+\ID_en 184
+\ps Noun
+\de death
+\dv kematian
+\dt 14/Mar/2024
+
+\lx_skh manoesia
+\ID_en 236-238
+\ps Noun
+\de man
+\dv manusia
+\dt 14/Mar/2024
+
+\lx_skh banois béchoe
+\ID_en 375
+\ps Noun
+\de holy place
+\dv tempat suci
+\dt 15/Mar/2024
+
+\lx_skh nono ialafi
+\ID_en 262
+\ps Noun
+\de daughter
+\dv anak perempuan
+\dt 14/Mar/2024
+
+\lx_skh tindai
+\ID_en 8
+\ps Noun
+\de crown
+\dv hulu kepala
+\dt 13/Mar/2024
+
+\lx_skh ènboe mandoea
+\ID_en 331
+\ps Noun
+\de sorcerer
+\dv tukang sihir
+\dt 14/Mar/2024
+
+\lx_skh ò'afoe <s̀'afoe?>
+\ID_en 205
+\ps Noun
+\de fever
+\dv demam (k.b.)
+\dt 14/Mar/2024
+
+\lx_skh motola aboewo
+\ID_en 133
+\ps Adjective
+\de satisfied
+\dv kenyang, puas
+\dt 13/Mar/2024
+
+\lx_skh dòlò'
+\ID_en 274
+\ps Noun
+\de grandchild
+\dv cucu
+\dt 14/Mar/2024
+
+\lx_skh soelit²
+\ID_en 416
+\ps Noun
+\de prostitute
+\dv pelacur
+\dt 15/Mar/2024
+
+\lx_skh oman-oman
+\ID_en 341
+\ps Noun
+\de evil spirit
+\dv ruh jahat
+\dt 14/Mar/2024
+
+\lx_skh toelisan
+\ID_en 351
+\ps Noun
+\de writing
+\dv tulisan
+\dt 14/Mar/2024
+
+\lx_skh olōfō'
+\ID_en 129
+\ps Adjective
+\de hungry
+\dv lapar
+\dt 13/Mar/2024
+
+\lx_skh ealofé
+\ID_en 242
+\ps Noun
+\de woman
+\dv orang perempuan
+\dt 14/Mar/2024
+
+\lx_skh adĕau
+\ID_en 172
+\ps Noun
+\de hiccups
+\dv tersedu
+\dt 14/Mar/2024
+
+\lx_skh béfé
+\ID_en 26
+\ps Noun
+\de lip
+\dv bibir
+\dt 13/Mar/2024
+
+\lx_skh panoelang
+\ID_en 411
+\ps Noun
+\de bride price
+\dv mas kawin
+\dt 15/Mar/2024
+
+\lx_skh eutoe
+\ID_en 75
+\ps Verb
+\de to fart
+\dv berkentut
+\dt 13/Mar/2024
+
+\lx_skh deula
+\ID_en 115
+\ps Noun
+\de bone
+\dv tulang
+\dt 13/Mar/2024
+
+\lx_skh padegangan
+\ID_en 324
+\ps Noun
+\de guest, stranger
+\dv tamu, orang asing
+\dt 14/Mar/2024
+
+\lx_skh pekaeoai
+\ID_en 371
+\ps Noun
+\de priest
+\dv pemimpin agama laki-laki
+\dt 15/Mar/2024
+
+\lx_skh matoea
+\ID_en 297
+\ps Noun
+\de parents-in-law
+\dv mertua
+\dt 14/Mar/2024
+
+\lx_skh nènè' mama'
+\ID_en 264
+\ps Noun
+\de grandmother
+\dv nenek perempuan (nenek)
+\dt 14/Mar/2024
+
+\lx_skh kahidoepan
+\ID_en 366
+\ps Noun
+\de the afterlife
+\dv kehidupan setelah mati
+\dt 15/Mar/2024
+
+\lx_skh dĕhò'
+\ID_en 170
+\ps Verb
+\de to cough
+\dv batuk
+\dt 14/Mar/2024
+
+\lx_skh afioe
+\ID_en 227
+\ps Adjective
+\de mute
+\dv bisu
+\dt 14/Mar/2024
+
+\lx_skh soesoe, mangoe
+\ID_en 46
+\ps Noun
+\de breast milk
+\dv air susu
+\dt 13/Mar/2024
+
+\lx_skh mèèi
+\ID_en 163
+\ps Verb
+\de to weep
+\dv menangis
+\dt 14/Mar/2024
+
+\lx_skh baoen
+\ID_en 76
+\ps Verb
+\de to stink, to smell
+\dv berbau busuk
+\dt 13/Mar/2024
+
+\lx_skh mondi
+\ID_en 154
+\ps Verb
+\de to take a bath
+\dv mandi
+\dt 14/Mar/2024
+
+\lx_skh lifa toetoe
+\ID_en 330
+\ps Noun
+\de people (tribe)
+\dv rakyat, bangsa (suku bangsa)
+\dt 14/Mar/2024
+
+\lx_skh choemi
+\ID_en 27
+\ps Noun
+\de moustache
+\dv kumis
+\dt 13/Mar/2024
+
+\lx_skh sådarå
+\ID_en 268
+\ps Noun
+\de brother
+\dv saudara laki-laki
+\dt 14/Mar/2024
+
+\lx_skh hantal
+\ID_en 340
+\ps Noun
+\de spirit
+\dv ruh baik
+\dt 14/Mar/2024
+
+\lx_skh langi
+\ID_en 360
+\ps Noun
+\de heaven
+\dv sorga
+\dt 15/Mar/2024
+
+\lx_skh djirat
+\ID_en 191
+\ps Noun
+\de grave
+\dv kuburan
+\dt 14/Mar/2024
+
+\lx_skh aboeta
+\ID_en 229
+\ps Adjective
+\de blind
+\dv buta
+\dt 14/Mar/2024
+
+\lx_skh koedé
+\ID_en 57
+\ps Noun
+\de bile
+\dv empedu
+\dt 13/Mar/2024
+
+\lx_skh tòtò', dòtò'
+\ID_en 41/42
+\ps Noun
+\de breasts
+\dv payudara
+\dt 13/Mar/2024
+
+\lx_skh mahalĕ kalè
+\ID_en 365
+\ps Noun
+\de population
+\dv penduduk
+\dt 15/Mar/2024
+
+\lx_skh dété
+\ID_en 63
+\ps Noun
+\de back
+\dv belakang, punggung
+\dt 13/Mar/2024
+
+\ID_en 122/123
+\nt <3>
+\ps Noun
+\de hair
+\dv rambut
+\dt 13/Mar/2024
+
+\lx_skh hoekoem
+\ID_en 399
+\ps Verb
+\de to punish
+\dv menghukum
+\dt 15/Mar/2024
+
+\lx_skh tòtòh
+\ID_en 48
+\ps Verb
+\de to suck at the breast
+\dv menyusu
+\dt 13/Mar/2024
+
+\lx_skh mangélé elo mata
+\ID_en 17
+\ps Noun
+\de tear
+\dv air mata (tunggal)
+\dt 13/Mar/2024
+
+\lx_skh afeucheu
+\ID_en 209
+\ps Noun
+\de diarrhoea
+\dv menceret (k.b.)
+\dt 14/Mar/2024
+
+\lx_skh eu'a
+\ID_en 299
+\ps Noun
+\de son-in-law
+\dv menantu laki-laki
+\dt 14/Mar/2024
+
+\lx_skh langi²
+\ID_en 32
+\ps Noun
+\de palate
+\dv langit-langit
+\dt 13/Mar/2024
+
+\lx_skh kampoeng etété
+\ID_en 329
+\ps Noun
+\de hamlet
+\dv dukuh
+\dt 14/Mar/2024
+
+\lx_skh nifoea'
+\ID_en 410
+\ps Verb
+\de to divorce
+\dv bercerai
+\dt 15/Mar/2024
+
+\lx_skh dého
+\ID_en 159
+\ps Adjective
+\de hoarse
+\dv parau
+\dt 14/Mar/2024
+
+\lx_skh emlacha
+\ID_en 56
+\ps Noun
+\de liver
+\dv hati
+\dt 13/Mar/2024
+
+\lx_skh kahé
+\ID_en 86
+\ps Noun
+\de foot
+\dv kaki
+\dt 13/Mar/2024
+
+\lx_skh d(o)ekoe (oeleè)
+\ID_en 2
+\ps Noun
+\de head
+\dv kepala
+\dt 13/Mar/2024
+
+\lx_skh betoewa
+\ID_en 54
+\ps Noun
+\de belly
+\dv perut
+\dt 13/Mar/2024
+
+\lx_skh afegeu efeuma
+\ID_en 214
+\ps Noun
+\de eruption (of rash)
+\dv ruam
+\dt 14/Mar/2024
+
+\lx_skh imbi
+\ID_en 29
+\ps Noun
+\de chin
+\dv dagu
+\dt 13/Mar/2024
+
+\lx_skh énalan
+\ID_en 117
+\ps Noun
+\de flesh
+\dv daging
+\dt 13/Mar/2024
+
+\lx_skh manginoe, anggouw gouw
+\ID_en 130
+\ps Verb
+\de to drink
+\dv minum
+\dt 13/Mar/2024
+
+\lx_skh bétoea
+\ID_en 53
+\ps Noun
+\de stomach
+\dv lambung
+\dt 13/Mar/2024
+
+\lx_skh tòhò'
+\ID_en 222
+\ps Noun
+\de a cold
+\dv selesma
+\dt 14/Mar/2024
+
+\lx_skh pertjaja <persjaja?>
+\ID_en 346
+\ps Noun
+\de religion
+\dv agama
+\dt 14/Mar/2024
+
+\lx_skh imatoea
+\ID_en 241
+\ps Noun
+\de man
+\dv orang laki-laki
+\dt 14/Mar/2024
+
+\lx_skh toejoe
+\ID_en 78
+\ps Noun
+\de vagina
+\dv puki, liang peranakan
+\dt 13/Mar/2024
+
+\lx_skh boe mata
+\ID_en 13
+\ps Noun
+\de eyelashes
+\dv bulu mata
+\dt 13/Mar/2024
+
+\lx_skh nifĕu
+\ID_en 33
+\nt <1>
+\ps Noun
+\de tooth
+\dv gigi
+\dt 14/Mar/2024
+
+\lx_skh sasi mandoea
+\ID_en 334
+\ps Noun
+\de magic wand
+\dv tokat mantera
+\dt 14/Mar/2024
+
+\lx_skh afeucheu
+\ID_en 217
+\ps Noun
+\de scabies
+\dv kudis
+\dt 14/Mar/2024
+
+\lx_skh bernang
+\ID_en 153
+\ps Verb
+\de to swim
+\dv berenang
+\dt 14/Mar/2024
+
+\lx_skh eu'a
+\ID_en 300
+\ps Noun
+\de daughter-in-law
+\dv menantu perempuan
+\dt 14/Mar/2024
+
+\lx_skh mofaneu laita
+\ID_en 145
+\ps Verb
+\de to walk
+\dv berjalan
+\dt 14/Mar/2024
+
+\lx_skh djandji chawin
+\ID_en 412
+\ps Noun
+\de betrothal
+\dv perjanjian
+\dt 15/Mar/2024
+
+\lx_skh adat
+\ID_en 395
+\ps Noun
+\de custom
+\dv adat, kebiasaan
+\dt 15/Mar/2024
+
+\lx_skh moeka
+\ID_en 3
+\ps Noun
+\de face
+\dv muka, wajah
+\dt 13/Mar/2024
+
+\lx_skh wali ātoea
+\ID_en 389
+\ps Noun
+\de village elders
+\dv orang tua-tua
+\dt 15/Mar/2024
+
+\lx_skh wohé fakot
+\ID_en 377
+\ps Noun
+\de town hall
+\dv balai kota
+\dt 15/Mar/2024
+
+\lx_skh kitab, boekoe
+\ID_en 355
+\ps Noun
+\de book
+\dv buku
+\dt 15/Mar/2024
+
+\lx_skh toemataō'
+\ID_en 150
+\ps Verb
+\de to sit (with the legs crossed)
+\dv bersila
+\dt 14/Mar/2024
+
+\lx_skh kandoeri feumate
+\ID_en 404
+\ps Noun
+\de funeral ceremony
+\dv upacara kematian, pemakaman
+\dt 15/Mar/2024
+
+\lx_skh chawin
+\ID_en 407/408
+\ps Noun
+\de marry, marriage
+\dv menikah, perkawinan
+\dt 15/Mar/2024
+
+\lx_skh molalepaj
+\ID_en 270
+\ps Noun
+\de older brother
+\dv kakak laki-laki (kandung)
+\dt 14/Mar/2024
+
+\lx_skh soeara'
+\ID_en 158
+\ps Noun
+\de voice
+\dv suara
+\dt 14/Mar/2024
+
+\lx_skh taj
+\ID_en 73
+\ps Noun
+\de faeces
+\dv tahi
+\dt 13/Mar/2024
+
+\lx_skh soedarå ilalafi
+\ID_en 269
+\ps Noun
+\de sister
+\dv saudara perempuan
+\dt 14/Mar/2024
+
+\lx_skh njoloeng
+\ID_en 418
+\ps Noun
+\de mask
+\dv topeng
+\dt 15/Mar/2024
+
+\lx_skh chaidameu iteuteu
+\ID_en 82
+\ps Verb
+\de to urinate
+\dv kencing (k.k.)
+\dt 13/Mar/2024
+
+\lx_skh ofeungeu
+\ID_en 199
+\ps Adjective
+\de ill
+\dv sakit
+\dt 14/Mar/2024
+
+\lx_skh alekoem
+\ID_en 37
+\ps Noun
+\de throat
+\dv kerongkongan
+\dt 13/Mar/2024
+
+\lx_skh angauwngouw
+\ID_en 132
+\ps Adjective
+\de thirsty
+\dv haus
+\dt 13/Mar/2024
+
+\lx_skh boechi faifali
+\ID_en 413
+\ps Verb
+\de to give birth to
+\dv melahirkan
+\dt 15/Mar/2024
+
+\lx_skh adéeu
+\ID_en 137
+\ps Verb
+\de to swallow
+\dv telan
+\dt 14/Mar/2024
+
+\lx_skh djangowi, djambé
+\ID_en 30
+\ps Noun
+\de beard
+\dv janggut
+\dt 13/Mar/2024
+
+\lx_skh koekoejoe
+\ID_en 9
+\ps Noun
+\de ear
+\dv telinga
+\dt 13/Mar/2024
+
+\lx_skh nila, leula'
+\ID_en 31
+\ps Noun
+\de tongue
+\dv lidah
+\dt 13/Mar/2024
+
+\lx_skh nono danga
+\ID_en 105
+\ps Noun
+\de fingers
+\dv jari tangan (jamak)
+\dt 13/Mar/2024
+
+\lx_skh oemoentah
+\ID_en 168
+\ps Verb
+\de to vomit
+\dv muntah
+\dt 14/Mar/2024
+
+\lx_skh kāsàng, gasang
+\ID_en 21
+\ps Noun
+\de cheek
+\dv pipi
+\dt 13/Mar/2024
+
+\lx_skh dinding
+\ID_en 196
+\ps Noun
+\de wound
+\dv luka
+\dt 14/Mar/2024
+
+\lx_skh toematawa
+\ID_en 161
+\nt <4>
+\ps Verb
+\de to laugh
+\dv tertawa
+\dt 14/Mar/2024
+
+\lx_skh oengå
+\ID_en 135
+\ps Verb
+\de to bite
+\dv gigit
+\dt 13/Mar/2024
+
+\lx_skh eukoe
+\ID_en 255
+\ps Noun
+\de father
+\dv ayah
+\dt 14/Mar/2024
+
+\lx_skh bangkaj
+\ID_en 1
+\ps Noun
+\de body
+\dv badan, tubuh
+\dt 13/Mar/2024
+
+\lx_skh biehoe, njawa
+\ID_en 343/344
+\ps Noun
+\de soul, spirit (living, dead)
+\dv jiwa, roh (hidup, mati)
+\dt 14/Mar/2024
+
+\lx_skh anggalifō
+\ID_en 131
+\ps Adjective
+\de drunk
+\dv mabuk
+\dt 13/Mar/2024
+
+\lx_skh nènèh moejong
+\ID_en 267
+\ps Noun
+\de ancestors
+\dv leluhur, nenek moyang
+\dt 14/Mar/2024
+
+\lx_skh talon
+\ID_en 376
+\ps Noun
+\de settlement
+\dv pemukiman
+\dt 15/Mar/2024
+
+\lx_skh oemoedō'
+\ID_en 143
+\ps Verb
+\de to get up
+\dv bangun dari duduk, tidur
+\dt 14/Mar/2024
+
+\lx_skh teula galifi
+\ID_en 66
+\ps Noun
+\de shoulderblade
+\dv tulang belikat
+\dt 13/Mar/2024
+
+\lx_skh maté
+\ID_en 183
+\ps Verb
+\de to die
+\dv meninggal dunia
+\dt 14/Mar/2024
+
+\lx_skh oechen
+\ID_en 61
+\ps Noun
+\de navel
+\dv pusat
+\dt 13/Mar/2024
+
+\lx_skh kelau, kakap
+\ID_en 156
+\ps Verb
+\de to stammer
+\dv gagap
+\dt 14/Mar/2024
+
+\lx_skh nichoe
+\ID_en 18
+\ps Noun
+\de nose
+\dv hidung
+\dt 13/Mar/2024
+
+\lx_skh roesoe, tèmanoeng
+\ID_en 50
+\ps Noun
+\de rib
+\dv tulang rusuk
+\dt 13/Mar/2024
+
+\lx_skh fombilene
+\ID_en 402
+\ps Noun
+\de judge
+\dv hakim
+\dt 15/Mar/2024
+
+\lx_skh boa
+\ID_en 34
+\ps Noun
+\de molar
+\dv geraham
+\dt 13/Mar/2024
+
+\lx_skh djangkoewi
+\ID_en 28
+\ps Noun
+\de goatee
+\dv janggut seperti, janggut kambing
+\dt 13/Mar/2024
+
+\lx_skh boetoe
+\ID_en 77
+\ps Noun
+\de penis
+\dv batang pelir
+\dt 13/Mar/2024
+
+\lx_skh maté
+\ID_en 185
+\ps Adjective
+\de dead
+\dv mati
+\dt 14/Mar/2024
+
+\lx_skh paninggalan
+\ID_en 194
+\ps Noun
+\de inheritance
+\dv warisan
+\dt 14/Mar/2024
+
+\lx_skh denih keula meu'ik
+\ID_en 393
+\ps Noun
+\de free man
+\dv orang merdeka (vs. budak)
+\dt 15/Mar/2024
+
+\lx_skh enoe teloe
+\ID_en 109
+\ps Noun
+\de index finger
+\dv telunjuk
+\dt 13/Mar/2024
+
+\lx_skh prangi
+\ID_en 390
+\ps Noun
+\de warrior
+\dv pahlawan perang
+\dt 15/Mar/2024
+
+\lx_skh manga
+\ID_en 128
+\ps Verb
+\de to eat
+\dv makan
+\dt 13/Mar/2024
+
+\lx_skh baō'²
+\ID_en 134
+\ps Adjective
+\de replete, satisfied
+\dv kenyang, puas
+\dt 13/Mar/2024
+
+\lx_skh galifi
+\ID_en 65
+\ps Noun
+\de shoulder
+\dv bahu
+\dt 13/Mar/2024
+
+\lx_skh lāmang
+\ID_en 68
+\ps Noun
+\de buttock
+\dv pantat bagian kiri atau kanan
+\dt 13/Mar/2024
+
+\lx_skh afoejoe'
+\ID_en 249
+\ps Noun
+\de virginity
+\dv perawan, kegadisan
+\dt 14/Mar/2024
+
+\lx_skh toepá
+\ID_en 342
+\ps Noun
+\de vampire (witch, werewolf)
+\dv suanggi
+\dt 14/Mar/2024
+
+\lx_skh oeajong
+\ID_en 70
+\ps Noun
+\de tailbone, coccyx
+\dv tulang tungging, tulang ekor
+\dt 13/Mar/2024
+
+\lx_skh moeheung
+\ID_en 166
+\ps Verb
+\de to sigh
+\dv berkeluh kesah, mengeluh
+\dt 14/Mar/2024
+
+\lx_skh dōe
+\ID_en 116
+\ps Noun
+\de blood
+\dv darah
+\dt 13/Mar/2024
+
+\lx_skh tĕnĕp (denop), dènĕp
+\ID_en 107
+\ps Noun
+\de (finger)nail
+\dv kuku
+\dt 14/Mar/2024
+
+\lx_skh abahō
+\ID_en 203
+\ps Noun
+\de boil
+\dv bisul
+\dt 14/Mar/2024
+
+\lx_skh mechiĕl
+\ID_en 83
+\ps Noun
+\de piss, urine
+\dv air kencing (k.b.)
+\dt 14/Mar/2024
+
+\lx_skh paragian
+\ID_en 193
+\ps Verb
+\de to inherit
+\dv mewarisi
+\dt 14/Mar/2024
+
+\lx_skh mahopai
+\ID_en 405
+\ps Verb
+\de to circumcise
+\dv menyunat
+\dt 15/Mar/2024
+
+\lx_skh achè
+\ID_en 250
+\ps Noun
+\de boy, lad
+\dv anak laki-laki
+\dt 14/Mar/2024
+
+\lx_skh djoeling
+\ID_en 231
+\ps Adjective
+\de squinting
+\dv juling
+\dt 14/Mar/2024
+
+\lx_skh mait
+\ID_en 188
+\ps Noun
+\de corpse
+\dv mayat
+\dt 14/Mar/2024
+
+\lx_skh ating
+\ID_en 124
+\ps Noun
+\de sweat
+\dv keringat
+\dt 13/Mar/2024
+
+\lx_skh adeu acho afeucheu
+\ID_en 202
+\ps Adjective
+\de healthy
+\dv sehat
+\dt 14/Mar/2024
+
+\lx_skh aféo
+\ID_en 228
+\ps Adjective
+\de deaf
+\dv tuli
+\dt 14/Mar/2024
+
+\lx_skh oewali mandoea
+\ID_en 333
+\ps Noun
+\de incantation
+\dv mantera
+\dt 14/Mar/2024
+
+\lx_skh oentoeng
+\ID_en 391
+\ps Noun
+\de happiness
+\dv kebahagiaan
+\dt 15/Mar/2024
+
+\lx_skh nono dangan
+\ID_en 112
+\ps Noun
+\de little finger
+\dv kelingking
+\dt 13/Mar/2024
+
+\lx_skh bafa kèchè
+\ID_en 99
+\ps Noun
+\de armpit
+\dv ketiak
+\dt 13/Mar/2024
+
+\lx_skh mata enden
+\ID_en 52
+\ps Noun
+\de heart
+\dv jantung
+\dt 13/Mar/2024
+
+\lx_skh nono danga
+\ID_en 111
+\ps Noun
+\de ring finger
+\dv jari manis
+\dt 13/Mar/2024
+
+\lx_skh afatang
+\ID_en 224
+\ps Noun
+\de cramp
+\dv kejang
+\dt 14/Mar/2024
+
+\lx_skh euehialoes
+\ID_en 60
+\ps Noun
+\de side
+\dv sisi badan
+\dt 13/Mar/2024
+
+\lx_skh hanghō
+\ID_en 177
+\ps Verb
+\de to nod
+\dv mengangguk
+\dt 14/Mar/2024
+
+\lx_skh bisela
+\ID_en 419
+\ps Noun
+\de violin
+\dv biola (rebab)
+\dt 15/Mar/2024
+
+\lx_skh meulheu
+\ID_en 138
+\ps Verb
+\de to sleep
+\dv tidur
+\dt 14/Mar/2024
+
+\lx_skh soedara
+\ID_en 310
+\ps Noun
+\de brother-in-law
+\dv ipar laki-laki
+\dt 14/Mar/2024
+
+\lx_skh dòtò'
+\ID_en 45
+\ps Noun
+\de nipple
+\dv puting susu
+\dt 13/Mar/2024
+
+\lx_skh koenggå
+\ID_en 118
+\ps Noun
+\de tendon
+\dv urat
+\dt 13/Mar/2024
+
+\lx_skh deuini <?>
+\ID_en 239
+\ps Noun
+\de name
+\dv nama
+\dt 14/Mar/2024
+
+\lx_skh matamboehoen
+\ID_en 91
+\ps Noun
+\de knee
+\dv lutut
+\dt 13/Mar/2024
+
+\lx_skh rohoemboean
+\ID_en 210
+\ps Noun
+\de small pox
+\dv cacar
+\dt 14/Mar/2024
+
+\lx_skh wāli
+\ID_en 275/276
+\ps Noun
+\de uncle
+\dv paman
+\dt 14/Mar/2024
+
+\lx_skh kakē
+\ID_en 84
+\nt <2>
+\ps Noun
+\de leg
+\dv kaki
+\dt 13/Mar/2024
+
+\lx_skh achouwgeu
+\ID_en 338
+\ps Noun
+\de omen
+\dv pertanda
+\dt 14/Mar/2024
+
+\lx_skh nònò
+\ID_en 257/258
+\ps Noun
+\de child
+\dv anak
+\dt 14/Mar/2024
+
+\lx_skh faboechā'
+\ID_en 323
+\ps Noun
+\de guest
+\dv tamu
+\dt 14/Mar/2024
+
+\lx_skh datoe'
+\ID_en 381
+\ps Noun
+\de guard
+\dv hulubalang
+\dt 15/Mar/2024
+
+\lx_skh euchi parangai
+\ID_en 367
+\ps Noun
+\de virtue
+\dv kebijakan
+\dt 15/Mar/2024
+
+\lx_skh nilo
+\ID_en 125
+\ps Noun
+\de saliva
+\dv ludah
+\dt 13/Mar/2024
+
+\lx_skh sètan
+\ID_en 339
+\ps Noun
+\de ghost
+\dv setan
+\dt 14/Mar/2024
+
+\lx_skh tepa
+\ID_en 7
+\ps Adjective
+\de bald
+\dv gundul, botak
+\dt 13/Mar/2024
+
+\lx_skh oela
+\ID_en 354
+\ps Noun
+\de letter
+\dv surat
+\dt 15/Mar/2024
+
+\lx_skh afoejoe'
+\ID_en 248
+\ps Noun
+\de virgin
+\dv gadis
+\dt 14/Mar/2024
+
+\lx_skh ofeu
+\ID_en 403
+\ps Noun
+\de credit bondsman
+\dv orang tergadai
+\dt 15/Mar/2024
+
+\lx_skh nòkae
+\ID_en 38
+\ps Noun
+\de neck
+\dv leher
+\dt 13/Mar/2024
+
+\lx_skh ade denih
+\ID_en 370
+\ps Adjective
+\de forbidden, taboo
+\dv pemali
+\dt 15/Mar/2024
+
+\lx_skh bivi
+\ID_en 25
+\ps Noun
+\de lips
+\dv bibir (jamak)
+\dt 13/Mar/2024
+
+\lx_skh ochiun boenoeh
+\ID_en 192
+\ps Verb
+\de to kill
+\dv membunuh
+\dt 14/Mar/2024
+
+\lx_skh saksi
+\ID_en 401
+\ps Noun
+\de witness
+\dv saksi
+\dt 15/Mar/2024
+
+\lx_skh gaai
+\ID_en 93
+\ps Noun
+\de calf
+\dv betis
+\dt 13/Mar/2024
+
+\lx_skh meuleut²
+\ID_en 148
+\ps Verb
+\de to lie
+\dv berbaring
+\dt 14/Mar/2024
+
+\lx_skh indo danga
+\ID_en 108
+\ps Noun
+\de thumb
+\dv ibu jari
+\dt 13/Mar/2024
+
+\lx_skh beesipat
+\ID_en 140
+\ps Noun
+\de dream
+\dv impian
+\dt 14/Mar/2024
+
+\lx_skh boe sunget
+\ID_en 15
+\ps Noun
+\de eyebrow
+\dv alis (tunggal)
+\dt 13/Mar/2024
+
+\lx_skh naetō'
+\ID_en 36
+\ps Noun
+\de brains
+\dv otak
+\dt 13/Mar/2024
+
+\lx_skh ni kajoen
+\ID_en 157
+\ps Verb
+\de to speak with a burr
+\dv berbicara dengan artikulasi uvular
+\dt 14/Mar/2024
+
+\lx_skh foeundoe
+\ID_en 160
+\ps Verb
+\de to shout
+\dv berteriak
+\dt 14/Mar/2024
+
+\lx_skh dindō'
+\ID_en 400
+\ps Noun
+\de fine
+\dv denda
+\dt 15/Mar/2024
+
+\lx_skh nafeu
+\ID_en 319
+\ps Noun
+\de friend
+\dv teman, sahabat
+\dt 14/Mar/2024
+
+\lx_skh bailun
+\ID_en 198
+\ps Noun
+\de scar
+\dv bekas luka
+\dt 14/Mar/2024
+
+\lx_skh mata
+\ID_en 11
+\ps Noun
+\de eye
+\dv mata
+\dt 13/Mar/2024
+
+\lx_skh soelat²
+\ID_en 415
+\ps Verb
+\de to commit adultery
+\dv berzinah
+\dt 15/Mar/2024
+
+\lx_skh allah ta allah
+\ID_en 349
+\ps Noun
+\de god
+\dv allah ; tuhan
+\dt 14/Mar/2024
+
+\lx_skh koeboer-djirat
+\ID_en 190
+\ps Verb
+\de to bury
+\dv mengubur
+\dt 14/Mar/2024
+
+\lx_skh toean alami
+\ID_en 345
+\ps Noun
+\de the supreme being
+\dv yang maha kuasa
+\dt 14/Mar/2024
+
+\lx_skh kakah (kasewå)
+\ID_en 291-294
+\ps Noun
+\de niece
+\dv keponakan
+\dt 14/Mar/2024
+
+\lx_skh silakå
+\ID_en 392
+\ps Noun
+\de unhappiness
+\dv kesedihan, kemalangan
+\dt 15/Mar/2024
+
+\lx_skh dangan
+\ID_en 97
+\ps Noun
+\de hand
+\dv tangan
+\dt 13/Mar/2024
+
+\lx_skh imatoea nonoko
+\ID_en 243/244
+\ps Adjective
+\de male
+\dv pria
+\dt 14/Mar/2024
+
+\lx_skh kertas
+\ID_en 353
+\ps Noun
+\de paper
+\dv kertas
+\dt 15/Mar/2024
+
+\lx_skh boe doehoe
+\ID_en 6
+\ps Noun
+\de hair
+\dv rambut
+\dt 13/Mar/2024
+
+\lx_skh toemataō'
+\ID_en 151
+\ps Verb
+\de to sit (with the knees bent to one side)
+\dv bertimpuh
+\dt 14/Mar/2024
+
+\lx_skh baeuna
+\ID_en 169
+\ps Verb
+\de to sneeze
+\dv bersin
+\dt 14/Mar/2024
+
+\lx_skh nènè' bapa'
+\ID_en 263
+\ps Noun
+\de grandfather
+\dv nenek laki-laki (kakek)
+\dt 14/Mar/2024
+
+\lx_skh afecheu dehoe
+\ID_en 219
+\ps Noun
+\de headache
+\dv sakit kepala, pusing
+\dt 14/Mar/2024
+
+\lx_skh besélō'
+\ID_en 152
+\ps Verb
+\de to squat
+\dv berjongkok
+\dt 14/Mar/2024
+
+\lx_skh toemataō'
+\ID_en 149
+\ps Verb
+\de to sit (on a chair)
+\dv duduk (di atas kursi)
+\dt 14/Mar/2024
+
+\lx_skh koemoe
+\ID_en 197
+\ps Noun
+\de an infected wound
+\dv luka bernanah
+\dt 14/Mar/2024
+
+\lx_skh koeta
+\ID_en 327
+\ps Noun
+\de town (capital)
+\dv kota (ibu kota)
+\dt 14/Mar/2024
+
+\lx_skh afecheu chadeula
+\ID_en 220
+\nt <5>
+\ps Noun
+\de rheumatism
+\dv sengal, encok
+\dt 14/Mar/2024
+
+\lx_skh deuwoe
+\ID_en 233/234
+\ps Noun
+\de drug
+\dv obat
+\dt 14/Mar/2024
+
+\lx_skh laloea kahé
+\ID_en 89
+\ps Noun
+\de heel
+\dv tumit
+\dt 13/Mar/2024
+
+\lx_skh ònò dimatoewa
+\ID_en 261
+\ps Noun
+\de son
+\dv anak laki-laki
+\dt 14/Mar/2024
+
+\lx_skh nifoefoei
+\ID_en 126
+\ps Noun
+\de phlegm
+\dv dahak
+\dt 13/Mar/2024
+
+\lx_skh oeméndo
+\ID_en 144
+\ps Verb
+\de to stand
+\dv berdiri
+\dt 14/Mar/2024

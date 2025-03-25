@@ -1,0 +1,2183 @@
+
+\lx sōngon dīja
+\ID_en 1461
+\ps Adverb
+\de how
+\d_id bagaimana
+\dt 21/Apr/2024
+
+\lx ngalī
+\ID_en 1106/1107
+\ps Adjective
+\de cold
+\d_id dingin
+\dt 21/Apr/2024
+
+\lx paet
+\ID_en 1163
+\ps Adjective
+\de bitter
+\d_id pahit
+\dt 21/Apr/2024
+
+\lx montjī na baoe
+\ID_en 853
+\ps Noun
+\de shrew
+\d_id tikus mondok
+\dt 12/Mar/2024
+
+\lx daō
+\ID_en 1453
+\ps Adverb
+\de far
+\d_id jauh
+\dt 21/Apr/2024
+
+\lx sìra
+\ID_en 1166
+\nt <36>
+\ps Adjective
+\de salty
+\d_id asin
+\dt 26/Apr/2024
+
+\lx dīgīndjàng
+\ID_en 1437
+\ps Adverb
+\de up, upper, above
+\d_id diatas
+\dt 21/Apr/2024
+
+\lx oetoe
+\ID_en 870
+\ps Noun
+\de flea
+\d_id kutu anjing
+\dt 14/Mar/2024
+
+\lx na toewarī
+\ID_en 1418
+\ps Adverb
+\de yesterday
+\d_id kemarin
+\dt 21/Apr/2024
+
+\lx tīboe
+\ID_en 1066
+\ps Adjective
+\de short (time)
+\d_id singkat, pendek
+\dt 21/Apr/2024
+
+\lx ōlō
+\ID_en 1472
+\ps Adverb
+\de yes
+\d_id ya
+\dt 21/Apr/2024
+
+\lx paraoe dagàng
+\ID_en 1029
+\ps Noun
+\de ship (trading vessel)
+\d_id kapal dagang
+\dt 21/Apr/2024
+
+\lx mokmok
+\ID_en 1067
+\ps Adjective
+\de big, fat
+\d_id gemuk
+\dt 21/Apr/2024
+
+\lx manoboesī
+\ID_en 1010
+\ps Verb
+\de to buy
+\d_id membeli
+\dt 28/Mar/2024
+
+\lx sōlok
+\ID_en 937
+\ps Noun
+\de bay
+\d_id teluk
+\dt 14/Mar/2024
+
+\lx pīntàr
+\ID_en 1160
+\ps Adjective
+\de clever
+\d_id pintar
+\dt 21/Apr/2024
+
+\lx sadari on
+\ID_en 1420
+\ps Adverb
+\de today
+\d_id hari ini
+\dt 21/Apr/2024
+
+\lx loepa
+\ID_en 1197
+\ps Verb
+\de to have forgotten something
+\d_id lupa
+\dt 21/Apr/2024
+
+\lx làndoek
+\ID_en 850
+\ps Noun
+\de cherrotain mousedeer
+\d_id kancil
+\dt 14/Mar/2024
+
+\lx panaīl
+\ID_en 1027
+\ps Noun
+\de measures and weights (mass)
+\d_id ukuran dan berat (berat)
+\dt 21/Apr/2024
+
+\lx rakīt
+\ID_en 1050
+\ps Noun
+\de raft
+\d_id rakit
+\dt 21/Apr/2024
+
+\lx sōnāng
+\ID_en 1155
+\ps Adjective
+\de wealthy
+\d_id kaya
+\dt 21/Apr/2024
+
+\lx arangàn
+\ID_en 955
+\ps Noun
+\de forest, woods
+\d_id hutan
+\dt 15/Mar/2024
+
+\lx gontīng tanō
+\ID_en 945
+\ps Noun
+\de isthmus
+\d_id tanah genting
+\dt 15/Mar/2024
+
+\lx mīlàs
+\ID_en 1104/1105
+\ps Adjective
+\de hot
+\d_id panas
+\dt 21/Apr/2024
+
+\lx na gōdang àrga
+\ID_en 1011
+\ps Adjective
+\de expensive
+\d_id mahal
+\dt 28/Mar/2024
+
+\lx màrdajoeng
+\ID_en 1043
+\ps Verb
+\de to row, to pull
+\d_id mengayuh
+\dt 21/Apr/2024
+
+\lx bīntàng
+\ID_en 912
+\nt <33>
+\ps Noun
+\de star
+\d_id bintang
+\dt 26/Apr/2024
+
+\lx daràt
+\ID_en 942
+\ps Noun
+\de land
+\d_id darat
+\dt 14/Mar/2024
+
+\lx duif (soorten)
+\ID_en 824
+\nt <26>
+\ps Noun
+\de pigeon
+\d_id burung merpati
+\dt 26/Apr/2024
+
+\lx dapot
+\ID_en 1175
+\ps Verb
+\de to find
+\d_id menemukan
+\dt 21/Apr/2024
+
+\lx ane ane
+\ID_en 884
+\nt <30>
+\ps Noun
+\de ant
+\d_id macam-macam semut
+\dt 26/Apr/2024
+
+\lx mangalàp
+\ID_en 1180
+\ps Verb
+\de to get
+\d_id pergi mengambil
+\dt 21/Apr/2024
+
+\lx rambàng rambang
+\ID_en 871
+\ps Noun
+\de spider
+\d_id laba-laba
+\dt 14/Mar/2024
+
+\lx manawàr
+\ID_en 1020
+\ps Verb
+\de to offer
+\d_id mempersembahkan
+\dt 28/Mar/2024
+
+\lx oedàn
+\ID_en 919
+\ps Noun
+\de rain
+\d_id hujan
+\dt 14/Mar/2024
+
+\lx poelo
+\ID_en 944
+\dt 15/Mar/2024
+
+\lx montjī
+\ID_en 851
+\ps Noun
+\de mouse
+\d_id tikus
+\dt 14/Mar/2024
+
+\lx marīhō īhō
+\ID_en 808
+\ps Verb
+\de to neigh, to whinny
+\d_id meringkik
+\dt 14/Mar/2024
+
+\dt 26/Apr/2024
+
+\lx angīn
+\ID_en 928
+\ps Noun
+\de wind
+\d_id angin
+\dt 14/Mar/2024
+
+\lx gōdang
+\ID_en 1061
+\ps Adjective
+\de great, big
+\d_id besar
+\dt 21/Apr/2024
+
+\lx gàrgana mata nī arī
+\ID_en 907
+\ps Noun
+\de sun eclipse
+\d_id gerhana matahari
+\dt 14/Mar/2024
+
+\lx matjom
+\ID_en 1162
+\ps Adjective
+\de sour
+\d_id kecut, masam
+\dt 21/Apr/2024
+
+\lx alīhī
+\ID_en 843
+\ps Noun
+\de kite (bird)
+\d_id burung rajawali
+\dt 14/Mar/2024
+
+\lx onīng
+\ID_en 1109/1110
+\ps Adjective
+\de round
+\d_id bulat
+\dt 21/Apr/2024
+
+\lx nadjolo
+\ID_en 1411
+\ps Noun
+\de formerly
+\d_id tempo hari
+\dt 21/Apr/2024
+
+\lx pondok
+\ID_en 1065
+\ps Adjective
+\de short (things)
+\d_id pendek
+\dt 21/Apr/2024
+
+\lx langīt
+\ID_en 905
+\ps Noun
+\de sky
+\d_id langit
+\dt 14/Mar/2024
+
+\lx songon ī
+\ID_en 1462
+\ps Adverb
+\de like this, like that
+\d_id begini, begitu
+\dt 21/Apr/2024
+
+\lx Saoedagàr
+\ID_en 995
+\nt <34>
+\ps Noun
+\de merchant
+\d_id saudagar, pedagang
+\dt 26/Apr/2024
+
+\lx màmboewàt
+\ID_en 1179
+\ps Verb
+\de to take
+\d_id mengambil
+\dt 21/Apr/2024
+
+\lx nàngkīn
+\ID_en 1416
+\ps Adverb
+\de a moment ago
+\d_id tadi
+\dt 21/Apr/2024
+
+\lx pàndōnganī
+\ID_en 999
+\ps Noun
+\de follower
+\d_id pengikut
+\dt 25/Mar/2024
+
+\lx nīpīs
+\ID_en 1070
+\ps Adjective
+\de thin
+\d_id tipis
+\dt 21/Apr/2024
+
+\lx Pàrlaboewàn
+\ID_en 1051
+\ps Noun
+\de harbour
+\d_id pelabuhan
+\dt 21/Apr/2024
+
+\lx līdàng
+\ID_en 1089
+\ps Adjective
+\de straight
+\d_id lurus
+\dt 21/Apr/2024
+
+\lx bareràng
+\ID_en 980
+\ps Noun
+\de sulphur
+\d_id belerang
+\dt 24/Mar/2024
+
+\lx pōsō
+\ID_en 1152
+\ps Adjective
+\de young
+\d_id muda
+\dt 21/Apr/2024
+
+\lx babījàt
+\ID_en 815
+\ps Noun
+\de tiger
+\d_id harimau
+\dt 12/Mar/2024
+
+\lx na apàl
+\ID_en 1068
+\ps Adjective
+\de thick
+\d_id tebal
+\dt 21/Apr/2024
+
+\lx tīngon
+\ID_en 1446
+\ps Preposition
+\de from
+\d_id dari
+\dt 21/Apr/2024
+
+\lx saonnarī
+\ID_en 1410
+\ps Adverb
+\de now, at present
+\d_id kini
+\dt 21/Apr/2024
+
+\lx panjoewàt nī làndjàng
+\ID_en 1026
+\ps Noun
+\de measures and weights (length)
+\d_id ukuran dan berat (panjang)
+\dt 21/Apr/2024
+
+\lx oetara
+\ID_en 1431
+\ps Adverb
+\de north
+\d_id utara
+\dt 21/Apr/2024
+
+\lx roemàr
+\ID_en 1142
+\ps Adjective
+\de empty
+\d_id kosong
+\dt 21/Apr/2024
+
+\lx sīmoelmoelàan
+\ID_en 967
+\ps Noun
+\de spring, source
+\d_id mata air, sumber air
+\dt 24/Mar/2024
+
+\lx labo
+\ID_en 1008
+\ps Noun
+\de profit
+\d_id untung, laba
+\dt 28/Mar/2024
+
+\lx panjamoen dī laoet
+\ID_en 1053
+\ps Noun
+\de pirate
+\d_id bajak laut
+\dt 21/Apr/2024
+
+\lx ījan pandjàng
+\ID_en 865
+\ps Noun
+\de eel
+\d_id belut
+\dt 14/Mar/2024
+
+\lx mànggaràr oetàng
+\ID_en 1014
+\ps Verb
+\de to dun
+\d_id menagih
+\dt 28/Mar/2024
+
+\lx abahaba
+\ID_en 929
+\ps Noun
+\de storm
+\d_id badai, angin ribut
+\dt 21/Apr/2024
+
+\lx nadjàt
+\ID_en 1136-1139
+\ps Adjective
+\de ugly
+\d_id jelek
+\dt 21/Apr/2024
+
+\lx gompoel
+\ID_en 817
+\ps Noun
+\de bear
+\d_id beruang
+\dt 14/Mar/2024
+
+\lx ombàk
+\ID_en 935
+\ps Noun
+\de wave
+\d_id ombak
+\dt 14/Mar/2024
+
+\lx màrsoewadaon
+\ID_en 1198
+\ps Verb
+\de to deny
+\d_id menyangkal
+\dt 21/Apr/2024
+
+\lx omboen
+\ID_en 921
+\ps Noun
+\de cloud
+\d_id awan
+\dt 14/Mar/2024
+
+\lx ornop, alīpàk
+\ID_en 1095
+\ps Adjective
+\de heavy
+\d_id berat
+\dt 21/Apr/2024
+
+\lx manjondoek
+\ID_en 1042
+\ps Verb
+\de to paddle
+\d_id mengayuh
+\dt 21/Apr/2024
+
+\lx bījaok, bànggīk
+\ID_en 899
+\ps Noun
+\de iguana
+\d_id biawak
+\dt 14/Mar/2024
+
+\lx didjōlō
+\ID_en 1412/1413
+\ps Adverb
+\de before
+\d_id sebelum
+\dt 21/Apr/2024
+
+\lx tīngon gīndjàng
+\ID_en 1439
+\ps Adverb
+\de from above
+\d_id dari atas
+\dt 21/Apr/2024
+
+\lx lōkàn
+\ID_en 894
+\ps Noun
+\de shell
+\d_id kulit kerang
+\dt 14/Mar/2024
+
+\lx alījàng
+\ID_en 1454
+\ps Adverb
+\de around, surrounding
+\d_id se-keliling
+\dt 21/Apr/2024
+
+\lx màrrajàr
+\ID_en 1037
+\ps Verb
+\de to sail
+\d_id berlayar
+\dt 21/Apr/2024
+
+\lx gàrgana boelàn
+\ID_en 911
+\ps Noun
+\de moon eclipse
+\d_id gerhana bulan
+\dt 14/Mar/2024
+
+\lx dōlok
+\ID_en 947
+\ps Noun
+\de mountain
+\d_id gunung
+\dt 15/Mar/2024
+
+\lx panàngkō alak
+\ID_en kidnapper
+\ps Noun
+\de kidnapper
+\d_id penculik
+\dt 21/Apr/2024
+
+\lx dajoeng
+\ID_en 1040
+\ps Noun
+\de oar, paddle
+\d_id pengayuh
+\dt 21/Apr/2024
+
+\lx boelàn
+\hm 1
+\ID_en 908
+\nt <32>
+\ps Noun
+\de moon
+\d_id bulan
+\dt 26/Apr/2024
+
+\lx boelàn
+\hm 2
+\ID_en 910
+\ps Noun
+\de month (name of the months)
+\d_id bulan (nama-nama bulan)
+\dt 14/Mar/2024
+
+\lx oelok
+\ID_en 886
+\nt <31>
+\ps Noun
+\de snake
+\d_id ular
+\dt 26/Apr/2024
+
+\lx īpon nī porkàs
+\ID_en 925
+\ps Noun
+\de thunderstone
+\d_id batu guntur
+\dt 14/Mar/2024
+
+\lx tàptàp, loepoek
+\ID_en 1127
+\ps Adjective
+\de wet
+\d_id basah
+\dt 21/Apr/2024
+
+\lx gorsīng
+\ID_en 1171
+\ps Adjective
+\de yellow
+\d_id kuning
+\dt 21/Apr/2024
+
+\lx mànggaràr
+\ID_en 1015
+\ps Verb
+\de to pay
+\d_id membayar
+\dt 28/Mar/2024
+
+\lx bangō
+\ID_en 840
+\ps Noun
+\de heron
+\d_id burung bangau
+\dt 14/Mar/2024
+
+\lx panaīl
+\ID_en 1024
+\ps Noun
+\de steelyard, weigh-beam
+\d_id dacin
+\dt 21/Apr/2024
+
+\lx naratjō
+\ID_en 1025
+\ps Noun
+\de a pair of scales
+\d_id timbangan
+\dt 21/Apr/2024
+
+\lx sere
+\ID_en 977
+\ps Noun
+\de gold
+\d_id emas
+\dt 24/Mar/2024
+
+\lx īdjang
+\ID_en 849
+\ps Noun
+\de deer
+\d_id kijang
+\dt 14/Mar/2024
+
+\lx pōràn
+\ID_en 1131
+\ps Adjective
+\de bad
+\d_id buruk, jahat
+\dt 21/Apr/2024
+
+\lx rimbaroe
+\ID_en 1153
+\ps Adjective
+\de new
+\d_id baru
+\dt 21/Apr/2024
+
+\lx dajoek
+\ID_en 1102
+\ps Adjective
+\de weak
+\d_id lembek, lemah
+\dt 21/Apr/2024
+
+\lx onàn, poken
+\ID_en 1002
+\ps Noun
+\de market
+\d_id pasar
+\dt 28/Mar/2024
+
+\lx dohot
+\ID_en 1469
+\ps conjunction
+\de and
+\d_id dan
+\dt 26/Apr/2024
+
+\lx asījangàn
+\ID_en 903
+\ps Noun
+\de universe
+\d_id alam semesta
+\dt 14/Mar/2024
+
+\lx sōsàk
+\ID_en 898
+\ps Noun
+\de lizard
+\d_id kadal
+\dt 14/Mar/2024
+
+\lx tadjom
+\ID_en 1098
+\ps Adjective
+\de sharp
+\d_id tajam
+\dt 21/Apr/2024
+
+\lx amoen
+\ID_en 1436
+\ps Adverb
+\de right
+\d_id kanan
+\dt 21/Apr/2024
+
+\lx karàng
+\ID_en 940
+\ps Noun
+\de sandbank
+\d_id busung pasir
+\dt 14/Mar/2024
+
+\lx pastīma
+\ID_en 1434
+\ps Adverb
+\de west
+\d_id barat
+\dt 21/Apr/2024
+
+\lx paraoe pōràmg
+\ID_en 1030
+\ps Noun
+\de ship (warship)
+\d_id kapal perang
+\dt 21/Apr/2024
+
+\lx ījàng
+\ID_en 1125
+\ps Adjective
+\de dry
+\d_id kering
+\dt 21/Apr/2024
+
+\lx bolàk
+\ID_en 1113
+\ps Adjective
+\de broad
+\d_id luas, lebar
+\dt 21/Apr/2024
+
+\lx balok
+\ID_en 962
+\ps Noun
+\de border, boundary
+\d_id batas
+\dt 24/Mar/2024
+
+\lx poerba
+\ID_en 1433
+\ps Adverb
+\de east
+\d_id timur
+\dt 21/Apr/2024
+
+\lx gōgō
+\ID_en 1117
+\ps Adjective
+\de strong
+\d_id kokoh
+\dt 21/Apr/2024
+
+\lx moesīn
+\ID_en 1407
+\ps Noun
+\de monsoon
+\d_id musim
+\dt 21/Apr/2024
+
+\lx màrngeong
+\ID_en 814
+\ps Verb
+\de to miaow
+\d_id mengeong
+\dt 14/Mar/2024
+
+\lx aèk
+\ID_en 930
+\ps Noun
+\de water
+\d_id air
+\dt 14/Mar/2024
+
+\lx dītōroe
+\ID_en 1440
+\ps Adverb
+\de under
+\d_id di bawah
+\dt 21/Apr/2024
+
+\lx toema
+\ID_en 866
+\ps Noun
+\de louse
+\d_id kutu
+\dt 14/Mar/2024
+
+\lx pīt
+\ID_en 1101
+\ps Adjective
+\de hard
+\d_id keras
+\dt 21/Apr/2024
+
+\lx dītōroe
+\ID_en 1444
+\ps Adverb
+\de below, beneath
+\d_id bawah
+\dt 21/Apr/2024
+
+\lx màrsàmbàr
+\ID_en 1019
+\ps Verb
+\de to exchange
+\d_id menukar
+\dt 28/Mar/2024
+
+\lx àmpot
+\ID_en 1467
+\ps Adverb
+\de maybe
+\d_id barangkali
+\dt 21/Apr/2024
+
+\lx natoewarī sada
+\ID_en 1419
+\ps Adverb
+\de the day before yesterday
+\d_id kemarin dulu
+\dt 21/Apr/2024
+
+\lx taī
+\ID_en 1481
+\ps Adverb
+\de however, nevertheless
+\d_id walaupun, meskipun
+\dt 26/Apr/2024
+
+\lx màmbaen pàrdamejàn
+\ID_en 993
+\ps Noun
+\de to make peace
+\d_id berdamai, mengadakan perdamaian
+\dt 25/Mar/2024
+
+\lx roera
+\ID_en 952
+\ps Noun
+\de valley
+\d_id lembah
+\dt 15/Mar/2024
+
+\lx naron
+\ID_en 1409
+\ps Adverb
+\de shortly
+\d_id sebentar lagi
+\dt 21/Apr/2024
+
+\lx tabō tabō, mokmok
+\ID_en 1072-1074
+\ps Adverb
+\de far
+\d_id jauh
+\dt 21/Apr/2024
+
+\lx màrtaī, mangaroendīngkon
+\ID_en 992
+\ps Verb
+\de to negotiate
+\d_id berunding
+\dt 25/Mar/2024
+
+\lx dīdīja
+\ID_en 1460
+\ps Adverb
+\de where
+\d_id di mana
+\dt 21/Apr/2024
+
+\lx tàmbàt
+\ID_en 1146/1147
+\ps Adjective
+\de fixed
+\d_id tetap
+\dt 26/Apr/2024
+
+\lx menèk
+\ID_en 1062
+\ps Adjective
+\de small
+\d_id kecil
+\dt 21/Apr/2024
+
+\lx Gotīng laoet
+\ID_en 939
+\ps Noun
+\de strait(s)
+\d_id selat
+\dt 14/Mar/2024
+
+\lx gedoek
+\ID_en 1090
+\ps Adjective
+\de crooked, bent
+\d_id bengkok
+\dt 21/Apr/2024
+
+\lx dī
+\ID_en 1448
+\ps Preposition
+\de at, in
+\d_id di
+\dt 21/Apr/2024
+
+\lx momoer, aèk magōdàng
+\ID_en 934
+\ps Noun
+\de flood, tide
+\d_id pasang
+\dt 14/Mar/2024
+
+\lx hoem
+\ID_en 1477
+\ps Adverb
+\de only
+\d_id hanya
+\dt 21/Apr/2024
+
+\lx bīroe
+\ID_en 1172
+\ps Adjective
+\de blue
+\d_id biru
+\dt 21/Apr/2024
+
+\lx lōpoes, sàlpoe
+\ID_en 1414
+\ps Adverb
+\de formerly
+\d_id dahulu kala
+\dt 21/Apr/2024
+
+\lx asī nī rōwa
+\ID_en 991
+\ps Noun
+\de gift, present
+\d_id hadiah, pemberian
+\dt 24/Mar/2024
+
+\lx dōhot
+\ID_en 1470
+\ps Preposition
+\de with
+\d_id dengan
+\dt 21/Apr/2024
+
+\lx sījapor
+\ID_en 881
+\nt <29>
+\ps Noun
+\de grasshopper
+\d_id belalang
+\dt 26/Apr/2024
+
+\lx kōhot
+\ID_en 1114
+\ps Adjective
+\de small
+\d_id kecil
+\dt 21/Apr/2024
+
+\lx làndjang
+\ID_en 1063/1064
+\ps Adverb
+\de long
+\d_id panjang
+\dt 26/Apr/2024
+
+\lx taon
+\ID_en 1406
+\ps Noun
+\de year
+\d_id tahun
+\dt 21/Apr/2024
+
+\lx najàng
+\ID_en 1096
+\ps Adjective
+\de light
+\d_id ringan
+\dt 21/Apr/2024
+
+\lx batoe
+\ID_en 969
+\ps Noun
+\de stone
+\d_id batu
+\dt 24/Mar/2024
+
+\lx gok
+\ID_en 1143
+\ps Adjective
+\de full
+\d_id penuh
+\dt 21/Apr/2024
+
+\lx lōjang
+\ID_en 975
+\ps Noun
+\de bronze
+\d_id perunggu
+\dt 24/Mar/2024
+
+\lx rongīt
+\ID_en 877
+\ps Noun
+\de mosquito
+\d_id nyamuk
+\dt 14/Mar/2024
+
+\lx paraoe
+\ID_en 1032
+\ps Noun
+\de rowboat
+\d_id kapal (sampan)
+\dt 21/Apr/2024
+
+\lx oersa
+\ID_en 809
+\ps Noun
+\de deer
+\d_id rusa
+\dt 14/Mar/2024
+
+\lx njījàng
+\ID_en 1071
+\ps Adjective
+\de thin, meagre, skinny
+\d_id kurus
+\dt 21/Apr/2024
+
+\lx na bahat
+\ID_en 1459
+\ps Adjective
+\de many
+\d_id banyak
+\dt 21/Apr/2024
+
+\lx tījang rajàr
+\ID_en 1035
+\ps Noun
+\de mast
+\d_id tiang perahu
+\dt 21/Apr/2024
+
+\lx Mangōkoe , mametōhon
+\ID_en 1199
+\ps Verb
+\de to confess
+\d_id mengaku
+\dt 21/Apr/2024
+
+\lx na lele, na rīskīng
+\ID_en 1075
+\ps Adjective
+\de slim
+\d_id langsing
+\dt 21/Apr/2024
+
+\lx tonggī
+\ID_en 1161
+\ps Adjective
+\de sweet
+\d_id manis
+\dt 21/Apr/2024
+
+\lx bodàt
+\ID_en 854
+\nt <27>
+\ps Noun
+\de monkey
+\d_id monyet, kera
+\dt 26/Apr/2024
+
+\lx màrboelàn
+\ID_en 994
+\ps Noun
+\de to sign a treaty
+\d_id perjanjian, memutuskan perjanjian
+\dt 25/Mar/2024
+
+\lx adoewà
+\ID_en 1423
+\ps Adverb
+\de the day after tomorrow
+\d_id lusa
+\dt 21/Apr/2024
+
+\lx andīgàn
+\ID_en 1427
+\ps Adverb
+\de when
+\d_id kapan, bilamana
+\dt 21/Apr/2024
+
+\lx morgoe
+\ID_en 804
+\ps Noun
+\de bull
+\d_id sapi (jantan)
+\dt 14/Mar/2024
+
+\lx andjīng
+\ID_en 811
+\ps Noun
+\de dog
+\d_id anjing
+\dt 14/Mar/2024
+
+\lx paraoe
+\ID_en 1029/1030
+\ps Noun
+\de ship
+\d_id kapal
+\dt 21/Apr/2024
+
+\lx montjī boeloe
+\ID_en 852
+\ps Noun
+\de rat
+\d_id tikus
+\dt 14/Mar/2024
+
+\lx aloewàng
+\ps Noun
+\de bat
+\d_id kalong
+\dt 14/Mar/2024
+
+\lx na moera àrga
+\ID_en 1012
+\ps Adjective
+\de cheap
+\d_id murah
+\dt 28/Mar/2024
+
+\lx loewàt, loembàn
+\ID_en 943
+\ps Noun
+\de land (state)
+\d_id nrgara
+\dt 14/Mar/2024
+
+\lx djàmboer
+\ID_en 1001
+\nt <35>
+\ps Noun
+\de shop
+\d_id toko, warung
+\dt 26/Apr/2024
+
+\lx oedjoeng nī tanō
+\ID_en 946
+\ps Noun
+\de cape
+\d_id tanjung, ujung
+\dt 15/Mar/2024
+
+\lx mànggadīs
+\ID_en 1016
+\ps Verb
+\de to sell
+\d_id menjual
+\dt 28/Mar/2024
+
+\lx īntjōgot
+\ID_en 1422
+\ps Adverb
+\de tomorrow
+\d_id besok
+\dt 21/Apr/2024
+
+\lx tīngon toroe
+\ID_en 1441
+\ps Adverb
+\de from underneath
+\d_id dari bawah
+\dt 21/Apr/2024
+
+\lx opal apī
+\ID_en 1031
+\ps Noun
+\de steamboat
+\d_id kapal uap
+\dt 21/Apr/2024
+
+\lx Karàng
+\ID_en 941
+\ps Noun
+\de coral reef
+\d_id karang
+\dt 14/Mar/2024
+
+\lx tànggīlīng
+\ID_en 822
+\ps Noun
+\de ant-eater (manis javanica)
+\d_id tenggiling
+\dt 14/Mar/2024
+
+\lx bōsi, tōpaon
+\ID_en 973
+\ps Noun
+\de iron
+\d_id besi
+\dt 24/Mar/2024
+
+\lx sondoek
+\ID_en 1041
+\ps Noun
+\de paddle
+\d_id pengayuh
+\dt 21/Apr/2024
+
+\lx alīboetongàn
+\ID_en 923
+\ps Noun
+\de rainbow
+\d_id pelangi
+\dt 14/Mar/2024
+
+\lx tōpī laoet
+\ID_en 938
+\ps Noun
+\de beach
+\d_id pantai
+\dt 14/Mar/2024
+
+\lx dangsīna
+\ID_en 1432
+\ps Adverb
+\de south
+\d_id selatan
+\dt 21/Apr/2024
+
+\lx boewaja
+\ID_en 900
+\ps Noun
+\de crocodile
+\d_id buaya
+\dt 14/Mar/2024
+
+\lx màmbōto
+\ID_en 1193
+\ps Verb
+\de to know
+\d_id tahu, mengetahui kenal
+\dt 21/Apr/2024
+
+\lx sīmbora baloenan
+\ID_en 979
+\ps Noun
+\de lead
+\d_id timah hitam
+\dt 24/Mar/2024
+
+\lx adjàran, koedō
+\ID_en 807
+\ps Noun
+\de horse
+\d_id kuda
+\dt 14/Mar/2024
+
+\lx djegès
+\ID_en 1131-1134
+\ps Adjective
+\de nice
+\d_id bagus
+\dt 21/Apr/2024
+
+\lx keke
+\ID_en 834
+\ps Noun
+\de parrot
+\d_id burung nuri
+\dt 14/Mar/2024
+
+\lx lomlom
+\ID_en 1168
+\ps Adjective
+\de black
+\d_id hitam
+\dt 21/Apr/2024
+
+\lx saoeh
+\ID_en 1049
+\ps Noun
+\de anchor
+\d_id sauh
+\dt 21/Apr/2024
+
+\lx manoek bōroe bōroe
+\ID_en 828
+\ps Noun
+\de hen
+\d_id ayam betina
+\dt 14/Mar/2024
+
+\lx napàl
+\ID_en 936
+\ps Noun
+\de breakers, surf
+\d_id gelombang
+\dt 14/Mar/2024
+
+\lx manganījajō, ōsom
+\ID_en 1059
+\ps Verb
+\de to ill-treat, to mishandle
+\d_id menganiaya
+\dt 21/Apr/2024
+
+\lx pade
+\ID_en 1476
+\ps Adverb
+\de yes, right, indeed
+\d_id ya, benar, betul
+\dt 21/Apr/2024
+
+\lx taoekèn
+\ID_en 1466
+\ps Adjective
+\de certainly, sure
+\d_id pasti
+\dt 21/Apr/2024
+
+\lx soewī ampàng
+\ID_en 1112
+\ps Adjective
+\de square
+\d_id persegi
+\dt 21/Apr/2024
+
+\lx màrtoboes
+\ID_en 1060
+\ps Verb
+\de to ransom
+\d_id menebus
+\dt 21/Apr/2024
+
+\lx lomboe bàntīng
+\ID_en 803
+\ps Noun
+\de cow
+\d_id Sapi (betina)
+\dt 14/Mar/2024
+
+\lx mata nī arī
+\ID_en 906
+\ps Noun
+\de sun
+\d_id matahari
+\dt 14/Mar/2024
+
+\lx sīp so
+\ID_en 1200
+\ps Verb
+\de to be silent
+\d_id diam
+\dt 21/Apr/2024
+
+\lx dī, dōnok
+\ID_en 1445
+\ps Preposition
+\de at
+\d_id di, pada
+\dt 21/Apr/2024
+
+\lx bagàs
+\ID_en 1083/1084
+\ps Adjective
+\de deep
+\d_id dalam
+\dt 21/Apr/2024
+
+\lx djagalàn
+\ID_en 1004
+\ps Noun
+\de merchandise
+\d_id barang dagangan
+\dt 28/Mar/2024
+
+\lx pàrkoesoràn nī bīntàng bīntàng
+\ID_en 904
+\ps Noun
+\de firmament
+\d_id langit
+\dt 14/Mar/2024
+
+\lx mangarōwaī
+\ID_en 1194
+\ps Verb
+\de to think
+\d_id berpikir
+\dt 21/Apr/2024
+
+\lx laoet
+\ID_en 931
+\ps Noun
+\de sea
+\d_id laut
+\dt 14/Mar/2024
+
+\lx saboengàn
+\ID_en 820
+\ps Noun
+\de marten (paradaxurus)
+\d_id luwak, musang
+\dt 14/Mar/2024
+
+\lx rups
+\ID_en 879
+\nt <28>
+\ps Noun
+\de caterpillar
+\d_id ulat (bulu)
+\dt 26/Apr/2024
+
+\lx djala, ràmbàng
+\ID_en 861
+\ps Noun
+\de net
+\d_id jala
+\dt 14/Mar/2024
+
+\lx arangàn karangàn
+\ID_en 957
+\ps Noun
+\de bush
+\d_id belukar
+\dt 15/Mar/2024
+
+\lx dōnok
+\ID_en 1452
+\ps Adverb
+\de nearby
+\d_id di dekat, di
+\dt 21/Apr/2024
+
+\lx peràk
+\ID_en 976
+\ps Noun
+\de silver
+\d_id perak
+\dt 24/Mar/2024
+
+\lx bontàr
+\ID_en 1167
+\ps Adjective
+\de white
+\d_id putih
+\dt 21/Apr/2024
+
+\lx Màrdjagàl
+\ID_en 1003
+\ps Verb
+\de to trade
+\d_id berdagang
+\dt 28/Mar/2024
+
+\lx màrngaoem
+\ID_en 816
+\ps Verb
+\de to roar
+\d_id mengaum
+\dt 14/Mar/2024
+
+\lx orsīk
+\ID_en 971
+\ps Noun
+\de sand
+\d_id pasir
+\dt 24/Mar/2024
+
+\lx īnjat
+\ID_en 1087
+\ps Adjective
+\de high
+\d_id tinggi
+\dt 21/Apr/2024
+
+\lx lalō
+\ID_en 927
+\ps Noun
+\de earthquake
+\d_id gempa bumi
+\dt 14/Mar/2024
+
+\lx sompīt
+\ID_en 1115
+\ps Adjective
+\de narrow
+\d_id sempit
+\dt 21/Apr/2024
+
+\lx laīng, moese
+\ID_en 1482
+\ps Adverb
+\de yet, still
+\d_id toh, namun
+\dt 21/Apr/2024
+
+\lx tàrdaràt, arom
+\ID_en 1052
+\ps Verb
+\de to be wrecked
+\d_id terdampar, kandas
+\dt 21/Apr/2024
+
+\lx oera oera, banīng
+\ID_en 901/902
+\ps Noun
+\de turtle
+\d_id penyu
+\dt 14/Mar/2024
+
+\lx tōoek
+\ID_en 896
+\ps Noun
+\de frog
+\d_id katak
+\dt 14/Mar/2024
+
+\lx ronggoer
+\ID_en 924
+\ps Noun
+\de thunder
+\d_id guruh
+\dt 14/Mar/2024
+
+\lx rasa
+\ID_en 1447
+\ps Preposition
+\de until
+\d_id hingga
+\dt 21/Apr/2024
+
+\lx pīdong kasoewarī
+\ID_en 823
+\ps Noun
+\de cassowary
+\d_id burung kasuari
+\dt 14/Mar/2024
+
+\lx saonmarī
+\ID_en 1408
+\ps Adverb
+\de now
+\d_id sekarang
+\dt 21/Apr/2024
+
+\lx oetīng
+\ID_en 813
+\ps Noun
+\de cat
+\d_id kucing
+\dt 14/Mar/2024
+
+\lx anàk ni manoek
+\ID_en 827
+\ps Noun
+\de chick
+\d_id anak ayam
+\dt 14/Mar/2024
+
+\lx balom
+\ID_en 835
+\ps Noun
+\de parakeet, budgerigar
+\d_id burung bayan
+\dt 14/Mar/2024
+
+\lx pade
+\ID_en 1135
+\ps Adjective
+\de beautiful (things)
+\d_id indah, bagus
+\dt 21/Apr/2024
+
+\lx màrtoenggoe, màkòngkong
+\ID_en 812
+\ps Verb
+\de to bark
+\d_id menyalak
+\dt 14/Mar/2024
+
+\lx lapàng
+\ID_en 1116
+\ps Adjective
+\de wide
+\d_id luas
+\dt 21/Apr/2024
+
+\lx toe
+\ID_en 1449
+\ps Preposition
+\de on
+\d_id di
+\dt 21/Apr/2024
+
+\lx sīkīn
+\ID_en 1154
+\ps Adjective
+\de poor
+\d_id miskin
+\dt 21/Apr/2024
+
+\lx tanō
+\ID_en 970
+\ps Noun
+\de earth (ground)
+\d_id tanah
+\dt 24/Mar/2024
+
+\lx rondō
+\ID_en 1088
+\ps Adjective
+\de low
+\d_id rendah
+\dt 21/Apr/2024
+
+\lx ngada adong
+\ID_en 1486
+\ps Adverb
+\de no, not a, none
+\d_id tidak, tidak ada, bukan
+\dt 21/Apr/2024
+
+\lx manombō, tīka tīka
+\ID_en 1426
+\ps Adverb
+\de now and then, occasionally
+\d_id kadang-kadang
+\dt 21/Apr/2024
+
+\lx dībagasàn
+\ID_en 1450
+\ps Adverb
+\de in, inside
+\d_id di (dalam)
+\dt 21/Apr/2024
+
+\lx portībī raja
+\ID_en 917
+\ps Noun
+\de earth (globe)
+\d_id bumi
+\dt 14/Mar/2024
+
+\lx batang aèk
+\ID_en 963
+\ps Noun
+\de river
+\d_id sungai
+\dt 24/Mar/2024
+
+\lx aroewàr
+\ID_en 1451
+\ps Adverb
+\de out, outside
+\d_id luar, (di) luar
+\dt 21/Apr/2024
+
+\lx amoedī
+\ID_en 1038
+\ps Noun
+\de rudder, helm
+\d_id kemudi
+\dt 21/Apr/2024
+
+\lx tōbāng
+\ID_en 1150
+\ps Adjective
+\de old
+\d_id tua
+\dt 21/Apr/2024
+
+\lx rebèng
+\ID_en 1097
+\ps Adjective
+\de slanting, sloping
+\d_id serong, miring
+\dt 21/Apr/2024
+
+\lx soeroet
+\ID_en 932
+\de ebb
+\d_id surut
+\dt 14/Mar/2024
+
+\lx napa
+\ID_en 951
+\ps Noun
+\de plain
+\d_id dataran
+\dt 15/Mar/2024
+
+\lx īnda
+\ID_en 1473-1475
+\ps Adverb
+\de not
+\d_id tidak, bukan, jangan
+\dt 21/Apr/2024
+
+\lx madoeng
+\ID_en 1428
+\nt <38>
+\ps Adverb
+\de already
+\d_id sudah
+\dt 26/Apr/2024
+
+\lx panjoewàt nī īsī
+\ID_en 1028
+\ps Noun
+\de measures and weights (volume and capacity)
+\d_id ukuran dan berat (isi dan kapasitas)
+\dt 21/Apr/2024
+
+\lx lajàng-lajàng
+\ID_en 336
+\ps Noun
+\de swallow
+\d_id burung layang-layang
+\dt 14/Mar/2024
+
+\lx lōlot, ōnok
+\ID_en 1064
+\ps Adjective
+\de long (time)
+\d_id lama
+\dt 21/Apr/2024
+
+\lx kotok pītoedar
+\ID_en 845
+\ps Noun
+\de squirrel
+\d_id bajing, tupai
+\dt 14/Mar/2024
+
+\lx kahàk
+\ID_en 825
+\ps Noun
+\de crow
+\d_id burung gagak
+\dt 14/Mar/2024
+
+\lx ngada dope
+\ID_en 1429
+\ps Adverb
+\de not yet
+\d_id belum
+\dt 21/Apr/2024
+
+\lx manoek
+\ID_en 826
+\ps Noun
+\de hen, chicken
+\d_id ayam
+\dt 14/Mar/2024
+
+\lx pangōlōl
+\ID_en 998
+\ps Noun
+\de servant
+\d_id pelayan
+\dt 25/Mar/2024
+
+\lx tor
+\ID_en 948
+\ps Noun
+\de hill
+\d_id bukit
+\dt 15/Mar/2024
+
+\lx manjōlàng
+\ID_en 1017/1018
+\ps Verb
+\de borrow
+\d_id pinjam
+\dt 28/Mar/2024
+
+\lx padjàt
+\ID_en 1085/1086
+\ps Adjective
+\de shallow
+\d_id dangkal
+\dt 21/Apr/2024
+
+\lx roegī
+\ID_en 1009
+\ps Noun
+\de loss
+\d_id rugi
+\dt 28/Mar/2024
+
+\lx oenggàs
+\ID_en 844
+\ps Noun
+\de bird
+\d_id burung
+\dt 14/Mar/2024
+
+\lx sīpàmbean
+\ID_en 996
+\ps Noun
+\de farmer
+\d_id petani
+\dt 25/Mar/2024
+
+\lx dènggàn, pade
+\ID_en 1130
+\ps Adjective
+\de good
+\d_id baik, bagus
+\dt 21/Apr/2024
+
+\lx mànggadeon
+\ID_en 1o21
+\ps Verb
+\de to pawn
+\d_id menggadaikan
+\dt 28/Mar/2024
+
+\lx Sīmbora
+\ID_en 978
+\ps Noun
+\de tin
+\d_id timah
+\dt 24/Mar/2024
+
+\lx gījot
+\ID_en 1478
+\ps Adverb
+\de almost
+\d_id hampir
+\dt 21/Apr/2024
+
+\lx līsa
+\ID_en 869
+\de nit
+\d_id telur kutu
+\dt 14/Mar/2024
+
+\lx àmbiràng
+\ID_en 1435
+\ps Adverb
+\de left
+\d_id kiri
+\dt 21/Apr/2024
+
+\lx maoewa
+\ID_en 1465
+\ps Adverb
+\de why
+\d_id mengapa
+\dt 21/Apr/2024
+
+\lx sīgedoek
+\ID_en 892
+\ps Noun
+\de shrimp
+\d_id udang
+\dt 14/Mar/2024
+
+\lx taī
+\ID_en 1479
+\ps conjunction
+\de but
+\d_id tapi
+\dt 26/Apr/2024
+
+\lx toekàng
+\ID_en 997
+\ps Noun
+\de craftsmen
+\d_id tukang, perajin
+\dt 25/Mar/2024
+
+\lx tombaga
+\ID_en 974
+\de copper
+\d_id tembaga
+\dt 24/Mar/2024
+
+\lx ngada, īnda
+\ID_en 1471
+\ps Adjective
+\de no
+\d_id tidak
+\dt 21/Apr/2024
+
+\lx tor bareràng, dōlok bareràng
+\ID_en 958
+\ps Noun
+\de volcano
+\d_id gunung berapi
+\dt 15/Mar/2024
+
+\lx dongàn
+\ID_en 1000
+\ps Noun
+\de ally
+\d_id sekutu
+\dt 28/Mar/2024
+
+\lx paraoe
+\ID_en 1033
+\ps Noun
+\de proa, canoe
+\d_id perahu
+\dt 21/Apr/2024
+
+\lx mangoedoet
+\ID_en 1164
+\ps Adjective
+\de astringent
+\d_id sepat
+\dt 21/Apr/2024
+
+\lx lompong
+\ID_en 846
+\ps Noun
+\de bat
+\d_id kelelawar
+\dt 14/Mar/2024
+
+\lx na apàl
+\ID_en 1067/1068
+\ps Adjective
+\de thick
+\d_id tebal
+\dt 26/Apr/2024
+
+\lx soewatan dohot panjoewàt
+\ID_en 1026-1028
+\ps Noun
+\de weights and measures
+\d_id berat dan ukuran
+\dt 26/Apr/2024
+
+\lx màndjalai
+\ID_en 1174
+\ps Verb
+\de to look for
+\d_id mencari
+\dt 21/Apr/2024
+
+\lx pama rama, saba saba
+\ID_en 878
+\ps Noun
+\de butterfly
+\d_id kupu-kupu
+\dt 14/Mar/2024
+
+\lx orbō
+\ID_en 800-802
+\ps Noun
+\de buffalo
+\d_id kerbau
+\dt 12/Mar/2024
+
+\lx otō
+\ID_en 1159
+\ps Adjective
+\de dumb
+\d_id bodoh
+\dt 21/Apr/2024
+
+\lx làndjàng
+\ID_en 1063
+\ps Adjective
+\de long (things)
+\d_id panjang
+\dt 21/Apr/2024
+
+\lx oetàng
+\ID_en 1013
+\ps Noun
+\de debt
+\d_id hutang
+\dt 28/Mar/2024
+
+\lx mangīngot
+\ID_en 1996
+\ps Verb
+\de to remember
+\d_id mengingat, mengenang
+\dt 21/Apr/2024
+
+\lx goendjō
+\ID_en 818
+\ps Noun
+\de porcupine
+\d_id landak
+\dt 14/Mar/2024
+
+\lx goja
+\ID_en 891
+\de worm
+\d_id cacing
+\dt 14/Mar/2024
+
+\lx rara tobàng
+\ID_en 1170
+\ps Adjective
+\de brown
+\d_id coklat
+\dt 21/Apr/2024
+
+\lx borngīn
+\ID_en 1402
+\nt <37>
+\ps Noun
+\de night (time of the night)
+\d_id malam
+\dt 26/Apr/2024
+
+\lx rara
+\ID_en 1169
+\ps Adjective
+\de red
+\d_id merah
+\dt 21/Apr/2024
+
+\lx mangalehèn
+\ID_en 1176
+\ps Verb
+\de to give
+\d_id memberikan
+\dt 21/Apr/2024
+
+\lx tīngon-rasa
+\ID_en 1442/1443
+\nt <39>
+\ps Preposition
+\de from-to
+\d_id dari untuk
+\dt 26/Apr/2024
+
+\lx maloewa
+\ID_en 1148/1149
+\ps Adjective
+\de loose
+\d_id longgar
+\dt 21/Apr/2024
+
+\lx dalàn
+\ID_en 959
+\ps Noun
+\de way, road
+\d_id jalan
+\dt 15/Mar/2024
+
+\lx marmōwàh
+\ID_en 806
+\ps Verb
+\de to low, to bellow
+\d_id menguak
+\dt 14/Mar/2024
+
+\lx rata
+\ID_en 1173
+\ps Adjective
+\de green
+\d_id hijau
+\dt 21/Apr/2024
+
+\lx Boèlan
+\dt 14/Mar/2024
+
+\lx gajō
+\ID_en 893
+\ps Noun
+\de crab
+\d_id kepiting
+\dt 14/Mar/2024
+
+\lx arga
+\ID_en 1007
+\ps Noun
+\de price
+\d_id harga
+\dt 28/Mar/2024
+
+\lx làmbok
+\ID_en 1118
+\ps Adjective
+\de weak
+\d_id lemah
+\dt 21/Apr/2024
+
+\lx momboer aèk, magōdàang aèk
+\ID_en 968
+\ps Noun
+\de flood
+\d_id banjir
+\dt 24/Mar/2024
+
+\lx tegèr
+\ID_en 1076
+\ps Noun
+\de dwarf
+\d_id orang katai
+\dt 21/Apr/2024

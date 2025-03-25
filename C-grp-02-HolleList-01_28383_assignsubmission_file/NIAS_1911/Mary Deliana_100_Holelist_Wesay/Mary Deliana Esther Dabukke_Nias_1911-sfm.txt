@@ -1,0 +1,2335 @@
+
+\ID_en 943
+\nt <70>
+\ps Noun
+\de land (state)
+\dv negara
+\dt 12/Apr/2024
+
+\lx_nia angi sabôlô, angi sabe'e
+\ID_en 929
+\ps Noun
+\de storm
+\dv badai, angin ribut
+\dt 12/Apr/2024
+
+\lx_nia amboecha, efata
+\ID_en 982
+\ps Noun
+\de smithy
+\dv dapur pandai besi
+\dt 15/Apr/2024
+
+\lx_nia oerifô, oetoe ndroe'oe
+\ID_en 774
+\nt <53>
+\ps Noun
+\de animal, beast
+\dv binatang
+\dt 15/Mar/2024
+
+\lx_nia soechoe
+\ID_en 573
+\ps Noun
+\de comb
+\dv sisir
+\dt 14/Mar/2024
+
+\lx_nia kasagore
+\ID_en 683
+\ps Noun
+\de peanut
+\dv kacang tanah
+\dt 15/Mar/2024
+
+\lx_nia fache
+\ID_en 546
+\ps Noun
+\de unhusked rice
+\dv padi
+\dt 14/Mar/2024
+
+\lx_nia fônoe
+\ID_en 902
+\ps Noun
+\de turtle
+\dv penyu
+\dt 12/Apr/2024
+
+\lx_nia fana
+\ID_en 620
+\ps Noun
+\de rifle
+\dv bedil (senapan)
+\dt 14/Mar/2024
+
+\lx_nia ôrôbao
+\ID_en 800-802
+\ps Noun
+\de buffalo (female)
+\dv kerbau betina
+\dt 19/Mar/2024
+
+\lx_nia kawakawa
+\ID_en 878
+\ps Noun
+\de butterfly
+\dv kupu-kupu
+\dt 12/Apr/2024
+
+\lx_nia kôla, laoja
+\ID_en 975
+\ps Noun
+\de bronze
+\dv perunggu
+\dt 15/Apr/2024
+
+\lx_nia eoe, tôla geoe
+\ID_en 734
+\ps Noun
+\de tree
+\dv pohon
+\dt 15/Mar/2024
+
+\lx_nia siôli, tofao
+\ID_en 973
+\ps Noun
+\de iron
+\dv besi
+\dt 15/Apr/2024
+
+\lx_nia acho
+\ID_en 984
+\ps Noun
+\de charcoal
+\dv arang
+\dt 15/Apr/2024
+
+\lx_nia nihalô ba wanoewô
+\ID_en 636
+\ps Noun
+\de prisoner of war
+\dv tawanan perang
+\dt 14/Mar/2024
+
+\lx_nia toeeli, manoeeli
+\ID_en 950
+\ps Verb
+\de to go down, to descend
+\dv turun
+\dt 15/Apr/2024
+
+\lx_nia emali
+\ID_en 627
+\ps Noun
+\de enemy
+\dv musuh
+\dt 14/Mar/2024
+
+\lx_nia kaboe
+\ID_en 653
+\ps Noun
+\de garden
+\dv kebun
+\dt 15/Mar/2024
+
+\lx_nia sowa'a gomboe
+\ID_en 742
+\ps Noun
+\de main root, taproot
+\dv ibu akar, akar tunggang
+\dt 15/Mar/2024
+
+\ID_en 692
+\nt <52>
+\ps Noun
+\de coconut (fruit)
+\dv kelapa (buah)
+\dt 15/Mar/2024
+
+\lx_nia lalai
+\ID_en 717
+\ps Noun
+\de banana (wild)
+\dv pisang (liar)
+\dt 15/Mar/2024
+
+\lx_nia moekaokao
+\ID_en 812
+\ps Verb
+\de to bark
+\dv menyalak
+\dt 19/Mar/2024
+
+\lx_nia fahanewa, fôtô
+\ID_en 843
+\nt <58>
+\ps Noun
+\de kite(bird)
+\dv burung rajawali
+\dt 12/Apr/2024
+
+\lx_nia ohi
+\ID_en 691
+\ps Noun
+\de coconut (tree)
+\dv kelapa (pohon)
+\dt 15/Mar/2024
+
+\lx_nia ona
+\ID_en 1002
+\ps Noun
+\de market
+\dv pasar
+\dt 15/Apr/2024
+
+\lx_nia moendrôndrô
+\ID_en 816
+\ps Verb
+\de to roar
+\dv mengaum
+\dt 19/Mar/2024
+
+\lx_nia maria
+\ID_en 628
+\ps Noun
+\de cannon
+\dv meriam
+\dt 14/Mar/2024
+
+\lx_nia foesi
+\ID_en 612
+\ps Noun
+\de blow-pipe
+\dv sumpitan
+\dt 14/Mar/2024
+
+\lx_nia dima sami
+\ID_en 720
+\ps Noun
+\de orange
+\dv jeruk manis
+\dt 15/Mar/2024
+
+\lx_nia eboea mbôli
+\ID_en 1011
+\ps Adjective
+\de expensive
+\dv mahal
+\dt 15/Apr/2024
+
+\lx_nia haloe
+\ID_en 551
+\ps Noun
+\de pounder
+\dv alu
+\dt 14/Mar/2024
+
+\lx_nia salo'o
+\ID_en 951
+\ps Noun
+\de plain
+\dv dataran
+\dt 15/Apr/2024
+
+\lx_nia mijooe
+\ID_en 966
+\ps Verb
+\de to go downstream
+\dv berlayar ke hilir
+\dt 15/Apr/2024
+
+\lx_nia samba, mariamboe
+\ID_en 712
+\ps Noun
+\de eugenia
+\dv jambu
+\dt 15/Mar/2024
+
+\lx_nia te'oe
+\ID_en 852
+\ps Noun
+\de rat
+\dv tikus
+\dt 12/Apr/2024
+
+\lx_nia doe'oe
+\ID_en 771
+\ps Noun
+\de weeds
+\dv rumput
+\dt 15/Mar/2024
+
+\lx_nia boroë
+\ID_en 899
+\ps Noun
+\de iguana
+\dv biawak
+\dt 12/Apr/2024
+
+\lx_nia soeto
+\ID_en 590
+\ps Noun
+\de silk
+\dv sutera
+\dt 14/Mar/2024
+
+\lx_nia te'oe, te'oe ndrôfi
+\ID_en 851
+\ps Noun
+\de mouse
+\dv tikus
+\dt 12/Apr/2024
+
+\lx_nia harimo
+\ID_en 815
+\ps Noun
+\de tiger
+\dv harimau
+\dt 19/Mar/2024
+
+\lx_nia betoea, bǒtoea
+\ID_en 728
+\ps Noun
+\de lime
+\dv kapur
+\dt 15/Mar/2024
+
+\lx_nia fanicha
+\ID_en 766
+\ps Noun
+\de oil
+\dv minyak
+\dt 15/Mar/2024
+
+\lx_nia falôlôŵa
+\ID_en 1005
+\ps Noun
+\de needle
+\dv jarum
+\dt 15/Apr/2024
+
+\lx_nia liza
+\ID_en 869
+\ps Noun
+\de nit
+\dv telur kutu
+\dt 12/Apr/2024
+
+\lx_nia ache
+\ID_en 695
+\ps Noun
+\de sugarpalm, aren tree
+\dv pohon aren
+\dt 15/Mar/2024
+
+\lx_nia saemboe, saemboesaemboe
+\ID_en 571/572
+\ps Noun
+\de head cloth (for women)
+\dv ikat kepala perempuan
+\dt 14/Mar/2024
+
+\lx_nia saroe dalinga
+\ID_en 582
+\ps Noun
+\de earring
+\dv anting-anting
+\dt 14/Mar/2024
+
+\lx_nia sogale
+\ID_en 996
+\ps Noun
+\de farmer
+\dv petani
+\dt 15/Apr/2024
+
+\lx_nia nambi
+\ID_en 799
+\ps Noun
+\de goat
+\dv kambing
+\dt 19/Mar/2024
+
+\lx_nia oeliho
+\ID_en 554
+\nt 44
+\ps Noun
+\de chaff
+\dv sekam
+\dt 14/Mar/2024
+
+\ID_en 861
+\nt <60>
+\ps Noun
+\de net
+\dv jala
+\dt 12/Apr/2024
+
+\lx_nia saniaga
+\ID_en 995
+\ps Noun
+\de merchant
+\dv saudagar, pedagang
+\dt 15/Apr/2024
+
+\lx_nia hambae
+\ID_en 893
+\ps Noun
+\de crab
+\dv kepiting
+\dt 12/Apr/2024
+
+\lx_nia dofi
+\ID_en 912
+\nt <65>
+\ps Noun
+\de star
+\dv bintang
+\dt 12/Apr/2024
+
+\lx_nia bôli
+\ID_en 1007
+\ps Noun
+\de price
+\dv harga
+\dt 15/Apr/2024
+
+\lx_nia lewoeo
+\ID_en 732
+\ps Noun
+\de bamboo
+\dv bambu
+\dt 15/Mar/2024
+
+\lx_nia banoea sijaŵa
+\ID_en 905
+\ps Noun
+\de sky
+\dv langit
+\dt 12/Apr/2024
+
+\lx_nia sakoe
+\ID_en 703
+\ps Noun
+\de sago tree
+\dv pohon sagu
+\dt 15/Mar/2024
+
+\lx_nia fa'androemondroemô mbaŵa
+\ID_en 907
+\ps Noun
+\de sun eclipse
+\dv gerhana matahari
+\dt 12/Apr/2024
+
+\ID_en 662/663
+\nt <50>
+\ps Verb
+\de sow
+\dv tabur
+\dt 15/Mar/2024
+
+\lx_nia omboeomboe lewoeo
+\ID_en 733
+\ps Noun
+\de bamboo shoot, young sprout
+\dv rebung
+\dt 15/Mar/2024
+
+\lx_nia aja gahe
+\ID_en 580
+\de anklet
+\dv gelang kaki
+\dt 14/Mar/2024
+
+\lx_nia ôli môwôli
+\ID_en 1010
+\ps Verb
+\de to buy
+\dv membeli
+\dt 15/Apr/2024
+
+\ID_en 775
+\nt <54>
+\ps Noun
+\de young of animal (calf, foal, chicken, etc.)
+\dv anak binatang
+\dt 15/Mar/2024
+
+\lx_nia kafokafo
+\ID_en 519
+\ps Noun
+\de box, case
+\dv kotak, dos
+\dt 14/Mar/2024
+
+\lx_nia fanohoe mbola
+\ID_en 651
+\ps Noun
+\de knife for cutting rice plant
+\dv ani-ani
+\dt 15/Mar/2024
+
+\lx_nia sabi
+\ID_en 650
+\ps Noun
+\de sickle
+\dv sabit
+\dt 15/Mar/2024
+
+\lx_nia lawoeo
+\ID_en 921
+\ps Noun
+\de cloud
+\dv awan
+\dt 12/Apr/2024
+
+\lx_nia ŵa'a
+\ID_en 742-744
+\ps Noun
+\de root
+\dv akar
+\dt 15/Mar/2024
+
+\lx_nia dima seboea
+\ID_en 721
+\ps Noun
+\de grape fruit
+\dv citrus paradisi
+\dt 15/Mar/2024
+
+\lx_nia bôgi, wôgiwôgi
+\ID_en 846
+\ps Noun
+\de bat
+\dv kelelawar
+\dt 12/Apr/2024
+
+\lx_nia namo, namo mbanoea
+\ID_en 920
+\ps Noun
+\de dew
+\dv embun
+\dt 12/Apr/2024
+
+\lx_nia boe
+\ID_en 787
+\ps Noun
+\de feather
+\dv bulu burung
+\dt 15/Mar/2024
+
+\lx_nia hilihili
+\ID_en 948
+\ps Noun
+\de hill
+\dv bukit
+\dt 12/Apr/2024
+
+\lx_nia tôla
+\ID_en 974
+\ps Noun
+\de copper
+\dv tembaga
+\dt 15/Apr/2024
+
+\lx_nia mambehe, fambehe
+\ID_en 805
+\ps Noun
+\de to bleat, to moo
+\dv menguak
+\dt 19/Mar/2024
+
+\lx_nia fache
+\ID_en 545
+\ps Noun
+\de cooked rice
+\dv nasi
+\dt 14/Mar/2024
+
+\lx_nia gambe
+\ID_en 726
+\ps Noun
+\de uncaria gambir
+\dv gambir
+\dt 15/Mar/2024
+
+\lx_nia lada hita
+\ID_en 562
+\ps Noun
+\de black pepper
+\dv lada hitam
+\dt 14/Mar/2024
+
+\lx_nia ômô
+\ID_en 1013
+\ps Noun
+\de debt
+\dv hutang
+\dt 15/Apr/2024
+
+\lx_nia atoelo'ô, mangatoelo'ô
+\ID_en 993
+\ps Noun
+\de to make peace
+\dv berdamai, mengadakan perdamaian
+\dt 15/Apr/2024
+
+\lx_nia zâwi si matoea
+\ID_en 804
+\ps Noun
+\de bull
+\dv sapi (jantan)
+\dt 19/Mar/2024
+
+\lx_nia towa, bola
+\ID_en 605
+\ps Noun
+\de bag (woven bag)
+\dv tas (dari bahan tenun)
+\dt 14/Mar/2024
+
+\lx_nia fameo
+\ID_en 814
+\ps Verb
+\de to miaow
+\dv mengeong
+\dt 19/Mar/2024
+
+\lx_nia balaki, ana'a
+\ID_en 977
+\ps Noun
+\de gold
+\dv emas
+\dt 15/Apr/2024
+
+\lx_nia fofo
+\ID_en 844
+\ps Noun
+\de bird
+\dv burung
+\dt 12/Apr/2024
+
+\lx_nia lembe
+\ID_en 565
+\ps Noun
+\de sarong
+\dv sarung
+\dt 14/Mar/2024
+
+\lx_nia farô
+\ID_en 987
+\ps Noun
+\de tongs
+\dv sepit, tang
+\dt 15/Apr/2024
+
+\lx_nia ôli hatoe
+\ID_en 631
+\ps Noun
+\de fortification
+\dv benteng (pertahanan)
+\dt 14/Mar/2024
+
+\lx_nia amawa, mamawa
+\ID_en 1016
+\ps Verb
+\de to sell
+\dv menjual
+\dt 15/Apr/2024
+
+\ID_en 969
+\nt <71>
+\ps Noun
+\de stone
+\dv batu
+\dt 15/Apr/2024
+
+\lx_nia sindro
+\ID_en 596
+\ps Noun
+\de loom (warp)
+\dv lungsin
+\dt 14/Mar/2024
+
+\lx_nia si fa,awô
+\ID_en 1000
+\ps Noun
+\de ally
+\dv sekutu
+\dt 15/Apr/2024
+
+\lx_nia na'a
+\ID_en 709
+\ps Noun
+\de artocarpus integrifolia, jack fruit
+\dv nangka
+\dt 15/Mar/2024
+
+\lx_nia soso, manoso
+\ID_en 593
+\ps Verb
+\de to weave
+\dv bertenun
+\dt 14/Mar/2024
+
+\lx_nia nahô
+\ID_en 597
+\ps Noun
+\de loom (weft)
+\dv pakan
+\dt 14/Mar/2024
+
+\lx_nia teoe
+\ID_en 919
+\ps Noun
+\de rain
+\dv hujan
+\dt 12/Apr/2024
+
+\lx_nia ramboeta, foloe'i
+\ID_en 710
+\ps Noun
+\de Nephelium lappaceum
+\dv rambutan
+\dt 15/Mar/2024
+
+\lx_nia dima adoelo
+\ID_en 722
+\ps Noun
+\de lemon
+\dv jeruk sitrun
+\dt 15/Mar/2024
+
+\lx_nia soeloemooe
+\ID_en 754
+\ps Noun
+\de resin
+\dv damar (umum)
+\dt 15/Mar/2024
+
+\lx_nia gari, balatoe
+\ID_en 608
+\ps Noun
+\de sabre
+\dv parang, kelewang
+\dt 14/Mar/2024
+
+\lx_nia katawaina
+\ID_en 836
+\ps Noun
+\de swallow
+\dv burung layang-layang
+\dt 12/Apr/2024
+
+\lx_nia ene, ene masi
+\ID_en 938
+\ps Noun
+\de beach
+\dv pantai
+\dt 12/Apr/2024
+
+\lx_nia faniaga, zagazaga
+\ID_en 1004
+\ps Noun
+\de merchandise
+\dv barang dagangan
+\dt 15/Apr/2024
+
+\lx_nia moedeledele
+\ID_en 797
+\ps Verb
+\de to grunt
+\dv menggeram
+\dt 19/Mar/2024
+
+\lx_nia fa'atoelô
+\ID_en 630
+\ps Noun
+\de peace
+\dv damai
+\dt 14/Mar/2024
+
+\lx_nia saraeŵa, sareŵa
+\ID_en 567
+\ps Noun
+\de trousers
+\dv celana
+\dt 14/Mar/2024
+
+\lx_nia oeli (geoe)
+\ID_en 748
+\ps Noun
+\de bark
+\dv kulit kayu
+\dt 15/Mar/2024
+
+\lx_nia teteoe, maneteoe
+\ID_en 672
+\ps Verb
+\de to gather
+\dv mengumpulkan (buah-buahan)
+\dt 15/Mar/2024
+
+\lx_nia fana, mamana
+\ID_en 623
+\ps Verb
+\de to shoot
+\dv menembak
+\dt 14/Mar/2024
+
+\lx_nia atoea, benoea
+\ID_en 955
+\ps Noun
+\de forest, woods
+\dv hutan
+\dt 15/Apr/2024
+
+\lx_nia fa'awô, mama'awô
+\ID_en 994
+\de to sign a treaty
+\dv perjanjian, memutuskan perjanjian
+\dt 15/Apr/2024
+
+\ID_en 530
+\nt <41>
+\ps Verb
+\de to grill, to roast
+\dv panggang
+\dt 14/Mar/2024
+
+\lx_nia bôhô
+\ID_en 809
+\ps Noun
+\de deer
+\dv rusa
+\dt 19/Mar/2024
+
+\lx_nia zaŵi
+\ID_en 803
+\ps Noun
+\de cow
+\dv sapi (betina)
+\dt 19/Mar/2024
+
+\lx_nia nihôna, si fahôna
+\ID_en 535
+\de provisions
+\dv bekal
+\dt 14/Mar/2024
+
+\ID_en 886
+\nt <62>
+\ps Noun
+\de snake
+\dv ular
+\dt 12/Apr/2024
+
+\lx_nia saeroe tanô
+\ID_en 945
+\ps Noun
+\de isthmus
+\dv tanah genting
+\dt 12/Apr/2024
+
+\lx_nia lala
+\ID_en 959
+\ps Noun
+\de way, road
+\dv jalan
+\dt 15/Apr/2024
+
+\lx_nia ndrandra, mondrandra
+\ID_en 600
+\ps Verb
+\de to weave, to plait
+\dv menganyam
+\dt 14/Mar/2024
+
+\lx_nia sigoloe
+\ID_en 822
+\ps Noun
+\de ant-eater (manis javanica)
+\dv tenggiling
+\dt 19/Mar/2024
+
+\lx_nia manoe
+\ID_en 826
+\ps Noun
+\de hen, chicken
+\dv ayam
+\dt 19/Mar/2024
+
+\lx_nia loeo
+\ID_en 906
+\ps Noun
+\de sun
+\dv matahari
+\dt 12/Apr/2024
+
+\lx_nia tôwoe
+\ID_en 682
+\ps Noun
+\de sugarcane
+\dv tebu
+\dt 15/Mar/2024
+
+\ID_en 525-527
+\nt <39>
+\ps Verb
+\de to cook
+\dv memasak
+\dt 14/Mar/2024
+
+\lx_nia asi
+\ID_en 931
+\ps Noun
+\de sea
+\dv laut
+\dt 12/Apr/2024
+
+\lx_nia bo galitô
+\ID_en 988
+\ps Noun
+\de cinders, glowing coals
+\dv bara api
+\dt 15/Apr/2024
+
+\lx_nia lele
+\ID_en 894
+\ps Noun
+\de shell
+\dv kulit kerang
+\dt 12/Apr/2024
+
+\lx_nia boea
+\ID_en 759
+\ps Noun
+\de fruit
+\dv buah
+\dt 15/Mar/2024
+
+\lx_nia siamboe
+\ID_en 981
+\ps Noun
+\de smith
+\dv pandai besi
+\dt 15/Apr/2024
+
+\lx_nia beroea
+\ID_en 817
+\ps Noun
+\de bear
+\dv beruang
+\dt 19/Mar/2024
+
+\ID_en 932
+\nt <66>
+\ps Noun
+\de ebb
+\dv surut
+\dt 12/Apr/2024
+
+\lx_nia bôra
+\ID_en 544
+\nt <42>
+\ps Noun
+\de husked rice
+\dv beras
+\dt 14/Mar/2024
+
+\lx_nia asoe
+\ID_en 811
+\ps Noun
+\de dog
+\dv anjing
+\dt 19/Mar/2024
+
+\lx_nia afasi
+\ID_en 706
+\ps Noun
+\de kapok
+\dv kapuk
+\dt 15/Mar/2024
+
+\lx_nia tôla (wache)
+\ID_en 547
+\ps Noun
+\de stalk
+\dv tangkai padi, batang padi
+\dt 14/Mar/2024
+
+\lx_nia noecha, moeko
+\ID_en 589
+\nt <45>
+\ps Noun
+\de cotton fabric (local, European)
+\dv tenunan kapas (asli, Eropa)
+\dt 14/Mar/2024
+
+\lx_nia farô, tageli
+\ID_en 700
+\ps Noun
+\de syrup
+\dv seterup
+\dt 15/Mar/2024
+
+\lx_nia moeao
+\ID_en 806
+\ps Verb
+\de to low, to bellow
+\dv menguak
+\dt 19/Mar/2024
+
+\lx_nia di mbôhô
+\ID_en 877
+\ps Noun
+\de mosquito
+\dv nyamuk
+\dt 12/Apr/2024
+
+\lx_nia i'o
+\ID_en 778
+\ps Noun
+\de tail
+\dv ekor
+\dt 15/Mar/2024
+
+\lx_nia lewio
+\ID_en 757
+\ps Noun
+\de sprout
+\dv tunas
+\dt 15/Mar/2024
+
+\ID_en 603
+\nt <46>
+\ps Noun
+\de thread, yarn
+\dv benang
+\dt 14/Mar/2024
+
+\lx_nia beo
+\ID_en 640
+\ps Noun
+\de tax
+\dv pajak
+\dt 14/Mar/2024
+
+\lx_nia fakoe
+\ID_en 652
+\ps Noun
+\de hoe
+\dv pacul
+\dt 15/Mar/2024
+
+\lx_nia danedane warôcha, tandrôsa tôfao
+\ID_en 986
+\ps Noun
+\de anvil
+\dv landasan, paron
+\dt 15/Apr/2024
+
+\lx_nia ngamohi, boea
+\ID_en 765
+\ps Noun
+\de bunch
+\dv rangkai, tangkai, tandan
+\dt 15/Mar/2024
+
+\lx_nia laza
+\ID_en 655
+\ps Noun
+\de rice-field (dry)
+\dv huma, ladang
+\dt 15/Mar/2024
+
+\ID_en 604
+\nt <47>
+\ps Verb
+\de to knot, to knit
+\dv merajut, menyirat
+\dt 14/Mar/2024
+
+\lx_nia balera, talô balera
+\ID_en 980
+\ps Noun
+\de sulphur
+\dv belerang
+\dt 15/Apr/2024
+
+\lx_nia niro
+\ID_en 697
+\ps Noun
+\de palm juice (unfermented)
+\dv nira
+\dt 15/Mar/2024
+
+\lx_nia bowoa
+\ID_en 522
+\ps Noun
+\de pot, jar
+\dv periuk
+\dt 14/Mar/2024
+
+\ID_en 941
+\nt <69>
+\ps Noun
+\de coral reef
+\dv karang
+\dt 12/Apr/2024
+
+\lx_nia tôla gaza, aja mbôlôcha
+\ID_en 579
+\ps Noun
+\de arm ring, bracelet
+\dv gelang tangan
+\dt 14/Mar/2024
+
+\lx_nia bôgi mbanoea
+\ID_en 847
+\ps Adverb
+\de bat
+\dv kalong
+\dt 12/Apr/2024
+
+\lx_nia gawoe, gawoegawoe
+\ID_en 971
+\ps Noun
+\de sand
+\dv pasir
+\dt 15/Apr/2024
+
+\lx_nia doeria
+\ID_en 711
+\ps Noun
+\de durio zibethinus
+\dv durian
+\dt 15/Mar/2024
+
+\lx_nia azoeni
+\ID_en 789
+\ps Noun
+\de nest
+\dv sarang
+\dt 15/Mar/2024
+
+\lx_nia bajakomo
+\ID_en 898
+\ps Noun
+\de lizard
+\dv kadal
+\dt 12/Apr/2024
+
+\lx_nia si lô abacha
+\ID_en 940
+\nt <68>
+\ps Noun
+\de sandbank
+\dv busung pasir
+\dt 12/Apr/2024
+
+\lx_nia lele
+\ID_en 761
+\ps Noun
+\de rind, peel
+\dv kulit buah
+\dt 15/Mar/2024
+
+\lx_nia baeŵa
+\ID_en 865
+\ps Noun
+\de eel
+\dv belut
+\dt 12/Apr/2024
+
+\lx_nia adoelo
+\ID_en 790
+\ps Noun
+\de egg
+\dv telur
+\dt 16/Mar/2024
+
+\lx_nia decha, mondrecha
+\ID_en 555
+\ps Verb
+\de to grind
+\dv menggiling
+\dt 14/Mar/2024
+
+\lx_nia lôsoe
+\ID_en 550
+\ps Noun
+\de rice pounder, morter
+\dv lesung
+\dt 14/Mar/2024
+
+\ID_en 528
+\nt <40>
+\ps Verb
+\de to bake, to grill, to fry
+\dv membakar, panggang menggoreng (dengan minyak)
+\dt 14/Mar/2024
+
+\lx_nia ewali
+\ID_en 939
+\ps Noun
+\de strait(s)
+\dv selat
+\dt 12/Apr/2024
+
+\lx_nia sinanô
+\ID_en 660
+\ps Noun
+\de vegetation
+\dv tumbuhan
+\dt 15/Mar/2024
+
+\lx_nia tanôa, oeli danô
+\ID_en 917
+\ps Noun
+\de earth (globe)
+\dv bumi
+\dt 12/Apr/2024
+
+\lx_nia ahe
+\ID_en 780
+\ps Noun
+\de hoof
+\dv kuku binatang
+\dt 15/Mar/2024
+
+\lx_nia afasi noecha
+\ID_en 705
+\ps Noun
+\de cotton
+\dv kapas
+\dt 15/Mar/2024
+
+\lx_nia nowi
+\ID_en 654
+\de rice-field (wet, sawah)
+\dv sawah
+\dt 15/Mar/2024
+
+\lx_nia oeloe, oemboe
+\ID_en 967
+\ps Noun
+\de spring, source
+\dv mata air, sumber air
+\dt 15/Apr/2024
+
+\lx_nia afi
+\ID_en 786
+\ps Noun
+\de wing
+\dv sayap
+\dt 15/Mar/2024
+
+\lx_nia boenga, bowo
+\ID_en 758
+\ps Noun
+\de flower
+\dv bunga
+\dt 15/Mar/2024
+
+\lx_nia andrô, magandrô
+\ID_en 1020
+\ps Verb
+\de to offer
+\dv mempersembahkan
+\dt 15/Apr/2024
+
+\lx_nia boe'a, mamoe'a
+\ID_en 1015
+\ps Verb
+\de to pay
+\dv membayar
+\dt 15/Apr/2024
+
+\lx_nia sǒsô, manǒsô
+\ID_en 949
+\ps Verb
+\de mountaint-climbing, to ascend
+\dv mendaki gunung
+\dt 12/Apr/2024
+
+\lx_nia soechoe danô
+\ID_en 644
+\ps Noun
+\de rake
+\dv garu
+\dt 14/Mar/2024
+
+\lx_nia sinali, tali
+\ID_en 602
+\ps Noun
+\de rope
+\dv tali
+\dt 14/Mar/2024
+
+\lx_nia fe'oegoe'oegoe, fe'oegoe mbanoea
+\ID_en 924
+\ps Noun
+\de thunder
+\dv guruh
+\dt 12/Apr/2024
+
+\lx_nia famoto ndroeloe
+\ID_en 936
+\ps Noun
+\de breakers, surf
+\dv gelombang
+\dt 12/Apr/2024
+
+\ID_en 824
+\nt <55>
+\ps Noun
+\de pigeon
+\dv burung merpati
+\dt 19/Mar/2024
+
+\lx_nia saemboe
+\ID_en 609
+\ps Noun
+\de sheath
+\dv sarung pedang
+\dt 14/Mar/2024
+
+\lx_nia karita
+\ID_en 677
+\ps Noun
+\de beans
+\dv kacang-kacangan
+\dt 15/Mar/2024
+
+\lx_nia sombo
+\ID_en 588
+\ps Noun
+\de loin cloth
+\dv cawat
+\dt 14/Mar/2024
+
+\lx_nia ba'aba'a
+\ID_en 656
+\ps Noun
+\de small dike in rice-field
+\dv pematang
+\dt 15/Mar/2024
+
+\lx_nia miraja, baoeloe
+\ID_en 965
+\ps Verb
+\de to go upstream
+\dv berlayar ke hulu
+\dt 15/Apr/2024
+
+\lx_nia hare
+\ID_en 1008
+\ps Noun
+\de profit
+\dv untung, laba
+\dt 15/Apr/2024
+
+\lx_nia nagole
+\ID_en 539
+\ps Noun
+\de meat (raw)
+\dv daging (mentah)
+\dt 14/Mar/2024
+
+\lx_nia nago
+\ID_en 848
+\ps Noun
+\de flying fox
+\dv kelelawar
+\dt 12/Apr/2024
+
+\lx_nia lada
+\ID_en 690
+\ps Noun
+\de red pepper
+\dv cabe
+\dt 15/Mar/2024
+
+\lx_nia basi, mamasi
+\ID_en 671
+\ps Verb
+\de to reap
+\dv menuai
+\dt 15/Mar/2024
+
+\lx_nia simo
+\ID_en 979
+\ps Noun
+\de lead
+\dv timah hitam
+\dt 15/Apr/2024
+
+\lx_nia idanô, basobaso
+\ID_en 750
+\ps Noun
+\de sap
+\dv air (buah, pohon)
+\dt 15/Mar/2024
+
+\lx_nia bogo
+\ID_en 818
+\ps Noun
+\de porcupine
+\dv landak
+\dt 19/Mar/2024
+
+\ID_en 937
+\nt <67>
+\ps Noun
+\de bay
+\dv teluk
+\dt 12/Apr/2024
+
+\lx_nia soeloe
+\ID_en 517
+\ps Noun
+\de torch
+\dv suluh
+\dt 14/Mar/2024
+
+\lx_nia fino
+\ID_en 752
+\ps Noun
+\de areca catechu LINN
+\dv pinang
+\dt 15/Mar/2024
+
+\lx_nia laboegale
+\ID_en 685
+\ps Noun
+\de gourd
+\dv labu kendi
+\dt 15/Mar/2024
+
+\lx_nia hoenô
+\ID_en 763
+\ps Noun
+\de pip, stone
+\dv biji
+\dt 15/Mar/2024
+
+\lx_nia ta'ata'a wandroe
+\ID_en 516
+\ps Noun
+\de lamp wick
+\dv sumbu lampu
+\dt 14/Mar/2024
+
+\lx_nia famoera, esori
+\ID_en 619
+\ps Noun
+\de kind of small cannon
+\dv sejenis kanon kecil
+\dt 14/Mar/2024
+
+\lx_nia bago
+\ID_en 681
+\ps Noun
+\de tobacco
+\dv tembakau
+\dt 15/Mar/2024
+
+\lx_nia asio
+\ID_en 563
+\ps Noun
+\de salt
+\dv garam
+\dt 14/Mar/2024
+
+\lx_nia nagole, nihoenagô
+\ID_en 540
+\ps Noun
+\de dried meat
+\dv dendeng
+\dt 14/Mar/2024
+
+\lx_nia talaho, barakao
+\ID_en 896
+\ps Noun
+\de frog
+\dv katak
+\dt 12/Apr/2024
+
+\lx_nia boeboe, soe
+\ID_en 561
+\ps Noun
+\de porridge
+\dv bubur
+\dt 14/Mar/2024
+
+\lx_nia farôcha
+\ID_en 985
+\ps Noun
+\de hammer
+\dv martil
+\dt 15/Apr/2024
+
+\lx_nia faka, la'io
+\ID_en 779
+\ps Noun
+\de paw
+\dv kaki binatang
+\dt 15/Mar/2024
+
+\lx_nia firô
+\ID_en 976
+\ps Noun
+\de silver
+\dv perak
+\dt 15/Apr/2024
+
+\lx_nia ono wana
+\ID_en 622
+\ps Noun
+\de bullet
+\dv peluru
+\dt 14/Mar/2024
+
+\lx_nia simo safoesi
+\ID_en 978
+\ps Noun
+\de tin
+\dv timah
+\dt 15/Apr/2024
+
+\lx_nia angi
+\ID_en 928
+\ps Noun
+\de wind
+\dv angin
+\dt 12/Apr/2024
+
+\lx_nia fatoenô, mamatoenô
+\ID_en 992
+\ps Verb
+\de to negotiate
+\dv berunding
+\dt 15/Apr/2024
+
+\lx_nia diwo
+\ID_en 536
+\ps Noun
+\de side-dish
+\dv lauk-pauk
+\dt 14/Mar/2024
+
+\lx_nia lafo, toko
+\ID_en 1001
+\ps Noun
+\de shop
+\dv toko, warung
+\dt 15/Apr/2024
+
+\lx_nia di
+\ID_en 872
+\ps Noun
+\de fly
+\dv lalat
+\dt 12/Apr/2024
+
+\lx_nia silatao
+\ID_en 830
+\ps Noun
+\de cock, rooster
+\dv ayam jantan
+\dt 19/Mar/2024
+
+\lx_nia ola
+\ID_en 962
+\ps Noun
+\de border, boundary
+\dv batas
+\dt 15/Apr/2024
+
+\lx_nia tanômô
+\ID_en 664
+\ps Noun
+\de seed
+\dv benih
+\dt 15/Mar/2024
+
+\lx_nia sioea
+\ID_en 595
+\ps Noun
+\de loom (weaving spool)
+\dv kumparan benang
+\dt 14/Mar/2024
+
+\lx_nia gowi
+\ID_en 686
+\ps Noun
+\de species of tuber
+\dv ubi (macam-macam ubi)
+\dt 15/Mar/2024
+
+\lx_nia sabi
+\ID_en 649
+\ps Noun
+\de knife for cutting grass
+\dv alat babat rumput
+\dt 15/Mar/2024
+
+\lx_nia ba'e
+\ID_en 854
+\nt <59>
+\ps Noun
+\de monkey
+\dv monyet, kera
+\dt 12/Apr/2024
+
+\lx_nia gaga
+\ID_en 825
+\ps Noun
+\de crow
+\dv burung gagak
+\dt 19/Mar/2024
+
+\lx_nia mangai hôgô
+\ID_en 629
+\ps Verb
+\de to go head hunting
+\dv mengayau
+\dt 14/Mar/2024
+
+\lx_nia soegi, manoegi
+\ID_en 1014
+\ps Verb
+\de to dun
+\dv menagih
+\dt 15/Apr/2024
+
+\lx_nia halasa, lôoe
+\ID_en 549
+\ps Noun
+\de rice barn
+\dv lumbung beras, lumbung padi
+\dt 14/Mar/2024
+
+\lx_nia lai, ngalai
+\ID_en 548
+\nt <43>
+\ps Noun
+\de ear of rice, corn
+\dv bulir, mayang
+\dt 14/Mar/2024
+
+\lx_nia sakoe, ôsi zakoe
+\ID_en 704
+\ps Noun
+\de sago
+\dv sagu
+\dt 15/Mar/2024
+
+\lx_nia tawoeo
+\ID_en 753
+\ps Noun
+\de betel
+\dv sirih
+\dt 15/Mar/2024
+
+\lx_nia nifa
+\ID_en 702
+\ps Noun
+\de nipa palm
+\dv pohon nipah
+\dt 15/Mar/2024
+
+\lx_nia moedele
+\ID_en 808
+\ps Verb
+\de to neigh, to whinny
+\dv meringkik
+\dt 19/Mar/2024
+
+\lx_nia loeloe, moloeloe
+\ID_en 634
+\nt <49>
+\ps Verb
+\de to surrender
+\dv menyerah
+\dt 14/Mar/2024
+
+\lx_nia laasi
+\ID_en 850
+\ps Noun
+\de cherrotain mousedeer
+\dv kancil
+\dt 12/Apr/2024
+
+\lx_nia ôli
+\ID_en 659
+\ps Noun
+\de fence, hedge
+\dv pagar
+\dt 15/Mar/2024
+
+\lx_nia toeho
+\ID_en 741
+\ps Noun
+\de the heart of the tree
+\dv hati kayu (pohon)
+\dt 15/Mar/2024
+
+\lx_nia riboribo
+\ID_en 624
+\ps Noun
+\de sling
+\dv ali-ali
+\dt 14/Mar/2024
+
+\lx_nia boeloe
+\ID_en 746
+\ps Noun
+\de leaf
+\dv daun
+\dt 15/Mar/2024
+
+\lx_nia bawa danô, daso
+\ID_en 952
+\ps Noun
+\de valley
+\dv lembah
+\dt 15/Apr/2024
+
+\lx_nia dali, mondrali
+\ID_en 989
+\ps Verb
+\de to sharpen, to grind
+\dv mengasah
+\dt 15/Apr/2024
+
+\lx_nia gae
+\ID_en 716
+\ps Noun
+\de banana
+\dv pisang
+\dt 15/Mar/2024
+
+\lx_nia koekoe'ô, koeôkoeô
+\ID_en 891
+\nt <63>
+\ps Noun
+\de worm
+\dv cacing
+\dt 12/Apr/2024
+
+\lx_nia boeala, soemange
+\ID_en 639
+\ps Noun
+\de tribute
+\dv upeti, bakti
+\dt 14/Mar/2024
+
+\ID_en 910
+\nt <64>
+\ps Noun
+\de month (name of months)
+\dv bulan (nama-nama bulan)
+\dt 12/Apr/2024
+
+\lx_nia goelo
+\ID_en 701
+\ps Noun
+\de sugar
+\dv gula
+\dt 15/Mar/2024
+
+\lx_nia idanô
+\ID_en 930
+\ps Noun
+\de water
+\dv air
+\dt 12/Apr/2024
+
+\lx_nia daha
+\ID_en 739/740
+\ps Noun
+\de branch
+\dv cabang
+\dt 15/Mar/2024
+
+\lx_nia bôbô taloe, bôbô daloe
+\ID_en 577/578
+\ps Noun
+\de waist belt/band
+\dv ikat pinggang
+\dt 14/Mar/2024
+
+\lx_nia la'iroe
+\ID_en 679
+\ps Noun
+\de cucumber
+\dv ketimun
+\dt 15/Mar/2024
+
+\lx_nia koedo
+\ID_en 807
+\ps Noun
+\de horse
+\dv kuda
+\dt 19/Mar/2024
+
+\lx_nia lembe
+\ID_en 586
+\ps Noun
+\de shawl
+\dv selendang
+\dt 14/Mar/2024
+
+\lx_nia kotakota, fetifeti
+\ID_en 520
+\ps Noun
+\de case for cloth
+\dv peti pakaian
+\dt 14/Mar/2024
+
+\lx_nia i ' a
+\ID_en 541
+\ps Noun
+\de fish
+\dv ikan
+\dt 14/Mar/2024
+
+\lx_nia fanoewô
+\ID_en 626
+\ps Verb
+\de war
+\dv perang
+\dt 14/Mar/2024
+
+\lx_nia kalaŵa
+\ID_en 871
+\ps Noun
+\de spider
+\dv laba-laba
+\dt 12/Apr/2024
+
+\lx_nia oeë
+\ID_en 731
+\ps Noun
+\de rattan, cane
+\dv rotan
+\dt 15/Mar/2024
+
+\lx_nia bo'ole
+\ID_en 901
+\ps Noun
+\de tortoise
+\dv kura-kura
+\dt 12/Apr/2024
+
+\lx_nia oetoe
+\ID_en 870
+\ps Noun
+\de flea
+\dv kutu anjing
+\dt 12/Apr/2024
+
+\lx_nia maniaga
+\ID_en 1003
+\ps Verb
+\de to trade
+\dv berdagang
+\dt 15/Apr/2024
+
+\lx_nia sooesooe
+\ID_en 648
+\ps Noun
+\de trowel (a small trowel)
+\dv sekop (kecil)
+\dt 15/Mar/2024
+
+\lx_nia falali, mamalali
+\ID_en 1019
+\ps Verb
+\de to exchange
+\dv menukar
+\dt 15/Apr/2024
+
+\lx_nia molô
+\ID_en 968
+\ps Noun
+\de flood
+\dv banjir
+\dt 15/Apr/2024
+
+\lx_nia aja dalinga
+\ID_en 583
+\ps Noun
+\de earclip
+\dv subang
+\dt 14/Mar/2024
+
+\lx_nia doe'oe
+\ID_en 770
+\ps Noun
+\de grass
+\dv rumput
+\dt 15/Mar/2024
+
+\lx_nia toeo
+\ID_en 698
+\ps Noun
+\de palm wine (fermented)
+\dv tuak
+\dt 15/Mar/2024
+
+\lx_nia boeaja
+\ID_en 900
+\ps Noun
+\de crocodile
+\dv buaya
+\dt 12/Apr/2024
+
+\lx_nia hoelo, noeza
+\ID_en 944
+\ps Noun
+\de island
+\dv pulau
+\dt 12/Apr/2024
+
+\lx_nia goelegoele, diwo
+\ID_en 537
+\de vegetables
+\dv sayuran
+\dt 14/Mar/2024
+
+\lx_nia ide'ide mbôli
+\ID_en 1012
+\ps Adjective
+\de cheap
+\dv murah
+\dt 15/Apr/2024
+
+\lx_nia gooe
+\ID_en 594
+\ps Noun
+\de loom (meed)
+\dv sisir tenun
+\dt 14/Mar/2024
+
+\lx_nia doeloe
+\ID_en 935
+\ps Noun
+\de wave
+\dv ombak
+\dt 12/Apr/2024
+
+\lx_nia niroe
+\ID_en 553
+\ps Noun
+\de sieve for rice
+\dv nyiru
+\dt 14/Mar/2024
+
+\lx_nia taroetaroe
+\ID_en 645
+\ps Noun
+\de dibble
+\dv tugal
+\dt 14/Mar/2024
+
+\lx_nia hili alitô
+\ID_en 958
+\ps Noun
+\de volcano
+\dv gunung berapi
+\dt 15/Apr/2024
+
+\lx_nia ono
+\ID_en 665
+\nt <51>
+\ps Verb
+\de to plant
+\dv menanam
+\dt 15/Mar/2024
+
+\lx_nia teala
+\ID_en 1009
+\ps Noun
+\de loss
+\dv rugi
+\dt 15/Apr/2024
+
+\lx_nia ô, ô' ô
+\ID_en 534
+\ps Noun
+\de food
+\dv makanan
+\dt 14/Mar/2024
+
+\lx_nia doemi
+\ID_en 923
+\ps Noun
+\de rainbow
+\dv pelangi
+\dt 12/Apr/2024
+
+\lx_nia fa'eboea lowoe, lowoe
+\ID_en 934
+\ps Noun
+\de flood, tide
+\dv pasang
+\dt 12/Apr/2024
+
+\lx_nia eno'o, lala nidanô
+\ID_en 657
+\ps Verb
+\de irrigation
+\dv pengairan
+\dt 15/Mar/2024
+
+\lx_nia fa'androendoemô mbaŵa
+\ID_en 911
+\ps Noun
+\de moon eclipse
+\dv gerhana bulan
+\dt 12/Apr/2024
+
+\lx_nia laedoeroe
+\ID_en 576
+\ps Noun
+\de ring
+\dv cincin
+\dt 14/Mar/2024
+
+\lx_nia toho
+\ID_en 611
+\ps Noun
+\de pike, lance, javelin
+\dv tombak lembing
+\dt 14/Mar/2024
+
+\lx_nia siheoo, doeroe
+\ID_en 927
+\ps Noun
+\de earthquake
+\dv gempa bumi
+\dt 12/Apr/2024
+
+\lx_nia tanô
+\ID_en 970
+\ps Noun
+\de earth (ground)
+\dv tanah
+\dt 15/Apr/2024
+
+\lx_nia baŵa
+\ID_en 684
+\ps Noun
+\de onion
+\dv bawang
+\dt 15/Mar/2024
+
+\lx_nia tali, manati
+\ID_en 601
+\ps Verb
+\de to twine a rope
+\dv memintal tali
+\dt 14/Mar/2024
+
+\lx_nia lahe
+\ID_en 961
+\ps Noun
+\de footstep (footprint)
+\dv bekas tapak kaki, jejak
+\dt 15/Apr/2024
+
+\lx_nia tanô, reli danô
+\ID_en 942
+\ps Noun
+\de land
+\dv darat
+\dt 12/Apr/2024
+
+\lx_nia ataha
+\ID_en 669
+\ps Adjective
+\de unripe
+\dv belum masak, belum matang, mentah
+\dt 15/Mar/2024
+
+\lx_nia sadôni tano, toere
+\ID_en 946
+\ps Noun
+\de cape
+\dv tanjung, ujung
+\dt 12/Apr/2024
+
+\lx_nia zaerezaere, gari mbanoea
+\ID_en 926
+\ps Noun
+\de (flash of) lightening
+\dv kilat
+\dt 12/Apr/2024
+
+\lx_nia moemoe, koekoeo
+\ID_en 879
+\ps Noun
+\de caterpillar
+\dv ulat (bulu)
+\dt 12/Apr/2024
+
+\lx_nia rigirigi, rigi
+\ID_en 674
+\ps Noun
+\de maize, corn
+\dv jagung
+\dt 15/Mar/2024
+
+\lx_nia doenija
+\ID_en 903
+\nt <29>
+\ps Noun
+\de universe
+\dv alam semesta
+\dt 12/Apr/2024
+
+\lx_nia femôna
+\ID_en 635
+\ps Noun
+\de victory
+\dv kemenangan
+\dt 14/Mar/2024
+
+\lx_nia baloese, dange
+\ID_en 617
+\nt <48>
+\ps Noun
+\de shield
+\dv perisai
+\dt 14/Mar/2024
+
+\lx_nia ôsi
+\ID_en 764
+\ps Noun
+\de the flesh of the fruit
+\dv daging buah
+\dt 15/Mar/2024
+
+\lx_nia ame'ela, bôwô
+\ID_en 991
+\ps Noun
+\de gift, present
+\dv hadiah, pemberian
+\dt 15/Apr/2024
+
+\lx_nia doe'oe, benoea
+\ID_en 957
+\ps Noun
+\de bush
+\dv belukar
+\dt 15/Apr/2024
+
+\lx_nia tamboe, lara
+\ID_en 960
+\ps Noun
+\de mud
+\dv lumpur
+\dt 15/Apr/2024
+
+\lx_nia hili
+\ID_en 947
+\ps Noun
+\de mountain
+\dv gunung
+\dt 12/Apr/2024
+
+\lx_nia mao
+\ID_en 813
+\ps Noun
+\de cat
+\dv kucing
+\dt 19/Mar/2024
+
+\lx_nia dela, ete
+\ID_en 964
+\ps Noun
+\de bridge
+\dv jembatan
+\dt 15/Apr/2024
+
+\lx_nia o'o
+\ID_en 772
+\ps Noun
+\de imperata cylindria (kunai grass)
+\dv lalang
+\dt 15/Mar/2024
+
+\lx_nia alifa
+\ID_en 888
+\ps Noun
+\de centipede
+\dv lipan
+\dt 12/Apr/2024
+
+\lx_nia oetoe
+\ID_en 866
+\ps Noun
+\de louse
+\dv kutu
+\dt 12/Apr/2024
+
+\lx_nia sinenge
+\ID_en 637
+\ps Noun
+\de delegate
+\dv utusan
+\dt 14/Mar/2024
+
+\lx_nia maga, marafala
+\ID_en 708
+\ps Noun
+\de mango
+\dv mangga
+\dt 15/Mar/2024
+
+\lx_nia fandroe
+\ID_en 515
+\ps Noun
+\de lamp
+\dv lampu
+\dt 14/Mar/2024
+
+\lx_nia bâwa
+\ID_en 908
+\ps Noun
+\de moon
+\dv bulan
+\dt 12/Apr/2024
+
+\lx_nia sichô
+\ID_en 884
+\nt <61>
+\ps Noun
+\de ant
+\dv macam-macam semut
+\dt 12/Apr/2024
+
+\lx_nia baroe
+\ID_en 569/570
+\ps Noun
+\de jacket (for women)
+\dv baju perempuan
+\dt 14/Mar/2024
+
+\lx_nia e'e, morege'e
+\ID_en 834
+\nt <57>
+\ps Noun
+\de parrot
+\dv burung nuri
+\dt 12/Apr/2024
+
+\lx_nia bagoa
+\ID_en 707
+\ps Noun
+\de pandanus
+\dv pandan
+\dt 15/Mar/2024
+
+\lx_nia fache
+\ID_en 543
+\ps Noun
+\de harvested rice
+\dv padi yang sudah diketam
+\dt 14/Mar/2024
+
+\lx_nia wawalô, mombalô
+\ID_en 1017/1018
+\ps Verb
+\de borrow
+\dv pinjam
+\dt 15/Apr/2024
+
+\lx_nia asoso, basitô
+\ID_en 668
+\ps Adjective
+\de ripe
+\dv matang
+\dt 15/Mar/2024
+
+\lx_nia kofi
+\ID_en 723
+\ps Noun
+\de coffee
+\dv kopi
+\dt 15/Mar/2024
+
+\lx_nia toembao
+\ID_en 840
+\ps Noun
+\de heron
+\dv burung bangau
+\dt 12/Apr/2024
+
+\lx_nia oero
+\ID_en 892
+\ps Noun
+\de shrimp
+\dv udang
+\dt 12/Apr/2024
+
+\lx_nia laoewe
+\ID_en 881
+\ps Noun
+\de grasshopper
+\dv belalang
+\dt 12/Apr/2024
+
+\lx_nia sa'a
+\ID_en 781
+\ps Noun
+\de claw
+\dv cakar
+\dt 15/Mar/2024
+
+\lx_nia bawi
+\ID_en 794
+\ps Noun
+\de domesticated pig
+\dv babi
+\dt 16/Mar/2024
+
+\ID_en 828
+\nt <56>
+\ps Noun
+\de hen
+\dv ayam betina
+\dt 19/Mar/2024
+
+\lx_nia oengo nidanô, idanô
+\ID_en 963
+\ps Noun
+\de river
+\dv sungai
+\dt 15/Apr/2024
+
+\lx_nia acho wana
+\ID_en 621
+\ps Noun
+\de gun powder
+\dv obat bedil
+\dt 14/Mar/2024
+
+\lx_nia gadegô, mogadegô
+\ID_en 1021
+\ps Verb
+\de to pawn
+\dv menggadaikan
+\dt 15/Apr/2024
+
+\lx_nia ono mbanoea, sato
+\ID_en 999
+\ps Noun
+\de follower
+\dv pengikut
+\dt 15/Apr/2024
