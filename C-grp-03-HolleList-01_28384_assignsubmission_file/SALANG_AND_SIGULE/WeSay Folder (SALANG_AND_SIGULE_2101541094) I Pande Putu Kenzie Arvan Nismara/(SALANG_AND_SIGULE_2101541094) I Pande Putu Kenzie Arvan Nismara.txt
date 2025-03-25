@@ -99,6 +99,7 @@
 
 \lx_skh dadoe , gêsing
 \ID_en 433
+\nt <7>
 \ps Noun
 \de top
 \dv gasing
@@ -881,13 +882,6 @@
 \dv kacang-kacangan
 \dt 14/Mar/2024
 
-\lx_skh toehoe
-\ID_en 2
-\ps Noun
-\de head
-\dv kepala
-\dt 14/Mar/2024
-
 \lx_skh ata ni-oení
 \ID_en 637
 \ps Noun
@@ -917,7 +911,7 @@
 \dt 21/Apr/2024
 
 \lx_skh teula²
-\ID_en 508
+\ID_en 580
 \ps Noun
 \de anklet
 \dv gelang kaki
@@ -1432,13 +1426,6 @@
 \ps Noun
 \de unripe
 \dv belum masak, belum matang, mentah
-\dt 14/Mar/2024
-
-\lx_skh Toboeh
-\ID_en 1
-\ps Noun
-\de body
-\dv badan, tubuh
 \dt 14/Mar/2024
 
 \lx_skh bonioh
@@ -2077,12 +2064,6 @@
 \dv seperempat
 \dt 21/Apr/2024
 
-\lx_skh i-eugeu
-\ID_en 1366
-\de we (exclusive)
-\dv kami (kata ganti orang ke II jamak)
-\dt 21/Apr/2024
-
 \lx_skh ai-teu-i
 \ID_en 1380
 \ps Noun
@@ -2278,13 +2259,6 @@
 \de now
 \dv sekarang
 \dt 21/Apr/2024
-
-\lx_skh moekò
-\ID_en 3
-\ps Noun
-\de face
-\dv muka, wajah
-\dt 14/Mar/2024
 
 \lx_skh aloe aloe lèfoe-eu
 \ID_en 456

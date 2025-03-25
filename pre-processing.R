@@ -518,7 +518,17 @@ salangsigule_a_tb <- salangsigule_a_tb |>
          nt = replace(nt, ID == "555", "9"),
          nt = replace(nt, ID == "824", "10"),
          nt = replace(nt, ID == "854", "11"),
-         nt = replace(nt, ID == "877", "12")) |> 
+         nt = replace(nt, ID == "877", "12"),
+         nt = replace(nt, ID == "1284", "19"),
+         nt = replace(nt, ID == "1294", "21"),
+         nt = replace(nt, ID == "1295", "22"),
+         nt = replace(nt, ID == "1296", "23"),
+         nt = replace(nt, ID == "1298", "25"),
+         nt = replace(nt, ID == "1299", "26"),
+         nt = replace(nt, ID == "1300", "27"),
+         nt = replace(nt, ID == "1301", "28"),
+         nt = replace(nt, ID == "1302", "29"),
+         nt = replace(nt, ID == "1303", "30")) |> 
   filter(nt != "45")
 
 ### COMBINE main table with the notes =====

@@ -6,13 +6,6 @@
 \dv ular
 \dt 14/Mar/2024
 
-\lx_skh toeboeh
-\ID_en 1
-\ps Noun
-\de body
-\dv badan, tubuh
-\dt 13/Mar/2024
-
 \lx_skh ilir
 \ID_en 966
 \ps Verb
@@ -35,7 +28,7 @@
 \dt 15/Mar/2024
 
 \lx_skh niboeboeh
-\ID_en 1246
+\ID_en 1264
 \ps Verb
 \de to bind, to tie
 \dv mengikat
@@ -594,13 +587,6 @@
 \dv kuning
 \dt 22/Mar/2024
 
-\lx_skh toehoe
-\ID_en 2
-\ps Noun
-\de head
-\dv kepala
-\dt 13/Mar/2024
-
 \lx_skh miskin
 \ID_en 1154
 \ps Adjective
@@ -958,13 +944,6 @@
 \de to sail
 \dv berlayar
 \dt 15/Mar/2024
-
-\lx_skh moekò
-\ID_en 3
-\ps Noun
-\de face
-\dv muka, wajah
-\dt 13/Mar/2024
 
 \ID_en 1297
 \ps Pronoun
