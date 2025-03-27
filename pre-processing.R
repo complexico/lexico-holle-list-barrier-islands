@@ -1167,8 +1167,10 @@ dir_where_data_missing <- "C-grp-06-HolleList-01_28387_assignsubmission_file/C6_
 # saveRDS(txts, file = str_c(dir_where_data_missing, "/sigulei-salang-5-7.rds"))
 #### ==== the preceding codes have been executed ==== ####
 txts <- read_rds(str_c(dir_where_data_missing, "/sigulei-salang-5-7.rds"))
-#### processing page 5 =====
+##### processing page 5 =====
 txt1 <- txts[[1]]
+txt2 <- txts[[2]]
+txt3 <- txts[[3]]
 txt1_df <- txt1 |> 
   str_replace(".*SIGULEI AND SALANG.*\\n+", "") |> 
   str_split("\\n") |> 
@@ -1224,12 +1226,51 @@ txt1_df <- txt1 |>
   unlist() |> 
   (\(x) tibble(lx = x))() |> 
   separate_wider_regex(lx, patterns = c(ID = "^[^\\s]+?", "\\.\\s", lx = ".+")) |> 
-  mutate(nt = str_extract(lx, "\\<[^>]+?\\>"),
+  mutate(nt = str_extract(lx, "\\<[0-9]+?\\>"),
          lx = str_replace_all(lx, "\\s\\<[^>]+?\\>", "")) |> 
   left_join(holle_gloss |> rename(ID = Index), by = join_by(ID)) |> 
   mutate(nt = replace_na(nt, ""))
-#### processing page 6 =====
-
+##### processing page 6 =====
+txt2_df <- txt2 |> 
+  str_replace(".*SIGULEI AND SALANG.*\\n+", "") |> 
+  str_split("\\n") |> 
+  unlist() |> 
+  (\(x) x[nzchar(x)])() |> 
+  str_replace("(?<=561\\.\\s)bend'\\-bend'\\!", "benò'-benò'") |> 
+  str_replace("(?<=634\\.\\s)tadedenih", "iadedenih") |> 
+  str_replace("^569\\/\\s", "") |> 
+  str_replace("(?<=636\\.\\s)niodh.$", "niòhé") |> 
+  str_replace("^210\\.\\sbadjt", "569/570. badji") |> 
+  str_replace("^oT\\!", "571/572.") |> 
+  str_replace("bondi\\!", "bondā'") |> 
+  str_replace("(?<=642\\.\\s).+", "sikèh") |> 
+  str_replace("^579\\-.+", "643. badjà'") |> 
+  str_replace("^581(?=\\.)", "579-581") |> 
+  str_replace("\\!(?=\\s645\\.)", "") |> 
+  str_replace("(?<=582\\.\\s)eundm", "eunǎm") |> 
+  str_replace("\\s650\\.+", " 650. rèmbè'") |> 
+  str_replace("\\s(654|662|671)\\/", "") |> 
+  str_replace("\\s655", " 654/655") |> 
+  str_replace("^600\\.\\s.+", "600. měchěman toefō'(mah)") |> 
+  str_replace("^58\\.\\sloe.ng", "657/658. loeëng") |> 
+  str_replace("\\s663.\\s.+", " 662/663. nitoněu") |> 
+  str_replace("^605\\/\\s", "") |> 
+  str_replace("^606", "605/606") |> 
+  str_replace("(?<=^607\\.\\s)roedoed", "roedoeó") |> 
+  str_replace("\\s672\\.", " 671/672.") |> 
+  str_replace("a(?=\\s679\\.)", "å") |> 
+  str_replace("chal.d.$", "chalèdè") |> 
+  str_replace("(?<=690\\.\\s).+", "apěli") |> 
+  str_replace("^\\(Ol", "701") |> 
+  str_split("\\s(?=[0-9])") |> 
+  unlist() |> 
+  (\(x) tibble(lx = x))() |> 
+  separate_wider_regex(lx, patterns = c(ID = "^[^\\s\\.]+?", "\\.\\s", lx = ".+")) |> 
+  mutate(nt = str_extract(lx, "\\<[0-9]+?\\>"),
+         lx = str_replace_all(lx, "\\s\\<[^>]+?\\>", "")) |> 
+  left_join(holle_gloss |> rename(ID = Index), by = join_by(ID)) |> 
+  mutate(nt = replace_na(nt, ""))
+  
 
 
 
@@ -1453,10 +1494,7 @@ sigulesalang_main <- sigulesalang_main |>
   select(-ORDERS) |> 
   rename(nt_form = `WORD/EXPRESSION`,
          nt_eng = ENGLISH,
-         nt_idn = INDONESIAN,
-         nt_tapah = TAPAH,
-         nt_lekon = LÊKON,
-         nt_simalur = SIMALUR)
+         nt_idn = INDONESIAN)
 
 
 
