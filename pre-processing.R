@@ -10,6 +10,7 @@ holle_index <- tibble(ID = c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$
                       ORDERS = factor(c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index),
                                       levels = c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index)))
 
+# generate the holle list gloss database across all versions =====
 holle_gloss <- holle_tb |> 
   select(Index, Dutch, English, Indonesian) |> 
   mutate(cats = "NBL") |> 
@@ -200,7 +201,7 @@ nias1905a_tb <- nias1905a_tb |>
   add_row(tibble_row(ID = "828", nt = "50", cats = "the Nias 1905 list")) |> 
   add_row(tibble_row(ID = "893", lx = "hambaé, kalimango", nt = "58",
                      ps = "Noun", de = "crab", dv = "kepiting", 
-                     cats = "the Nias 1905  list"))
+                     cats = "the Nias 1905 list"))
 
 setdiff(unique(nias1905note_tb$nt), unique(nias1905a_tb$nt[nias1905a_tb$nt != ""]))
 # note ID 31, 41, and 54 are not in the word list but appear in the NOTES!
@@ -232,7 +233,37 @@ nias1905main <- nias1905main |>
          nt_idn = INDONESIAN,
          nt_comment = NOTES,
          nt_pos = PART_OF_SPEECH,
-         nt_pc = IMAGE)
+         nt_pc = IMAGE) |> 
+  #### additional editing
+  mutate(lx = if_else(ID == "920" & str_detect(lx, "\\/mbanoea"),
+                      str_replace(lx, "\\/(?=mbanoe)", "'"),
+                      lx)) |> 
+  #### split forms separated by "/" into their own entries
+  mutate(lx = str_split(lx, "\\/")) |> 
+  unnest_longer(lx) |> 
+  mutate(lx = if_else(ID == "893" & str_detect(lx, ",") & nt_form == "hambae",
+                      str_replace(lx, "\\,\\skalimango$", ""),
+                      lx),
+         lx = if_else(ID == "893" & str_detect(lx, ",") & nt_form == "kali mango",
+                      str_replace(lx, "^.+?\\,\\s", ""),
+                      lx),
+         lx = if_else(ID == "893" & str_detect(lx, ",") & nt_eng == "lobster",
+                      str_replace(lx, "^.+?\\,\\s", ""),
+                      lx),
+         nt_form = replace(nt_form, ID == "304" & lx == "ama tiri",
+                           "ama tiri"),
+         nt_eng = replace(nt_eng, ID == "304" & lx == "ama tiri",
+                           "father"),
+         nt_idn = replace(nt_idn, ID == "304" & lx == "ama tiri",
+                          "ayah"),
+         nt_form = replace(nt_form, ID == "304" & lx == "ina tiri",
+                           "ina tiri"),
+         nt_eng = replace(nt_eng, ID == "304" & lx == "ina tiri",
+                          "mother"),
+         nt_idn = replace(nt_idn, ID == "304" & lx == "ina tiri",
+                          "ibu"),
+         nt_form = str_split(nt_form, "\\/")) |> 
+  unnest_longer(nt_form)
 
 
 
@@ -248,6 +279,8 @@ nias1911 <- map(nias1911files, read_lines) |>
 nias1911_notes <- files |> 
   str_subset("\\/NIAS_1911_NOTE") |> 
   read_xlsx() |> 
+  select(-ID) |> 
+  distinct() |> 
   rename(nt = `NOTE ID`) |> 
   mutate(nt = as.character(nt)) |> 
   mutate(across(where(is.character), ~replace_na(., "")))
@@ -898,15 +931,15 @@ mentawai_main <- mentawai_main |>
 semalurfiles_all <- files |> 
   str_subset("SEUMALUR")
 
-semalurfiles <- files |> 
+semalurfiles <- semalurfiles_all |> 
   str_subset("SEUMALUR") |> 
   str_subset("\\.txt$")
 
-semalur_xlsx <- files |> 
+semalur_xlsx <- semalurfiles_all |> 
   str_subset("SEUMALUR") |> 
   str_subset("Seumalur\\.xlsx$")
 
-semalur_notes_file <- files |> 
+semalur_notes_file <- semalurfiles_all |> 
   str_subset("SEUMALUR") |> 
   str_subset("SEUMALUR-notes.*\\.xlsx$")
 
@@ -1270,7 +1303,66 @@ txt2_df <- txt2 |>
          lx = str_replace_all(lx, "\\s\\<[^>]+?\\>", "")) |> 
   left_join(holle_gloss |> rename(ID = Index), by = join_by(ID)) |> 
   mutate(nt = replace_na(nt, ""))
-  
+##### processing page 7 =====
+txt3_df <- txt3 |> 
+  str_replace(".*SIGULEI AND SALANG.*\\n+", "") |> 
+  str_split("\\n") |> 
+  unlist() |> 
+  (\(x) x[nzchar(x)])() |> 
+  str_replace("a(?=\\s764\\.)", "å") |> 
+  str_replace("o(?=\\'\\s765\\.)", "ō") |> 
+  str_replace("(?<=\\s765\\.\\stali\\s).", "è") |> 
+  str_replace("(?<=709\\.\\s)(ana')t(ha)", "\\1\\2") |> 
+  str_replace("(?<=ramboetant)os'", "ō'") |> 
+  str_replace("(?<=780\\.\\s).+", "tèněp") |> 
+  str_replace("^718\\.", "716-718.") |> 
+  str_replace("^716\\-\\s", "") |> 
+  str_replace("(?<=784\\.\\smoeisung).", "ě") |> 
+  str_replace("^fee(?=\\.\\sdjeroeg)", "722") |> 
+  str_replace("(?<=788\\.\\soemoemb).", "ō") |> 
+  str_replace("^fe3\\.\\skop", "723. kopi") |> 
+  str_replace("(?<=^728\\.\\saf).", "ō") |> 
+  str_replace("^fe(?=\\.\\s)", "729") |> 
+  str_replace("\\((?=97\\.\\s)", "7") |> 
+  str_replace("^\\((?=31\\.\\s)", "7") |> 
+  str_replace("(\\s800_|\\s803\\/$|^739\\/\\s|^742\\-\\s)", "") |> 
+  str_replace("(?<=\\s)802(?=\\.)", "800-802") |> 
+  str_replace("(?<=\\s)804(?=\\.)", "803/804") |> 
+  str_replace("^740", "739/740") |> 
+  str_replace("(?<=\\s807\\.\\skoed).", "å") |> 
+  str_replace("(?<=\\s811\\.\\snaho).", "ē") |> 
+  str_replace("^744\\.\\s.+mbana\\'(?=\\s)", "742-744. lèmbana'") |> 
+  str_replace("(?<=\\s813\\.\\s).+", "maō'") |> 
+  str_replace("^\\:\\s(?=746\\.)", "") |> 
+  str_replace("(?<=^748\\.\\sbeb).", "è") |> 
+  str_replace("^\\(9", "75") |> 
+  str_replace("^foe", "752") |> 
+  str_replace("(?<=^753\\.\\sdafoe)d", "ō") |> 
+  str_replace("832", "833") |> 
+  str_replace("(?<=^754\\.\\soeloe)\\!", "'") |> 
+  str_replace("(?<=\\s83)h.+$", "4. keàkè") |> 
+  str_replace("^155", "755") |> 
+  str_replace("849\\.\\smanoe2", "842. manoe²") |> 
+  str_replace("b.n.(?=\\s843)", "bènè") |> 
+  str_replace("(?<=\\s843\\.\\s)m\\&onjo", "mǎnjò") |> 
+  str_replace("(?<=\\s844\\.\\smanoe)\\?", "²") |> 
+  str_replace("^\\|\\s(?=761)", "") |> 
+  str_replace("S46\\.\\sb.ngge$", "846. běnggè") |> 
+  str_split("\\s(?=[0-9])") |> 
+  unlist() |> 
+  (\(x) tibble(lx = x))() |> 
+  separate_wider_regex(lx, patterns = c(ID = "^[^\\s\\.]+?", "\\.\\s", lx = ".+")) |> 
+  mutate(nt = str_extract(lx, "\\<[0-9]+?\\>"),
+         lx = str_replace_all(lx, "\\s?\\<[^>]+?\\>", ""))|> 
+  left_join(holle_gloss |> rename(ID = Index), by = join_by(ID)) |> 
+  mutate(nt = replace_na(nt, ""))
+
+sigulesalang_missing_df <- bind_rows(txt1_df, txt2_df, txt3_df) |> 
+  mutate(nt = str_replace_all(nt, "[><]", "")) |> 
+  mutate(cats = "the Salang-Sigule list") |> 
+  select(-holle_match, -Dutch) |> 
+  rename(de = English,
+         dv = Indonesian)
 
 
 
@@ -1288,7 +1380,8 @@ sigulesalang_additional_data <- files |>
   rename(lx = `WORD/EXPRESSION`,
          de = ENGLISH,
          dv = INDONESIAN,
-         ps = PART_OF_SPEECH) |> 
+         ps = PART_OF_SPEECH,
+         nt_comment = NOTES) |> 
   mutate(ID = str_c("add_", row_number(), sep = ""))
 
 sigulesalang_notes <- files |> 
@@ -1428,47 +1521,35 @@ sigulesalang_a_tb <- sigulesalang_a_tb |>
   mutate(across(where(is.character), ~str_replace_all(., "^[^ ]+?\\s", ""))) |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
   ### remove the <...> in note ID
-  mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) |> 
+  mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) # |> 
   ### remove 122/123 as it does not exist in the original list
-  filter(ID != "122/123") |> 
+  # filter(ID != "122/123") |> 
   ### transferring note ID that appears in "lx" into "nt"
-  mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"),
-                      str_extract(lx, "(?<=\\<)[0-9]+(?=\\>)"),
-                      nt)) |>
-  mutate(lx = if_else(str_detect(lx, "\\<[0-9]+\\>"),
-                      str_replace_all(lx, "\\s\\<[0-9]+\\>", ""),
-                      lx))
+  # mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"),
+  #                     str_extract(lx, "(?<=\\<)[0-9]+(?=\\>)"),
+  #                     nt)) |>
+  # mutate(lx = if_else(str_detect(lx, "\\<[0-9]+\\>"),
+  #                     str_replace_all(lx, "\\s\\<[0-9]+\\>", ""),
+  #                     lx))
 
 ##### add note types/categories ====
 sigulesalang_a_tb <- sigulesalang_a_tb |> 
-  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 249", "the Salang-Sigule list"))
+  mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 249", "the Sigule-Salang list"))
+
+##### combine missing list with the present list ====
+sigulesalang_a_tb <- sigulesalang_a_tb |> 
+  bind_rows(sigulesalang_missing_df) |> 
+  mutate(across(where(is.character), ~replace_na(., "")))
 
 ###### check the missing note =====
 setdiff(unique(sigulesalang_notes$nt), unique(sigulesalang_a_tb$nt[sigulesalang_a_tb$nt != ""]))
-# [1]       "8"  "9"  "10" "11" "12"   "19" "21" "22" "23" "25" "26" "27" "28" "29" "30"
-#  word ID   541  555  824  854  877
+# [1] "38" <- missing because of typo; this belongs to ID 1395 but student typed in 39 for the note ID instead of 38
 
 setdiff(unique(sigulesalang_a_tb$nt[sigulesalang_a_tb$nt != ""]), unique(sigulesalang_notes$nt))
-# [1] "45" <- this is a mistake; needs to be removed
 
 # add the missing notes
 sigulesalang_a_tb <- sigulesalang_a_tb |> 
-  mutate(nt = replace(nt, ID == "541", "8"),
-         nt = replace(nt, ID == "555", "9"),
-         nt = replace(nt, ID == "824", "10"),
-         nt = replace(nt, ID == "854", "11"),
-         nt = replace(nt, ID == "877", "12"),
-         nt = replace(nt, ID == "1284", "19"),
-         nt = replace(nt, ID == "1294", "21"),
-         nt = replace(nt, ID == "1295", "22"),
-         nt = replace(nt, ID == "1296", "23"),
-         nt = replace(nt, ID == "1298", "25"),
-         nt = replace(nt, ID == "1299", "26"),
-         nt = replace(nt, ID == "1300", "27"),
-         nt = replace(nt, ID == "1301", "28"),
-         nt = replace(nt, ID == "1302", "29"),
-         nt = replace(nt, ID == "1303", "30")) |> 
-  filter(nt != "45")
+  mutate(nt = replace(nt, ID == "1395", "38"))
 
 ### COMBINE main table with the notes =====
 sigulesalang_main <- sigulesalang_a_tb |> 
@@ -1477,14 +1558,10 @@ sigulesalang_main <- sigulesalang_a_tb |>
 
 ### CHECK ID in the list with the main holle list =====
 setdiff(sigulesalang_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
-# [1] "1072/1074" "1026-2028" ""          "1080/1081" "1104/1104"
+
 ## fix the error
 sigulesalang_main <- sigulesalang_main |> 
-  filter(ID != "") |> 
-  mutate(ID = replace(ID, ID == "1072/1074", "1072-1074"),
-         ID = replace(ID, ID == "1026-2028", "1026-1028"),
-         ID = replace(ID, ID == "1080/1081", "1080-1081"),
-         ID = replace(ID, ID == "1104/1104", "1104/1105"))
+  filter(ID != "")
 setdiff(sigulesalang_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
 
 ### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
@@ -1496,6 +1573,12 @@ sigulesalang_main <- sigulesalang_main |>
          nt_eng = ENGLISH,
          nt_idn = INDONESIAN)
 
+#### Combine the Sigulei and Salang additional data into the main data ======
+sigulesalang_main <- sigulesalang_main |> 
+  bind_rows(sigulesalang_additional_data |> 
+              mutate(cats = "the Sigule-Salang list")) |> 
+  mutate(across(where(is.character), ~replace_na(., "")))
+
 
 
 
@@ -1503,6 +1586,7 @@ sigulesalang_main <- sigulesalang_main |>
 
 # COMBINE ALL REGIONAL LISTS to check their glosses and IDs with the main Holle list ======
 holle_region <- bind_rows(salangsigule_main, semalur_main, 
+                          sigulesalang_main,
                           nias1905main, 
                           nias1911main, 
                           mentawai_main) |> 
