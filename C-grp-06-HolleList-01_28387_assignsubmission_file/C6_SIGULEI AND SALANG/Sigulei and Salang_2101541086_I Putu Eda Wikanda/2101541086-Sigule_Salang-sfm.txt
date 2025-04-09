@@ -6,7 +6,7 @@
 \dv lusa
 \dt 15/Mar/2024
 
-\lx_skh e᷇lale᷇e᷇
+\lx_skh élaléé
 \ID_en 1408
 \ps Adverb
 \de now
@@ -214,7 +214,7 @@
 \dv di sana
 \dt 15/Mar/2024
 
-\lx_skh amba fache᷇
+\lx_skh amba faché
 \ID_en 1406
 \ps Noun
 \de year
@@ -235,7 +235,7 @@
 \dv kata ganti empunya orang ke III jamak
 \dt 14/Mar/2024
 
-\lx_skh afieu/afe᷇e᷇
+\lx_skh afieu/aféé
 \ID_en 1411
 \ps Adverb
 \de formerly

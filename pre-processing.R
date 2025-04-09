@@ -1,5 +1,6 @@
 library(tidyverse)
 library(readxl)
+library(stringi)
 
 # read the holle list database =====
 holle_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/data/digitised-holle-list-in-stokhof-1980.tsv")
@@ -174,8 +175,8 @@ nias1905a_tb <- nias1905a_tb |>
 nias1905a_tb <- nias1905a_tb |> 
   mutate(cats = if_else(str_detect(ID, "^15[0-9]{2}"), "no. 102", "the Nias 1905 list"))
 ##### split the comma (of multiple items in a cell) into separate rows ====
-nias1905a_tb <- nias1905a_tb |> 
-  separate_longer_delim(cols = lx, delim = ", ")
+# nias1905a_tb <- nias1905a_tb |> 
+#   separate_longer_delim(cols = lx, delim = ", ")
 
 ##### edit punctuation that is originally "-" but turned into "/" =====
 nias1905a_tb <- nias1905a_tb |> 
@@ -264,6 +265,57 @@ nias1905main <- nias1905main |>
                           "ibu"),
          nt_form = str_split(nt_form, "\\/")) |> 
   unnest_longer(nt_form)
+nias1905main |> 
+  mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
+  # filter(str_detect(lx, "\\,")) |>
+  # select(ID, lx,
+         # de, dv, 
+         # nt, nt_form, nt_eng, nt_idn, nt_comment) |>
+  separate_longer_delim(lx, ",") |> 
+  mutate(lx = str_trim(lx, "both")) |> 
+  mutate(remove = if_else(lx == "aloecha" & nt_form == "sola", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "abao" & nt_form == "sabao" & nt == "23", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "sabao" & nt_form == "abao" & nt == "23", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "raga-raga" & nt_form == "daga" & nt == "29", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("ésōlō") & nt_eng == "animal" & nt == "68", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("atabě") & nt_eng == "person" & nt == "68", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "daga" & nt_form == "raga-raga" & nt == "29", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "badoe" & nt_form == "mamadoe", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "mamadoe" & nt_form == "badoe", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "moroi ba" & str_detect(nt_form, "^awa.+") & nt_comment == "adverb", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "awai" & str_detect(nt_form, "^moro.+ba$") & str_detect(nt_comment, "^preposit.+"), TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "sola" & nt_form == "aloecha", TRUE, FALSE)) |> 
+  filter(!remove) |> 
+  mutate(nt_form = if_else(lx == "ama tiri",
+                           str_replace(nt_form, "\\;\\sina.+$", ""),
+                           nt_form),
+         nt_form = if_else(lx == "ina tiri",
+                          str_replace(nt_form, "^ama.+\\;\\s", ""),
+                          nt_form),
+         nt_eng = if_else(lx == "ama tiri",
+                           str_replace(nt_eng, "\\;\\smoth.+$", ""),
+                           nt_eng),
+         nt_eng = if_else(lx == "ina tiri",
+                          str_replace(nt_eng, "^fath.+\\;\\s", ""),
+                          nt_eng),
+         nt_idn = if_else(lx == "ama tiri",
+                          str_replace(nt_idn, "\\;\\s.+$", ""),
+                          nt_idn),
+         nt_idn = if_else(lx == "ina tiri",
+                          str_replace(nt_idn, "^.+\\;\\s", ""),
+                          nt_idn)) |> 
+  distinct()
 
 
 
@@ -431,6 +483,8 @@ nias1911main <- nias1911main |>
   rename(nt_form = `WORD/EXPRESSION`,
          nt_eng = `ENGLISH`,
          nt_pc = PICTURE)
+  #### handle/split multiple forms into their own entries
+  
 
 
 

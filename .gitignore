@@ -2,11 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+**/.DS_Store
+/C-grp-*/.DS_Store
 /C-grp-*/**/*.docx
 /C-grp-*/**/*.odt
 /C-grp-*/**/*.zip
 /C-grp-*/**/*.jpg
+/C-grp-*/**/*.DS_Store
 /D-grp-*/**/*.docx
 /D-grp-*/**/*.odt
+/D-grp-*/**/*.DS_Store
 /D-grp-*/**/*.zip
 /D-grp-*/**/*.jpg

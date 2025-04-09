@@ -37,14 +37,9 @@
 
 \lx_nia adōgōdōgō
 \ID_en 1065/1066
-\sn 1
 \ps Adjective
-\de short (things)
+\de short
 \dv pendek
-\sn 2
-\ps Adjective
-\de short (time)
-\dv singkat
 \dt 17/Mar/2024
 
 \lx_nia cho̠nia
@@ -186,14 +181,9 @@
 
 \lx_nia wa-īroegī
 \ID_en 1442/1443
-\sn 1
 \ps Preposition
-\de from-to (place)
-\dv dari-hingga (tempat)
-\sn 2
-\ps Preposition
-\de from-to (time)
-\dv dari-hingga (waktu)
+\de from-to
+\dv dari-hingga
 \dt 28/Apr/2024
 
 \lx_nia abacha
@@ -478,13 +468,8 @@
 
 \lx_nia ōwoelōhoelō
 \ID_en 1109/1110
-\sn 1
 \ps Adjective
-\de round (person)
-\dv bulat
-\sn 2
-\ps Adjective
-\de round (things)
+\de round
 \dv bulat
 \dt 27/Apr/2024
 
@@ -546,14 +531,9 @@
 
 \lx_nia arō
 \ID_en 1146/1147
-\sn 1
 \ps Adjective
 \de tightly bound
 \dv terikat
-\sn 2
-\ps Adjective
-\de tightly bound
-\dv kencang, erat
 \dt 27/Apr/2024
 
 \lx_nia mō ' ōrōna
@@ -835,14 +815,9 @@
 
 \lx_nia to̠ra, tōhoede
 \ID_en 1347/1348
-\sn 1
 \ps determiner
-\de more
-\dv lebih
-\sn 2
-\ps determiner
-\de most
-\dv paling
+\de more, most
+\dv lebih, paling
 \dt 27/Apr/2024
 
 \lx_nia amoei
@@ -1102,17 +1077,8 @@
 
 \lx_nia mangabōtō
 \ID_en 1253-1255
-\sn 1
 \ps Verb
-\de to break (a stick)
-\dv mematahkan (tongkat)
-\sn 2
-\ps Verb
-\de to break (a rope)
-\dv memutuskan (tali)
-\sn 3
-\ps Verb
-\de to shatter
+\de to break
 \dv memecahkan
 \dt 27/Apr/2024
 
@@ -1272,14 +1238,9 @@
 
 \lx_nia auchoe
 \ID_en 1104/1105
-\sn 1
 \ps Adjective
-\de warm (person)
-\dv hangat
-\sn 2
-\ps Adjective
-\de warm (things)
-\dv hangat
+\de hot
+\dv panas
 \dt 27/Apr/2024
 
 \lx_nia adōgōdōgō
@@ -1352,15 +1313,10 @@
 \dt 28/Apr/2024
 
 \lx_nia moehīahoe
-\ID_en 1236 - 1237
-\sn 1
+\ID_en 1236/1237
 \ps Verb
-\de to kiss
-\dv mengecup
-\sn 2
-\ps Verb
-\de to sniff
-\dv mengendus
+\de to kiss, to sniff
+\dv mengecup, mengendus
 \dt 27/Apr/2024
 
 \lx_nia doeawoeloe lima
@@ -1691,14 +1647,9 @@
 
 \lx_nia ōkafoe
 \ID_en 1106/1107
-\sn 1
 \ps Adjective
-\de Cold (Person)
-\dv Dingin
-\sn 2
-\ps Adjective
-\de Cold (thing)
-\dv Dingin
+\de cold
+\dv dingin
 \dt 27/Apr/2024
 
 \lx_nia manoenoe
@@ -1745,14 +1696,9 @@
 
 \lx_nia timba, menimba
 \ID_en 1041/1042
-\sn 1
 \ps Noun
-\de paddle
-\dv pengayuh
-\sn 2
-\ps Verb
-\de to paddle
-\dv mengayuh
+\de paddle, to paddle
+\dv pengayuh, mengayuh
 \dt 17/Mar/2024
 
 \lx_nia ataro

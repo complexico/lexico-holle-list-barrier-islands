@@ -545,7 +545,7 @@
 \dt 6/Apr/2024
 
 \lx_nia jaŵa
-\ID_en 1251
+\ID_en 1351
 \de whole
 \dv sama sekali
 \dt 15/Apr/2024
@@ -670,7 +670,7 @@
 \dt 19/Mar/2024
 
 \lx_nia afoesi
-\ID_en 1067
+\ID_en 1167
 \ps Adjective
 \de white
 \dv putih
@@ -1835,7 +1835,7 @@
 \dt 19/Mar/2024
 
 \lx_nia asi'asi
-\ID_en 1066
+\ID_en 1166
 \ps Adjective
 \de salty
 \dv asin

@@ -946,6 +946,7 @@
 \dt 15/Mar/2024
 
 \ID_en 1297
+\nt <24>
 \ps Pronoun
 \de five
 \dv lima
@@ -1510,6 +1511,7 @@
 \dt 15/Mar/2024
 
 \ID_en 1293
+\nt <20>
 \ps Pronoun
 \de one
 \dv satu
