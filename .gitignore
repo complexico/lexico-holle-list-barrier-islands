@@ -2,6 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+*.docx
+*.pdf
 **/.DS_Store
 /C-grp-*/.DS_Store
 /C-grp-*/**/*.docx

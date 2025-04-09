@@ -265,7 +265,9 @@ nias1905main <- nias1905main |>
                           "ibu"),
          nt_form = str_split(nt_form, "\\/")) |> 
   unnest_longer(nt_form)
-nias1905main |> 
+
+#### split forms separated by "," into their own entries
+nias1905main <- nias1905main |> 
   mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
   # filter(str_detect(lx, "\\,")) |>
   # select(ID, lx,
@@ -483,9 +485,71 @@ nias1911main <- nias1911main |>
   rename(nt_form = `WORD/EXPRESSION`,
          nt_eng = `ENGLISH`,
          nt_pc = PICTURE)
-  #### handle/split multiple forms into their own entries
+#### handle/split multiple forms into their own entries
+nias1911main <- nias1911main |> 
+  mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
+  # filter(str_detect(lx, "\\,")) |>
+  # select(ID, lx,
+  # de, dv, 
+  # nt, nt_form, nt_eng, nt_comment) |>
+  separate_longer_delim(lx, ",") |> 
+  mutate(lx = str_trim(lx, "both")) |> 
+  mutate(remove = if_else(lx == "aoeri" & nt == "13" & nt_form == "fa'aoeri",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "fa'aoeri" & nt == "13" & nt_form == "aoeri",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "baloese" & nt == "48" & nt_form == "dange",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "dange" & nt == "48" & nt_form == "baloese",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "tosake" & nt == "78" & nt_form == "aboto",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "aboto nowo" & nt == "78" & nt_form == "tosake",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "aefa" & nt == "82" & nt_form == "aboecho",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "aboecho" & nt == "82" & nt_form == "aefa",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(nt_form = if_else(lx == "aloecha" & nt == "76" & str_detect(nt_form, "^aloecha.+"),
+                           str_replace(nt_form, "\\,\\s.+$", ""),
+                           nt_form),
+         nt_eng = if_else(lx == "aloecha" & nt == "76" & str_detect(nt_form, "^aloecha"),
+                          str_replace(nt_eng, "\\,\\s.+$", ""),
+                          nt_eng),
+         nt_form = if_else(lx == "sola" & nt == "76" & str_detect(nt_form, "^aloecha.+"),
+                           str_replace(nt_form, "^.+\\s", ""),
+                           nt_form),
+         nt_eng = if_else(lx == "sola" & nt == "76" & str_detect(nt_form, "^sol.+"),
+                          str_replace(nt_eng, "^.+\\s", ""),
+                          nt_eng),
+         nt_comment = if_else(str_detect(nt_comment, "^\\(.+\\)$"),
+                              str_replace_all(nt_comment, "(^\\(|\\)$)", ""),
+                              nt_comment)) |> 
+  mutate(commasepnote = if_else(str_detect(nt_form, ","),
+                                TRUE,
+                                FALSE)) |> 
+  separate_longer_delim(cols = nt_form, ",") |> 
+  mutate(nt_form = str_trim(nt_form, "both")) |> 
+  mutate(nt_eng = if_else(nt_eng == "2 small kinds of ant",
+                          str_replace_all(nt_eng, "(^2 |s(?=\\sof\\sant$))", ""),
+                          nt_eng))
   
-
 
 
 
