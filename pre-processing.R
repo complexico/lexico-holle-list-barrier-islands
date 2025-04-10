@@ -34,7 +34,7 @@ holle_gloss <- holle_tb |>
 
 # list the file
 files <- dir(pattern = ".+\\.txt|xlsx", recursive = TRUE)
-files
+# files
 write_lines(files, "files_list.txt")
 
 # Nias 1905 ====
@@ -622,13 +622,13 @@ salangsigule_a_tb |>
 # <int> <int>
 #   1          1     1
 # 2          3     1
-# 3          5    12
-# 4          6   795
+# 3          5    10
+# 4          6   797
 # 5          7     8
 
 ### in which column "ID" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^ID", x = .))))
-# A tibble: 826 × 3
+# A tibble: 817 × 3
 # mc1                mc2       mc3
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(ID = if_else(str_detect(mc1, "^ID"), mc1, NA),
@@ -643,7 +643,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ### in which column "note" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^nt", x = .))))
-# A tibble: 956 × 2
+# A tibble: 817 × 2
 # mc2       mc3    
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(nt = if_else(str_detect(mc2, "^nt"), mc2, NA),
@@ -651,7 +651,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ### in which column "ps" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^ps", x = .))))
-# A tibble: 827 × 3
+# A tibble: 817 × 3
 # mc2       mc3     mc4 
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(ps = if_else(str_detect(mc2, "^ps"), mc2, NA),
@@ -660,7 +660,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ### in which column "de" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^de", x = .))))
-# # A tibble: 956 × 3
+# # A tibble: 817 × 3
 # mc3     mc4                  mc5   
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(de = if_else(str_detect(mc3, "^de"), mc3, NA),
@@ -669,7 +669,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
 
 ### in which column "dv" appear? =====
 salangsigule_a_tb |> select(where(~any(grepl("^dv", x = .))))
-# A tibble: 827 × 3
+# A tibble: 817 × 3
 # mc4                    mc5              mc6      
 salangsigule_a_tb <- salangsigule_a_tb |> 
   mutate(dv = if_else(str_detect(mc4, "^dv"), mc4, NA),
@@ -703,7 +703,7 @@ salangsigule_a_tb <- salangsigule_a_tb |>
   ### remove the <...> in note ID
   mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) |> 
   ### remove 122/123 as it does not exist in the original list
-  filter(ID != "122/123") |> 
+  filter(ID != "122/123") |>
   ### transferring note ID that appears in "lx" into "nt"
   mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"),
                       str_extract(lx, "(?<=\\<)[0-9]+(?=\\>)"),
@@ -722,7 +722,7 @@ setdiff(unique(salangsigule_notes$nt), unique(salangsigule_a_tb$nt[salangsigule_
 #  word ID   541  555  824  854  877
 
 setdiff(unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]), unique(salangsigule_notes$nt))
-# [1] "45" <- this is a mistake; needs to be removed
+# [1] "45" <- this is a mistake; needs to be removed; done: 45 no longer exists
 
 # add the missing notes
 salangsigule_a_tb <- salangsigule_a_tb |> 
@@ -771,6 +771,65 @@ salangsigule_main <- salangsigule_main |>
          nt_tapah = TAPAH,
          nt_lekon = LÊKON,
          nt_simalur = SIMALUR)
+
+#### handle/split multiple forms into their own entries
+salangsigule_main <-  salangsigule_main |> 
+  mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
+  # filter(str_detect(lx, "\\,")) |>
+  # select(ID, lx,
+  # de, dv,
+  # matches("^nt")) |>
+  separate_longer_delim(lx, ",") |> 
+  mutate(lx = str_trim(lx, "both")) |> 
+  
+  # filter(nt == "") |> # to be commented after finish
+  
+  mutate(remove = if_else(lx == stri_trans_nfc("matoe-a goe abêleu") & nt_form == stri_trans_nfc("matoe-a goe alélé"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("matoe-a goe alélé") & nt_form == stri_trans_nfc("matoe-a goe abeleû"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("indeu") & nt_form == stri_trans_nfc("êkoe"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("êkoe") & nt_form == stri_trans_nfc("indeu"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("boelêm aiteu") & nt_form == stri_trans_nfc("boelêm afoe-i"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfc("boelêm afoe-i") & nt_form == stri_trans_nfc("boelêm aiteu"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfd("boelêm afoe-i") & nt_form == stri_trans_nfc("boelêm aiteu"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfd("géló-ah") & nt_form == "liang",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "liang" & nt_form == stri_trans_nfc("géló-ah"),
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == "biloe" & nt_form == "nofoe",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  mutate(remove = if_else(lx == stri_trans_nfd("nófoe") & nt_form == "biloe",
+                          TRUE,
+                          FALSE)) |> 
+  filter(!remove) |> 
+  separate_longer_delim(nt_form, ",") |> 
+  mutate(nt_form = str_trim(nt_form, "both"))
 
 
 
