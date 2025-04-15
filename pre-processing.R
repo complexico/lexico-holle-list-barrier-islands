@@ -485,7 +485,7 @@ nias1911main <- nias1911main |>
   rename(nt_form = `WORD/EXPRESSION`,
          nt_eng = `ENGLISH`,
          nt_pc = PICTURE)
-#### handle/split multiple forms into their own entries
+#### handle/split multiple forms into their own entries =====
 nias1911main <- nias1911main |> 
   mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
   # filter(str_detect(lx, "\\,")) |>
@@ -772,7 +772,7 @@ salangsigule_main <- salangsigule_main |>
          nt_lekon = LÊKON,
          nt_simalur = SIMALUR)
 
-#### handle/split multiple forms into their own entries
+#### handle/split multiple forms into their own entries =====
 salangsigule_main <-  salangsigule_main |> 
   mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
   # filter(str_detect(lx, "\\,")) |>
@@ -1098,6 +1098,73 @@ mentawai_main <- mentawai_main |>
          nt_eng = ENGLISH,
          nt_idn = INDONESIAN,
          nt_pos = PART_OF_SPEECH)
+#### handle/split multiple forms into their own entries =====
+mentawai_main <- mentawai_main |> 
+  
+  mutate(lx = if_else(nt_form == "lalaplap" & nt == "44" & lx == "lalaplap, totoktok",
+                      str_replace(lx, "\\,\\stotoktok", ""),
+                      lx)) |> 
+  mutate(lx = if_else(nt_form == "totoktok" & nt == "44" & lx == "lalaplap, totoktok",
+                      str_replace(lx, "^lalap.+\\,\\s", ""),
+                      lx)) |> 
+  mutate(lx = if_else(nt_form == "silaloe" & nt == "29" & lx == "silaloe, sikalila",
+                      str_replace(lx, "\\,\\ssika.+", ""),
+                      lx)) |> 
+  mutate(lx = if_else(nt_form == "sikaila" & nt == "29" & lx == "silaloe, sikalila",
+                      str_replace(lx, "^silalo.+\\,\\s", ""),
+                      lx)) |> 
+  mutate(lx = if_else(nt_form == "manosa" & nt == "28" & lx == "manosa, sitoei",
+                      str_replace(lx, "\\,\\ssito.+", ""),
+                      lx)) |> 
+  mutate(lx = if_else(nt_form == "sitoei" & nt == "28" & lx == "manosa, sitoei",
+                      str_replace(lx, "^manos.+\\,\\s", ""),
+                      lx)) |> 
+  mutate(lx = if_else(ID == "1539" & str_detect(lx, "\\,\\spasi taptap"),
+                      str_replace(lx, "\\,(?=\\spasi\\staptap)", ";"),
+                      lx)) |> 
+  
+  mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE),
+         slashsep = if_else(str_detect(lx, "\\/"), TRUE, FALSE),
+         commasep_nt_form = if_else(str_detect(nt_form, "\\,"), TRUE, FALSE)) |> 
+  # filter(str_detect(lx, "\\,")) |>
+  select(ID, lx,
+         de, dv,
+         matches("^(nt|comma|slash)")) |> 
+  
+  separate_longer_delim(lx, ",") |> 
+  mutate(lx = str_trim(lx, "both")) |> 
+  
+  mutate(nt_form = if_else(ID == "1426" & nt == "59",
+                           str_replace(nt_form, "\\,", ";"),
+                           nt_form),
+         nt_eng = if_else(ID == "1426" & nt == "59",
+                           str_replace(nt_eng, "\\,", ";"),
+                           nt_eng)) |> 
+  
+  separate_longer_delim(nt_form, ",") |> 
+  mutate(nt_form = str_trim(nt_form, "both")) |> 
+  
+  mutate(nt_form = if_else(ID == "1426" & nt == "59",
+                           str_replace(nt_form, "\\;", ","),
+                           nt_form),
+         nt_eng = if_else(ID == "1426" & nt == "59",
+                          str_replace(nt_eng, "\\;", ","),
+                          nt_eng)) |> 
+  mutate(lx = if_else(ID %in% c("1539", "69"),
+                      str_replace(lx, "\\/", "OR"),
+                      lx)) |> 
+  
+  separate_longer_delim(lx, "/") |> 
+  mutate(lx = str_trim(lx, "both")) |> 
+  
+  mutate(lx = if_else(ID %in% c("1539", "69"),
+                      str_replace(lx, "OR", "/"),
+                      lx)) |> 
+  mutate(lx = if_else(ID == "1539" & str_detect(lx, "\\;\\spasi taptap"),
+                      str_replace(lx, "\\;(?=\\spasi\\staptap)", ","),
+                      lx)) # |> 
+  
+  # filter(slashsep) |> print(n=Inf) # to be commented after finish
 
 
 
