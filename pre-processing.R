@@ -169,7 +169,7 @@ nias1905a_tb <- nias1905a_tb |>
   mutate(nt = if_else(str_detect(lx, "\\<[0-9]+\\>"), str_extract(lx, "\\<[0-9]+\\>"), nt),
          lx = if_else(str_detect(lx, "\\<[0-9]+\\>"), str_replace(lx, "\\s+\\<[0-9]+\\>", ""), lx)) |> 
   ### remove the <...> in note ID
-  mutate(nt = str_replace_all(nt, "(\\<|\\>)", ""))
+  mutate(nt = str_replace_all(nt, "(\\<|\\(|\\)|\\>)", ""))
 
 ##### add note types/categories ====
 nias1905a_tb <- nias1905a_tb |> 
@@ -319,6 +319,14 @@ nias1905main <- nias1905main |>
                           nt_idn)) |> 
   distinct()
 
+### ADD EMPTY LX that has nt_form and save =====
+nias1905main <- nias1905main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx)) 
+nias1905main |> 
+  write_rds("output/nias1905_tb.rds")
+  # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1905_tb.rds")
 
 
 
@@ -549,6 +557,15 @@ nias1911main <- nias1911main |>
   mutate(nt_eng = if_else(nt_eng == "2 small kinds of ant",
                           str_replace_all(nt_eng, "(^2 |s(?=\\sof\\sant$))", ""),
                           nt_eng))
+
+### ADD empty lx with nt_form =====
+nias1911main <- nias1911main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx)) 
+nias1911main |> 
+  write_rds("output/nias1911_tb.rds")
+  # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1911_tb.rds")
   
 
 
@@ -830,7 +847,13 @@ salangsigule_main <-  salangsigule_main |>
   filter(!remove) |> 
   separate_longer_delim(nt_form, ",") |> 
   mutate(nt_form = str_trim(nt_form, "both"))
-
+### ADD empty lx with nt_form =====
+salangsigule_main <- salangsigule_main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx))
+salangsigule_main |> 
+  write_rds("output/salangsigule_tb.rds")
 
 
 
@@ -1165,7 +1188,13 @@ mentawai_main <- mentawai_main |>
                       lx)) # |> 
   
   # filter(slashsep) |> print(n=Inf) # to be commented after finish
-
+### ADD empty lx with nt_form =====
+mentawai_main <- mentawai_main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx))
+mentawai_main |> 
+  write_rds("output/mentawai_tb.rds")
 
 
 
@@ -1422,7 +1451,13 @@ semalur_main <- semalur_main |>
          nt_pc = IMAGE,
          nt_comment = REMARKS) |> 
   mutate(cats = "the Seumalur 1912 list")
-
+### ADD empty lx with nt_form =====
+semalur_main <- semalur_main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx))
+semalur_main |> 
+  write_rds("output/semalur_tb.rds")
 
 
 
@@ -1822,18 +1857,25 @@ sigulesalang_main <- sigulesalang_main |>
   bind_rows(sigulesalang_additional_data |> 
               mutate(cats = "the Sigule-Salang list")) |> 
   mutate(across(where(is.character), ~replace_na(., "")))
-
+### ADD empty lx with nt_form =====
+sigulesalang_main <- sigulesalang_main |> 
+  mutate(lx = if_else(lx == "" & nt_form != "",
+                      nt_form,
+                      lx))
+sigulesalang_main |> 
+  write_rds("output/sigulesalang_tb.rds")
 
 
 
 
 
 # COMBINE ALL REGIONAL LISTS to check their glosses and IDs with the main Holle list ======
-holle_region <- bind_rows(salangsigule_main, semalur_main, 
-                          sigulesalang_main,
-                          nias1905main, 
-                          nias1911main, 
-                          mentawai_main) |> 
+holle_region <- bind_rows(mutate(salangsigule_main, lang_name = "salangsigule"), 
+                          mutate(semalur_main, lang_name = "semalur"), 
+                          mutate(sigulesalang_main, lang_name = "sigulesalang"),
+                          mutate(nias1905main, lang_name = "nias1905"), 
+                          mutate(nias1911main, lang_name = "nias1911"), 
+                          mutate(mentawai_main, lang_name = "mentawai_nd")) |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
   mutate(holle_match = if_else(str_detect(ID, "add_"),
                                "",
@@ -1865,4 +1907,7 @@ holle_region_1 <- holle_region |>
   left_join(df_in_regional_list_but_not_in_main_list) |>
   mutate(de = if_else(!is.na(Index) & English != "", English, de), 
          dv = if_else(!is.na(Index) & Indonesian != "", Indonesian, dv))
+
+## save
+holle_region_1 |> write_rds("output/_holle_region.rds")
 
