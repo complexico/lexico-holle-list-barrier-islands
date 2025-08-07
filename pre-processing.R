@@ -35,7 +35,7 @@ holle_gloss <- holle_tb |>
 # list the file
 files <- dir(pattern = ".+\\.txt|xlsx", recursive = TRUE)
 # files
-write_lines(files, "files_list.txt")
+# write_lines(files, "files_list.txt")
 
 # Nias 1905 ====
 nias1905note <- files |> 
@@ -321,9 +321,9 @@ nias1905main <- nias1905main |>
 
 ### ADD EMPTY LX that has nt_form and save =====
 nias1905main <- nias1905main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx)) 
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx)) 
 nias1905main |> 
   write_rds("output/nias1905_tb.rds")
   # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1905_tb.rds")
@@ -464,11 +464,12 @@ setdiff(unique(nias1911_notes$nt), unique(nias1911a_tb$nt[nias1911a_tb$nt != ""]
 # [1] "111"
 
 setdiff(unique(nias1911a_tb$nt[nias1911a_tb$nt != ""]), unique(nias1911_notes$nt))
-# character(0) - all notes ID in the notes file appear in the notes ID in the word list
+# [1] "(111)"
 
 nias1911a_tb <- nias1911a_tb |> # fix the note (111)
   mutate(nt = replace(nt, nt == "(111)", "111"))
 setdiff(unique(nias1911_notes$nt), unique(nias1911a_tb$nt[nias1911a_tb$nt != ""]))
+# character(0)
 
 ### COMBINE main table with the notes =====
 nias1911main <- nias1911a_tb |> 
@@ -484,6 +485,7 @@ nias1911main <- nias1911main |>
   mutate(ID = replace(ID, ID == "1924", "1294"),
          ID = replace(ID, ID == "1080/1081", "1080-1081"))
 setdiff(nias1911main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# character(0)
 
 ### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
 nias1911main <- nias1911main |> 
@@ -560,9 +562,9 @@ nias1911main <- nias1911main |>
 
 ### ADD empty lx with nt_form =====
 nias1911main <- nias1911main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx)) 
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx)) 
 nias1911main |> 
   write_rds("output/nias1911_tb.rds")
   # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1911_tb.rds")
@@ -739,7 +741,7 @@ setdiff(unique(salangsigule_notes$nt), unique(salangsigule_a_tb$nt[salangsigule_
 #  word ID   541  555  824  854  877
 
 setdiff(unique(salangsigule_a_tb$nt[salangsigule_a_tb$nt != ""]), unique(salangsigule_notes$nt))
-# [1] "45" <- this is a mistake; needs to be removed; done: 45 no longer exists
+# [1] "45" <- this is a mistake; needs to be removed; done: 45 no longer exists -> character(0) as the output for this code line
 
 # add the missing notes
 salangsigule_a_tb <- salangsigule_a_tb |> 
@@ -776,6 +778,7 @@ salangsigule_main <- salangsigule_main |>
          ID = replace(ID, ID == "1080/1081", "1080-1081"),
          ID = replace(ID, ID == "1104/1104", "1104/1105"))
 setdiff(salangsigule_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# character(0)
 
 ### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
 salangsigule_main <- salangsigule_main |> 
@@ -849,9 +852,9 @@ salangsigule_main <-  salangsigule_main |>
   mutate(nt_form = str_trim(nt_form, "both"))
 ### ADD empty lx with nt_form =====
 salangsigule_main <- salangsigule_main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx))
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx))
 salangsigule_main |> 
   write_rds("output/salangsigule_tb.rds")
 
@@ -970,7 +973,7 @@ mentawai_still_duplicated_id <- mentawai_a |>
   sort() |> 
   rev() |> 
   (\(x) x[x>1])() 
-# ID_en 377_  <- this is OK as in the original; two occurrences of 377
+# ID_en 377_  <- this is OK as in the original; two occurrences of 377 with two different lexical entry forms
 # 2 
 # RUN THE CODE BELOW TO CHECK!:
 # mentawai_a |> str_subset("ID_en 377_")
@@ -1111,6 +1114,7 @@ mentawai_main <- mentawai_main |>
          ID = replace(ID, ID == "1080/1081", "1080-1081"),
          ID = replace(ID, ID == "1106/1007", "1106/1107"))
 setdiff(mentawai_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# [1] "add_1" "add_2" "add_3" "add_4"
 
 ### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
 mentawai_main <- mentawai_main |> 
@@ -1190,9 +1194,9 @@ mentawai_main <- mentawai_main |>
   # filter(slashsep) |> print(n=Inf) # to be commented after finish
 ### ADD empty lx with nt_form =====
 mentawai_main <- mentawai_main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx))
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx))
 mentawai_main |> 
   write_rds("output/mentawai_tb.rds")
 
@@ -1453,9 +1457,20 @@ semalur_main <- semalur_main |>
   mutate(cats = "the Seumalur 1912 list")
 ### ADD empty lx with nt_form =====
 semalur_main <- semalur_main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx))
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx))
+#### TO-DO: handle/split multiple forms into their own entries =====
+# semalur_main <-  semalur_main |> 
+#   mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
+#   # filter(str_detect(lx, "\\,")) |>
+#   # select(ID, lx,
+#   # de, dv,
+#   # matches("^nt")) |>
+#   separate_longer_delim(lx, ",") |> 
+#   mutate(lx = str_trim(lx, "both"))
+
+
 semalur_main |> 
   write_rds("output/semalur_tb.rds")
 
@@ -1679,7 +1694,7 @@ sigulesalang |>
   unlist() |> 
   unique() |> 
   (\(x) x[!is.na(x)])()
-# 1] "\\lx_skh" "\\ID_en"  "\\ps"     "\\de"     "\\dv"     "\\dt"     "\\nt"     "\\sn"
+# [1] "\\lx_skh" "\\ID_en"  "\\ps"     "\\de"     "\\dv"     "\\dt"     "\\nt"     "\\sn"
 
 sigulesalang[which(!nzchar(sigulesalang))] <- "<separator>"
 
@@ -1825,6 +1840,7 @@ setdiff(unique(sigulesalang_notes$nt), unique(sigulesalang_a_tb$nt[sigulesalang_
 # [1] "38" <- missing because of typo; this belongs to ID 1395 but student typed in 39 for the note ID instead of 38
 
 setdiff(unique(sigulesalang_a_tb$nt[sigulesalang_a_tb$nt != ""]), unique(sigulesalang_notes$nt))
+# character(0)
 
 # add the missing notes
 sigulesalang_a_tb <- sigulesalang_a_tb |> 
@@ -1837,11 +1853,13 @@ sigulesalang_main <- sigulesalang_a_tb |>
 
 ### CHECK ID in the list with the main holle list =====
 setdiff(sigulesalang_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# [1] ""
 
 ## fix the error
 sigulesalang_main <- sigulesalang_main |> 
   filter(ID != "")
 setdiff(sigulesalang_main$ID, c(holle_tb$Index, holle_1904_tb$Index, holle_1931_tb$Index))
+# character(0)
 
 ### COMBINE THE RE-ORDERING ID in the list with the main holle list =====
 sigulesalang_main <- sigulesalang_main |> 
@@ -1857,11 +1875,14 @@ sigulesalang_main <- sigulesalang_main |>
   bind_rows(sigulesalang_additional_data |> 
               mutate(cats = "the Sigule-Salang list")) |> 
   mutate(across(where(is.character), ~replace_na(., "")))
+
+### TO DO: split multiple forms in a lexical entry =====
+
 ### ADD empty lx with nt_form =====
 sigulesalang_main <- sigulesalang_main |> 
-  mutate(lx = if_else(lx == "" & nt_form != "",
-                      nt_form,
-                      lx))
+  mutate(lx_all = if_else(lx == "" & nt_form != "",
+                          nt_form,
+                          lx))
 sigulesalang_main |> 
   write_rds("output/sigulesalang_tb.rds")
 
