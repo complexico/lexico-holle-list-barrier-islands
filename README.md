@@ -8,7 +8,30 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 <a itemprop="sameAs" content="https://orcid.org/0000-0002-2819-6186" href="https://orcid.org/0000-0002-2819-6186" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
 <!-- badges: start -->
+
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-oxweb-logo.gif"
+width="84" alt="The University of Oxford" />](https://www.ox.ac.uk/)
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-lingphil.png"
+width="83"
+alt="Faculty of Linguistics, Philology and Phonetics, the University of Oxford" />](https://www.ling-phil.ox.ac.uk/)
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-ahrc.png"
+width="325" alt="Arts and Humanities Research Council (AHRC)" />](https://www.ukri.org/councils/ahrc/)
+</br>*This work is partly funded by the [AHRC
+research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) to build
+lexical resources for Enggano, led by the Faculty of Linguistics,
+Philology and Phonetics at the University of Oxford, UK. Visit the
+[central webpage of the Enggano
+project](https://enggano.ling-phil.ox.ac.uk/)*.
+
+[![Project Status: WIP – Initial development is in progress, but there
+has not yet been a stable, usable release suitable for the
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![](https://img.shields.io/badge/OSF-10.17605/OSF.IO/7TQG6-green.svg)](https://doi.org/10.17605/OSF.IO/7TQG6)
 <!-- badges: end -->
 
 ## How to cite
@@ -17,7 +40,11 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 
 ## Overview
 
-*forthcoming*
+This repository is part of the [Digitised Holle
+List](https://portal.sds.ox.ac.uk/projects/Digitised_Holle_List/259172)
+project (cf. [Rajeg et al. 2025](#ref-rajeg_data_2025) for the
+presentation of this project). It captures both the pedagogical and
+research-related goals of [*CompLexico*](https://github.com/complexico).
 
 ## Student contributors
 
@@ -38,3 +65,21 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 | Febry, Dewa Ayu | Mentawai (Pagai & Sipora) | All notes and additional data |  |
 
 … more to come
+
+## References
+
+<div id="refs" class="references csl-bib-body hanging-indent"
+entry-spacing="0">
+
+<div id="ref-rajeg_data_2025" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya, I Wayan Arka, Cokorda Rai Adi Pramartha &
+Engga Zakaria Sangian. 2025. The data science behind the curation of the
+Holle List: A case study from the Enggano Holle List and its
+neighbouring Barrier Islands Languages. Presentation. Faculty of
+Humanities, Udayana University: presentation.
+<https://doi.org/10.25446/oxford.29625407.v1>.
+
+</div>
+
+</div>
