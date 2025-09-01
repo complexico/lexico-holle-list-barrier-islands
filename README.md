@@ -36,11 +36,14 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 
 ## How to cite
 
-*forthcoming*
+> Rajeg, Gede Primahadi Wijaya & I Wayan Arka. 2025. Group Work in the
+> Lexicography Class for the Holle List of the Barrier Islands Languages
+> of Indonesia. GitHub. <https://doi.org/10.17605/OSF.IO/7TQG6>.
 
 ## Overview
 
-This repository is part of the [Digitised Holle
+This repository ([Rajeg & Arka 2025](#ref-rajeg_group_2025)) is part of
+the [Digitised Holle
 List](https://portal.sds.ox.ac.uk/projects/Digitised_Holle_List/259172)
 project (cf. [Rajeg et al. 2025](#ref-rajeg_data_2025) for the
 presentation of this project). It captures both the pedagogical and
@@ -67,13 +70,23 @@ research-related goals of [*CompLexico*](https://github.com/complexico).
 | Sanjaya, Made Shelpy Krismita | Seumalur | List on pages 93-95; Notes Number 31-52; Additional data on pages 110-112 |  |
 | Maheswari, Luh Pramitha | Seumalur | List on pages 99-102; Notes Number 70-111; Additional data on pages 116-118 |  |
 | Dewijayanthi, Nyoman Dinda Prapti | Seumalur | List on pages 90-92; Notes Number 1-30; Additional data on pages 107-109 |  |
-
-more to come …
+| Kadiman, Samuel Gabriel | Sigulei & Salang | List on pages 63-65; Notes Number 31-45; Additional data ID number 430-571 |  |
+| Kusuma, Arya Prawira | Sigulei & Salang | List on pages 60-62; Notes Number 1-10; Additional data ID number 1-143 |  |
+| Nugraha, Nicholas Putra | Sigulei & Salang | List on pages 66-68; Notes Number 11-20; Additional data ID number 287-429 |  |
+| Wikanda, I Putu Eda | Sigulei & Salang | List on pages 69-70; Notes Number 21-30; Additional data ID number 144-286 |  |
 
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
+
+<div id="ref-rajeg_group_2025" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya & I Wayan Arka. 2025. Group Work in the
+Lexicography Class for the Holle List of the Barrier Islands Languages
+of Indonesia. GitHub. <https://doi.org/10.17605/OSF.IO/7TQG6>.
+
+</div>
 
 <div id="ref-rajeg_data_2025" class="csl-entry">
 

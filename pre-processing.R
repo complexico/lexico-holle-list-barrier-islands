@@ -323,7 +323,10 @@ nias1905main <- nias1905main |>
 nias1905main <- nias1905main |> 
   mutate(lx_all = if_else(lx == "" & nt_form != "",
                           nt_form,
-                          lx)) 
+                          lx)) |> 
+  select(-lx) |> 
+  distinct()
+
 nias1905main |> 
   write_rds("output/nias1905_tb.rds")
   # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1905_tb.rds")
@@ -564,7 +567,10 @@ nias1911main <- nias1911main |>
 nias1911main <- nias1911main |> 
   mutate(lx_all = if_else(lx == "" & nt_form != "",
                           nt_form,
-                          lx)) 
+                          lx)) |> 
+  select(-lx) |> 
+  distinct()
+
 nias1911main |> 
   write_rds("output/nias1911_tb.rds")
   # write_rds("C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/barrier-island-Holle-list-2023-05-24/data-output/nias1911_tb.rds")
@@ -854,7 +860,10 @@ salangsigule_main <-  salangsigule_main |>
 salangsigule_main <- salangsigule_main |> 
   mutate(lx_all = if_else(lx == "" & nt_form != "",
                           nt_form,
-                          lx))
+                          lx)) |> 
+  select(-lx) |> 
+  distinct()
+
 salangsigule_main |> 
   write_rds("output/salangsigule_tb.rds")
 
@@ -1196,7 +1205,10 @@ mentawai_main <- mentawai_main |>
 mentawai_main <- mentawai_main |> 
   mutate(lx_all = if_else(lx == "" & nt_form != "",
                           nt_form,
-                          lx))
+                          lx)) |> 
+  select(-lx) |> 
+  distinct()
+
 mentawai_main |> 
   write_rds("output/mentawai_tb.rds")
 
@@ -1461,17 +1473,62 @@ semalur_main <- semalur_main |>
                           nt_form,
                           lx))
 #### TO-DO: handle/split multiple forms into their own entries =====
-# semalur_main <-  semalur_main |> 
-#   mutate(commasep = if_else(str_detect(lx, "\\,"), TRUE, FALSE)) |> 
-#   # filter(str_detect(lx, "\\,")) |>
-#   # select(ID, lx,
-#   # de, dv,
-#   # matches("^nt")) |>
-#   separate_longer_delim(lx, ",") |> 
-#   mutate(lx = str_trim(lx, "both"))
+semalur_main <-  semalur_main |>
+  mutate(commasep = if_else(str_detect(lx_all, "\\,"), TRUE, FALSE)) |>
+  # filter(str_detect(lx, "\\,")) |>
+  # select(ID, lx,
+  # de, dv,
+  # matches("^nt")) |>
+  mutate(lx_all = if_else(de == "sleeping mat" & nt_form == "tohol",
+                          str_replace_all(lx_all, ",.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "sleeping mat" & nt_form == "làlàp",
+                          str_replace_all(lx_all, "^tohol\\, ", ""),
+                          lx_all),
+         lx_all = if_else(de == "leech" & nt_form == "lintah",
+                          str_replace_all(lx_all, "\\,.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "leech" & nt_form != "lintah" & nt_eng == "large",
+                          str_replace_all(lx_all, "^lintah\\,\\s", ""),
+                          lx_all),
+         lx_all = if_else(de == "to pinch, to squeeze" & nt_eng == "to press",
+                          str_replace_all(lx_all, ",.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "to pinch, to squeeze" & nt_eng == "to pinch someone's arm",
+                          str_replace_all(lx_all, "^.+?itji\\, ", ""),
+                          lx_all),
+         lx_all = if_else(de == "copper" & nt_eng == "red",
+                          str_replace_all(lx_all, "\\s,\\s.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "copper" & nt_eng == "yellow",
+                          str_replace_all(lx_all, "^.+?\\,\\s", ""),
+                          lx_all),
+         lx_all = if_else(de == "bag or sack" & nt_eng == "leather",
+                          str_replace_all(lx_all, "\\,.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "bag or sack" & nt_eng == "woven material",
+                          str_replace_all(lx_all, "^.+?\\,\\s", ""),
+                          lx_all))
+semalur_add_keep <- semalur_main |> 
+  mutate(semalur_add_to_keep = if_else(str_detect(lx_all, "\\,") & ID %in% c("add_430", "add_431", "add_433", "add_434", "add_435", "add_436", "add_438"),
+                                       TRUE, FALSE)) |> 
+  filter(semalur_add_to_keep)
+semalur_main_interim <- semalur_main |> 
+  mutate(semalur_add_to_keep = if_else(str_detect(lx_all, "\\,") & ID %in% c("add_430", "add_431", "add_433", "add_434", "add_435", "add_436", "add_438"),
+                                       TRUE, FALSE)) |> 
+  filter(!semalur_add_to_keep)
 
+semalur_main_interim1 <- semalur_main_interim |> 
+  separate_longer_delim(cols = lx_all, delim = ",") |> 
+  mutate(lx_all = str_trim(lx_all, side = "both")) |> 
+  select(-lx) |> 
+  distinct()
 
-semalur_main |> 
+semalur_main2 <- bind_rows(semalur_main_interim1,
+                           semalur_add_keep |> select(-lx)) |> 
+  relocate(lx_all, .before = nt)
+
+semalur_main2 |> 
   write_rds("output/semalur_tb.rds")
 
 
@@ -1686,7 +1743,10 @@ sigulesalang_notes <- files |>
   mutate(nt = as.character(nt))
 sigulesalang_notes <- sigulesalang_notes |> 
   mutate(across(where(is.logical), ~as.character(.))) |> 
-  mutate(across(where(is.character), ~replace_na(., "")))
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(`WORD/EXPRESSION` = if_else(nt == "25",
+                                     str_replace(`WORD/EXPRESSION`, "\\ln\\.\\s", "ln, "),
+                                     `WORD/EXPRESSION`))
 
 ### check the marker present ====
 sigulesalang |> 
@@ -1876,14 +1936,66 @@ sigulesalang_main <- sigulesalang_main |>
               mutate(cats = "the Sigule-Salang list")) |> 
   mutate(across(where(is.character), ~replace_na(., "")))
 
-### TO DO: split multiple forms in a lexical entry =====
-
 ### ADD empty lx with nt_form =====
 sigulesalang_main <- sigulesalang_main |> 
   mutate(lx_all = if_else(lx == "" & nt_form != "",
                           nt_form,
                           lx))
-sigulesalang_main |> 
+
+### TO DO: split multiple forms in a lexical entry =====
+sigulesalang_main <-  sigulesalang_main |>
+  mutate(commasep = if_else(str_detect(lx_all, "\\,"), TRUE, FALSE)) |>
+  # filter(str_detect(lx, "\\,")) |>
+  # select(ID, lx,
+  # de, dv,
+  # matches("^nt")) |>
+  mutate(lx_all = if_else(de == "young" & nt_form == "afoejoe",
+                          str_replace_all(lx_all, ",.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "young" & str_detect(nt_form, "^nan.*binatang$"),
+                          str_replace_all(lx_all, "^.+?\\, ", ""),
+                          lx_all),
+         lx_all = if_else(de == "domesticated pig" & nt_form == "aelup",
+                          str_replace_all(lx_all, ",.+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "domesticated pig" & nt_form == "eundeu",
+                          str_replace_all(lx_all, "^.+?\\, ", ""),
+                          lx_all),
+         lx_all = if_else(de == "to pinch, to squeeze" & nt_form == "niohe",
+                          str_replace_all(lx_all, "\\, .+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "to pinch, to squeeze" & nt_form == "tafeu",
+                          str_replace_all(lx_all, "^.+?\\, ", ""),
+                          lx_all),
+         lx_all = if_else(de == "pike, lance, javelin" & nt_form == "toemba'",
+                          str_replace_all(lx_all, "\\, .+$", ""),
+                          lx_all),
+         lx_all = if_else(de == "pike, lance, javelin" & nt_form != "toemba'" & nt_eng == "lance",
+                          str_replace_all(lx_all, "^.+?\\, ", ""),
+                          lx_all))
+
+sigulesalang_add_keep <- sigulesalang_main |> 
+  mutate(sigulesalang_add_to_keep = if_else(str_detect(lx_all, "\\,") & ID %in% c("add_540", "add_541", "add_542", "add_543", "add_544", "add_548", "add_549", "add_553", "add_562", "add_564"),
+                                       TRUE, FALSE)) |> 
+  filter(sigulesalang_add_to_keep)
+sig_main_interim <- sigulesalang_main |> 
+  mutate(sigulesalang_add_to_keep = if_else(str_detect(lx_all, "\\,") & ID %in% c("add_540", "add_541", "add_542", "add_543", "add_544", "add_548", "add_549", "add_553", "add_562", "add_564"),
+                                       TRUE, FALSE)) |> 
+  filter(!sigulesalang_add_to_keep)
+
+sig_main_interim1 <- sig_main_interim |> 
+  separate_longer_delim(cols = lx_all, delim = ",") |> 
+  mutate(lx_all = str_trim(lx_all, side = "both")) |> 
+  select(-lx) |> 
+  distinct() |> 
+  separate_longer_delim(cols = lx_all, delim = ";") |> 
+  mutate(lx_all = str_trim(lx_all, side = "both"))
+
+sigulesalang_main2 <- bind_rows(sig_main_interim1,
+                                sigulesalang_add_keep |> select(-lx)) |> 
+  relocate(lx_all, .before = nt)
+
+sigulesalang_main2 |> 
   write_rds("output/sigulesalang_tb.rds")
 
 
