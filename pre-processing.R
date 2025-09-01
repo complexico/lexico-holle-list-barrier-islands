@@ -1942,7 +1942,7 @@ sigulesalang_main <- sigulesalang_main |>
                           nt_form,
                           lx))
 
-### TO DO: split multiple forms in a lexical entry =====
+### SPLIT multiple forms in a lexical entry =====
 sigulesalang_main <-  sigulesalang_main |>
   mutate(commasep = if_else(str_detect(lx_all, "\\,"), TRUE, FALSE)) |>
   # filter(str_detect(lx, "\\,")) |>
