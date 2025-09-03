@@ -1425,7 +1425,9 @@ semalur_a_tb <- semalur_a_tb |>
   mutate(across(where(is.character), ~str_replace_all(., "^[^ ]+?\\s", ""))) |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
   ### remove the <...> in note ID
-  mutate(nt = str_replace_all(nt, "(\\<|\\>)", ""))
+  mutate(nt = str_replace_all(nt, "(\\<|\\>)", "")) # |> 
+  ### edit error
+  
 
 ##### join the .sfm data and the .xlsx data, and the Additional data =====
 semalur_a_tb <- semalur_a_tb |> 
@@ -1526,7 +1528,21 @@ semalur_main_interim1 <- semalur_main_interim |>
 
 semalur_main2 <- bind_rows(semalur_main_interim1,
                            semalur_add_keep |> select(-lx)) |> 
-  relocate(lx_all, .before = nt)
+  relocate(lx_all, .before = nt) |> 
+  
+  # further editing
+  mutate(lx_all = replace(lx_all, ID == "4" & lx_all == "mata bango", "màta bàngo")) |> 
+  mutate(lx_all = replace(lx_all, ID == "8" & lx_all == "boe foel", "boe foei")) |> 
+  mutate(lx_all = replace(lx_all, ID == "62" & lx_all == "tall niferit", "tali niferit")) |> 
+  mutate(ID = replace(ID, lx_all == "apo" & ID == "76", "78")) |>
+  mutate(lx_all = replace(lx_all, lx_all == "bit'is" & ID == "85", "bìt'is")) |>
+  mutate(lx_all = replace(lx_all, lx_all == "isi doeloe" & ID == "93", "isí doeloe")) |>
+  mutate(lx_all = replace(lx_all, lx_all == "anak kou sitoh" & ID == "112", "anak kou sìtoh")) |> 
+  mutate(lx_all = replace(lx_all, lx_all == "bibi" & ID == "121", "bíbí")) |> 
+  mutate(lx_all = replace(lx_all, lx_all == "manginoem" & ID == "130", "mangínoem")) |> 
+  mutate(lx_all = replace(lx_all, ID == "150", "màta'oe mêlipèt kaoe")) |> 
+  mutate(lx_all = if_else(ID == "139/140", str_replace(lx_all, "nihi$", "níhi"), lx_all)) |> 
+  mutate(lx_all = if_else(ID == "152" & str_detect(lx_all, "^basel"), str_c(lx_all, "h", sep = ""), lx_all))
 
 semalur_main2 |> 
   write_rds("output/semalur_tb.rds")
@@ -2004,7 +2020,7 @@ sigulesalang_main2 |>
 
 # COMBINE ALL REGIONAL LISTS to check their glosses and IDs with the main Holle list ======
 holle_region <- bind_rows(mutate(salangsigule_main, lang_name = "salangsigule"), 
-                          mutate(semalur_main, lang_name = "semalur"), 
+                          mutate(semalur_main2, lang_name = "semalur"), 
                           mutate(sigulesalang_main, lang_name = "sigulesalang"),
                           mutate(nias1905main, lang_name = "nias1905"), 
                           mutate(nias1911main, lang_name = "nias1911"), 
@@ -2041,6 +2057,32 @@ holle_region_1 <- holle_region |>
   mutate(de = if_else(!is.na(Index) & English != "", English, de), 
          dv = if_else(!is.na(Index) & Indonesian != "", Indonesian, dv))
 
-## save
-holle_region_1 |> write_rds("output/_holle_region.rds")
+## re-organise column
+holle_region_2 <- holle_region_1 |> 
+  relocate(lx_all, .before = ps) |> 
+  relocate(nt, .after = cats) |> 
+  relocate(dt, .after = nt_idn) |> 
+  relocate(hm, .after = nt_idn) |> 
+  relocate(nt_idn, .after = nt_eng) |> 
+  relocate(nt_comment, .after = nt_idn) |> 
+  relocate(nt_pc, .after = nt_comment) |> 
+  relocate(nt_pos, .before = nt_comment) |> 
+  relocate(lang_name, .before = ID)
 
+# holle_region_2 |>
+#   mutate(lx_all_correct = "") |>
+#   mutate(ID_correct = "") |> 
+#   relocate(lx_all_correct, .after = lx_all) |>
+#   relocate(ID_correct, .after = ID) |>
+#   googlesheets4::write_sheet(ss = "https://docs.google.com/spreadsheets/d/1P-JontDvH4MjKZ4pdqxthjTovSajJLKX6y2rtpuO5sc",
+#                              sheet = "holle_region_1")
+
+hl <- googlesheets4::read_sheet(ss = "https://docs.google.com/spreadsheets/d/1P-JontDvH4MjKZ4pdqxthjTovSajJLKX6y2rtpuO5sc",
+                                sheet = "holle_region_1",
+                                col_types = "ccccccccccccccccccccclllclllccccccccc") |> 
+  mutate(across(where(is.character), ~replace_na(., "")))
+  
+## save
+holle_region_2 |> write_rds("output/_holle_region.rds")
+holle_region_2 |> write_csv2("output/_holle_region.csv")
+holle_region_2 |> write_tsv("output/_holle_region.tsv")
